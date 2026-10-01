@@ -19,6 +19,16 @@ def _pct_list(values):
     return vals, False
 
 
+def _add_acct(accts, v):
+    """RugCheck sometimes returns an account as a string, sometimes as an object."""
+    if isinstance(v, str) and v:
+        accts.add(v)
+    elif isinstance(v, dict):
+        for kk in ("pubkey", "address", "account"):
+            if isinstance(v.get(kk), str):
+                accts.add(v[kk])
+
+
 def solana_safety(token, pair_address=None):
     r = get_json(f"https://api.rugcheck.xyz/v1/tokens/{token}/report")
     if not r:
@@ -33,8 +43,7 @@ def solana_safety(token, pair_address=None):
     lp_locked_pair, lp_locked_max = None, None
     for m in r.get("markets") or []:
         for k in ("pubkey", "liquidityA", "liquidityB", "liquidityAAccount", "liquidityBAccount"):
-            if m.get(k):
-                lp_accounts.add(m[k])
+            _add_acct(lp_accounts, m.get(k))
         pct = (m.get("lp") or {}).get("lpLockedPct")
         if isinstance(pct, (int, float)):
             if pair_address and m.get("pubkey") == pair_address:
