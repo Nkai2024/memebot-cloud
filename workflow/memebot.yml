@@ -1,0 +1,49 @@
+name: MemeBot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # every 5 minutes (GitHub may delay runs by a few minutes)
+  workflow_dispatch:            # lets you press "Run workflow" by hand
+    inputs:
+      test:
+        description: "Send a Telegram test message first"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write               # needed to save state/seen.json between runs
+
+concurrency:
+  group: memebot
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan Solana + BSC and send alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MEMEBOT_TEST: ${{ github.event_name == 'workflow_dispatch' && inputs.test }}
+        run: python -m memebot.main
+
+      - name: Save memory of alerted coins
+        if: always()
+        run: |
+          git config user.name "memebot"
+          git config user.email "memebot@users.noreply.github.com"
+          git add state/seen.json || true
+          git diff --cached --quiet || git commit -m "state update [skip ci]"
+          git pull --rebase -X theirs || true
+          git push || true
