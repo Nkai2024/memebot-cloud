@@ -6,7 +6,7 @@ import os
 import sys
 import time
 
-from . import chart, safety, scorer, sources, state as st, telegram
+from . import chart, paper, safety, scorer, sources, state as st, telegram
 
 ROOT = os.path.dirname(os.path.dirname(__file__))
 
@@ -27,6 +27,13 @@ def run(cfg, dry_run=False):
         telegram.send("🤖 <b>MemeBot cloud is live</b>\nWatching: " + ", ".join(cfg["chains"]).upper()
                       + "\nProfiles: " + ", ".join(k for k, p in cfg["profiles"].items() if p.get("enabled"))
                       + "\nAlert-only · never trades.")
+
+    # Paper trading: check existing pretend positions against current prices first
+    paper_events = []
+    try:
+        paper_events += paper.update(state, cfg)
+    except Exception as ex:
+        print(f"[paper] update error: {ex}")
 
     profiles = {k: p for k, p in cfg["profiles"].items() if p.get("enabled")}
     alerts_sent, checked, rejected_safety = 0, 0, 0
@@ -62,7 +69,11 @@ def run(cfg, dry_run=False):
                 continue
             checked += 1
             # 2) safety gates
-            sf = safety.check(chain, s["token"], s["pair"])
+            try:
+                sf = safety.check(chain, s["token"], s["pair"])
+            except Exception as ex:  # one odd token must never crash the whole scan
+                print(f"  ! {s['symbol']} ({chain}) safety check error: {ex}")
+                continue
             fails = scorer.safety_gate(sf, cfg["safety"])
             if fails:
                 rejected_safety += 1
@@ -89,8 +100,26 @@ def run(cfg, dry_run=False):
             elif telegram.send(msg):
                 pass
             st.record_alert(state, key, s["mcap"], name, s["symbol"])
+            try:
+                paper_events += paper.on_alert(state, s, zone, name, prof, cfg)
+            except Exception as ex:
+                print(f"[paper] open error: {ex}")
             alerts_sent += 1
             print(f"  ✓ ALERT {s['symbol']} ({chain}) {name} score {sc}")
+
+    if paper_events:
+        msg = "📝 <b>Paper trades</b> (pretend money)\n" + "\n".join(paper_events)
+        print(msg)
+        if not dry_run:
+            telegram.send(msg)
+    try:
+        report = paper.summary(state, cfg, force=os.environ.get("MEMEBOT_REPORT", "").lower() in ("1", "true", "yes"))
+        if report:
+            print(report)
+            if not dry_run:
+                telegram.send(report)
+    except Exception as ex:
+        print(f"[paper] summary error: {ex}")
 
     state["last_run"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
     state["last_summary"] = {"checked": checked, "rejected_safety": rejected_safety, "alerts": alerts_sent}
