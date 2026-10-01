@@ -1,0 +1,95 @@
+{
+  "chains": [
+    "solana",
+    "bsc"
+  ],
+  "max_alerts_per_run": 5,
+  "realert_if_mcap_drops_below_pct_of_first": 70,
+  "realert_min_minutes": 60,
+  "forget_after_days": 7,
+  "min_score": 70,
+  "allowed_dexes": {
+    "solana": [
+      "pumpswap",
+      "raydium"
+    ],
+    "bsc": [
+      "pancakeswap",
+      "fourmeme"
+    ]
+  },
+  "profiles": {
+    "migrated": {
+      "enabled": true,
+      "label": "MIGRATED",
+      "age_minutes": [
+        0,
+        120
+      ],
+      "market_cap": [
+        40000,
+        1000000
+      ],
+      "liquidity_min": 15000,
+      "volume_h24_min": 70000,
+      "volume_m5_min": 0,
+      "vol_ratio_h1_m5_max": null,
+      "txns_h24_min": 0,
+      "require_dex_paid": true,
+      "require_socials": 1,
+      "chart_timeframe": "minute"
+    },
+    "swing_survivor": {
+      "enabled": true,
+      "label": "SWING",
+      "age_minutes": [
+        1440,
+        43200
+      ],
+      "market_cap": [
+        250000,
+        10000000
+      ],
+      "liquidity_min": 80000,
+      "liquidity_max": 400000,
+      "volume_h24_min": 150000,
+      "volume_m5_min": 0,
+      "vol_ratio_h1_m5_max": null,
+      "txns_h24_min": 300,
+      "require_dex_paid": true,
+      "require_socials": 1,
+      "chart_timeframe": "hour"
+    },
+    "fresh_aggressive": {
+      "enabled": false,
+      "label": "FRESH",
+      "age_minutes": [
+        0,
+        30
+      ],
+      "market_cap": [
+        20000,
+        1000000
+      ],
+      "liquidity_min": 8000,
+      "volume_h24_min": 0,
+      "volume_m5_min": 20000,
+      "vol_ratio_h1_m5_max": 4,
+      "txns_h24_min": 0,
+      "require_dex_paid": false,
+      "require_socials": 0,
+      "chart_timeframe": "minute"
+    }
+  },
+  "safety": {
+    "lp_locked_min_pct": 99,
+    "top10_max_pct": 30,
+    "top5_max_pct": 20,
+    "single_wallet_max_pct": 5,
+    "insiders_max_pct": 10,
+    "creator_max_pct": 5,
+    "max_buy_tax_pct": 10,
+    "max_sell_tax_pct": 10,
+    "fail_on_rugcheck_danger": true
+  }
+}
