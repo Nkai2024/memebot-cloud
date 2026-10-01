@@ -1,4 +1,4 @@
-name: MemeBot
+name: MemeBot   # schedule refresh
 
 on:
   schedule:
