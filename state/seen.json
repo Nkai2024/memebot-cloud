@@ -19,11 +19,11 @@
    "symbol": "SI"
   }
  },
- "last_run": "2026-10-01 15:15:10 UTC",
+ "last_run": "2026-10-01 15:23:49 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 4,
-  "rejected_safety": 2
+  "checked": 3,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [],
@@ -55,7 +55,7 @@
     "entry_mcap": 7456922,
     "entry_ts": 1790856320.985857,
     "id": "8026f900",
-    "last_mcap": 7595178,
+    "last_mcap": 7434876,
     "missing": 0,
     "peak_mcap": 7595178,
     "profile": "swing_survivor",
@@ -76,7 +76,8 @@
   "bsc:0x13920fe6467E9e3c852B8D365A036c995F0F7777": 1790855156.5325181,
   "bsc:0x2a2fb53609d9D6a392E5F09Fa2630a42c7297777": 1790867710.349761,
   "bsc:0x35985EB91A78Bf5110d32AF0DB8f1256d19e7777": 1790855160.4716306,
+  "bsc:0xB936CAb857514BB917431Cc8E2b7f1da5caA7777": 1790868229.6204326,
   "solana:GtV6g1ey2NERrcbvL5bdzrxRJQDfxpMaLU9oLtRipump": 1790867697.2792888
  },
- "runs": 3
+ "runs": 4
 }
