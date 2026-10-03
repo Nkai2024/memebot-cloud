@@ -226,11 +226,11 @@
    "symbol": "HER"
   },
   "solana:GAwhcphCqCv5bKHmCiN4VDdNWfbXJL4npmkc8L3Q9S9H": {
-   "count": 3,
+   "count": 4,
    "first_mcap": 1483904,
    "first_ts": 1791009787.3451803,
-   "last_mcap": 689103,
-   "last_ts": 1791043784.877251,
+   "last_mcap": 918535,
+   "last_ts": 1791054733.4497545,
    "profile": "swing_survivor",
    "symbol": "www"
   },
@@ -289,11 +289,11 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-03 16:10:02 UTC",
+ "last_run": "2026-10-03 19:12:30 UTC",
  "last_summary": {
   "alerts": 1,
-  "checked": 7,
-  "rejected_safety": 2
+  "checked": 4,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -1275,8 +1275,32 @@
     "zone_top": 296377.86411706294
    }
   ],
-  "last_summary_day": "2026-10-02",
+  "last_summary_day": "2026-10-03",
   "positions": {
+   "10039c84": {
+    "chain": "solana",
+    "created_ts": 1791054733.4497619,
+    "entry_mcap": 918535,
+    "entry_ts": 1791054733.4497619,
+    "expires_ts": 1791227533.4497619,
+    "id": "10039c84",
+    "last_mcap": 918535,
+    "missing": 0,
+    "peak_mcap": 918535,
+    "profile": "swing_survivor",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "ZONE",
+    "symbol": "www",
+    "tf": "hour",
+    "token": "GAwhcphCqCv5bKHmCiN4VDdNWfbXJL4npmkc8L3Q9S9H",
+    "tp_done": [],
+    "units": 1.0560294381814519e-05,
+    "units_left": 1.0560294381814519e-05,
+    "zone_bottom": 1748106.8169826544,
+    "zone_top": 3093557.8031275114
+   },
    "2d7b8eac": {
     "chain": "solana",
     "created_ts": 1791009800.1654472,
@@ -1303,9 +1327,9 @@
     "entry_mcap": 700726,
     "entry_ts": 1791029026.5884023,
     "id": "36e22c4b",
-    "last_mcap": 684635,
+    "last_mcap": 918535,
     "missing": 0,
-    "peak_mcap": 700726,
+    "peak_mcap": 918535,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -1324,7 +1348,7 @@
     "entry_mcap": 447588,
     "entry_ts": 1790966642.6300392,
     "id": "60f57469",
-    "last_mcap": 454612,
+    "last_mcap": 290474,
     "missing": 0,
     "peak_mcap": 495988,
     "profile": "swing_survivor",
@@ -1345,20 +1369,23 @@
     "entry_mcap": 2360492,
     "entry_ts": 1790990644.1979272,
     "id": "637f3936",
-    "last_mcap": 4030910,
+    "last_mcap": 12219956,
     "missing": 0,
-    "peak_mcap": 4030910,
+    "peak_mcap": 12219956,
     "profile": "swing_survivor",
-    "realized": 0.0,
+    "realized": 41.402780057462586,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Agency",
     "tf": "hour",
     "token": "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump",
-    "tp_done": [],
+    "tp_done": [
+     0,
+     1
+    ],
     "units": 4.109312804279785e-06,
-    "units_left": 4.109312804279785e-06
+    "units_left": 6.16396920641968e-07
    },
    "76d9d93a": {
     "chain": "solana",
@@ -1366,7 +1393,7 @@
     "entry_mcap": 752624,
     "entry_ts": 1791029020.5849557,
     "id": "76d9d93a",
-    "last_mcap": 1281380,
+    "last_mcap": 743291,
     "missing": 0,
     "peak_mcap": 1281380,
     "profile": "swing_survivor",
@@ -1388,11 +1415,11 @@
     "entry_ts": 1791009772.3641007,
     "expires_ts": 1791163444.1979272,
     "id": "92b814c5",
-    "last_mcap": 4030910,
+    "last_mcap": 12219956,
     "missing": 0,
-    "peak_mcap": 4030910,
+    "peak_mcap": 12219956,
     "profile": "swing_survivor",
-    "realized": 17.493949341657007,
+    "realized": 28.858378459644776,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
@@ -1400,10 +1427,11 @@
     "tf": "hour",
     "token": "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 6.391679482972434e-06,
-    "units_left": 1.9175038448917307e-06,
+    "units_left": 9.587519224458653e-07,
     "zone_bottom": 965522.1378839666,
     "zone_top": 1707657.6852780783
    },
@@ -1433,7 +1461,7 @@
     "entry_mcap": 1514937,
     "entry_ts": 1791009800.1654472,
     "id": "c170b3a3",
-    "last_mcap": 2714385,
+    "last_mcap": 2143003,
     "missing": 0,
     "peak_mcap": 2714385,
     "profile": "swing_survivor",
@@ -1455,7 +1483,7 @@
     "entry_ts": 1790990650.260789,
     "expires_ts": 1791163450.260789,
     "id": "cfb16707",
-    "last_mcap": 454612,
+    "last_mcap": 290474,
     "missing": 0,
     "peak_mcap": 495988,
     "profile": "swing_survivor",
@@ -1471,26 +1499,6 @@
     "units_left": 2.110889141325116e-05,
     "zone_bottom": 948984.2407280521,
     "zone_top": 1673563.602493235
-   },
-   "ec449748": {
-    "chain": "solana",
-    "created_ts": 1791043784.8772588,
-    "expires_ts": 1791216584.8772588,
-    "id": "ec449748",
-    "last_mcap": 689103,
-    "missing": 0,
-    "peak_mcap": 689103,
-    "profile": "swing_survivor",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "www",
-    "tf": "hour",
-    "token": "GAwhcphCqCv5bKHmCiN4VDdNWfbXJL4npmkc8L3Q9S9H",
-    "tp_done": [],
-    "zone_bottom": 1748115.1289976158,
-    "zone_top": 3093572.5125826164
    }
   }
  },
@@ -1508,5 +1516,5 @@
   "solana:GgdAua8qfnwFKZxKEnDqTcJz5jQ81NURPWBK1qDzpump": 1791043790.0569885,
   "solana:GtV6g1ey2NERrcbvL5bdzrxRJQDfxpMaLU9oLtRipump": 1790867697.2792888
  },
- "runs": 15
+ "runs": 16
 }
