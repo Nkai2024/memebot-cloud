@@ -216,6 +216,15 @@
    "profile": "swing_survivor",
    "symbol": "HUMPH"
   },
+  "solana:7k1S1H4VgTXafzgMJcVRUs3qBXPMKV6prytKe32apump": {
+   "count": 1,
+   "first_mcap": 71002,
+   "first_ts": 1792564515.7185588,
+   "last_mcap": 71002,
+   "last_ts": 1792564515.7185588,
+   "profile": "migrated",
+   "symbol": "Clout"
+  },
   "solana:8FrKxcvj3Hn4KATMwfAFkrEb146sHj2wtAtxU61npump": {
    "count": 1,
    "first_mcap": 473799,
@@ -586,11 +595,11 @@
    "symbol": "Dacity"
   }
  },
- "last_run": "2026-10-21 01:42:17 UTC",
+ "last_run": "2026-10-21 06:35:30 UTC",
  "last_summary": {
   "alerts": 1,
-  "checked": 6,
-  "rejected_safety": 3
+  "checked": 4,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -7288,6 +7297,31 @@
     "tp_done": [],
     "units": 1.968811588790358e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1792564488.551347,
+    "created_ts": 1792546920.8880122,
+    "entry_mcap": 754796,
+    "entry_ts": 1792546920.8880122,
+    "id": "effd3b57",
+    "last_mcap": 166323,
+    "missing": 0,
+    "peak_mcap": 754796,
+    "pnl": -7.926680709754689,
+    "pnl_pct": -79.26680709754689,
+    "profile": "migrated",
+    "realized": 2.073319290245311,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "KIMCHIBOSS",
+    "tf": "minute",
+    "token": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+    "tp_done": [],
+    "units": 1.285115448412551e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-10-20",
@@ -7299,7 +7333,7 @@
     "entry_ts": 1792438553.6412299,
     "expires_ts": 1792611353.6412299,
     "id": "1d8f2cd5",
-    "last_mcap": 2184836,
+    "last_mcap": 2158763,
     "missing": 0,
     "peak_mcap": 3154304,
     "profile": "swing_survivor",
@@ -7322,7 +7356,7 @@
     "entry_mcap": 5827747,
     "entry_ts": 1792438566.2166815,
     "id": "306bf334",
-    "last_mcap": 9405404,
+    "last_mcap": 9664238,
     "missing": 0,
     "peak_mcap": 10058166,
     "profile": "swing_survivor",
@@ -7337,25 +7371,26 @@
     "units": 1.6644511163576593e-06,
     "units_left": 1.6644511163576593e-06
    },
-   "7f104fc8": {
+   "53d0daf9": {
     "chain": "solana",
-    "created_ts": 1792546920.8880122,
-    "expires_ts": 1792554120.8880122,
-    "id": "7f104fc8",
-    "last_mcap": 754796,
+    "created_ts": 1792564515.7185652,
+    "entry_mcap": 71002,
+    "entry_ts": 1792564515.7185652,
+    "id": "53d0daf9",
+    "last_mcap": 71002,
     "missing": 0,
-    "peak_mcap": 754796,
+    "peak_mcap": 71002,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "KIMCHIBOSS",
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Clout",
     "tf": "minute",
-    "token": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+    "token": "7k1S1H4VgTXafzgMJcVRUs3qBXPMKV6prytKe32apump",
     "tp_done": [],
-    "zone_bottom": 293123.7335704503,
-    "zone_top": 451712.35297712614
+    "units": 0.00013661586997549364,
+    "units_left": 0.00013661586997549364
    },
    "99b8a34b": {
     "chain": "solana",
@@ -7364,7 +7399,7 @@
     "entry_ts": 1791645223.3886654,
     "expires_ts": 1791747880.6910067,
     "id": "99b8a34b",
-    "last_mcap": 601488,
+    "last_mcap": 590085,
     "missing": 0,
     "peak_mcap": 1342552,
     "profile": "swing_survivor",
@@ -7387,7 +7422,7 @@
     "entry_mcap": 3403205,
     "entry_ts": 1791509066.0758708,
     "id": "a4192a4c",
-    "last_mcap": 2755258,
+    "last_mcap": 2508928,
     "missing": 0,
     "peak_mcap": 4856834,
     "profile": "swing_survivor",
@@ -7409,7 +7444,7 @@
     "entry_ts": 1791509066.0758708,
     "expires_ts": 1791681866.0758708,
     "id": "a5a7da9b",
-    "last_mcap": 2755258,
+    "last_mcap": 2508928,
     "missing": 0,
     "peak_mcap": 4856834,
     "profile": "swing_survivor",
@@ -7446,13 +7481,33 @@
     "zone_bottom": 1722622.474597909,
     "zone_top": 3032575.068543152
    },
+   "d2a493bd": {
+    "chain": "solana",
+    "created_ts": 1792564515.7185652,
+    "expires_ts": 1792571715.7185652,
+    "id": "d2a493bd",
+    "last_mcap": 71002,
+    "missing": 0,
+    "peak_mcap": 71002,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Clout",
+    "tf": "minute",
+    "token": "7k1S1H4VgTXafzgMJcVRUs3qBXPMKV6prytKe32apump",
+    "tp_done": [],
+    "zone_bottom": 38556.67809302557,
+    "zone_top": 47342.22137776522
+   },
    "da738d53": {
     "chain": "solana",
     "created_ts": 1792201042.3470476,
     "entry_mcap": 3960572,
     "entry_ts": 1792201042.3470476,
     "id": "da738d53",
-    "last_mcap": 2184836,
+    "last_mcap": 2158763,
     "missing": 0,
     "peak_mcap": 4114196,
     "profile": "swing_survivor",
@@ -7473,7 +7528,7 @@
     "entry_mcap": 5132095,
     "entry_ts": 1792162160.6513882,
     "id": "de8eebdf",
-    "last_mcap": 3814073,
+    "last_mcap": 3732762,
     "missing": 0,
     "peak_mcap": 5735687,
     "profile": "swing_survivor",
@@ -7487,27 +7542,6 @@
     "tp_done": [],
     "units": 1.8900663374313997e-06,
     "units_left": 1.8900663374313997e-06
-   },
-   "effd3b57": {
-    "chain": "solana",
-    "created_ts": 1792546920.8880122,
-    "entry_mcap": 754796,
-    "entry_ts": 1792546920.8880122,
-    "id": "effd3b57",
-    "last_mcap": 754796,
-    "missing": 0,
-    "peak_mcap": 754796,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "KIMCHIBOSS",
-    "tf": "minute",
-    "token": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
-    "tp_done": [],
-    "units": 1.285115448412551e-05,
-    "units_left": 1.285115448412551e-05
    }
   }
  },
@@ -7530,7 +7564,7 @@
   "solana:CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo": 1792045800.2152526,
   "solana:De5V2NfBFpUqZor8wyQ88LH3uVNPBVuTBNe6TeRfpump": 1792546917.1563528,
   "solana:Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump": 1792081939.652642,
-  "solana:DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": 1792538296.6750317,
+  "solana:DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": 1792564517.3692002,
   "solana:DxVRhH3XiXAaCmDW5mayGhGovTUZZegrTZEApCZHpump": 1792546915.6563597,
   "solana:EnAtbbo1AZWmuXA5PH1Gn4UgGpiTzzmaGbJpLWgjpump": 1792028689.311327,
   "solana:GRDKxVqVJcuxeCojBnkGyKc3sHJ8smyFnMe1MG1bpump": 1792094412.9435875,
@@ -7543,5 +7577,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:vaJ2tXfvML8sFstrEYtza7tmJGvbmBAp8Dvx3Qxpump": 1792065513.585125
  },
- "runs": 110
+ "runs": 111
 }
