@@ -5,7 +5,7 @@ No wallet, no keys, no real money. Two strategies run side by side so you can co
   ZONE    - place a pretend limit order in the playbook entry zone (0.618-0.786); buy only if price
             pulls back into it before the order expires
 
-Prices are checked once per bot run (every 5-15 min), so spikes/dips between runs are missed.
+v2: prices are checked about once a minute (see loop.py). Spikes between checks can still be missed.
 Results are an approximation, not a guarantee."""
 import time
 import uuid
@@ -16,10 +16,12 @@ D = "$"  # dollar sign, kept separate so the file is easy to paste into web edit
 
 DEFAULTS = {
     "enabled": True,
+    "version": "v2",                # changing this archives old results and starts a clean book
     "size_usd": 10,                 # pretend amount per trade
     "buy_cost_pct": 3,              # fees + slippage on buy
     "sell_cost_pct": 3,             # fees + slippage on sell
-    "stop_loss_pct": 50,            # playbook: -50%
+    "stop_loss_pct": {"minute": 50, "hour": 30},  # playbook: -50% fresh coins, 25-30% swing
+    "breakeven_after_gain_pct": 50, # once up +50% (before TP1), stop moves to entry
     # [gain %, % of REMAINING position to sell]. 100 = 2x, 400 = 5x, 900 = 10x
     "take_profits": [[100, 70], [400, 50], [900, 100]],
     "moonbag_stop_at_entry": True,  # after TP1, sell the rest if price falls back to entry
@@ -38,8 +40,22 @@ def settings(cfg):
     return out
 
 
-def _book(state):
-    return state.setdefault("paper", {"positions": {}, "closed": [], "last_summary_day": ""})
+def _book(state, version=None):
+    book = state.setdefault("paper", {"positions": {}, "closed": [], "last_summary_day": ""})
+    if version and book.get("version", "v1") != version:
+        # New strategy version: keep old results for comparison, start a clean book
+        old = book.get("version", "v1")
+        state.setdefault("paper_archive", {})[old] = {
+            "closed": book.get("closed", []), "dropped_open": list(book.get("positions", {}).values()),
+            "archived_ts": time.time(), "stats": stats(book.get("closed", []))}
+        book = state["paper"] = {"positions": {}, "closed": [], "last_summary_day": "",
+                                 "version": version, "started_ts": time.time()}
+    return book
+
+
+def _stop_pct(pc, tf):
+    v = pc["stop_loss_pct"]
+    return v.get(tf, 50) if isinstance(v, dict) else v
 
 
 def _money(v):
@@ -53,18 +69,19 @@ def _mc(v):
 
 
 # ---------------------------------------------------------------- opening
-def on_alert(state, s, zone, profile_name, prof, cfg, now=None):
+def on_alert(state, s, zone, profile_name, prof, cfg, now=None, features=None):
     """Called for every Telegram alert. Opens an INSTANT position and (if a zone exists) a ZONE order."""
     pc = settings(cfg)
     if not pc["enabled"] or not s.get("mcap"):
         return []
     now = now or time.time()
-    book = _book(state)
+    book = _book(state, pc["version"])
     tf = prof.get("chart_timeframe", "minute")
     events = []
     base = {"chain": s["chain"], "token": s["token"], "symbol": s["symbol"], "profile": profile_name,
             "tf": tf, "created_ts": now, "size": pc["size_usd"], "realized": 0.0, "tp_done": [],
-            "missing": 0, "last_mcap": s["mcap"], "peak_mcap": s["mcap"]}
+            "missing": 0, "last_mcap": s["mcap"], "peak_mcap": s["mcap"],
+            "features": features or {}}
     # Avoid duplicates: one open/pending position per token per strategy
     active = {(p["token"], p["strategy"]) for p in book["positions"].values()}
 
@@ -89,7 +106,7 @@ def on_alert(state, s, zone, profile_name, prof, cfg, now=None):
 
 
 def _fill(p, mcap, now, pc):
-    p.update(status="open", entry_ts=now, entry_mcap=mcap,
+    p.update(status="open", entry_ts=now, entry_mcap=mcap, peak_mcap=mcap,  # peak counts from the fill
              units=p["size"] * (1 - pc["buy_cost_pct"] / 100) / mcap)
     p["units_left"] = p["units"]
     return p
@@ -116,7 +133,7 @@ def _close(book, pid, reason, now):
 def update(state, cfg, now=None):
     """Check every pending/open paper position against the current price. Returns event lines."""
     pc = settings(cfg)
-    book = _book(state)
+    book = _book(state, pc["version"])
     if not pc["enabled"] or not book["positions"]:
         return []
     now = now or time.time()
@@ -170,9 +187,16 @@ def update(state, cfg, now=None):
             p["units_left"] = 0  # liquidity gone - cannot sell
             events.append(_close_line(_close(book, pid, "RUGGED (liquidity pulled)", now)))
             continue
-        if not p["tp_done"] and mult <= 1 - pc["stop_loss_pct"] / 100:
+        sl = _stop_pct(pc, p["tf"])
+        if not p["tp_done"] and mult <= 1 - sl / 100:
             _sell(p, 1.0, mcap, pc)
-            events.append(_close_line(_close(book, pid, f"stop loss -{pc['stop_loss_pct']}%", now)))
+            events.append(_close_line(_close(book, pid, f"stop loss -{sl}%", now)))
+            continue
+        be = pc.get("breakeven_after_gain_pct")
+        if (be and not p["tp_done"] and p["peak_mcap"] / p["entry_mcap"] >= 1 + be / 100
+                and mult <= 1.0):
+            _sell(p, 1.0, mcap, pc)
+            events.append(_close_line(_close(book, pid, f"breakeven stop (was up {be}%+)", now)))
             continue
         for i, (gain, pct) in enumerate(pc["take_profits"]):
             if i not in p["tp_done"] and mult >= 1 + gain / 100:
@@ -219,7 +243,7 @@ def summary(state, cfg, now=None, force=False):
     pc = settings(cfg)
     if not pc["enabled"]:
         return None
-    book = _book(state)
+    book = _book(state, pc["version"])
     now = now or time.time()
     day = time.strftime("%Y-%m-%d", time.gmtime(now))
     hour = time.gmtime(now).tm_hour
@@ -227,7 +251,7 @@ def summary(state, cfg, now=None, force=False):
         return None
     book["last_summary_day"] = day
 
-    lines = [f"📊 <b>Paper trading report</b> — {day}", f"Pretend size {_money(pc['size_usd'])} per trade, "
+    lines = [f"📊 <b>Paper trading report</b> ({pc['version']}) — {day}", f"Pretend size {_money(pc['size_usd'])} per trade, "
              f"fees+slippage {pc['buy_cost_pct']}%+{pc['sell_cost_pct']}%"]
     for strat in ("INSTANT", "ZONE"):
         closed = [c for c in book["closed"] if c["strategy"] == strat]
@@ -242,6 +266,18 @@ def summary(state, cfg, now=None, force=False):
         lines.append(f"  All time: {st_all['n']} trades · win {st_all['win_rate']:.0f}% · "
                      f"P/L {_money(st_all['pnl'])} ({st_all['roi']:+.0f}% on money staked)")
         lines.append(f"  Best {st_all['best']} · Worst {st_all['worst']} · Rugs {st_all['rugs']}")
+    by_prof = {}
+    for c in book["closed"]:
+        by_prof.setdefault(c["profile"], []).append(c)
+    if by_prof:
+        lines.append("\n<b>By profile</b>")
+        for name, cl in sorted(by_prof.items()):
+            st_p = stats(cl)
+            lines.append(f"  {name}: {st_p['n']} trades · win {st_p['win_rate']:.0f}% · {st_p['roi']:+.0f}%")
+    for ver, arch in sorted((state.get("paper_archive") or {}).items()):
+        if arch.get("stats"):
+            a = arch["stats"]
+            lines.append(f"<i>Baseline {ver}: {a['n']} trades · win {a['win_rate']:.0f}% · {a['roi']:+.0f}%</i>")
     open_pos = [p for p in book["positions"].values() if p["status"] == "open"]
     pending = [p for p in book["positions"].values() if p["status"] == "pending"]
     if open_pos:
@@ -250,5 +286,5 @@ def summary(state, cfg, now=None, force=False):
             mult = (p["last_mcap"] / p["entry_mcap"]) if p.get("entry_mcap") else 0
             lines.append(f"  {D}{p['symbol']} ({p['strategy']}) {(mult - 1) * 100:+.0f}% now")
     lines.append(f"\nPending zone orders: {len(pending)}")
-    lines.append("<i>Pretend money only. Prices checked every 5–15 min, so results are approximate.</i>")
+    lines.append("<i>Pretend money only. Prices checked about every minute, so results are approximate.</i>")
     return "\n".join(lines)
