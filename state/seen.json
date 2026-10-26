@@ -739,7 +739,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 16:33:48 UTC",
+ "last_run": "2026-10-26 16:43:47 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -1781,7 +1781,7 @@
      "vol_m5": 10287.01
     },
     "id": "1b7d45e5",
-    "last_mcap": 765388,
+    "last_mcap": 760268,
     "missing": 0,
     "peak_mcap": 929741,
     "profile": "migrated",
@@ -1940,7 +1940,7 @@
      "vol_m5": 37546.2
     },
     "id": "c7383e31",
-    "last_mcap": 234017,
+    "last_mcap": 223463,
     "missing": 0,
     "peak_mcap": 312957,
     "profile": "migrated",
@@ -1993,7 +1993,7 @@
      "vol_m5": 212638.27
     },
     "id": "ccddcfcf",
-    "last_mcap": 2443284,
+    "last_mcap": 2386862,
     "missing": 0,
     "peak_mcap": 3309116,
     "profile": "migrated",
@@ -2009,58 +2009,6 @@
     ],
     "units": 1.1235916010948647e-05,
     "units_left": 3.370774803284594e-06
-   },
-   "fc0bc565": {
-    "chain": "solana",
-    "created_ts": 1793029410.9220252,
-    "expires_ts": 1793036610.9220252,
-    "features": {
-     "age_min": 13.27222021818161,
-     "boosts": 0,
-     "buys_h1": 1576,
-     "buys_h24": 1576,
-     "buys_m5": 181,
-     "change_h1": 265,
-     "change_h24": 265,
-     "change_h6": 265,
-     "change_m5": 39.87,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.20651238818046275,
-     "insiders": 0,
-     "liquidity": 32428.95,
-     "lp_locked_pct": 100,
-     "mcap": 157110,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.07134539828308054,
-     "score": 74,
-     "sells_h1": 790,
-     "sells_h24": 790,
-     "sells_m5": 168,
-     "top1": 0.7720983167299376,
-     "top10": 7.381873571671847,
-     "top5": 3.79279234551231,
-     "txns_h24": 2366,
-     "vol_h1": 151430.22,
-     "vol_h24": 151430.22,
-     "vol_m5": 18267.12
-    },
-    "id": "fc0bc565",
-    "last_mcap": 157110,
-    "missing": 0,
-    "peak_mcap": 157110,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "Ginnan",
-    "tf": "minute",
-    "token": "EEF4au54pLjPmCWbXJPomtkpkDh3fNd6eRGrKyyfpump",
-    "tp_done": [],
-    "zone_bottom": 69020.99631088618,
-    "zone_top": 89728.83557228242
    }
   },
   "started_ts": 1793014927.9447827,
@@ -10778,6 +10726,7 @@
   "solana:4wYiX21uJQj5MUPVDAHeVAbqCaEYVisEkHpWcKpApump": 1793026648.3075283,
   "solana:5QLhJag4UGsLod7H2Ci9HmgtMprgvG574Bv93v1NhDvq": 1793026049.4187796,
   "solana:7jz5odotkTt3UUjFyHemTDPQMqzgX3YjMamM3Zx3pump": 1792460606.8998172,
+  "solana:8WXp8KJRLSSQChp8URbq8xtbnp3w73A21F8cgRDTpump": 1793032717.2497547,
   "solana:8cFU1FJHVZQAricMRXPE5wa3zg6GvdG52mcutMMBpump": 1792989651.3635104,
   "solana:8rLSJYqyTXnepx1vSZn1eMYxi1h6ZVDUoUpNvhxbpump": 1792690165.3174021,
   "solana:8yxCjef6QBoKjQZetwB9gY3j5nC4gT9kTa4cLsbk47xe": 1792919944.5163953,
@@ -10801,5 +10750,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 203
+ "runs": 205
 }
