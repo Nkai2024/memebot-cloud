@@ -297,15 +297,6 @@
    "profile": "swing_survivor",
    "symbol": "Pepper"
   },
-  "solana:9hWsUj7Q5JUjHKqeuiGPA3GExm26ETqeSPKTSP2Qpump": {
-   "count": 1,
-   "first_mcap": 99956,
-   "first_ts": 1792418116.1792839,
-   "last_mcap": 99956,
-   "last_ts": 1792418116.1792839,
-   "profile": "migrated",
-   "symbol": "\uae40\uc815\uc740"
-  },
   "solana:9qyUWAY2LsccnYxNh5UCF8pybsbjru7nZLP59SMfpump": {
    "count": 1,
    "first_mcap": 150029,
@@ -658,7 +649,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 13:47:32 UTC",
+ "last_run": "2026-10-26 13:58:15 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9749,5 +9740,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 170
+ "runs": 172
 }
