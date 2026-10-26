@@ -730,10 +730,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 15:58:47 UTC",
+ "last_run": "2026-10-26 16:08:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -1646,20 +1646,22 @@
      "vol_m5": 10287.01
     },
     "id": "1b7d45e5",
-    "last_mcap": 494619,
+    "last_mcap": 643121,
     "missing": 0,
-    "peak_mcap": 494619,
+    "peak_mcap": 767687,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.428649499067832,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Fartcoin",
     "tf": "minute",
     "token": "42nvgmxdtEyHLD1qJUeTyexenLpCGoZsLfQPQnsdpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 2.7483269205705184e-05,
-    "units_left": 2.7483269205705184e-05
+    "units_left": 8.244980761711557e-06
    },
    "3a62ae85": {
     "chain": "solana",
@@ -1751,20 +1753,22 @@
      "vol_m5": 18267.12
     },
     "id": "5eb6ada3",
-    "last_mcap": 222148,
+    "last_mcap": 223673,
     "missing": 0,
-    "peak_mcap": 256011,
+    "peak_mcap": 351867,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.75082185793393,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Ginnan",
     "tf": "minute",
     "token": "EEF4au54pLjPmCWbXJPomtkpkDh3fNd6eRGrKyyfpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 6.17401820380625e-05,
-    "units_left": 6.17401820380625e-05
+    "units_left": 1.852205461141875e-05
    },
    "903f76b1": {
     "chain": "solana",
@@ -1856,7 +1860,7 @@
      "vol_m5": 82886.28
     },
     "id": "9053cb62",
-    "last_mcap": 292761,
+    "last_mcap": 250583,
     "missing": 0,
     "peak_mcap": 330942,
     "profile": "migrated",
@@ -1911,7 +1915,7 @@
      "vol_m5": 212638.27
     },
     "id": "ccddcfcf",
-    "last_mcap": 2084265,
+    "last_mcap": 2028631,
     "missing": 0,
     "peak_mcap": 3309116,
     "profile": "migrated",
@@ -10718,5 +10722,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 196
+ "runs": 198
 }
