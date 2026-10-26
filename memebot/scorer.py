@@ -32,6 +32,31 @@ def market_gate(s, prof, allowed_dexes):
         fails.append("DEX not paid")
     if s["n_socials"] < prof.get("require_socials", 0):
         fails.append("no socials")
+    fails += momentum_gate(s, prof.get("momentum") or {})
+    return fails
+
+
+def _ratio(buys, sells):
+    return buys / sells if sells else (99.0 if buys else None)
+
+
+def momentum_gate(s, m):
+    """v2: only buy coins that are still rising with more buyers than sellers.
+    Every rule is optional; a missing number fails (we never assume the coin is fine)."""
+    fails = []
+    for field, key in (("change_m5", "min_change_m5"), ("change_h1", "min_change_h1"),
+                       ("change_h6", "min_change_h6"), ("change_h24", "min_change_h24")):
+        if m.get(key) is not None and (s.get(field) is None or s[field] < m[key]):
+            fails.append(f"{field} {s.get(field)} < {m[key]}")
+    if m.get("max_change_h24") is not None and (s.get("change_h24") is None
+                                               or s["change_h24"] > m["max_change_h24"]):
+        fails.append(f"change_h24 {s.get('change_h24')} > {m['max_change_h24']} (already ran)")
+    for win in ("m5", "h1", "h24"):
+        key = f"min_buy_sell_ratio_{win}"
+        if m.get(key) is not None:
+            r = _ratio(s.get(f"buys_{win}", 0), s.get(f"sells_{win}", 0))
+            if r is None or r < m[key]:
+                fails.append(f"buy/sell {win} {r if r is None else round(r, 2)} < {m[key]}")
     return fails
 
 
