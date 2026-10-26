@@ -2,13 +2,18 @@ name: MemeBot   # schedule refresh
 
 on:
   schedule:
-    - cron: "*/5 * * * *"      # every 5 minutes (GitHub may delay runs by a few minutes)
+    # GitHub fires schedules late and rarely (about every 4h in Oct 2026), so each job now runs
+    # for ~5.5 hours by itself (memebot/loop.py). Hourly cron + the queue below keeps one job alive.
+    - cron: "17 * * * *"
   workflow_dispatch:            # lets you press "Run workflow" by hand
     inputs:
       test:
         description: "Send a Telegram test message first"
         type: boolean
         default: true
+      minutes:
+        description: "How long this run should keep scanning (minutes, max 330)"
+        default: "330"
 
 permissions:
   contents: write               # needed to save state/seen.json between runs
@@ -20,7 +25,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -36,7 +41,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MEMEBOT_TEST: ${{ github.event_name == 'workflow_dispatch' && inputs.test }}
-        run: python -m memebot.main
+          MEMEBOT_LOOP_MINUTES: ${{ inputs.minutes || '330' }}
+        run: |
+          git config user.name "memebot"
+          git config user.email "memebot@users.noreply.github.com"
+          python -m memebot.loop
 
       - name: Save memory of alerted coins
         if: always()
