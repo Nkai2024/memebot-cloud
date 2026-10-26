@@ -658,10 +658,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 13:07:38 UTC",
+ "last_run": "2026-10-26 13:17:32 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -896,12 +896,10 @@
     "tp_done": [],
     "units": 2.9584625754484203e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "9c499ab9": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793020687.976002,
     "created_ts": 1793018861.7863145,
     "entry_mcap": 172341,
     "entry_ts": 1793019967.9719572,
@@ -939,23 +937,29 @@
      "vol_m5": 72096.82
     },
     "id": "9c499ab9",
-    "last_mcap": 113060,
+    "last_mcap": 117086,
     "missing": 0,
-    "peak_mcap": 172341,
+    "peak_mcap": 272021,
+    "pnl": -3.607660545082135,
+    "pnl_pct": -36.076605450821354,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 6.392339454917865,
+    "reason": "breakeven stop (was up 50%+)",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "SHITCOIN",
     "tf": "minute",
     "token": "5Z44AmfPsU8AQ8AR3VVVuaE9CxhkSzHzJ4dPfaxxpump",
     "tp_done": [],
     "units": 5.6283763004740596e-05,
-    "units_left": 5.6283763004740596e-05,
+    "units_left": 0.0,
     "zone_bottom": 116264.8339140867,
     "zone_top": 173955.21157103995
-   },
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "e4439b6e": {
     "chain": "solana",
     "created_ts": 1793020041.6877315,
@@ -994,9 +998,9 @@
      "vol_m5": 22085.83
     },
     "id": "e4439b6e",
-    "last_mcap": 145284,
+    "last_mcap": 173445,
     "missing": 0,
-    "peak_mcap": 145284,
+    "peak_mcap": 173445,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -9767,7 +9771,7 @@
   }
  },
  "rejected": {
-  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1792886588.5553017,
+  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793020352.606347,
   "bsc:0x88AF612dCa668F0E69B4fB3CA25F0b9Fac727777": 1792948513.8891082,
   "bsc:0xf4d5765E448774eD9482870420Da7c3C4C787777": 1792757950.2483733,
   "solana:3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585150.8770602,
@@ -9794,5 +9798,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 162
+ "runs": 164
 }
