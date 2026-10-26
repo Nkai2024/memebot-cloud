@@ -658,7 +658,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 13:37:32 UTC",
+ "last_run": "2026-10-26 13:47:32 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -956,12 +956,10 @@
     "units_left": 0.0,
     "zone_bottom": 116264.8339140867,
     "zone_top": 173955.21157103995
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "e4439b6e": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793022127.984136,
     "created_ts": 1793020041.6877315,
     "entry_mcap": 145284,
     "entry_ts": 1793020041.6877315,
@@ -998,74 +996,27 @@
      "vol_m5": 22085.83
     },
     "id": "e4439b6e",
-    "last_mcap": 91622,
+    "last_mcap": 1964,
     "missing": 0,
     "peak_mcap": 173445,
+    "pnl": -9.872805842350155,
+    "pnl_pct": -98.72805842350155,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.12719415764984443,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "Alan",
     "tf": "minute",
     "token": "7ACCyJGpkiqKjcG8eiRpkwm8GznKnp3EpteqMC6qpump",
     "tp_done": [],
     "units": 6.676578288042729e-05,
-    "units_left": 6.676578288042729e-05
-   },
-   "e8e9217b": {
-    "chain": "solana",
-    "created_ts": 1793020041.6877315,
-    "expires_ts": 1793027241.6877315,
-    "features": {
-     "age_min": 24.95291594664256,
-     "boosts": 0,
-     "buys_h1": 2371,
-     "buys_h24": 2371,
-     "buys_m5": 259,
-     "change_h1": 239,
-     "change_h24": 239,
-     "change_h6": 239,
-     "change_m5": 8.85,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.344905079903128,
-     "insiders": 0,
-     "liquidity": 32117.22,
-     "lp_locked_pct": 100,
-     "mcap": 145284,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.11956933326937791,
-     "score": 75,
-     "sells_h1": 1346,
-     "sells_h24": 1346,
-     "sells_m5": 191,
-     "top1": 0.7648546370361402,
-     "top10": 7.077674464486667,
-     "top5": 3.6579242667343994,
-     "txns_h24": 3717,
-     "vol_h1": 207855.57,
-     "vol_h24": 207855.57,
-     "vol_m5": 22085.83
-    },
-    "id": "e8e9217b",
-    "last_mcap": 145284,
-    "missing": 0,
-    "peak_mcap": 145284,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "Alan",
-    "tf": "minute",
-    "token": "7ACCyJGpkiqKjcG8eiRpkwm8GznKnp3EpteqMC6qpump",
-    "tp_done": [],
-    "zone_bottom": 67391.68641505484,
-    "zone_top": 87027.50051476859
+    "units_left": 0.0
    }
-  },
+  ],
+  "last_summary_day": "",
+  "positions": {},
   "started_ts": 1793014927.9447827,
   "version": "v2"
  },
@@ -9798,5 +9749,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 168
+ "runs": 170
 }
