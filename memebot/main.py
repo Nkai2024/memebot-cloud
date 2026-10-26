@@ -1,6 +1,6 @@
 """One scan cycle: discover -> market gates -> safety gates -> score -> Telegram alert.
 
-GitHub Actions runs this every few minutes. Alert-only: it never trades or touches a wallet."""
+loop.py calls this every 5 minutes inside one long GitHub Actions job. Alert-only: it never trades or touches a wallet."""
 import json
 import os
 import sys
@@ -101,7 +101,8 @@ def run(cfg, dry_run=False):
                 pass
             st.record_alert(state, key, s["mcap"], name, s["symbol"])
             try:
-                paper_events += paper.on_alert(state, s, zone, name, prof, cfg)
+                paper_events += paper.on_alert(state, s, zone, name, prof, cfg,
+                                               features=entry_features(s, sf, sc, zone))
             except Exception as ex:
                 print(f"[paper] open error: {ex}")
             alerts_sent += 1
@@ -126,6 +127,35 @@ def run(cfg, dry_run=False):
     st.save(state)
     print(f"Done. checked={checked} rejected={rejected_safety} alerts={alerts_sent}")
     return alerts_sent
+
+
+def entry_features(s, sf, sc, zone):
+    """What the coin looked like when we bought, so we can learn which numbers predict winners."""
+    keys = ("mcap", "liquidity", "vol_m5", "vol_h1", "vol_h24", "txns_h24", "age_min", "boosts",
+            "n_socials", "change_m5", "change_h1", "change_h6", "change_h24",
+            "buys_m5", "sells_m5", "buys_h1", "sells_h1", "buys_h24", "sells_h24", "dex")
+    f = {k: s.get(k) for k in keys}
+    f.update({k: sf.get(k) for k in ("top1", "top5", "top10", "insiders", "creator_pct", "lp_locked_pct")})
+    f["score"] = sc
+    f["n_warn"] = len(sf.get("warn") or [])
+    if zone:
+        f["retracement_now"] = zone.get("retracement_now")
+        f["first_candle_share"] = zone.get("first_candle_share")
+    return f
+
+
+def check_positions(cfg, dry_run=False):
+    """Fast path between scans: only update paper positions (one cheap DexScreener call per chain)."""
+    state = st.load()
+    if not state:
+        return
+    events = paper.update(state, cfg)
+    if events:
+        msg = "📝 <b>Paper trades</b> (pretend money)\n" + "\n".join(events)
+        print(msg)
+        if not dry_run:
+            telegram.send(msg)
+    st.save(state)
 
 
 def main():
