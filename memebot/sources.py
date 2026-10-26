@@ -101,6 +101,9 @@ def snapshot_from_pair(chain, p, now=None):
     vol_m5 = vol.get("m5") or 0
     vol_h1 = vol.get("h1") or 0
     h24 = txns.get("h24") or {}
+    h1 = txns.get("h1") or {}
+    m5 = txns.get("m5") or {}
+    pc = p.get("priceChange") or {}
     return {
         "chain": chain,
         "token": (p.get("baseToken") or {}).get("address"),
@@ -116,7 +119,16 @@ def snapshot_from_pair(chain, p, now=None):
         "vol_h1": vol_h1,
         "vol_h24": vol.get("h24") or 0,
         "txns_h24": (h24.get("buys") or 0) + (h24.get("sells") or 0),
-        "change_h24": (p.get("priceChange") or {}).get("h24"),
+        "change_h24": pc.get("h24"),
+        "change_h6": pc.get("h6"),
+        "change_h1": pc.get("h1"),
+        "change_m5": pc.get("m5"),
+        "buys_h1": h1.get("buys") or 0,
+        "sells_h1": h1.get("sells") or 0,
+        "buys_m5": m5.get("buys") or 0,
+        "sells_m5": m5.get("sells") or 0,
+        "buys_h24": h24.get("buys") or 0,
+        "sells_h24": h24.get("sells") or 0,
         "age_min": age_min,
         "dex_paid": bool(info.get("imageUrl") or socials or websites),
         "boosts": (p.get("boosts") or {}).get("active") or 0,
