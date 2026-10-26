@@ -739,11 +739,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 16:43:47 UTC",
+ "last_run": "2026-10-26 16:53:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -1781,7 +1781,7 @@
      "vol_m5": 10287.01
     },
     "id": "1b7d45e5",
-    "last_mcap": 760268,
+    "last_mcap": 716831,
     "missing": 0,
     "peak_mcap": 929741,
     "profile": "migrated",
@@ -1940,7 +1940,7 @@
      "vol_m5": 37546.2
     },
     "id": "c7383e31",
-    "last_mcap": 223463,
+    "last_mcap": 208007,
     "missing": 0,
     "peak_mcap": 312957,
     "profile": "migrated",
@@ -1993,7 +1993,7 @@
      "vol_m5": 212638.27
     },
     "id": "ccddcfcf",
-    "last_mcap": 2386862,
+    "last_mcap": 2450950,
     "missing": 0,
     "peak_mcap": 3309116,
     "profile": "migrated",
@@ -10732,7 +10732,7 @@
   "solana:8yxCjef6QBoKjQZetwB9gY3j5nC4gT9kTa4cLsbk47xe": 1792919944.5163953,
   "solana:A6kBEdrgadYzdV157v8ANz5XiCqCB9aBsrND9H291Kut": 1792615433.7030265,
   "solana:BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546918.6577237,
-  "solana:CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1793010711.5428765,
+  "solana:CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1793033317.4578679,
   "solana:CYGBNULVpJbooSocz7ppoJoGsyTnZgsC5Ngf9Us5pump": 1793018840.5781128,
   "solana:Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": 1792651260.8455842,
   "solana:CsovxRtEM6g4jcVGtcTB3xwycoAuPjEafpUTR6zrpump": 1792965803.9021273,
@@ -10743,6 +10743,7 @@
   "solana:EEjGcoWPXkvcdaBuyM9zJ5rZu2KQh5aFCYzoi4KCpump": 1793026949.1358454,
   "solana:Ekn1Jn3yzBUoX2gsCSkas6JgjMqSwiTB8PGs2eruSTNK": 1792615435.2033665,
   "solana:EvqFzEDwp727wQVYaJTt6BH6QPnaStcK4EvKM7HLpump": 1792690169.9362118,
+  "solana:F7Pwpisgpnxq3Ho8nEHJovMA5kxqr9a5pDH6BDDCpump": 1793033617.28837,
   "solana:GDhYmQrkbXQd6N2hEeEMFa6A5Syj8vneQYVrwCcdYEBL": 1793017040.5563776,
   "solana:GWKw27d8mYA2TnnrE5jDdksEVCmMsGnDsi6FzqWgVmHq": 1792973388.0305755,
   "solana:HtsFVhDAs1pHXGZX2VJnM2Q8bb6m4Nf4xk5oSvorpump": 1793023349.3999994,
@@ -10750,5 +10751,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 205
+ "runs": 207
 }
