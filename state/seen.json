@@ -315,6 +315,15 @@
    "profile": "migrated",
    "symbol": "RETAIL"
   },
+  "solana:8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx": {
+   "count": 1,
+   "first_mcap": 297161,
+   "first_ts": 1793058712.4796116,
+   "last_mcap": 297161,
+   "last_ts": 1793058712.4796116,
+   "profile": "migrated",
+   "symbol": "ELON2028"
+  },
   "solana:8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": {
    "count": 1,
    "first_mcap": 193083,
@@ -829,11 +838,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 23:47:09 UTC",
+ "last_run": "2026-10-26 23:57:01 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
-  "rejected_safety": 1
+  "alerts": 0,
+  "checked": 1,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -2869,12 +2878,10 @@
     "tp_done": [],
     "units": 0.00015461124039656984,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-10-26",
-  "positions": {
-   "0424f40b": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793058696.7933881,
     "created_ts": 1793058412.343254,
     "entry_mcap": 81126,
     "entry_ts": 1793058412.343254,
@@ -2912,25 +2919,29 @@
      "vol_m5": 98804.57
     },
     "id": "0424f40b",
-    "last_mcap": 81126,
+    "last_mcap": 37026,
     "missing": 0,
     "peak_mcap": 81126,
+    "pnl": -5.7057215442644775,
+    "pnl_pct": -57.05721544264477,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.2942784557355225,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "MUSK2028",
     "tf": "minute",
     "token": "7aGAb9jrgm36ZLRMLnH9jSaNV6RrjtM3No9SWCHNpump",
     "tp_done": [],
     "units": 0.00011956709316372062,
-    "units_left": 0.00011956709316372062,
+    "units_left": 0.0,
     "zone_bottom": 122814.0973468462,
     "zone_top": 194383.38378689683
    },
-   "13937b9f": {
+   {
     "chain": "solana",
+    "close_ts": 1793058696.7933881,
     "created_ts": 1793058412.343254,
     "entry_mcap": 81126,
     "entry_ts": 1793058412.343254,
@@ -2967,21 +2978,27 @@
      "vol_m5": 98804.57
     },
     "id": "13937b9f",
-    "last_mcap": 81126,
+    "last_mcap": 37026,
     "missing": 0,
     "peak_mcap": 81126,
+    "pnl": -5.7057215442644775,
+    "pnl_pct": -57.05721544264477,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.2942784557355225,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "MUSK2028",
     "tf": "minute",
     "token": "7aGAb9jrgm36ZLRMLnH9jSaNV6RrjtM3No9SWCHNpump",
     "tp_done": [],
     "units": 0.00011956709316372062,
-    "units_left": 0.00011956709316372062
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-26",
+  "positions": {
    "14a608f6": {
     "chain": "solana",
     "created_ts": 1793048511.5177097,
@@ -3072,7 +3089,7 @@
      "vol_m5": 4994.4
     },
     "id": "5e19f9e4",
-    "last_mcap": 1987112,
+    "last_mcap": 2003746,
     "missing": 0,
     "peak_mcap": 2436791,
     "profile": "swing_survivor",
@@ -3125,7 +3142,7 @@
      "vol_m5": 186834.13
     },
     "id": "90100a02",
-    "last_mcap": 1479465,
+    "last_mcap": 1380625,
     "missing": 0,
     "peak_mcap": 1818084,
     "profile": "migrated",
@@ -3181,7 +3198,7 @@
      "vol_m5": 63684.42
     },
     "id": "af36495c",
-    "last_mcap": 112734,
+    "last_mcap": 111414,
     "missing": 0,
     "peak_mcap": 140887,
     "profile": "migrated",
@@ -3199,6 +3216,59 @@
     "units_left": 8.184502882857545e-05,
     "zone_bottom": 34300.11620407217,
     "zone_top": 48625.26364393933
+   },
+   "bcdeb41d": {
+    "chain": "solana",
+    "created_ts": 1793058712.4797058,
+    "entry_mcap": 297161,
+    "entry_ts": 1793058712.4797058,
+    "features": {
+     "age_min": 36.49294516245524,
+     "boosts": 0,
+     "buys_h1": 14264,
+     "buys_h24": 14264,
+     "buys_m5": 986,
+     "change_h1": 612,
+     "change_h24": 612,
+     "change_h6": 612,
+     "change_m5": 17.18,
+     "creator_pct": null,
+     "dex": "raydium",
+     "first_candle_share": 0.018666844693128997,
+     "insiders": 0,
+     "liquidity": 51402.02,
+     "lp_locked_pct": 100,
+     "mcap": 297161,
+     "n_socials": 1,
+     "n_warn": 0,
+     "retracement_now": 1.0,
+     "score": 73,
+     "sells_h1": 12233,
+     "sells_h24": 12233,
+     "sells_m5": 737,
+     "top1": 2.1110193390228105,
+     "top10": 14.085433225136269,
+     "top5": 8.770067555505944,
+     "txns_h24": 26497,
+     "vol_h1": 1584005.7,
+     "vol_h24": 1584005.7,
+     "vol_m5": 88583.72
+    },
+    "id": "bcdeb41d",
+    "last_mcap": 380804,
+    "missing": 0,
+    "peak_mcap": 441978,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "ELON2028",
+    "tf": "minute",
+    "token": "8BnNS15Q6h6D5Vcq1sNPaUxhpRVdK8FGRbLvCrLxibSx",
+    "tp_done": [],
+    "units": 3.2642237709524465e-05,
+    "units_left": 3.2642237709524465e-05
    },
    "db0bd390": {
     "chain": "solana",
@@ -3238,7 +3308,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 1070403,
+    "last_mcap": 1099310,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -3294,7 +3364,7 @@
      "vol_m5": 112780.76
     },
     "id": "f2ad82d2",
-    "last_mcap": 161118,
+    "last_mcap": 213998,
     "missing": 0,
     "peak_mcap": 369232,
     "profile": "migrated",
@@ -12058,5 +12128,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 272
+ "runs": 274
 }
