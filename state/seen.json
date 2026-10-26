@@ -757,10 +757,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 20:37:08 UTC",
+ "last_run": "2026-10-26 20:47:01 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -2146,7 +2146,7 @@
      "vol_m5": 75629.5
     },
     "id": "32f24995",
-    "last_mcap": 123155,
+    "last_mcap": 118254,
     "missing": 0,
     "peak_mcap": 192710,
     "profile": "migrated",
@@ -2199,7 +2199,7 @@
      "vol_m5": 4994.4
     },
     "id": "5e19f9e4",
-    "last_mcap": 1968366,
+    "last_mcap": 1983681,
     "missing": 0,
     "peak_mcap": 2202760,
     "profile": "swing_survivor",
@@ -2253,20 +2253,22 @@
      "vol_m5": 43840.23
     },
     "id": "a3de422f",
-    "last_mcap": 132442,
+    "last_mcap": 169521,
     "missing": 0,
-    "peak_mcap": 139979,
+    "peak_mcap": 176857,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 15.499078692036456,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "REM",
     "tf": "minute",
     "token": "G9u3w1NAFwZRRj9m3FB6ig59oAWRvSBWrSRHiu4Dpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.00012906659570221542,
-    "units_left": 0.00012906659570221542,
+    "units_left": 3.871997871066463e-05,
     "zone_bottom": 60727.34150249178,
     "zone_top": 76360.18470967581
    },
@@ -2306,9 +2308,9 @@
      "vol_m5": 42061.8
     },
     "id": "bf5a8812",
-    "last_mcap": 86257,
+    "last_mcap": 143294,
     "missing": 0,
-    "peak_mcap": 86257,
+    "peak_mcap": 152908,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -2359,7 +2361,7 @@
      "vol_m5": 37546.2
     },
     "id": "c7383e31",
-    "last_mcap": 254107,
+    "last_mcap": 259527,
     "missing": 0,
     "peak_mcap": 312957,
     "profile": "migrated",
@@ -11116,5 +11118,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 234
+ "runs": 236
 }
