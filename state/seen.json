@@ -342,6 +342,15 @@
    "profile": "migrated",
    "symbol": "TSLA"
   },
+  "solana:AAzxViJzzLRA5V97FG2Bhxzi8mpQgrQKXhCSjwyXpump": {
+   "count": 1,
+   "first_mcap": 128698,
+   "first_ts": 1793034219.1849062,
+   "last_mcap": 128698,
+   "last_ts": 1793034219.1849062,
+   "profile": "migrated",
+   "symbol": "MoonCoin"
+  },
   "solana:ABTGtvVT28SAxRM22EdwrxzywgqKAfPTuhR6QJ3dpump": {
    "count": 1,
    "first_mcap": 199307,
@@ -739,11 +748,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-26 16:53:48 UTC",
+ "last_run": "2026-10-26 17:03:56 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "alerts": 1,
+  "checked": 2,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -1781,7 +1790,7 @@
      "vol_m5": 10287.01
     },
     "id": "1b7d45e5",
-    "last_mcap": 716831,
+    "last_mcap": 688116,
     "missing": 0,
     "peak_mcap": 929741,
     "profile": "migrated",
@@ -1797,6 +1806,57 @@
     ],
     "units": 2.7483269205705184e-05,
     "units_left": 8.244980761711557e-06
+   },
+   "32f24995": {
+    "chain": "solana",
+    "created_ts": 1793034219.1849222,
+    "entry_mcap": 128698,
+    "entry_ts": 1793034219.1849222,
+    "features": {
+     "age_min": 26.021676178773244,
+     "boosts": 0,
+     "buys_h1": 7094,
+     "buys_h24": 7094,
+     "buys_m5": 735,
+     "change_h1": 198,
+     "change_h24": 198,
+     "change_h6": 198,
+     "change_m5": 29.29,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 32611.61,
+     "lp_locked_pct": 100,
+     "mcap": 128698,
+     "n_socials": 1,
+     "n_warn": 0,
+     "score": 70,
+     "sells_h1": 6392,
+     "sells_h24": 6392,
+     "sells_m5": 577,
+     "top1": 2.9364535030912275,
+     "top10": 20.495486377044948,
+     "top5": 12.948227904936974,
+     "txns_h24": 13486,
+     "vol_h1": 732939.5,
+     "vol_h24": 732939.5,
+     "vol_m5": 75629.5
+    },
+    "id": "32f24995",
+    "last_mcap": 132135,
+    "missing": 0,
+    "peak_mcap": 140486,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "MoonCoin",
+    "tf": "minute",
+    "token": "AAzxViJzzLRA5V97FG2Bhxzi8mpQgrQKXhCSjwyXpump",
+    "tp_done": [],
+    "units": 7.537024662387915e-05,
+    "units_left": 7.537024662387915e-05
    },
    "4caeac6c": {
     "chain": "solana",
@@ -1940,7 +2000,7 @@
      "vol_m5": 37546.2
     },
     "id": "c7383e31",
-    "last_mcap": 208007,
+    "last_mcap": 172321,
     "missing": 0,
     "peak_mcap": 312957,
     "profile": "migrated",
@@ -1993,7 +2053,7 @@
      "vol_m5": 212638.27
     },
     "id": "ccddcfcf",
-    "last_mcap": 2450950,
+    "last_mcap": 2452679,
     "missing": 0,
     "peak_mcap": 3309116,
     "profile": "migrated",
@@ -10751,5 +10811,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 207
+ "runs": 209
 }
