@@ -23,8 +23,8 @@
       "enabled": true,
       "label": "MIGRATED",
       "age_minutes": [
-        0,
-        120
+        10,
+        60
       ],
       "market_cap": [
         40000,
@@ -37,7 +37,14 @@
       "txns_h24_min": 0,
       "require_dex_paid": true,
       "require_socials": 1,
-      "chart_timeframe": "minute"
+      "chart_timeframe": "minute",
+      "momentum": {
+        "_note": "v2: skip coins already fading. Change values are %, ratios are buys/sells.",
+        "min_change_m5": -10,
+        "min_change_h1": 0,
+        "min_buy_sell_ratio_m5": 1.0,
+        "min_buy_sell_ratio_h1": 1.1
+      }
     },
     "swing_survivor": {
       "enabled": true,
@@ -58,7 +65,14 @@
       "txns_h24_min": 300,
       "require_dex_paid": true,
       "require_socials": 1,
-      "chart_timeframe": "hour"
+      "chart_timeframe": "hour",
+      "momentum": {
+        "_note": "playbook swing filter: 24h change +5% to +80%",
+        "min_change_h24": 5,
+        "max_change_h24": 80,
+        "min_change_h1": -5,
+        "min_buy_sell_ratio_h24": 1.0
+      }
     },
     "fresh_aggressive": {
       "enabled": false,
@@ -78,7 +92,11 @@
       "txns_h24_min": 0,
       "require_dex_paid": false,
       "require_socials": 0,
-      "chart_timeframe": "minute"
+      "chart_timeframe": "minute",
+      "momentum": {
+        "min_change_m5": 0,
+        "min_buy_sell_ratio_m5": 1.2
+      }
     }
   },
   "safety": {
@@ -91,5 +109,13 @@
     "max_buy_tax_pct": 10,
     "max_sell_tax_pct": 10,
     "fail_on_rugcheck_danger": true
+  },
+  "paper": {
+    "version": "v2",
+    "stop_loss_pct": {
+      "minute": 50,
+      "hour": 30
+    },
+    "breakeven_after_gain_pct": 50
   }
 }
