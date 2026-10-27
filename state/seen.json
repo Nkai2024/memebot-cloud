@@ -172,10 +172,10 @@
    "symbol": "Maxxing"
   }
  },
- "last_run": "2026-10-27 18:25:31 UTC",
+ "last_run": "2026-10-27 18:35:24 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -1487,7 +1487,7 @@
      "vol_m5": 6889.42
     },
     "id": "27c38063",
-    "last_mcap": 2227039,
+    "last_mcap": 2126397,
     "missing": 0,
     "peak_mcap": 2259737,
     "profile": "swing_survivor",
@@ -1540,7 +1540,7 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 1152334,
+    "last_mcap": 1146965,
     "missing": 0,
     "peak_mcap": 1393419,
     "profile": "swing_survivor",
@@ -1698,7 +1698,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 213107,
+    "last_mcap": 243800,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -1756,9 +1756,9 @@
      "vol_m5": 22792.08
     },
     "id": "9d5bafbf",
-    "last_mcap": 127522,
+    "last_mcap": 197297,
     "missing": 0,
-    "peak_mcap": 162211,
+    "peak_mcap": 217964,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1896,5 +1896,5 @@
   "solana:CqeWWnUnQdxWysTDDS8T3DqXLvwNiRPLpV1h1imCpump": 1793122471.5631354,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 59
+ "runs": 61
 }
