@@ -892,10 +892,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-27 03:56:20 UTC",
+ "last_run": "2026-10-27 04:06:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3674,9 +3674,9 @@
      "vol_m5": 155936.13
     },
     "id": "5ba27d2d",
-    "last_mcap": 1078538,
+    "last_mcap": 1211294,
     "missing": 0,
-    "peak_mcap": 1153236,
+    "peak_mcap": 1211294,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -3728,7 +3728,7 @@
      "vol_m5": 39389.34
     },
     "id": "5ec57c14",
-    "last_mcap": 174970,
+    "last_mcap": 161042,
     "missing": 0,
     "peak_mcap": 263389,
     "profile": "migrated",
@@ -3785,7 +3785,7 @@
      "vol_m5": 41865.66
     },
     "id": "6f962e86",
-    "last_mcap": 80415,
+    "last_mcap": 65559,
     "missing": 0,
     "peak_mcap": 138535,
     "profile": "migrated",
@@ -3839,7 +3839,7 @@
      "vol_m5": 63684.42
     },
     "id": "af36495c",
-    "last_mcap": 67675,
+    "last_mcap": 79023,
     "missing": 0,
     "peak_mcap": 134507,
     "profile": "migrated",
@@ -3896,7 +3896,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 978546,
+    "last_mcap": 975257,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -3951,7 +3951,7 @@
      "vol_m5": 18974.33
     },
     "id": "e8caafe4",
-    "last_mcap": 54359,
+    "last_mcap": 57110,
     "missing": 0,
     "peak_mcap": 78740,
     "profile": "migrated",
@@ -4004,7 +4004,7 @@
      "vol_m5": 61888.95
     },
     "id": "fd75ebbd",
-    "last_mcap": 240628,
+    "last_mcap": 277387,
     "missing": 0,
     "peak_mcap": 400263,
     "profile": "migrated",
@@ -12766,5 +12766,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 309
+ "runs": 311
 }
