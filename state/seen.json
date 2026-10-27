@@ -262,7 +262,7 @@
    "symbol": "Rollcage"
   }
  },
- "last_run": "2026-10-27 22:49:48 UTC",
+ "last_run": "2026-10-27 22:59:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2701,7 +2701,7 @@
      "vol_m5": 43240.54
     },
     "id": "08012deb",
-    "last_mcap": 158344,
+    "last_mcap": 156723,
     "missing": 0,
     "peak_mcap": 181259,
     "profile": "migrated",
@@ -2756,7 +2756,7 @@
      "vol_m5": 70203.81
     },
     "id": "1cd18df1",
-    "last_mcap": 354566,
+    "last_mcap": 209435,
     "missing": 0,
     "peak_mcap": 1209370,
     "profile": "migrated",
@@ -2812,7 +2812,7 @@
      "vol_m5": 6889.42
     },
     "id": "27c38063",
-    "last_mcap": 1719391,
+    "last_mcap": 1800350,
     "missing": 0,
     "peak_mcap": 2259737,
     "profile": "swing_survivor",
@@ -2865,7 +2865,7 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 913548,
+    "last_mcap": 874600,
     "missing": 0,
     "peak_mcap": 1393419,
     "profile": "swing_survivor",
@@ -3022,7 +3022,7 @@
      "vol_m5": 43240.54
     },
     "id": "626c7360",
-    "last_mcap": 158344,
+    "last_mcap": 156723,
     "missing": 0,
     "peak_mcap": 191943,
     "profile": "migrated",
@@ -3076,7 +3076,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 102626,
+    "last_mcap": 109583,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -3134,20 +3134,22 @@
      "vol_m5": 126397.3
     },
     "id": "92db23c4",
-    "last_mcap": 164860,
+    "last_mcap": 212976,
     "missing": 0,
-    "peak_mcap": 164860,
+    "peak_mcap": 256809,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.403687847526244,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Stonkz",
     "tf": "minute",
     "token": "Hhnf3dZTBvhedKjFCNh8Ci23YLEQg1MKTzMTHUwruMmz",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 8.409116522613588e-05,
-    "units_left": 8.409116522613588e-05
+    "units_left": 2.5227349567840766e-05
    },
    "eac47cde": {
     "chain": "solana",
@@ -3227,5 +3229,5 @@
   "solana:GJyNrRBNt85m7DX7PYJBHo9sjmpTxMEQYfRbvMoYpump": 1793129713.397325,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 86
+ "runs": 88
 }
