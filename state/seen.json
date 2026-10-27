@@ -2398,7 +2398,7 @@
      "vol_m5": 70203.81
     },
     "id": "1cd18df1",
-    "last_mcap": 678190,
+    "last_mcap": 636455,
     "missing": 0,
     "peak_mcap": 1209370,
     "profile": "migrated",
@@ -2454,7 +2454,7 @@
      "vol_m5": 6889.42
     },
     "id": "27c38063",
-    "last_mcap": 1785678,
+    "last_mcap": 1814388,
     "missing": 0,
     "peak_mcap": 2259737,
     "profile": "swing_survivor",
@@ -2507,7 +2507,7 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 944418,
+    "last_mcap": 936518,
     "missing": 0,
     "peak_mcap": 1393419,
     "profile": "swing_survivor",
@@ -2612,7 +2612,7 @@
      "vol_m5": 35005.54
     },
     "id": "5a642a0d",
-    "last_mcap": 166390,
+    "last_mcap": 164602,
     "missing": 0,
     "peak_mcap": 166565,
     "profile": "migrated",
@@ -2666,7 +2666,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 120669,
+    "last_mcap": 122273,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
