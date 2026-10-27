@@ -892,11 +892,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-27 03:36:19 UTC",
+ "last_run": "2026-10-27 03:46:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -3674,7 +3674,7 @@
      "vol_m5": 155936.13
     },
     "id": "5ba27d2d",
-    "last_mcap": 1018614,
+    "last_mcap": 958168,
     "missing": 0,
     "peak_mcap": 1153236,
     "profile": "migrated",
@@ -3728,7 +3728,7 @@
      "vol_m5": 39389.34
     },
     "id": "5ec57c14",
-    "last_mcap": 176571,
+    "last_mcap": 154880,
     "missing": 0,
     "peak_mcap": 263389,
     "profile": "migrated",
@@ -3785,7 +3785,7 @@
      "vol_m5": 41865.66
     },
     "id": "6f962e86",
-    "last_mcap": 109623,
+    "last_mcap": 75771,
     "missing": 0,
     "peak_mcap": 138535,
     "profile": "migrated",
@@ -3839,7 +3839,7 @@
      "vol_m5": 63684.42
     },
     "id": "af36495c",
-    "last_mcap": 78549,
+    "last_mcap": 76038,
     "missing": 0,
     "peak_mcap": 134507,
     "profile": "migrated",
@@ -3896,7 +3896,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 1031086,
+    "last_mcap": 987820,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -3951,7 +3951,7 @@
      "vol_m5": 18974.33
     },
     "id": "e8caafe4",
-    "last_mcap": 59892,
+    "last_mcap": 51990,
     "missing": 0,
     "peak_mcap": 78740,
     "profile": "migrated",
@@ -4004,7 +4004,7 @@
      "vol_m5": 61888.95
     },
     "id": "fd75ebbd",
-    "last_mcap": 189957,
+    "last_mcap": 182079,
     "missing": 0,
     "peak_mcap": 400263,
     "profile": "migrated",
@@ -12727,7 +12727,7 @@
   }
  },
  "rejected": {
-  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793050920.4860942,
+  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793072780.9586291,
   "bsc:0x88AF612dCa668F0E69B4fB3CA25F0b9Fac727777": 1792948513.8891082,
   "bsc:0xf4d5765E448774eD9482870420Da7c3C4C787777": 1792757950.2483733,
   "solana:27Qg7EcnGfmbthfQeQXTs4qjfnvU6gXf8W1ahJiJpump": 1793062269.3152354,
@@ -12766,5 +12766,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 305
+ "runs": 307
 }
