@@ -964,11 +964,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-27 09:05:31 UTC",
+ "last_run": "2026-10-27 09:15:41 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -4033,7 +4033,7 @@
      "vol_m5": 63684.42
     },
     "id": "af36495c",
-    "last_mcap": 38042,
+    "last_mcap": 43004,
     "missing": 0,
     "peak_mcap": 134507,
     "profile": "migrated",
@@ -4090,7 +4090,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 901326,
+    "last_mcap": 936671,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -4145,7 +4145,7 @@
      "vol_m5": 18974.33
     },
     "id": "e8caafe4",
-    "last_mcap": 141759,
+    "last_mcap": 156969,
     "missing": 0,
     "peak_mcap": 162903,
     "profile": "migrated",
@@ -4200,7 +4200,7 @@
      "vol_m5": 61888.95
     },
     "id": "fd75ebbd",
-    "last_mcap": 286664,
+    "last_mcap": 265183,
     "missing": 0,
     "peak_mcap": 400263,
     "profile": "migrated",
@@ -12943,7 +12943,7 @@
   "solana:A6kBEdrgadYzdV157v8ANz5XiCqCB9aBsrND9H291Kut": 1792615433.7030265,
   "solana:AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": 1793079621.2218668,
   "solana:BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546918.6577237,
-  "solana:CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1793060463.7924206,
+  "solana:CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1793092520.7956278,
   "solana:CYGBNULVpJbooSocz7ppoJoGsyTnZgsC5Ngf9Us5pump": 1793018840.5781128,
   "solana:Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": 1792651260.8455842,
   "solana:CsovxRtEM6g4jcVGtcTB3xwycoAuPjEafpUTR6zrpump": 1792965803.9021273,
@@ -12964,5 +12964,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 327
+ "runs": 329
 }
