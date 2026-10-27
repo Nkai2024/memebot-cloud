@@ -973,11 +973,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-27 10:55:31 UTC",
+ "last_run": "2026-10-27 11:05:31 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -4220,7 +4220,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 991399,
+    "last_mcap": 1015507,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -4275,7 +4275,7 @@
      "vol_m5": 18974.33
     },
     "id": "e8caafe4",
-    "last_mcap": 194436,
+    "last_mcap": 218348,
     "missing": 0,
     "peak_mcap": 243669,
     "profile": "migrated",
@@ -4330,7 +4330,7 @@
      "vol_m5": 61888.95
     },
     "id": "fd75ebbd",
-    "last_mcap": 250727,
+    "last_mcap": 206457,
     "missing": 0,
     "peak_mcap": 400263,
     "profile": "migrated",
@@ -13096,5 +13096,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 349
+ "runs": 351
 }
