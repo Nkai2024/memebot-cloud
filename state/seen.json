@@ -865,7 +865,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-27 02:31:20 UTC",
+ "last_run": "2026-10-27 02:41:20 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3461,7 +3461,7 @@
      "vol_m5": 155936.13
     },
     "id": "5ba27d2d",
-    "last_mcap": 953326,
+    "last_mcap": 925887,
     "missing": 0,
     "peak_mcap": 1002689,
     "profile": "migrated",
@@ -3567,7 +3567,7 @@
      "vol_m5": 63684.42
     },
     "id": "af36495c",
-    "last_mcap": 90852,
+    "last_mcap": 76434,
     "missing": 0,
     "peak_mcap": 134507,
     "profile": "migrated",
@@ -3624,7 +3624,7 @@
      "vol_m5": 10156.41
     },
     "id": "db0bd390",
-    "last_mcap": 1132372,
+    "last_mcap": 1053434,
     "missing": 0,
     "peak_mcap": 1636054,
     "profile": "swing_survivor",
@@ -3679,7 +3679,7 @@
      "vol_m5": 18974.33
     },
     "id": "e8caafe4",
-    "last_mcap": 52233,
+    "last_mcap": 71697,
     "missing": 0,
     "peak_mcap": 78740,
     "profile": "migrated",
@@ -3733,7 +3733,7 @@
      "vol_m5": 112780.76
     },
     "id": "f2ad82d2",
-    "last_mcap": 503188,
+    "last_mcap": 520987,
     "missing": 0,
     "peak_mcap": 666357,
     "profile": "migrated",
@@ -3791,7 +3791,7 @@
      "vol_m5": 61888.95
     },
     "id": "fd75ebbd",
-    "last_mcap": 252769,
+    "last_mcap": 218599,
     "missing": 0,
     "peak_mcap": 400263,
     "profile": "migrated",
@@ -12552,5 +12552,5 @@
   "solana:hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts": 1792498265.660532,
   "solana:t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP": 1792626047.1090252
  },
- "runs": 292
+ "runs": 294
 }
