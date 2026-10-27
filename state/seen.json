@@ -10,10 +10,10 @@
    "symbol": "DICTATOR"
   }
  },
- "last_run": "2026-10-27 11:29:42 UTC",
+ "last_run": "2026-10-27 11:39:45 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 3,
   "rejected_safety": 0
  },
  "paper": {
@@ -110,7 +110,7 @@
      "vol_m5": 27959.53
     },
     "id": "b0d1b0b3",
-    "last_mcap": 79042,
+    "last_mcap": 64067,
     "missing": 0,
     "peak_mcap": 88380,
     "profile": "migrated",
@@ -140,5 +140,5 @@
  "rejected": {
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 2
+ "runs": 4
 }
