@@ -244,11 +244,11 @@
    "symbol": "Maxxing"
   }
  },
- "last_run": "2026-10-27 21:45:31 UTC",
+ "last_run": "2026-10-27 21:55:24 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
-  "rejected_safety": 1
+  "alerts": 0,
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -2109,12 +2109,10 @@
     "units_left": 0.0,
     "zone_bottom": 109861.21224436289,
     "zone_top": 152592.0114484024
-   }
-  ],
-  "last_summary_day": "2026-10-27",
-  "positions": {
-   "03c9edda": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793138039.7430327,
     "created_ts": 1793137514.2277262,
     "entry_mcap": 275097,
     "entry_ts": 1793137514.2277262,
@@ -2151,21 +2149,27 @@
      "vol_m5": 143287.21
     },
     "id": "03c9edda",
-    "last_mcap": 275097,
+    "last_mcap": 161774,
     "missing": 0,
-    "peak_mcap": 275097,
+    "peak_mcap": 516898,
+    "pnl": -4.466927789107115,
+    "pnl_pct": -44.66927789107115,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 5.533072210892885,
+    "reason": "breakeven stop (was up 50%+)",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "FRONGUS",
     "tf": "minute",
     "token": "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
     "tp_done": [],
     "units": 3.52602900067976e-05,
-    "units_left": 3.52602900067976e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-27",
+  "positions": {
    "1cd18df1": {
     "chain": "solana",
     "created_ts": 1793127314.068544,
@@ -2204,7 +2208,7 @@
      "vol_m5": 70203.81
     },
     "id": "1cd18df1",
-    "last_mcap": 659295,
+    "last_mcap": 729963,
     "missing": 0,
     "peak_mcap": 1209370,
     "profile": "migrated",
@@ -2260,7 +2264,7 @@
      "vol_m5": 6889.42
     },
     "id": "27c38063",
-    "last_mcap": 1740510,
+    "last_mcap": 1753711,
     "missing": 0,
     "peak_mcap": 2259737,
     "profile": "swing_survivor",
@@ -2313,7 +2317,7 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 1007857,
+    "last_mcap": 990857,
     "missing": 0,
     "peak_mcap": 1393419,
     "profile": "swing_survivor",
@@ -2366,7 +2370,7 @@
      "vol_m5": 4899.86
     },
     "id": "43e88752",
-    "last_mcap": 80233,
+    "last_mcap": 81469,
     "missing": 0,
     "peak_mcap": 96663,
     "profile": "migrated",
@@ -2438,6 +2442,8 @@
    "5e78531a": {
     "chain": "solana",
     "created_ts": 1793137514.2277262,
+    "entry_mcap": 161774,
+    "entry_ts": 1793138039.7430327,
     "expires_ts": 1793144714.2277262,
     "features": {
      "age_min": 31.53485560019811,
@@ -2472,18 +2478,20 @@
      "vol_m5": 143287.21
     },
     "id": "5e78531a",
-    "last_mcap": 275097,
+    "last_mcap": 100637,
     "missing": 0,
-    "peak_mcap": 275097,
+    "peak_mcap": 161774,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "FRONGUS",
     "tf": "minute",
     "token": "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump",
     "tp_done": [],
+    "units": 5.9960191378095366e-05,
+    "units_left": 5.9960191378095366e-05,
     "zone_bottom": 153498.58301786042,
     "zone_top": 230534.65529463362
    },
@@ -2526,7 +2534,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 133931,
+    "last_mcap": 109768,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -2585,7 +2593,7 @@
      "vol_m5": 4899.86
     },
     "id": "ae172c58",
-    "last_mcap": 80233,
+    "last_mcap": 81469,
     "missing": 0,
     "peak_mcap": 96663,
     "profile": "migrated",
@@ -2630,5 +2638,5 @@
   "solana:GJyNrRBNt85m7DX7PYJBHo9sjmpTxMEQYfRbvMoYpump": 1793129713.397325,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 99
+ "runs": 101
 }
