@@ -10,7 +10,7 @@
    "symbol": "DICTATOR"
   }
  },
- "last_run": "2026-10-27 11:49:44 UTC",
+ "last_run": "2026-10-27 11:59:42 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -117,20 +117,22 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 38335,
+    "last_mcap": 134230,
     "missing": 0,
-    "peak_mcap": 47524,
+    "peak_mcap": 134230,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.708800544987792,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "DICTATOR",
     "tf": "minute",
     "token": "7dVpVqUEbJ9csNWWrDavsA8iAEwvb6BqWu1yVsQgpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.0002041073983671408,
-    "units_left": 0.0002041073983671408,
+    "units_left": 6.123221951014225e-05,
     "zone_bottom": 42514.35350346196,
     "zone_top": 52824.262246949686
    }
@@ -149,5 +151,5 @@
  "rejected": {
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 6
+ "runs": 8
 }
