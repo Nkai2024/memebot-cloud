@@ -262,10 +262,10 @@
    "symbol": "Rollcage"
   }
  },
- "last_run": "2026-10-27 23:24:49 UTC",
+ "last_run": "2026-10-27 23:34:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2761,7 +2761,7 @@
      "vol_m5": 43240.54
     },
     "id": "08012deb",
-    "last_mcap": 161844,
+    "last_mcap": 161494,
     "missing": 0,
     "peak_mcap": 181259,
     "profile": "migrated",
@@ -2816,7 +2816,7 @@
      "vol_m5": 70203.81
     },
     "id": "1cd18df1",
-    "last_mcap": 227315,
+    "last_mcap": 233354,
     "missing": 0,
     "peak_mcap": 1209370,
     "profile": "migrated",
@@ -2872,7 +2872,7 @@
      "vol_m5": 6889.42
     },
     "id": "27c38063",
-    "last_mcap": 1798311,
+    "last_mcap": 1775665,
     "missing": 0,
     "peak_mcap": 2259737,
     "profile": "swing_survivor",
@@ -2925,7 +2925,7 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 761416,
+    "last_mcap": 776986,
     "missing": 0,
     "peak_mcap": 1393419,
     "profile": "swing_survivor",
@@ -2943,6 +2943,8 @@
    "44e50f81": {
     "chain": "solana",
     "created_ts": 1793105672.6204348,
+    "entry_mcap": 701648,
+    "entry_ts": 1793143523.901195,
     "expires_ts": 1793278472.6204348,
     "features": {
      "age_min": 4888.922594769796,
@@ -2977,18 +2979,20 @@
      "vol_m5": 2254.07
     },
     "id": "44e50f81",
-    "last_mcap": 953190,
+    "last_mcap": 776986,
     "missing": 0,
-    "peak_mcap": 953190,
+    "peak_mcap": 776986,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "\u2588\u2588\u2588",
     "tf": "hour",
     "token": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump",
     "tp_done": [],
+    "units": 1.3824595808724601e-05,
+    "units_left": 1.3824595808724601e-05,
     "zone_bottom": 416185.71790860634,
     "zone_top": 708556.563067309
    },
@@ -3030,7 +3034,7 @@
      "vol_m5": 43240.54
     },
     "id": "626c7360",
-    "last_mcap": 161844,
+    "last_mcap": 161494,
     "missing": 0,
     "peak_mcap": 191943,
     "profile": "migrated",
@@ -3084,7 +3088,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 122483,
+    "last_mcap": 141285,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -3142,7 +3146,7 @@
      "vol_m5": 126397.3
     },
     "id": "92db23c4",
-    "last_mcap": 193039,
+    "last_mcap": 212714,
     "missing": 0,
     "peak_mcap": 256809,
     "profile": "migrated",
@@ -3237,5 +3241,5 @@
   "solana:GJyNrRBNt85m7DX7PYJBHo9sjmpTxMEQYfRbvMoYpump": 1793129713.397325,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 93
+ "runs": 95
 }
