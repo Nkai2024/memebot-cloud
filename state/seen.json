@@ -19,11 +19,11 @@
    "symbol": "DICTATOR"
   }
  },
- "last_run": "2026-10-27 12:34:51 UTC",
+ "last_run": "2026-10-27 12:44:44 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 4,
-  "rejected_safety": 0
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -83,13 +83,13 @@
     "tp_done": [],
     "units": 0.00012246546978764234,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "0adad704": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793104758.231605,
     "created_ts": 1793104474.0024717,
+    "entry_mcap": 75046,
+    "entry_ts": 1793104638.23091,
     "expires_ts": 1793111674.0024717,
     "features": {
      "age_min": 36.383009390036264,
@@ -124,21 +124,86 @@
      "vol_m5": 18028.97
     },
     "id": "0adad704",
-    "last_mcap": 104425,
+    "last_mcap": 1947,
     "missing": 0,
-    "peak_mcap": 104425,
+    "peak_mcap": 75046,
+    "pnl": -9.755892079524559,
+    "pnl_pct": -97.55892079524558,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.24410792047544175,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "pending",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "DICTATOR",
     "tf": "minute",
     "token": "DEAY3bwSbXRCYfGBdRqUi7MNKgxhiB3fRJtdtYRrpump",
     "tp_done": [],
+    "units": 0.000129254057511393,
+    "units_left": 0.0,
     "zone_bottom": 64720.17821455861,
     "zone_top": 89943.7056087004
    },
+   {
+    "chain": "solana",
+    "close_ts": 1793104758.231605,
+    "created_ts": 1793104474.0024717,
+    "entry_mcap": 104425,
+    "entry_ts": 1793104474.0024717,
+    "features": {
+     "age_min": 36.383009390036264,
+     "boosts": 0,
+     "buys_h1": 2245,
+     "buys_h24": 2245,
+     "buys_m5": 149,
+     "change_h1": 154,
+     "change_h24": 154,
+     "change_h6": 154,
+     "change_m5": 16.04,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.4559468176200962,
+     "insiders": 0,
+     "liquidity": 27165.51,
+     "lp_locked_pct": 100,
+     "mcap": 104425,
+     "n_socials": 1,
+     "n_warn": 0,
+     "retracement_now": 0.5215480874771159,
+     "score": 70,
+     "sells_h1": 1152,
+     "sells_h24": 1152,
+     "sells_m5": 102,
+     "top1": 1.1431159468944132,
+     "top10": 5.23775143932583,
+     "top5": 3.044132909213324,
+     "txns_h24": 3397,
+     "vol_h1": 308663.4,
+     "vol_h24": 308663.4,
+     "vol_m5": 18028.97
+    },
+    "id": "e2753ac6",
+    "last_mcap": 1947,
+    "missing": 0,
+    "peak_mcap": 112649,
+    "pnl": -9.824569566674647,
+    "pnl_pct": -98.24569566674647,
+    "profile": "migrated",
+    "realized": 0.1754304333253531,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "DICTATOR",
+    "tf": "minute",
+    "token": "DEAY3bwSbXRCYfGBdRqUi7MNKgxhiB3fRJtdtYRrpump",
+    "tp_done": [],
+    "units": 9.288963370840315e-05,
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "7f40433d": {
     "chain": "solana",
     "created_ts": 1793100273.392959,
@@ -178,9 +243,9 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 114166,
+    "last_mcap": 156219,
     "missing": 0,
-    "peak_mcap": 145705,
+    "peak_mcap": 162904,
     "profile": "migrated",
     "realized": 13.708800544987792,
     "size": 10,
@@ -196,59 +261,6 @@
     "units_left": 6.123221951014225e-05,
     "zone_bottom": 42514.35350346196,
     "zone_top": 52824.262246949686
-   },
-   "e2753ac6": {
-    "chain": "solana",
-    "created_ts": 1793104474.0024717,
-    "entry_mcap": 104425,
-    "entry_ts": 1793104474.0024717,
-    "features": {
-     "age_min": 36.383009390036264,
-     "boosts": 0,
-     "buys_h1": 2245,
-     "buys_h24": 2245,
-     "buys_m5": 149,
-     "change_h1": 154,
-     "change_h24": 154,
-     "change_h6": 154,
-     "change_m5": 16.04,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.4559468176200962,
-     "insiders": 0,
-     "liquidity": 27165.51,
-     "lp_locked_pct": 100,
-     "mcap": 104425,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.5215480874771159,
-     "score": 70,
-     "sells_h1": 1152,
-     "sells_h24": 1152,
-     "sells_m5": 102,
-     "top1": 1.1431159468944132,
-     "top10": 5.23775143932583,
-     "top5": 3.044132909213324,
-     "txns_h24": 3397,
-     "vol_h1": 308663.4,
-     "vol_h24": 308663.4,
-     "vol_m5": 18028.97
-    },
-    "id": "e2753ac6",
-    "last_mcap": 96647,
-    "missing": 0,
-    "peak_mcap": 112649,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "DICTATOR",
-    "tf": "minute",
-    "token": "DEAY3bwSbXRCYfGBdRqUi7MNKgxhiB3fRJtdtYRrpump",
-    "tp_done": [],
-    "units": 9.288963370840315e-05,
-    "units_left": 9.288963370840315e-05
    }
   },
   "started_ts": 1793100258.3871248,
@@ -263,8 +275,9 @@
   }
  },
  "rejected": {
+  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793105084.8963408,
   "solana:2586n7zr5h7jFgU7JK4si7o3ewzpufYk8U3LzzrJpump": 1793102973.469558,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 15
+ "runs": 17
 }
