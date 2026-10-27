@@ -10,7 +10,7 @@
    "symbol": "DICTATOR"
   }
  },
- "last_run": "2026-10-27 12:14:43 UTC",
+ "last_run": "2026-10-27 12:24:43 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -117,9 +117,9 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 122619,
+    "last_mcap": 132264,
     "missing": 0,
-    "peak_mcap": 139548,
+    "peak_mcap": 145705,
     "profile": "migrated",
     "realized": 13.708800544987792,
     "size": 10,
@@ -152,5 +152,5 @@
   "solana:2586n7zr5h7jFgU7JK4si7o3ewzpufYk8U3LzzrJpump": 1793102973.469558,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 11
+ "runs": 13
 }
