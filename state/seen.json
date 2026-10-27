@@ -28,10 +28,10 @@
    "symbol": "\u2588\u2588\u2588"
   }
  },
- "last_run": "2026-10-27 12:54:49 UTC",
+ "last_run": "2026-10-27 13:09:42 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -251,9 +251,9 @@
      "vol_m5": 2254.07
     },
     "id": "3dcc8590",
-    "last_mcap": 952543,
+    "last_mcap": 959384,
     "missing": 0,
-    "peak_mcap": 953190,
+    "peak_mcap": 968726,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -357,7 +357,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 193251,
+    "last_mcap": 184178,
     "missing": 0,
     "peak_mcap": 200124,
     "profile": "migrated",
@@ -393,5 +393,5 @@
   "solana:2586n7zr5h7jFgU7JK4si7o3ewzpufYk8U3LzzrJpump": 1793102973.469558,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 19
+ "runs": 22
 }
