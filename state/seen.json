@@ -162,6 +162,15 @@
    "profile": "migrated",
    "symbol": "Loongcat"
   },
+  "solana:FxZk7hfJawUBphkW4LgYMkQZsAVvA4bnYFPx3hBmiMb3": {
+   "count": 1,
+   "first_mcap": 54071,
+   "first_ts": 1793220703.1881802,
+   "last_mcap": 54071,
+   "last_ts": 1793220703.1881802,
+   "profile": "migrated",
+   "symbol": "PlasticInu"
+  },
   "solana:Gv2KWBcDsFBXodR7zddeyTVPhRnsuSXeNK4VrzSjpump": {
    "count": 1,
    "first_mcap": 332384,
@@ -172,7 +181,7 @@
    "symbol": "PENISINU"
   }
  },
- "last_run": "2026-10-28 20:46:54 UTC",
+ "last_run": "2026-10-28 20:56:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -910,7 +919,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 1809753,
+    "last_mcap": 1990555,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -1018,9 +1027,9 @@
      "vol_m5": 71820.37
     },
     "id": "7246b143",
-    "last_mcap": 522381,
+    "last_mcap": 545888,
     "missing": 0,
-    "peak_mcap": 522381,
+    "peak_mcap": 552154,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1071,7 +1080,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1412348,
+    "last_mcap": 1466291,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -1085,6 +1094,57 @@
     "tp_done": [],
     "units": 6.082435181306733e-06,
     "units_left": 6.082435181306733e-06
+   },
+   "a2b9f33d": {
+    "chain": "solana",
+    "created_ts": 1793220703.1881995,
+    "entry_mcap": 54071,
+    "entry_ts": 1793220703.1881995,
+    "features": {
+     "age_min": 13.944645150502522,
+     "boosts": 0,
+     "buys_h1": 1599,
+     "buys_h24": 1599,
+     "buys_m5": 295,
+     "change_h1": 14.05,
+     "change_h24": 14.05,
+     "change_h6": 14.05,
+     "change_m5": -8.15,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 18977.4,
+     "lp_locked_pct": 100,
+     "mcap": 54071,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 72,
+     "sells_h1": 1033,
+     "sells_h24": 1033,
+     "sells_m5": 214,
+     "top1": 4.1534772344405955,
+     "top10": 20.040887402466055,
+     "top5": 13.297174688230154,
+     "txns_h24": 2632,
+     "vol_h1": 125213.22,
+     "vol_h24": 125213.22,
+     "vol_m5": 17217.75
+    },
+    "id": "a2b9f33d",
+    "last_mcap": 56720,
+    "missing": 0,
+    "peak_mcap": 67934,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "PlasticInu",
+    "tf": "minute",
+    "token": "FxZk7hfJawUBphkW4LgYMkQZsAVvA4bnYFPx3hBmiMb3",
+    "tp_done": [],
+    "units": 0.00017939376005622235,
+    "units_left": 0.00017939376005622235
    }
   },
   "started_ts": 1793199128.4716303,
@@ -1106,5 +1166,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 56
+ "runs": 58
 }
