@@ -64,11 +64,11 @@
    "symbol": "OF"
   }
  },
- "last_run": "2026-10-28 07:04:03 UTC",
+ "last_run": "2026-10-28 07:14:01 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 2,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -409,7 +409,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5625964,
+    "last_mcap": 5738360,
     "missing": 0,
     "peak_mcap": 6150571,
     "profile": "swing_survivor",
@@ -423,58 +423,6 @@
     "tp_done": [],
     "units": 1.8904707993397773e-06,
     "units_left": 1.8904707993397773e-06
-   },
-   "3fc6588b": {
-    "chain": "solana",
-    "created_ts": 1793167730.7740574,
-    "expires_ts": 1793174930.7740574,
-    "features": {
-     "age_min": 13.37174901564916,
-     "boosts": 0,
-     "buys_h1": 1029,
-     "buys_h24": 1029,
-     "buys_m5": 272,
-     "change_h1": 372,
-     "change_h24": 372,
-     "change_h6": 372,
-     "change_m5": 85.51,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.6504674828512399,
-     "insiders": 0,
-     "liquidity": 38779.91,
-     "lp_locked_pct": 100,
-     "mcap": 203246,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.0,
-     "score": 82,
-     "sells_h1": 503,
-     "sells_h24": 503,
-     "sells_m5": 128,
-     "top1": 0.8620253659922672,
-     "top10": 7.820700467637167,
-     "top5": 4.112301316623691,
-     "txns_h24": 1532,
-     "vol_h1": 193380.32,
-     "vol_h24": 193380.32,
-     "vol_m5": 42900.51
-    },
-    "id": "3fc6588b",
-    "last_mcap": 203246,
-    "missing": 0,
-    "peak_mcap": 203246,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "OF",
-    "tf": "minute",
-    "token": "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump",
-    "tp_done": [],
-    "zone_bottom": 73613.6211533341,
-    "zone_top": 101321.30518162911
    },
    "705f3740": {
     "chain": "solana",
@@ -618,9 +566,9 @@
      "vol_m5": 21841.98
     },
     "id": "ad8b5044",
-    "last_mcap": 77184,
+    "last_mcap": 71180,
     "missing": 0,
-    "peak_mcap": 80861,
+    "peak_mcap": 81878,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -671,7 +619,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1657267,
+    "last_mcap": 1658024,
     "missing": 0,
     "peak_mcap": 1695447,
     "profile": "swing_survivor",
@@ -704,5 +652,5 @@
   "solana:835qApBwFrEAVkEoUW6D57oW8n2mW2btvfGKib8qV7XY": 1793170129.5156567,
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738
  },
- "runs": 39
+ "runs": 41
 }
