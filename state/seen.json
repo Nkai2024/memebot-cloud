@@ -172,7 +172,7 @@
    "symbol": "PENISINU"
   }
  },
- "last_run": "2026-10-28 20:26:53 UTC",
+ "last_run": "2026-10-28 20:36:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -910,7 +910,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 1731971,
+    "last_mcap": 1915665,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -1018,9 +1018,9 @@
      "vol_m5": 71820.37
     },
     "id": "7246b143",
-    "last_mcap": 444186,
+    "last_mcap": 490656,
     "missing": 0,
-    "peak_mcap": 444186,
+    "peak_mcap": 500146,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1071,7 +1071,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1329313,
+    "last_mcap": 1301897,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -1106,5 +1106,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 52
+ "runs": 54
 }
