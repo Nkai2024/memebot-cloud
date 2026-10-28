@@ -64,10 +64,10 @@
    "symbol": "OF"
   }
  },
- "last_run": "2026-10-28 06:09:08 UTC",
+ "last_run": "2026-10-28 06:19:04 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -230,7 +230,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5785691,
+    "last_mcap": 5535704,
     "missing": 0,
     "peak_mcap": 5956771,
     "profile": "swing_survivor",
@@ -387,7 +387,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 461983,
+    "last_mcap": 493135,
     "missing": 0,
     "peak_mcap": 662448,
     "profile": "migrated",
@@ -547,7 +547,7 @@
      "vol_m5": 21841.98
     },
     "id": "ad8b5044",
-    "last_mcap": 64334,
+    "last_mcap": 55898,
     "missing": 0,
     "peak_mcap": 80861,
     "profile": "migrated",
@@ -600,7 +600,7 @@
      "vol_m5": 42900.51
     },
     "id": "bee876a3",
-    "last_mcap": 133682,
+    "last_mcap": 194154,
     "missing": 0,
     "peak_mcap": 203246,
     "profile": "migrated",
@@ -653,9 +653,9 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1636745,
+    "last_mcap": 1660088,
     "missing": 0,
-    "peak_mcap": 1636745,
+    "peak_mcap": 1660088,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -706,9 +706,9 @@
      "vol_m5": 23344.28
     },
     "id": "d4aba908",
-    "last_mcap": 63935,
+    "last_mcap": 75739,
     "missing": 0,
-    "peak_mcap": 65946,
+    "peak_mcap": 75739,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -736,5 +736,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 28
+ "runs": 30
 }
