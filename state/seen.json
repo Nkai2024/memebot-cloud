@@ -91,7 +91,7 @@
    "symbol": "Stonker"
   }
  },
- "last_run": "2026-10-28 11:38:20 UTC",
+ "last_run": "2026-10-28 11:48:20 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -1019,7 +1019,7 @@
      "vol_m5": 22940.73
     },
     "id": "132ceee2",
-    "last_mcap": 15753,
+    "last_mcap": 17977,
     "missing": 0,
     "peak_mcap": 28965,
     "profile": "migrated",
@@ -1074,7 +1074,7 @@
      "vol_m5": 70143.83
     },
     "id": "1993ea16",
-    "last_mcap": 215744,
+    "last_mcap": 173703,
     "missing": 0,
     "peak_mcap": 272357,
     "profile": "migrated",
@@ -1127,7 +1127,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 6984286,
+    "last_mcap": 5793675,
     "missing": 0,
     "peak_mcap": 7886185,
     "profile": "swing_survivor",
@@ -1180,7 +1180,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 240905,
+    "last_mcap": 280648,
     "missing": 0,
     "peak_mcap": 833094,
     "profile": "migrated",
@@ -1289,7 +1289,7 @@
      "vol_m5": 6168.78
     },
     "id": "adb7c452",
-    "last_mcap": 718680,
+    "last_mcap": 617784,
     "missing": 0,
     "peak_mcap": 819671,
     "profile": "swing_survivor",
@@ -1344,7 +1344,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1829878,
+    "last_mcap": 1726853,
     "missing": 0,
     "peak_mcap": 1855624,
     "profile": "swing_survivor",
@@ -1397,7 +1397,7 @@
      "vol_m5": 6168.78
     },
     "id": "d369c81f",
-    "last_mcap": 718680,
+    "last_mcap": 617784,
     "missing": 0,
     "peak_mcap": 819671,
     "profile": "swing_survivor",
@@ -1434,5 +1434,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 53
+ "runs": 55
 }
