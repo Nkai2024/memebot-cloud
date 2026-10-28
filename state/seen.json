@@ -28,7 +28,7 @@
    "symbol": "INVISIBLE"
   }
  },
- "last_run": "2026-10-28 04:29:01 UTC",
+ "last_run": "2026-10-28 04:44:01 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -194,7 +194,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5090701,
+    "last_mcap": 5060371,
     "missing": 0,
     "peak_mcap": 5190032,
     "profile": "swing_survivor",
@@ -299,20 +299,22 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 182099,
+    "last_mcap": 211183,
     "missing": 0,
-    "peak_mcap": 184109,
+    "peak_mcap": 242849,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.919141331627678,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Rapport",
     "tf": "minute",
     "token": "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 8.441241993873573e-05,
-    "units_left": 8.441241993873573e-05
+    "units_left": 2.532372598162072e-05
    },
    "705f3740": {
     "chain": "solana",
@@ -381,5 +383,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 8
+ "runs": 11
 }
