@@ -37,7 +37,7 @@
    "symbol": "INVISIBLE"
   }
  },
- "last_run": "2026-10-28 05:39:02 UTC",
+ "last_run": "2026-10-28 05:49:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -203,7 +203,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5815714,
+    "last_mcap": 5578817,
     "missing": 0,
     "peak_mcap": 5952934,
     "profile": "swing_survivor",
@@ -308,7 +308,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 278120,
+    "last_mcap": 356648,
     "missing": 0,
     "peak_mcap": 479961,
     "profile": "migrated",
@@ -415,7 +415,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1541488,
+    "last_mcap": 1560176,
     "missing": 0,
     "peak_mcap": 1594406,
     "profile": "swing_survivor",
@@ -445,5 +445,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 22
+ "runs": 24
 }
