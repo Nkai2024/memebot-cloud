@@ -1,5 +1,14 @@
 {
  "alerts": {
+  "solana:6EKmRQYzAXh5t6t1XNe2chYqmdSHgd32uA7xki9upump": {
+   "count": 1,
+   "first_mcap": 150268,
+   "first_ts": 1793203342.0019891,
+   "last_mcap": 150268,
+   "last_ts": 1793203342.0019891,
+   "profile": "migrated",
+   "symbol": "NVINU"
+  },
   "solana:8sooQVq6sRjV1jHxdCk53VZ9fxna8WitKKzAFs1xX9wP": {
    "count": 1,
    "first_mcap": 208497,
@@ -46,10 +55,10 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 15:52:32 UTC",
+ "last_run": "2026-10-28 16:02:39 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -376,9 +385,9 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 831153,
+    "last_mcap": 721273,
     "missing": 0,
-    "peak_mcap": 831153,
+    "peak_mcap": 868861,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -390,6 +399,58 @@
     "tp_done": [],
     "units": 1.998051384937988e-05,
     "units_left": 1.998051384937988e-05
+   },
+   "2ad8af8b": {
+    "chain": "solana",
+    "created_ts": 1793203342.002031,
+    "expires_ts": 1793210542.002031,
+    "features": {
+     "age_min": 16.15599415699641,
+     "boosts": 0,
+     "buys_h1": 5688,
+     "buys_h24": 5688,
+     "buys_m5": 1520,
+     "change_h1": 196,
+     "change_h24": 196,
+     "change_h6": 196,
+     "change_m5": -3.71,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7442977698596641,
+     "insiders": 0,
+     "liquidity": 31451.56,
+     "lp_locked_pct": 100,
+     "mcap": 150268,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.2925928783522181,
+     "score": 91,
+     "sells_h1": 1285,
+     "sells_h24": 1285,
+     "sells_m5": 410,
+     "top1": 0.3336470614405674,
+     "top10": 3.141366806627979,
+     "top5": 1.6099910464393603,
+     "txns_h24": 6973,
+     "vol_h1": 233512.31,
+     "vol_h24": 233512.31,
+     "vol_m5": 65366.8
+    },
+    "id": "2ad8af8b",
+    "last_mcap": 150268,
+    "missing": 0,
+    "peak_mcap": 150268,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "NVINU",
+    "tf": "minute",
+    "token": "6EKmRQYzAXh5t6t1XNe2chYqmdSHgd32uA7xki9upump",
+    "tp_done": [],
+    "zone_bottom": 80577.256992973,
+    "zone_top": 104306.23112305925
    },
    "368edfb8": {
     "chain": "solana",
@@ -481,7 +542,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1621483,
+    "last_mcap": 1597228,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -495,6 +556,59 @@
     "tp_done": [],
     "units": 6.082435181306733e-06,
     "units_left": 6.082435181306733e-06
+   },
+   "a306d07d": {
+    "chain": "solana",
+    "created_ts": 1793203342.002031,
+    "entry_mcap": 150268,
+    "entry_ts": 1793203342.002031,
+    "features": {
+     "age_min": 16.15599415699641,
+     "boosts": 0,
+     "buys_h1": 5688,
+     "buys_h24": 5688,
+     "buys_m5": 1520,
+     "change_h1": 196,
+     "change_h24": 196,
+     "change_h6": 196,
+     "change_m5": -3.71,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7442977698596641,
+     "insiders": 0,
+     "liquidity": 31451.56,
+     "lp_locked_pct": 100,
+     "mcap": 150268,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.2925928783522181,
+     "score": 91,
+     "sells_h1": 1285,
+     "sells_h24": 1285,
+     "sells_m5": 410,
+     "top1": 0.3336470614405674,
+     "top10": 3.141366806627979,
+     "top5": 1.6099910464393603,
+     "txns_h24": 6973,
+     "vol_h1": 233512.31,
+     "vol_h24": 233512.31,
+     "vol_m5": 65366.8
+    },
+    "id": "a306d07d",
+    "last_mcap": 150268,
+    "missing": 0,
+    "peak_mcap": 150268,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "NVINU",
+    "tf": "minute",
+    "token": "6EKmRQYzAXh5t6t1XNe2chYqmdSHgd32uA7xki9upump",
+    "tp_done": [],
+    "units": 6.455133494822584e-05,
+    "units_left": 6.455133494822584e-05
    }
   },
   "started_ts": 1793199128.4716303,
@@ -512,5 +626,5 @@
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793199753.0203013,
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638
  },
- "runs": 13
+ "runs": 15
 }
