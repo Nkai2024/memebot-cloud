@@ -18,6 +18,15 @@
    "profile": "swing_survivor",
    "symbol": "CHICO"
   },
+  "solana:AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": {
+   "count": 1,
+   "first_mcap": 1579966,
+   "first_ts": 1793165331.8076613,
+   "last_mcap": 1579966,
+   "last_ts": 1793165331.8076613,
+   "profile": "swing_survivor",
+   "symbol": "LAUNCH"
+  },
   "solana:BpRPVFVhGN5Pf1HpXpqYuESGwAj52ETreJbmkpLFpump": {
    "count": 1,
    "first_mcap": 148413,
@@ -28,10 +37,10 @@
    "symbol": "INVISIBLE"
   }
  },
- "last_run": "2026-10-28 05:24:26 UTC",
+ "last_run": "2026-10-28 05:39:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -194,7 +203,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5759957,
+    "last_mcap": 5815714,
     "missing": 0,
     "peak_mcap": 5952934,
     "profile": "swing_survivor",
@@ -299,7 +308,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 295490,
+    "last_mcap": 278120,
     "missing": 0,
     "peak_mcap": 479961,
     "profile": "migrated",
@@ -367,6 +376,59 @@
     "tp_done": [],
     "zone_bottom": 1796044.435723739,
     "zone_top": 3171801.944427926
+   },
+   "d18e1a8b": {
+    "chain": "solana",
+    "created_ts": 1793165331.8076847,
+    "entry_mcap": 1579966,
+    "entry_ts": 1793165331.8076847,
+    "features": {
+     "age_min": 3950.022273306052,
+     "boosts": 0,
+     "buys_h1": 41,
+     "buys_h24": 15157,
+     "buys_m5": 7,
+     "change_h1": -3.92,
+     "change_h24": 8.24,
+     "change_h6": -11.47,
+     "change_m5": 1.61,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.022475386403888808,
+     "insiders": 0,
+     "liquidity": 143986.51,
+     "lp_locked_pct": 99.12999999999982,
+     "mcap": 1579966,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 1.0,
+     "score": 70,
+     "sells_h1": 36,
+     "sells_h24": 12470,
+     "sells_m5": 1,
+     "top1": 3.3184885223731126,
+     "top10": 15.824894551868077,
+     "top5": 10.270158610131757,
+     "txns_h24": 27627,
+     "vol_h1": 6583.54,
+     "vol_h24": 1577995.47,
+     "vol_m5": 1008.77
+    },
+    "id": "d18e1a8b",
+    "last_mcap": 1541488,
+    "missing": 0,
+    "peak_mcap": 1594406,
+    "profile": "swing_survivor",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "LAUNCH",
+    "tf": "hour",
+    "token": "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C",
+    "tp_done": [],
+    "units": 6.139372619410797e-06,
+    "units_left": 6.139372619410797e-06
    }
   },
   "started_ts": 1793159617.412742,
@@ -383,5 +445,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 19
+ "runs": 22
 }
