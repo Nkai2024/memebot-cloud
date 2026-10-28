@@ -73,9 +73,9 @@
    "symbol": "CA"
   }
  },
- "last_run": "2026-10-28 09:58:27 UTC",
+ "last_run": "2026-10-28 10:13:21 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 2,
   "rejected_safety": 0
  },
@@ -760,7 +760,7 @@
      "vol_m5": 7409.44
     },
     "id": "207d6e7c",
-    "last_mcap": 260294,
+    "last_mcap": 133750,
     "missing": 0,
     "peak_mcap": 260294,
     "profile": "migrated",
@@ -815,7 +815,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 4312767,
+    "last_mcap": 4331075,
     "missing": 0,
     "peak_mcap": 6150571,
     "profile": "swing_survivor",
@@ -868,7 +868,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 677631,
+    "last_mcap": 632373,
     "missing": 0,
     "peak_mcap": 833094,
     "profile": "migrated",
@@ -925,9 +925,9 @@
      "vol_m5": 19265.57
     },
     "id": "58f51984",
-    "last_mcap": 62407,
+    "last_mcap": 54640,
     "missing": 0,
-    "peak_mcap": 77664,
+    "peak_mcap": 82768,
     "profile": "migrated",
     "realized": 16.592361400837454,
     "size": 10,
@@ -1087,9 +1087,9 @@
      "vol_m5": 6168.78
     },
     "id": "adb7c452",
-    "last_mcap": 764512,
+    "last_mcap": 795133,
     "missing": 0,
-    "peak_mcap": 764512,
+    "peak_mcap": 811619,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -1142,7 +1142,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1705381,
+    "last_mcap": 1698020,
     "missing": 0,
     "peak_mcap": 1845353,
     "profile": "swing_survivor",
@@ -1195,9 +1195,9 @@
      "vol_m5": 6168.78
     },
     "id": "d369c81f",
-    "last_mcap": 764512,
+    "last_mcap": 795133,
     "missing": 0,
-    "peak_mcap": 764512,
+    "peak_mcap": 811619,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -1232,5 +1232,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 33
+ "runs": 36
 }
