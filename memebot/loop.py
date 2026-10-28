@@ -23,21 +23,56 @@ SAVE_EVERY = int(os.environ.get("MEMEBOT_SAVE_EVERY", 600))
 LOOP_MINUTES = float(os.environ.get("MEMEBOT_LOOP_MINUTES", 330))
 
 
+def _git(*args):
+    return subprocess.run(["git", *args], cwd=M.ROOT, capture_output=True, text=True)
+
+
 def push_state():
-    """Commit state/seen.json and push. Never raises: a failed push just retries next time."""
-    cmds = [
-        ["git", "add", "state/seen.json"],
-        ["git", "commit", "-q", "-m", "state update [skip ci]"],
-        ["git", "pull", "-q", "--rebase", "-X", "theirs"],
-        ["git", "push", "-q"],
-    ]
-    for c in cmds:
-        r = subprocess.run(c, cwd=M.ROOT, capture_output=True, text=True)
-        if r.returncode != 0 and c[1] == "commit":
+    """Save state/seen.json to the repo as a whole file. Never raises.
+
+    The old version used `git pull --rebase -X theirs`, which merged two copies of the JSON
+    line by line and broke it (paper book reset 3 times, Oct 27-28). Now we move onto the
+    latest main and commit OUR file whole, so the saved JSON is always exactly what we wrote."""
+    for attempt in range(3):
+        steps = [
+            ("fetch", "-q", "origin", "main"),
+            ("reset", "-q", "origin/main"),   # index/HEAD = remote; our files on disk untouched
+            ("add", "state/seen.json"),
+        ]
+        for c in steps:
+            r = _git(*c)
+            if r.returncode != 0:
+                print(f"[loop] git {c[0]} failed: {r.stderr.strip()[:200]}")
+                return
+        if _git("diff", "--cached", "--quiet").returncode == 0:
             return  # nothing changed
-        if r.returncode != 0:
-            print(f"[loop] {' '.join(c)} failed: {r.stderr.strip()[:200]}")
+        _git("commit", "-q", "-m", "state update [skip ci]")
+        r = _git("push", "-q", "origin", "HEAD:main")
+        if r.returncode == 0:
             return
+        print(f"[loop] push failed (attempt {attempt + 1}): {r.stderr.strip()[:200]}")
+        time.sleep(5)
+
+
+def recover_lost_trades():
+    """One time per paper version: merge back trades lost in the old state resets."""
+    try:
+        from . import paper, recover, state as st
+        cfg = M.load_config()
+        version = paper.settings(cfg)["version"]
+        state = st.load()
+        if state is None or version in state.get("recovery", {}):
+            return
+        rep = recover.run_once(state, M.ROOT, version)
+        st.save(state)
+        push_state()
+        msg = (f"🛠 <b>MemeBot state fix</b>\nRecovered {rep['added_closed']} paper trades that were lost "
+               f"when the save file broke. {rep['lost_open']} open positions from those resets could not "
+               f"be finished and are left out. The daily report now covers the full {version} book.")
+        print(msg)
+        telegram.send(msg)
+    except Exception as ex:
+        print(f"[loop] recovery skipped: {ex}")
 
 
 def run_loop(minutes=LOOP_MINUTES, dry_run=False, sleep=time.sleep, clock=time.time):
@@ -75,6 +110,7 @@ def main():
         ok = telegram.send("✅ <b>MemeBot test message</b>\nTelegram works. v2 is starting: "
                            "scans every 5 min, paper prices every minute.")
         print("Test message sent" if ok else "Test message FAILED - check the two secrets")
+    recover_lost_trades()
     run_loop()
 
 
