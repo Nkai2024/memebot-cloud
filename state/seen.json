@@ -100,10 +100,10 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 18:32:35 UTC",
+ "last_run": "2026-10-28 18:42:32 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -779,7 +779,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 2325968,
+    "last_mcap": 2798894,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -887,7 +887,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1393441,
+    "last_mcap": 1430174,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -940,20 +940,22 @@
      "vol_m5": 113221.57
     },
     "id": "a37614b5",
-    "last_mcap": 598799,
+    "last_mcap": 892595,
     "missing": 0,
-    "peak_mcap": 642101,
+    "peak_mcap": 892595,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.24959509145203,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "discat",
     "tf": "minute",
     "token": "688wuzgmb5VxNUbSGzos867MRTUcjDqdxHkruRsopump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 2.3511389692800665e-05,
-    "units_left": 2.3511389692800665e-05
+    "units_left": 7.053416907840202e-06
    }
   },
   "started_ts": 1793199128.4716303,
@@ -973,5 +975,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 45
+ "runs": 47
 }
