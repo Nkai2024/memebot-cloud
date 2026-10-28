@@ -73,9 +73,9 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 16:42:38 UTC",
+ "last_run": "2026-10-28 16:57:32 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 1,
   "rejected_safety": 0
  },
@@ -403,7 +403,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 1854228,
+    "last_mcap": 1799560,
     "missing": 0,
     "peak_mcap": 2587832,
     "profile": "migrated",
@@ -459,7 +459,7 @@
      "vol_m5": 31534.67
     },
     "id": "170f7ee3",
-    "last_mcap": 146354,
+    "last_mcap": 117436,
     "missing": 0,
     "peak_mcap": 205012,
     "profile": "migrated",
@@ -616,7 +616,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1531926,
+    "last_mcap": 1494888,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -669,20 +669,22 @@
      "vol_m5": 65366.8
     },
     "id": "a306d07d",
-    "last_mcap": 251995,
+    "last_mcap": 297626,
     "missing": 0,
-    "peak_mcap": 254703,
+    "peak_mcap": 442699,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.889303570287753,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "NVINU",
     "tf": "minute",
     "token": "6EKmRQYzAXh5t6t1XNe2chYqmdSHgd32uA7xki9upump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 6.455133494822584e-05,
-    "units_left": 6.455133494822584e-05
+    "units_left": 1.9365400484467754e-05
    },
    "af741b3a": {
     "chain": "solana",
@@ -774,7 +776,7 @@
      "vol_m5": 65203.64
     },
     "id": "e1c1cd30",
-    "last_mcap": 351643,
+    "last_mcap": 291660,
     "missing": 0,
     "peak_mcap": 439043,
     "profile": "migrated",
@@ -857,8 +859,9 @@
  },
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793199753.0203013,
+  "bsc:0xF7f76C059C83c21e627cb90800Ad2AfBCf3c7777": 1793206052.6857166,
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 23
+ "runs": 26
 }
