@@ -118,7 +118,7 @@
    "symbol": "Stonker"
   }
  },
- "last_run": "2026-10-28 13:18:20 UTC",
+ "last_run": "2026-10-28 13:28:20 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -1744,7 +1744,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 288689,
+    "last_mcap": 280637,
     "missing": 0,
     "peak_mcap": 833094,
     "profile": "migrated",
@@ -1837,5 +1837,5 @@
   "solana:GF74fBfcaeLjUiUwKpRiUbvMQtTvNyzMoo6KNyyqNyk6": 1793193189.0338724,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 73
+ "runs": 75
 }
