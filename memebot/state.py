@@ -1,23 +1,47 @@
 """Remembers what was already alerted, between GitHub Actions runs (saved to state/seen.json)."""
 import json
 import os
+import subprocess
 import time
 
-PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "state", "seen.json")
+ROOT = os.path.dirname(os.path.dirname(__file__))
+PATH = os.path.join(ROOT, "state", "seen.json")
 
 
 def load():
     try:
         with open(PATH, encoding="utf-8") as f:
             return json.load(f)
-    except (FileNotFoundError, ValueError):
+    except FileNotFoundError:
         return None  # None = first ever run
+    except ValueError:
+        # A damaged file must never wipe the bot's memory: use the newest readable copy in git.
+        good = last_good_from_git()
+        if good is not None:
+            print("[state] seen.json was unreadable - restored the last good copy from git history")
+            save(good)
+        return good
+
+
+def last_good_from_git(max_versions=200):
+    rel = os.path.relpath(PATH, ROOT)
+    r = subprocess.run(["git", "log", f"-n{max_versions}", "--format=%H", "--", rel],
+                       cwd=ROOT, capture_output=True, text=True)
+    for sha in r.stdout.split():
+        show = subprocess.run(["git", "show", f"{sha}:{rel}"], cwd=ROOT, capture_output=True, text=True)
+        try:
+            return json.loads(show.stdout)
+        except ValueError:
+            continue
+    return None
 
 
 def save(state):
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
-    with open(PATH, "w", encoding="utf-8") as f:
+    tmp = PATH + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=1, sort_keys=True)
+    os.replace(tmp, PATH)  # all-or-nothing write
 
 
 def prune(state, days):
