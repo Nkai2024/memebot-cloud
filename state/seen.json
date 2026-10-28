@@ -1576,11 +1576,11 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-28 22:37:53 UTC",
+ "last_run": "2026-10-28 22:47:30 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 2,
-  "rejected_safety": 1
+  "checked": 1,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -11826,6 +11826,68 @@
     "units_left": 0.0,
     "zone_bottom": 81968.62001975598,
     "zone_top": 114872.54352533717
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1793227265.5732896,
+    "created_ts": 1793223702.8074696,
+    "entry_mcap": 16262,
+    "entry_ts": 1793226005.5662696,
+    "expires_ts": 1793230902.8074696,
+    "features": {
+     "age_min": 10.445104467868806,
+     "boosts": 0,
+     "buys_h1": 700,
+     "buys_h24": 700,
+     "buys_m5": 288,
+     "change_h1": 3017,
+     "change_h24": 3017,
+     "change_h6": 3017,
+     "change_m5": 210,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.20266766465479444,
+     "insiders": 0,
+     "liquidity": 17675.75,
+     "lp_locked_pct": 100,
+     "mcap": 47924,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 85,
+     "sells_h1": 559,
+     "sells_h24": 559,
+     "sells_m5": 268,
+     "top1": 2.9399464352239,
+     "top10": 21.526716319148203,
+     "top5": 11.963446687835098,
+     "txns_h24": 1259,
+     "vol_h1": 74939.66,
+     "vol_h24": 74939.66,
+     "vol_m5": 36189.6
+    },
+    "id": "491286aa",
+    "last_mcap": 14235,
+    "missing": 0,
+    "peak_mcap": 35292,
+    "pnl": 6.764532904931741,
+    "pnl_pct": 67.64532904931741,
+    "profile": "migrated",
+    "realized": 16.76453290493174,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "ZONE",
+    "symbol": "POOLPAD",
+    "tf": "minute",
+    "token": "756P8NrnsBPzZDqZB2hLQxJ2YcdyscP5LrYVXndbYUbf",
+    "tp_done": [
+     0
+    ],
+    "units": 0.0005964825974664863,
+    "units_left": 0.0,
+    "zone_bottom": 11468.44512231684,
+    "zone_top": 19260.472119073547
    }
   ],
   "last_summary_day": "2026-10-28",
@@ -11920,7 +11982,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 2227202,
+    "last_mcap": 2594733,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -11937,64 +11999,6 @@
     ],
     "units": 1.998051384937988e-05,
     "units_left": 2.9970770774069826e-06
-   },
-   "491286aa": {
-    "chain": "solana",
-    "created_ts": 1793223702.8074696,
-    "entry_mcap": 16262,
-    "entry_ts": 1793226005.5662696,
-    "expires_ts": 1793230902.8074696,
-    "features": {
-     "age_min": 10.445104467868806,
-     "boosts": 0,
-     "buys_h1": 700,
-     "buys_h24": 700,
-     "buys_m5": 288,
-     "change_h1": 3017,
-     "change_h24": 3017,
-     "change_h6": 3017,
-     "change_m5": 210,
-     "creator_pct": 0.0,
-     "dex": "raydium",
-     "first_candle_share": 0.20266766465479444,
-     "insiders": 0,
-     "liquidity": 17675.75,
-     "lp_locked_pct": 100,
-     "mcap": 47924,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.0,
-     "score": 85,
-     "sells_h1": 559,
-     "sells_h24": 559,
-     "sells_m5": 268,
-     "top1": 2.9399464352239,
-     "top10": 21.526716319148203,
-     "top5": 11.963446687835098,
-     "txns_h24": 1259,
-     "vol_h1": 74939.66,
-     "vol_h24": 74939.66,
-     "vol_m5": 36189.6
-    },
-    "id": "491286aa",
-    "last_mcap": 24595,
-    "missing": 0,
-    "peak_mcap": 35292,
-    "profile": "migrated",
-    "realized": 14.29367234042553,
-    "size": 10,
-    "status": "open",
-    "strategy": "ZONE",
-    "symbol": "POOLPAD",
-    "tf": "minute",
-    "token": "756P8NrnsBPzZDqZB2hLQxJ2YcdyscP5LrYVXndbYUbf",
-    "tp_done": [
-     0
-    ],
-    "units": 0.0005964825974664863,
-    "units_left": 0.0001789447792399459,
-    "zone_bottom": 11468.44512231684,
-    "zone_top": 19260.472119073547
    },
    "4be7a0f0": {
     "chain": "solana",
@@ -12034,7 +12038,7 @@
      "vol_m5": 70554.71
     },
     "id": "4be7a0f0",
-    "last_mcap": 551205,
+    "last_mcap": 334621,
     "missing": 0,
     "peak_mcap": 579589,
     "profile": "migrated",
@@ -12087,7 +12091,7 @@
      "vol_m5": 71820.37
     },
     "id": "7246b143",
-    "last_mcap": 606379,
+    "last_mcap": 583860,
     "missing": 0,
     "peak_mcap": 1016793,
     "profile": "migrated",
@@ -12142,7 +12146,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 1048492,
+    "last_mcap": 1213520,
     "missing": 0,
     "peak_mcap": 1462886,
     "profile": "migrated",
@@ -12197,7 +12201,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1396883,
+    "last_mcap": 1362584,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -21039,5 +21043,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 78
+ "runs": 80
 }
