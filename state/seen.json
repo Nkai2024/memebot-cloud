@@ -190,11 +190,11 @@
    "symbol": "CATBOT"
   }
  },
- "last_run": "2026-10-28 21:21:55 UTC",
+ "last_run": "2026-10-28 21:31:54 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 2,
-  "rejected_safety": 1
+  "checked": 1,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -983,7 +983,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 2205292,
+    "last_mcap": 2099044,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -1091,20 +1091,22 @@
      "vol_m5": 71820.37
     },
     "id": "7246b143",
-    "last_mcap": 595275,
+    "last_mcap": 695174,
     "missing": 0,
-    "peak_mcap": 602505,
+    "peak_mcap": 695174,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.775105047776066,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "PENISINU",
     "tf": "minute",
     "token": "Gv2KWBcDsFBXodR7zddeyTVPhRnsuSXeNK4VrzSjpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 2.91831135072687e-05,
-    "units_left": 2.91831135072687e-05
+    "units_left": 8.75493405218061e-06
    },
    "8a18a72a": {
     "chain": "solana",
@@ -1144,7 +1146,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 558539,
+    "last_mcap": 589204,
     "missing": 0,
     "peak_mcap": 625859,
     "profile": "migrated",
@@ -1197,7 +1199,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1533992,
+    "last_mcap": 1580415,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -1285,5 +1287,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 63
+ "runs": 65
 }
