@@ -73,7 +73,7 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 17:17:32 UTC",
+ "last_run": "2026-10-28 17:27:36 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -519,7 +519,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 1735081,
+    "last_mcap": 1577589,
     "missing": 0,
     "peak_mcap": 2587832,
     "profile": "migrated",
@@ -679,7 +679,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1464943,
+    "last_mcap": 1447769,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -732,9 +732,9 @@
      "vol_m5": 65366.8
     },
     "id": "a306d07d",
-    "last_mcap": 409118,
+    "last_mcap": 163461,
     "missing": 0,
-    "peak_mcap": 616186,
+    "peak_mcap": 663413,
     "profile": "migrated",
     "realized": 14.889303570287753,
     "size": 10,
@@ -819,5 +819,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 30
+ "runs": 32
 }
