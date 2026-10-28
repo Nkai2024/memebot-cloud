@@ -64,7 +64,7 @@
    "symbol": "OF"
   }
  },
- "last_run": "2026-10-28 06:19:04 UTC",
+ "last_run": "2026-10-28 06:34:01 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -230,7 +230,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5535704,
+    "last_mcap": 5789994,
     "missing": 0,
     "peak_mcap": 5956771,
     "profile": "swing_survivor",
@@ -297,58 +297,6 @@
     "zone_bottom": 73613.6211533341,
     "zone_top": 101321.30518162911
    },
-   "50ac058e": {
-    "chain": "solana",
-    "created_ts": 1793161430.9874654,
-    "expires_ts": 1793168630.9874654,
-    "features": {
-     "age_min": 30.43766207297643,
-     "boosts": 0,
-     "buys_h1": 4305,
-     "buys_h24": 4305,
-     "buys_m5": 226,
-     "change_h1": 161,
-     "change_h24": 161,
-     "change_h6": 161,
-     "change_m5": 9.25,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.06024150324465981,
-     "insiders": 0,
-     "liquidity": 27211.35,
-     "lp_locked_pct": 100,
-     "mcap": 114912,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.2940017997104738,
-     "score": 81,
-     "sells_h1": 3616,
-     "sells_h24": 3616,
-     "sells_m5": 125,
-     "top1": 2.601352798824993,
-     "top10": 19.35401966772866,
-     "top5": 10.341190737451212,
-     "txns_h24": 7921,
-     "vol_h1": 116621.38,
-     "vol_h24": 116621.38,
-     "vol_m5": 37551.16
-    },
-    "id": "50ac058e",
-    "last_mcap": 114912,
-    "missing": 0,
-    "peak_mcap": 114912,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "Rapport",
-    "tf": "minute",
-    "token": "69Y6D9xQKkDYPvESDiKaQpU9Z5FXzY8LB7PthQkmpump",
-    "tp_done": [],
-    "zone_bottom": 64669.72194682655,
-    "zone_top": 81825.6845254824
-   },
    "555fa4cb": {
     "chain": "solana",
     "created_ts": 1793161430.9874654,
@@ -387,9 +335,9 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 493135,
+    "last_mcap": 702715,
     "missing": 0,
-    "peak_mcap": 662448,
+    "peak_mcap": 765837,
     "profile": "migrated",
     "realized": 21.00305913133528,
     "size": 10,
@@ -547,7 +495,7 @@
      "vol_m5": 21841.98
     },
     "id": "ad8b5044",
-    "last_mcap": 55898,
+    "last_mcap": 62774,
     "missing": 0,
     "peak_mcap": 80861,
     "profile": "migrated",
@@ -600,9 +548,9 @@
      "vol_m5": 42900.51
     },
     "id": "bee876a3",
-    "last_mcap": 194154,
+    "last_mcap": 153027,
     "missing": 0,
-    "peak_mcap": 203246,
+    "peak_mcap": 294022,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -653,7 +601,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1660088,
+    "last_mcap": 1651960,
     "missing": 0,
     "peak_mcap": 1660088,
     "profile": "swing_survivor",
@@ -706,20 +654,22 @@
      "vol_m5": 23344.28
     },
     "id": "d4aba908",
-    "last_mcap": 75739,
+    "last_mcap": 80901,
     "missing": 0,
-    "peak_mcap": 75739,
+    "peak_mcap": 125709,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.893530896246203,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "raycat",
     "tf": "minute",
     "token": "GcumZadLqEiWzB2VLVr6WgZwqcN4Deg51S3bxR4UWmzh",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.0001627707952276274,
-    "units_left": 0.0001627707952276274
+    "units_left": 4.883123856828822e-05
    }
   },
   "started_ts": 1793159617.412742,
@@ -736,5 +686,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 30
+ "runs": 33
 }
