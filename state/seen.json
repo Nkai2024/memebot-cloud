@@ -28,7 +28,7 @@
    "symbol": "INVISIBLE"
   }
  },
- "last_run": "2026-10-28 04:54:01 UTC",
+ "last_run": "2026-10-28 05:04:01 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -194,7 +194,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5387044,
+    "last_mcap": 5443975,
     "missing": 0,
     "peak_mcap": 5604522,
     "profile": "swing_survivor",
@@ -299,9 +299,9 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 265044,
+    "last_mcap": 359694,
     "missing": 0,
-    "peak_mcap": 265044,
+    "peak_mcap": 379582,
     "profile": "migrated",
     "realized": 13.919141331627678,
     "size": 10,
@@ -383,5 +383,5 @@
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793161449.2888114
  },
- "runs": 13
+ "runs": 15
 }
