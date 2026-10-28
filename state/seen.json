@@ -55,7 +55,7 @@
    "symbol": "CA"
   }
  },
- "last_run": "2026-10-28 09:28:21 UTC",
+ "last_run": "2026-10-28 09:38:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -584,12 +584,10 @@
     "tp_done": [],
     "units": 0.00019397284380186773,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "18c4b431": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793180156.47818,
     "created_ts": 1793178490.8876932,
     "entry_mcap": 156109,
     "entry_ts": 1793178490.8876932,
@@ -626,13 +624,16 @@
      "vol_m5": 21197.2
     },
     "id": "18c4b431",
-    "last_mcap": 233298,
+    "last_mcap": 146227,
     "missing": 0,
     "peak_mcap": 329261,
+    "pnl": 6.535668521353667,
+    "pnl_pct": 65.35668521353668,
     "profile": "migrated",
-    "realized": 13.891650861257196,
+    "realized": 16.535668521353667,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "OAK",
     "tf": "minute",
@@ -641,8 +642,11 @@
      0
     ],
     "units": 6.213607159100372e-05,
-    "units_left": 1.8640821477301118e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "2cf9537d": {
     "chain": "solana",
     "created_ts": 1793160230.9621236,
@@ -681,7 +685,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 4639523,
+    "last_mcap": 4541259,
     "missing": 0,
     "peak_mcap": 6150571,
     "profile": "swing_survivor",
@@ -734,9 +738,9 @@
      "vol_m5": 19265.57
     },
     "id": "38d3f5db",
-    "last_mcap": 45576,
+    "last_mcap": 73535,
     "missing": 0,
-    "peak_mcap": 45576,
+    "peak_mcap": 77168,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -787,9 +791,9 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 806837,
+    "last_mcap": 679422,
     "missing": 0,
-    "peak_mcap": 811304,
+    "peak_mcap": 833094,
     "profile": "migrated",
     "realized": 23.077465566694514,
     "size": 10,
@@ -844,20 +848,22 @@
      "vol_m5": 19265.57
     },
     "id": "58f51984",
-    "last_mcap": 45576,
+    "last_mcap": 73535,
     "missing": 0,
-    "peak_mcap": 45576,
+    "peak_mcap": 77168,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 16.592361400837454,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "CA",
     "tf": "minute",
     "token": "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.0003356749835623075,
-    "units_left": 0.0003356749835623075,
+    "units_left": 0.00010070249506869227,
     "zone_bottom": 24430.82464902228,
     "zone_top": 31352.308144432805
    },
@@ -1003,7 +1009,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 1793342,
+    "last_mcap": 1688910,
     "missing": 0,
     "peak_mcap": 1845353,
     "profile": "swing_survivor",
@@ -1040,5 +1046,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 27
+ "runs": 29
 }
