@@ -215,6 +215,34 @@ def test_loop_scans_every_5min_checks_every_minute():
     assert 20 <= calls["check"] <= 24, calls  # the other minutes
 
 
+def test_recover_merges_lost_trades():
+    from memebot import recover
+    cur = {"paper": {"version": "v2", "started_ts": 300, "closed": [{"id": "c", "close_ts": 3}],
+                     "positions": {"o3": {"status": "open"}}},
+           "paper_archive": {"v1": {"closed": []}}, "alerts": {"sol:C": {"last_ts": 3}}}
+    old1 = {"paper": {"version": "v2", "started_ts": 200, "closed": [{"id": "b", "close_ts": 2}],
+                      "positions": {"o2": {"status": "open"}, "z": {"status": "pending"}}},
+            "alerts": {"sol:B": {"last_ts": 2}}}
+    old0 = {"paper": {"version": "v2", "started_ts": 100, "closed": [{"id": "a", "close_ts": 1}, {"id": "b", "close_ts": 2}],
+                      "positions": {"o1": {"status": "open"}}},
+            "paper_archive": {"v1": {"closed": [{"id": "x"}] * 5, "stats": {"n": 5}}}}
+    v1old = {"paper": {"version": "v1", "closed": [{"id": "old"}]}}
+    rep = recover.merge(cur, [old1, old0, v1old], "v2")
+    assert [c["id"] for c in cur["paper"]["closed"]] == ["a", "b", "c"]
+    assert rep == {"added_closed": 2, "lost_open": 2, "started_ts": 100}
+    assert len(cur["paper_archive"]["v1"]["closed"]) == 5
+    assert set(cur["alerts"]) == {"sol:B", "sol:C"}
+
+
+def test_damaged_state_file_falls_back_to_git(tmp_path, monkeypatch):
+    good = {"runs": 7, "paper": {"version": "v2"}}
+    monkeypatch.setattr(st, "PATH", str(tmp_path / "seen.json"))
+    (tmp_path / "seen.json").write_text('{"runs": 1, "broken": ')
+    monkeypatch.setattr(st, "last_good_from_git", lambda *a, **k: good)
+    assert st.load() == good
+    assert st.load() == good  # and the repaired copy was written back
+
+
 if __name__ == "__main__":
     test_full_run()
     test_solana_holder_math_excludes_pool()
