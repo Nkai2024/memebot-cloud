@@ -109,10 +109,10 @@
    "symbol": "Stonker"
   }
  },
- "last_run": "2026-10-28 12:33:20 UTC",
+ "last_run": "2026-10-28 12:43:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -1442,9 +1442,9 @@
      "vol_m5": 53955.21
     },
     "id": "18f280e8",
-    "last_mcap": 68501,
+    "last_mcap": 91165,
     "missing": 0,
-    "peak_mcap": 79702,
+    "peak_mcap": 91165,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1497,7 +1497,7 @@
      "vol_m5": 37551.16
     },
     "id": "555fa4cb",
-    "last_mcap": 351732,
+    "last_mcap": 322533,
     "missing": 0,
     "peak_mcap": 833094,
     "profile": "migrated",
@@ -1553,7 +1553,7 @@
      "vol_m5": 53955.21
     },
     "id": "6322645f",
-    "last_mcap": 68501,
+    "last_mcap": 91165,
     "missing": 0,
     "peak_mcap": 110234,
     "profile": "migrated",
@@ -1659,9 +1659,9 @@
      "vol_m5": 25282.3
     },
     "id": "93c894bf",
-    "last_mcap": 26432,
+    "last_mcap": 43083,
     "missing": 0,
-    "peak_mcap": 38340,
+    "peak_mcap": 51727,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1698,5 +1698,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 64
+ "runs": 66
 }
