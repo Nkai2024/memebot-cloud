@@ -64,11 +64,11 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 16:22:32 UTC",
+ "last_run": "2026-10-28 16:32:32 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -394,11 +394,11 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 2081496,
+    "last_mcap": 1941272,
     "missing": 0,
-    "peak_mcap": 2081496,
+    "peak_mcap": 2587832,
     "profile": "migrated",
-    "realized": 14.891740255173818,
+    "realized": 22.414994263532677,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -406,10 +406,11 @@
     "tf": "minute",
     "token": "FEXGegqeVm5vZurqyC7qsmkLqWspVV1ACb9bbLvcpump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 1.998051384937988e-05,
-    "units_left": 5.994154154813965e-06
+    "units_left": 2.9970770774069826e-06
    },
    "2ad8af8b": {
     "chain": "solana",
@@ -553,7 +554,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1536583,
+    "last_mcap": 1519563,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -606,9 +607,9 @@
      "vol_m5": 65366.8
     },
     "id": "a306d07d",
-    "last_mcap": 171019,
+    "last_mcap": 206702,
     "missing": 0,
-    "peak_mcap": 216821,
+    "peak_mcap": 246573,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -711,9 +712,9 @@
      "vol_m5": 65203.64
     },
     "id": "e1c1cd30",
-    "last_mcap": 249872,
+    "last_mcap": 322305,
     "missing": 0,
-    "peak_mcap": 275680,
+    "peak_mcap": 322305,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -740,7 +741,8 @@
  },
  "rejected": {
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793199753.0203013,
-  "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638
+  "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
+  "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 19
+ "runs": 21
 }
