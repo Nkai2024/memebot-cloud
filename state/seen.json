@@ -298,10 +298,10 @@
    "symbol": "Rollcage"
   }
  },
- "last_run": "2026-10-28 02:39:48 UTC",
+ "last_run": "2026-10-28 02:49:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3432,7 +3432,7 @@
      "vol_m5": 2254.07
     },
     "id": "44e50f81",
-    "last_mcap": 742231,
+    "last_mcap": 734780,
     "missing": 0,
     "peak_mcap": 792263,
     "profile": "swing_survivor",
@@ -3488,7 +3488,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 101493,
+    "last_mcap": 110311,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -3546,7 +3546,7 @@
      "vol_m5": 2860.11
     },
     "id": "971bf815",
-    "last_mcap": 4934167,
+    "last_mcap": 4837562,
     "missing": 0,
     "peak_mcap": 5737877,
     "profile": "swing_survivor",
@@ -3588,5 +3588,5 @@
   "solana:GoMFQ9pRwuEcRGVGE8om8P1WWiJDvGoeLuQrezFZpump": 1793145879.1069155,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 132
+ "runs": 134
 }
