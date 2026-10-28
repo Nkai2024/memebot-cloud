@@ -19,14 +19,70 @@
    "symbol": "Loongcat"
   }
  },
- "last_run": "2026-10-28 14:57:39 UTC",
+ "last_run": "2026-10-28 15:07:32 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
-  "closed": [],
+  "closed": [
+   {
+    "chain": "solana",
+    "close_ts": 1793199968.08506,
+    "created_ts": 1793199142.5338364,
+    "entry_mcap": 135997,
+    "entry_ts": 1793199142.5338364,
+    "features": {
+     "age_min": 34.95074797471364,
+     "boosts": 0,
+     "buys_h1": 6884,
+     "buys_h24": 6884,
+     "buys_m5": 372,
+     "change_h1": 200,
+     "change_h24": 200,
+     "change_h6": 200,
+     "change_m5": -1.25,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 31983.78,
+     "lp_locked_pct": 100,
+     "mcap": 135997,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 70,
+     "sells_h1": 5199,
+     "sells_h24": 5199,
+     "sells_m5": 222,
+     "top1": 2.8768860461231722,
+     "top10": 17.518095542293768,
+     "top5": 11.32620864765136,
+     "txns_h24": 12083,
+     "vol_h1": 508782.68,
+     "vol_h24": 508782.68,
+     "vol_m5": 23835.28
+    },
+    "id": "ada6519b",
+    "last_mcap": 52800,
+    "missing": 0,
+    "peak_mcap": 194368,
+    "pnl": -6.347013537063319,
+    "pnl_pct": -63.47013537063319,
+    "profile": "migrated",
+    "realized": 3.6529864629366817,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "Loongcat",
+    "tf": "minute",
+    "token": "FTroE9dZf68TjWGuLxSGkrw8vY9Wt2ietqqrVnpVJWjd",
+    "tp_done": [],
+    "units": 7.132510275961969e-05,
+    "units_left": 0.0
+   }
+  ],
   "last_summary_day": "",
   "positions": {
    "0bb77f8a": {
@@ -119,9 +175,9 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1594756,
+    "last_mcap": 1576121,
     "missing": 0,
-    "peak_mcap": 1594756,
+    "peak_mcap": 1619613,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -133,57 +189,6 @@
     "tp_done": [],
     "units": 6.082435181306733e-06,
     "units_left": 6.082435181306733e-06
-   },
-   "ada6519b": {
-    "chain": "solana",
-    "created_ts": 1793199142.5338364,
-    "entry_mcap": 135997,
-    "entry_ts": 1793199142.5338364,
-    "features": {
-     "age_min": 34.95074797471364,
-     "boosts": 0,
-     "buys_h1": 6884,
-     "buys_h24": 6884,
-     "buys_m5": 372,
-     "change_h1": 200,
-     "change_h24": 200,
-     "change_h6": 200,
-     "change_m5": -1.25,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "insiders": 0,
-     "liquidity": 31983.78,
-     "lp_locked_pct": 100,
-     "mcap": 135997,
-     "n_socials": 2,
-     "n_warn": 0,
-     "score": 70,
-     "sells_h1": 5199,
-     "sells_h24": 5199,
-     "sells_m5": 222,
-     "top1": 2.8768860461231722,
-     "top10": 17.518095542293768,
-     "top5": 11.32620864765136,
-     "txns_h24": 12083,
-     "vol_h1": 508782.68,
-     "vol_h24": 508782.68,
-     "vol_m5": 23835.28
-    },
-    "id": "ada6519b",
-    "last_mcap": 178718,
-    "missing": 0,
-    "peak_mcap": 194368,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "Loongcat",
-    "tf": "minute",
-    "token": "FTroE9dZf68TjWGuLxSGkrw8vY9Wt2ietqqrVnpVJWjd",
-    "tp_done": [],
-    "units": 7.132510275961969e-05,
-    "units_left": 7.132510275961969e-05
    }
   },
   "started_ts": 1793199128.4716303,
@@ -197,6 +202,8 @@
    "stats": null
   }
  },
- "rejected": {},
- "runs": 2
+ "rejected": {
+  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793199753.0203013
+ },
+ "runs": 4
 }
