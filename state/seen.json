@@ -190,11 +190,11 @@
    "symbol": "CATBOT"
   }
  },
- "last_run": "2026-10-28 21:11:53 UTC",
+ "last_run": "2026-10-28 21:21:55 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -983,7 +983,7 @@
      "vol_m5": 126017.9
     },
     "id": "15fb784c",
-    "last_mcap": 2257991,
+    "last_mcap": 2205292,
     "missing": 0,
     "peak_mcap": 3730198,
     "profile": "migrated",
@@ -1091,9 +1091,9 @@
      "vol_m5": 71820.37
     },
     "id": "7246b143",
-    "last_mcap": 567980,
+    "last_mcap": 595275,
     "missing": 0,
-    "peak_mcap": 594204,
+    "peak_mcap": 602505,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1144,9 +1144,9 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 466147,
+    "last_mcap": 558539,
     "missing": 0,
-    "peak_mcap": 499356,
+    "peak_mcap": 625859,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -1197,7 +1197,7 @@
      "vol_m5": 1478.55
     },
     "id": "97bcc520",
-    "last_mcap": 1491834,
+    "last_mcap": 1533992,
     "missing": 0,
     "peak_mcap": 1662822,
     "profile": "swing_survivor",
@@ -1281,8 +1281,9 @@
   "bsc:0xF7f76C059C83c21e627cb90800Ad2AfBCf3c7777": 1793206052.6857166,
   "solana:2RyCCRenDtquADusNUfwFpvTaDkam82imh46SL2mpump": 1793217450.6655579,
   "solana:AHtLsp84S3ThHeNgcqg1jXaE9M6FSXKW8oj7WjYkXhot": 1793217451.269318,
+  "solana:DTLnctZ8TsBoVEX7XsbUzwkZm7KmuhXVmgGuhNoLpump": 1793222504.4235759,
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 61
+ "runs": 63
 }
