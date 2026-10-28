@@ -72,6 +72,15 @@
    "profile": "migrated",
    "symbol": "SI"
   },
+  "solana:4BSzhcmBYRCdVykTGZ9f4Kbp4P49Q4BNuGmfDs2Upump": {
+   "count": 1,
+   "first_mcap": 180381,
+   "first_ts": 1793158178.381877,
+   "last_mcap": 180381,
+   "last_ts": 1793158178.381877,
+   "profile": "migrated",
+   "symbol": "Robotaxi"
+  },
   "solana:4veRZzp7e6tT6FxKL81CZpHPVZrgjj2LUh8FFf6mpump": {
    "count": 1,
    "first_mcap": 289412,
@@ -316,10 +325,10 @@
    "symbol": "Rollcage"
   }
  },
- "last_run": "2026-10-28 03:24:48 UTC",
+ "last_run": "2026-10-28 03:34:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3472,6 +3481,63 @@
     "units_left": 0.0,
     "zone_bottom": 41359.10717258057,
     "zone_top": 52609.040045049864
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1793158523.9755,
+    "created_ts": 1793158178.381893,
+    "entry_mcap": 180381,
+    "entry_ts": 1793158178.381893,
+    "features": {
+     "age_min": 15.67216233809789,
+     "boosts": 0,
+     "buys_h1": 1223,
+     "buys_h24": 1223,
+     "buys_m5": 369,
+     "change_h1": 321,
+     "change_h24": 321,
+     "change_h6": 321,
+     "change_m5": 7.17,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.19994449167641037,
+     "insiders": 0,
+     "liquidity": 35380.01,
+     "lp_locked_pct": 100,
+     "mcap": 180381,
+     "n_socials": 1,
+     "n_warn": 0,
+     "retracement_now": 0.3250134034314207,
+     "score": 87,
+     "sells_h1": 799,
+     "sells_h24": 799,
+     "sells_m5": 255,
+     "top1": 2.631276714128909,
+     "top10": 10.807148164303873,
+     "top5": 6.522513287756919,
+     "txns_h24": 2022,
+     "vol_h1": 233465.32,
+     "vol_h24": 233465.32,
+     "vol_m5": 74501.18
+    },
+    "id": "4a42c916",
+    "last_mcap": 1990,
+    "missing": 0,
+    "peak_mcap": 200742,
+    "pnl": -9.896197992027986,
+    "pnl_pct": -98.96197992027986,
+    "profile": "migrated",
+    "realized": 0.10380200797201478,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "Robotaxi",
+    "tf": "minute",
+    "token": "4BSzhcmBYRCdVykTGZ9f4Kbp4P49Q4BNuGmfDs2Upump",
+    "tp_done": [],
+    "units": 5.3775065001302795e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-10-27",
@@ -3567,7 +3633,7 @@
      "vol_m5": 2254.07
     },
     "id": "44e50f81",
-    "last_mcap": 754172,
+    "last_mcap": 748139,
     "missing": 0,
     "peak_mcap": 792263,
     "profile": "swing_survivor",
@@ -3675,7 +3741,7 @@
      "vol_m5": 27959.53
     },
     "id": "7f40433d",
-    "last_mcap": 101417,
+    "last_mcap": 113871,
     "missing": 0,
     "peak_mcap": 299712,
     "profile": "migrated",
@@ -3733,7 +3799,7 @@
      "vol_m5": 2860.11
     },
     "id": "971bf815",
-    "last_mcap": 5256713,
+    "last_mcap": 4901006,
     "missing": 0,
     "peak_mcap": 5737877,
     "profile": "swing_survivor",
@@ -3786,9 +3852,9 @@
      "vol_m5": 190106.29
     },
     "id": "b1d16f09",
-    "last_mcap": 389053,
+    "last_mcap": 353124,
     "missing": 0,
-    "peak_mcap": 389053,
+    "peak_mcap": 418539,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -3828,5 +3894,5 @@
   "solana:GoMFQ9pRwuEcRGVGE8om8P1WWiJDvGoeLuQrezFZpump": 1793145879.1069155,
   "solana:Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa": 1793100272.0434296
  },
- "runs": 141
+ "runs": 143
 }
