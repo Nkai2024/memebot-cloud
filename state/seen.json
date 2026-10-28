@@ -91,10 +91,10 @@
    "symbol": "OpenBot"
   }
  },
- "last_run": "2026-10-28 08:34:01 UTC",
+ "last_run": "2026-10-28 08:44:01 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -714,7 +714,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5193963,
+    "last_mcap": 5052443,
     "missing": 0,
     "peak_mcap": 6150571,
     "profile": "swing_survivor",
@@ -768,9 +768,9 @@
      "vol_m5": 22355.62
     },
     "id": "3acc1716",
-    "last_mcap": 37997,
+    "last_mcap": 46240,
     "missing": 0,
-    "peak_mcap": 39010,
+    "peak_mcap": 46240,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -876,7 +876,7 @@
      "vol_m5": 21841.98
     },
     "id": "a8591a97",
-    "last_mcap": 29554,
+    "last_mcap": 30874,
     "missing": 0,
     "peak_mcap": 52600,
     "profile": "migrated",
@@ -931,9 +931,9 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 2115437,
+    "last_mcap": 2127011,
     "missing": 0,
-    "peak_mcap": 2116476,
+    "peak_mcap": 2138435,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -968,5 +968,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 57
+ "runs": 59
 }
