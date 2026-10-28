@@ -1,5 +1,14 @@
 {
  "alerts": {
+  "solana:2c4VipmtKosP7crkd13QEjeaRtFoPc395YjTvQL1pump": {
+   "count": 1,
+   "first_mcap": 163114,
+   "first_ts": 1793177631.3515847,
+   "last_mcap": 163114,
+   "last_ts": 1793177631.3515847,
+   "profile": "migrated",
+   "symbol": "OAK"
+  },
   "solana:4bjMPgeJYCUD1A44RJ4DHFY188SCd9vrMd6u71PDpump": {
    "count": 1,
    "first_mcap": 48999,
@@ -91,10 +100,10 @@
    "symbol": "OpenBot"
   }
  },
- "last_run": "2026-10-28 08:44:01 UTC",
+ "last_run": "2026-10-28 08:54:08 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 1,
+  "alerts": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -624,6 +633,59 @@
   ],
   "last_summary_day": "",
   "positions": {
+   "06f6443e": {
+    "chain": "solana",
+    "created_ts": 1793177631.351601,
+    "entry_mcap": 163114,
+    "entry_ts": 1793177631.351601,
+    "features": {
+     "age_min": 16.459205921490987,
+     "boosts": 0,
+     "buys_h1": 2036,
+     "buys_h24": 2036,
+     "buys_m5": 172,
+     "change_h1": 277,
+     "change_h24": 277,
+     "change_h6": 277,
+     "change_m5": -1.73,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5071783741624272,
+     "insiders": 0,
+     "liquidity": 35571.33,
+     "lp_locked_pct": 100,
+     "mcap": 163114,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1537103097215401,
+     "score": 76,
+     "sells_h1": 1229,
+     "sells_h24": 1229,
+     "sells_m5": 169,
+     "top1": 0.7898672493345049,
+     "top10": 7.654021504636396,
+     "top5": 3.9030901969993272,
+     "txns_h24": 3265,
+     "vol_h1": 290138.63,
+     "vol_h24": 290138.63,
+     "vol_m5": 15232.54
+    },
+    "id": "06f6443e",
+    "last_mcap": 166707,
+    "missing": 0,
+    "peak_mcap": 166707,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "OAK",
+    "tf": "minute",
+    "token": "2c4VipmtKosP7crkd13QEjeaRtFoPc395YjTvQL1pump",
+    "tp_done": [],
+    "units": 5.946761160905869e-05,
+    "units_left": 5.946761160905869e-05
+   },
    "0aa24024": {
     "chain": "solana",
     "created_ts": 1793173750.2089748,
@@ -714,7 +776,7 @@
      "vol_m5": 2663.66
     },
     "id": "2cf9537d",
-    "last_mcap": 5052443,
+    "last_mcap": 4743938,
     "missing": 0,
     "peak_mcap": 6150571,
     "profile": "swing_survivor",
@@ -768,7 +830,7 @@
      "vol_m5": 22355.62
     },
     "id": "3acc1716",
-    "last_mcap": 46240,
+    "last_mcap": 35423,
     "missing": 0,
     "peak_mcap": 46240,
     "profile": "migrated",
@@ -784,6 +846,58 @@
     "units_left": 0.0002575471948596766,
     "zone_bottom": 35258.18239304828,
     "zone_top": 40525.6923920661
+   },
+   "5b08e9c7": {
+    "chain": "solana",
+    "created_ts": 1793177631.351601,
+    "expires_ts": 1793184831.351601,
+    "features": {
+     "age_min": 16.459205921490987,
+     "boosts": 0,
+     "buys_h1": 2036,
+     "buys_h24": 2036,
+     "buys_m5": 172,
+     "change_h1": 277,
+     "change_h24": 277,
+     "change_h6": 277,
+     "change_m5": -1.73,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5071783741624272,
+     "insiders": 0,
+     "liquidity": 35571.33,
+     "lp_locked_pct": 100,
+     "mcap": 163114,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1537103097215401,
+     "score": 76,
+     "sells_h1": 1229,
+     "sells_h24": 1229,
+     "sells_m5": 169,
+     "top1": 0.7898672493345049,
+     "top10": 7.654021504636396,
+     "top5": 3.9030901969993272,
+     "txns_h24": 3265,
+     "vol_h1": 290138.63,
+     "vol_h24": 290138.63,
+     "vol_m5": 15232.54
+    },
+    "id": "5b08e9c7",
+    "last_mcap": 163114,
+    "missing": 0,
+    "peak_mcap": 163114,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "OAK",
+    "tf": "minute",
+    "token": "2c4VipmtKosP7crkd13QEjeaRtFoPc395YjTvQL1pump",
+    "tp_done": [],
+    "zone_bottom": 73456.71750381873,
+    "zone_top": 97278.74669541439
    },
    "705f3740": {
     "chain": "solana",
@@ -876,7 +990,7 @@
      "vol_m5": 21841.98
     },
     "id": "a8591a97",
-    "last_mcap": 30874,
+    "last_mcap": 30339,
     "missing": 0,
     "peak_mcap": 52600,
     "profile": "migrated",
@@ -931,7 +1045,7 @@
      "vol_m5": 1008.77
     },
     "id": "d18e1a8b",
-    "last_mcap": 2127011,
+    "last_mcap": 1883478,
     "missing": 0,
     "peak_mcap": 2138435,
     "profile": "swing_survivor",
@@ -968,5 +1082,5 @@
   "solana:DCyZ3PvbModJV65niUD31Lm1Q3eZ4TGnKxMLmzdNpump": 1793170730.614738,
   "solana:iwPkJ45T2JegPCrzq1hECwiB9oJow5PYm7xJ28Mpump": 1793175830.859244
  },
- "runs": 59
+ "runs": 61
 }
