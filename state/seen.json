@@ -1900,7 +1900,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 23:06:07 UTC",
+ "last_run": "2026-10-29 23:16:07 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -16631,7 +16631,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 79535,
+    "last_mcap": 84249,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -16685,7 +16685,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 414302,
+    "last_mcap": 397298,
     "missing": 0,
     "peak_mcap": 1167040,
     "profile": "migrated",
@@ -25436,5 +25436,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793264192.6209338,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 346
+ "runs": 348
 }
