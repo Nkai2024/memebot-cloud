@@ -1567,7 +1567,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 00:02:30 UTC",
+ "last_run": "2026-10-29 00:17:31 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12230,12 +12230,10 @@
     "units_left": 0.0,
     "zone_bottom": 94263.02947843433,
     "zone_top": 131559.63251110408
-   }
-  ],
-  "last_summary_day": "2026-10-28",
-  "positions": {
-   "0bb77f8a": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793232785.604447,
     "created_ts": 1793199441.8445268,
     "entry_mcap": 778892,
     "entry_ts": 1793232245.6015787,
@@ -12273,23 +12271,29 @@
      "vol_m5": 1478.55
     },
     "id": "0bb77f8a",
-    "last_mcap": 847042,
+    "last_mcap": 457656,
     "missing": 0,
-    "peak_mcap": 847042,
+    "peak_mcap": 975044,
+    "pnl": -4.4715245451230725,
+    "pnl_pct": -44.71524545123072,
     "profile": "swing_survivor",
-    "realized": 0.0,
+    "realized": 5.5284754548769275,
+    "reason": "stop loss -30%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "REMUS",
     "tf": "hour",
     "token": "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump",
     "tp_done": [],
     "units": 1.2453587917195195e-05,
-    "units_left": 1.2453587917195195e-05,
+    "units_left": 0.0,
     "zone_bottom": 499189.64024074405,
     "zone_top": 874097.3904798869
-   },
+   }
+  ],
+  "last_summary_day": "2026-10-28",
+  "positions": {
    "2b3b15c2": {
     "chain": "bsc",
     "created_ts": 1793228874.826915,
@@ -12329,7 +12333,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2099284,
+    "last_mcap": 2099506,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -12384,7 +12388,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 2644518,
+    "last_mcap": 2168609,
     "missing": 0,
     "peak_mcap": 3101696,
     "profile": "migrated",
@@ -12440,7 +12444,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2099284,
+    "last_mcap": 2099506,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -21178,5 +21182,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 95
+ "runs": 98
 }
