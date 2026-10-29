@@ -1666,7 +1666,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 07:21:44 UTC",
+ "last_run": "2026-10-29 07:31:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -13424,7 +13424,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2042014,
+    "last_mcap": 2034136,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -13531,9 +13531,9 @@
      "vol_m5": 1870.14
     },
     "id": "723ac672",
-    "last_mcap": 1489924,
+    "last_mcap": 1476545,
     "missing": 0,
-    "peak_mcap": 1489924,
+    "peak_mcap": 1513140,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -13584,7 +13584,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 3169987,
+    "last_mcap": 3079038,
     "missing": 0,
     "peak_mcap": 3952038,
     "profile": "migrated",
@@ -13601,58 +13601,6 @@
     ],
     "units": 1.9474509473244632e-05,
     "units_left": 2.9211764209866957e-06
-   },
-   "a1963379": {
-    "chain": "solana",
-    "created_ts": 1793256693.5780613,
-    "expires_ts": 1793263893.5780613,
-    "features": {
-     "age_min": 16.35290211836497,
-     "boosts": 0,
-     "buys_h1": 1904,
-     "buys_h24": 1904,
-     "buys_m5": 374,
-     "change_h1": 291,
-     "change_h24": 291,
-     "change_h6": 291,
-     "change_m5": 23.55,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.48744301691539305,
-     "insiders": 0,
-     "liquidity": 34184.42,
-     "lp_locked_pct": 100,
-     "mcap": 164587,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.0,
-     "score": 82,
-     "sells_h1": 912,
-     "sells_h24": 912,
-     "sells_m5": 242,
-     "top1": 2.3514604811876163,
-     "top10": 10.589758866900274,
-     "top5": 6.916704908657152,
-     "txns_h24": 2816,
-     "vol_h1": 200036.57,
-     "vol_h24": 200036.57,
-     "vol_m5": 35443.58
-    },
-    "id": "a1963379",
-    "last_mcap": 164587,
-    "missing": 0,
-    "peak_mcap": 164587,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "SELLICON",
-    "tf": "minute",
-    "token": "DPb1vNz5wXuYCv27S85zZ8sGh6NTfU6gMYRFYA7Jpump",
-    "tp_done": [],
-    "zone_bottom": 68134.59835772627,
-    "zone_top": 88750.37886141837
    },
    "ded903a5": {
     "chain": "bsc",
@@ -13692,7 +13640,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2042014,
+    "last_mcap": 2034136,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -22430,5 +22378,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 183
+ "runs": 185
 }
