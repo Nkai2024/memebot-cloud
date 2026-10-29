@@ -1774,10 +1774,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 14:38:19 UTC",
+ "last_run": "2026-10-29 14:48:19 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -14466,7 +14466,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 203070,
+    "last_mcap": 175909,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -14523,7 +14523,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2094133,
+    "last_mcap": 2093188,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -14579,7 +14579,7 @@
      "vol_m5": 1870.14
     },
     "id": "44a2f638",
-    "last_mcap": 751073,
+    "last_mcap": 705738,
     "missing": 0,
     "peak_mcap": 871478,
     "profile": "swing_survivor",
@@ -14634,9 +14634,9 @@
      "vol_m5": 3816.19
     },
     "id": "d6f0dc30",
-    "last_mcap": 751073,
+    "last_mcap": 705738,
     "missing": 0,
-    "peak_mcap": 751073,
+    "peak_mcap": 760242,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -14687,7 +14687,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2094133,
+    "last_mcap": 2093188,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -14740,7 +14740,7 @@
      "vol_m5": 19699.67
     },
     "id": "e0f132e6",
-    "last_mcap": 77393,
+    "last_mcap": 67348,
     "missing": 0,
     "peak_mcap": 95740,
     "profile": "migrated",
@@ -14793,7 +14793,7 @@
      "vol_m5": 42967.41
     },
     "id": "eac5d8df",
-    "last_mcap": 86464,
+    "last_mcap": 47066,
     "missing": 0,
     "peak_mcap": 86464,
     "profile": "migrated",
@@ -14847,7 +14847,7 @@
      "vol_m5": 42967.41
     },
     "id": "eed22f21",
-    "last_mcap": 86464,
+    "last_mcap": 47066,
     "missing": 0,
     "peak_mcap": 86464,
     "profile": "migrated",
@@ -23696,5 +23696,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793264192.6209338,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 262
+ "runs": 264
 }
