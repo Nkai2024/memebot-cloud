@@ -666,6 +666,15 @@
    "profile": "swing_survivor",
    "symbol": "GLITCH"
   },
+  "solana:8bACbj9AZHdV9VLzzcoS3pzC597fvGQMJ2wpzppipump": {
+   "count": 1,
+   "first_mcap": 72933,
+   "first_ts": 1793243260.6607468,
+   "last_mcap": 72933,
+   "last_ts": 1793243260.6607468,
+   "profile": "migrated",
+   "symbol": "Lowo"
+  },
   "solana:8fsziCyXFgtX3NjkzLifanRkSidhfYFsdGftHuEhpump": {
    "count": 1,
    "first_mcap": 75298,
@@ -1612,10 +1621,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 02:57:52 UTC",
+ "last_run": "2026-10-29 03:12:31 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -12552,9 +12561,9 @@
      "vol_m5": 20968.07
     },
     "id": "102dafb5",
-    "last_mcap": 269880,
+    "last_mcap": 290549,
     "missing": 0,
-    "peak_mcap": 328977,
+    "peak_mcap": 431654,
     "profile": "migrated",
     "realized": 13.425020356079402,
     "size": 10,
@@ -12714,7 +12723,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2073621,
+    "last_mcap": 2070295,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -12821,7 +12830,7 @@
      "vol_m5": 1870.14
     },
     "id": "723ac672",
-    "last_mcap": 1095391,
+    "last_mcap": 1060852,
     "missing": 0,
     "peak_mcap": 1174018,
     "profile": "swing_survivor",
@@ -12835,6 +12844,59 @@
     "tp_done": [],
     "units": 8.424782757856978e-06,
     "units_left": 8.424782757856978e-06
+   },
+   "81723746": {
+    "chain": "solana",
+    "created_ts": 1793243260.6607752,
+    "entry_mcap": 72933,
+    "entry_ts": 1793243260.6607752,
+    "features": {
+     "age_min": 13.933557907740274,
+     "boosts": 0,
+     "buys_h1": 969,
+     "buys_h24": 969,
+     "buys_m5": 370,
+     "change_h1": 76.53,
+     "change_h24": 76.53,
+     "change_h6": 76.53,
+     "change_m5": -1.71,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.18676664268807394,
+     "insiders": 0,
+     "liquidity": 21105.12,
+     "lp_locked_pct": 100,
+     "mcap": 72933,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.30819409673129144,
+     "score": 75,
+     "sells_h1": 690,
+     "sells_h24": 690,
+     "sells_m5": 188,
+     "top1": 3.981903229181009,
+     "top10": 23.98270440980937,
+     "top5": 14.821706478450139,
+     "txns_h24": 1659,
+     "vol_h1": 89861.35,
+     "vol_h24": 89861.35,
+     "vol_m5": 28862.75
+    },
+    "id": "81723746",
+    "last_mcap": 110092,
+    "missing": 0,
+    "peak_mcap": 110092,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Lowo",
+    "tf": "minute",
+    "token": "8bACbj9AZHdV9VLzzcoS3pzC597fvGQMJ2wpzppipump",
+    "tp_done": [],
+    "units": 0.00013299877970191819,
+    "units_left": 0.00013299877970191819
    },
    "81814d49": {
     "chain": "solana",
@@ -12874,7 +12936,7 @@
      "vol_m5": 87986.56
     },
     "id": "81814d49",
-    "last_mcap": 121820,
+    "last_mcap": 132356,
     "missing": 0,
     "peak_mcap": 161736,
     "profile": "migrated",
@@ -12927,7 +12989,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 2338240,
+    "last_mcap": 2564844,
     "missing": 0,
     "peak_mcap": 3101696,
     "profile": "migrated",
@@ -12983,9 +13045,9 @@
      "vol_m5": 20968.07
     },
     "id": "c834954e",
-    "last_mcap": 269880,
+    "last_mcap": 290549,
     "missing": 0,
-    "peak_mcap": 328977,
+    "peak_mcap": 431654,
     "profile": "migrated",
     "realized": 13.425020356079402,
     "size": 10,
@@ -12999,6 +13061,58 @@
     ],
     "units": 6.017369727047146e-05,
     "units_left": 1.805210918114144e-05
+   },
+   "d838306d": {
+    "chain": "solana",
+    "created_ts": 1793243260.6607752,
+    "expires_ts": 1793250460.6607752,
+    "features": {
+     "age_min": 13.933557907740274,
+     "boosts": 0,
+     "buys_h1": 969,
+     "buys_h24": 969,
+     "buys_m5": 370,
+     "change_h1": 76.53,
+     "change_h24": 76.53,
+     "change_h6": 76.53,
+     "change_m5": -1.71,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.18676664268807394,
+     "insiders": 0,
+     "liquidity": 21105.12,
+     "lp_locked_pct": 100,
+     "mcap": 72933,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.30819409673129144,
+     "score": 75,
+     "sells_h1": 690,
+     "sells_h24": 690,
+     "sells_m5": 188,
+     "top1": 3.981903229181009,
+     "top10": 23.98270440980937,
+     "top5": 14.821706478450139,
+     "txns_h24": 1659,
+     "vol_h1": 89861.35,
+     "vol_h24": 89861.35,
+     "vol_m5": 28862.75
+    },
+    "id": "d838306d",
+    "last_mcap": 72933,
+    "missing": 0,
+    "peak_mcap": 72933,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Lowo",
+    "tf": "minute",
+    "token": "8bACbj9AZHdV9VLzzcoS3pzC597fvGQMJ2wpzppipump",
+    "tp_done": [],
+    "zone_bottom": 46430.809328737014,
+    "zone_top": 55749.1706179408
    },
    "dc3f16e4": {
     "chain": "solana",
@@ -13038,7 +13152,7 @@
      "vol_m5": 31281.24
     },
     "id": "dc3f16e4",
-    "last_mcap": 138951,
+    "last_mcap": 79900,
     "missing": 0,
     "peak_mcap": 153793,
     "profile": "migrated",
@@ -13093,7 +13207,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2073621,
+    "last_mcap": 2070295,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -21831,5 +21945,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 130
+ "runs": 133
 }
