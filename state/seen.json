@@ -1783,10 +1783,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 15:13:25 UTC",
+ "last_run": "2026-10-29 15:23:19 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -14652,7 +14652,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 79625,
+    "last_mcap": 92408,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -14709,7 +14709,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2089924,
+    "last_mcap": 2098769,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -14765,7 +14765,7 @@
      "vol_m5": 1870.14
     },
     "id": "44a2f638",
-    "last_mcap": 731609,
+    "last_mcap": 676591,
     "missing": 0,
     "peak_mcap": 871478,
     "profile": "swing_survivor",
@@ -14818,9 +14818,9 @@
      "vol_m5": 57341.59
     },
     "id": "c76da3fd",
-    "last_mcap": 57497,
+    "last_mcap": 50508,
     "missing": 0,
-    "peak_mcap": 57497,
+    "peak_mcap": 73066,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -14871,7 +14871,7 @@
      "vol_m5": 3816.19
     },
     "id": "d6f0dc30",
-    "last_mcap": 731609,
+    "last_mcap": 676591,
     "missing": 0,
     "peak_mcap": 760242,
     "profile": "swing_survivor",
@@ -14924,7 +14924,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2089924,
+    "last_mcap": 2098769,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -14977,7 +14977,7 @@
      "vol_m5": 19699.67
     },
     "id": "e0f132e6",
-    "last_mcap": 76655,
+    "last_mcap": 53409,
     "missing": 0,
     "peak_mcap": 95740,
     "profile": "migrated",
@@ -14995,6 +14995,8 @@
    "f7d6102c": {
     "chain": "solana",
     "created_ts": 1793283788.492633,
+    "entry_mcap": 49775,
+    "entry_ts": 1793287134.02012,
     "expires_ts": 1793290988.492633,
     "features": {
      "age_min": 26.306218338012695,
@@ -15029,18 +15031,20 @@
      "vol_m5": 19699.67
     },
     "id": "f7d6102c",
-    "last_mcap": 80998,
+    "last_mcap": 53409,
     "missing": 0,
-    "peak_mcap": 80998,
+    "peak_mcap": 54590,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "STANK",
     "tf": "minute",
     "token": "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8",
     "tp_done": [],
+    "units": 0.00019487694625816172,
+    "units_left": 0.00019487694625816172,
     "zone_bottom": 37796.04509251359,
     "zone_top": 51284.181469769006
    }
@@ -23772,5 +23776,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793264192.6209338,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 269
+ "runs": 271
 }
