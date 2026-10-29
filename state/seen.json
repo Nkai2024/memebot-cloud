@@ -1630,7 +1630,7 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 04:16:44 UTC",
+ "last_run": "2026-10-29 04:26:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12818,12 +12818,10 @@
     "tp_done": [],
     "units": 4.8256545726808246e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-10-28",
-  "positions": {
-   "102dafb5": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793247978.908955,
     "created_ts": 1793234840.8226695,
     "entry_mcap": 161200,
     "entry_ts": 1793234840.8226695,
@@ -12861,13 +12859,16 @@
      "vol_m5": 20968.07
     },
     "id": "102dafb5",
-    "last_mcap": 270408,
+    "last_mcap": 2278,
     "missing": 0,
     "peak_mcap": 431654,
+    "pnl": 3.464909379652603,
+    "pnl_pct": 34.64909379652603,
     "profile": "migrated",
-    "realized": 13.425020356079402,
+    "realized": 13.464909379652603,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "FLOATER",
     "tf": "minute",
@@ -12876,10 +12877,72 @@
      0
     ],
     "units": 6.017369727047146e-05,
-    "units_left": 1.805210918114144e-05,
+    "units_left": 0.0,
     "zone_bottom": 136078.91017768756,
     "zone_top": 161346.34456930056
    },
+   {
+    "chain": "solana",
+    "close_ts": 1793247978.908955,
+    "created_ts": 1793234840.8226695,
+    "entry_mcap": 161200,
+    "entry_ts": 1793234840.8226695,
+    "features": {
+     "age_min": 12.847879791259766,
+     "boosts": 30,
+     "buys_h1": 3297,
+     "buys_h24": 3297,
+     "buys_m5": 1283,
+     "change_h1": 257,
+     "change_h24": 257,
+     "change_h6": 257,
+     "change_m5": -7.43,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.28582718422064507,
+     "insiders": 0,
+     "liquidity": 32798.21,
+     "lp_locked_pct": 100,
+     "mcap": 161200,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.6189730266738382,
+     "score": 84,
+     "sells_h1": 690,
+     "sells_h24": 690,
+     "sells_m5": 139,
+     "top1": 0.879432943957004,
+     "top10": 8.081785863252119,
+     "top5": 4.307771104337037,
+     "txns_h24": 3987,
+     "vol_h1": 292741.68,
+     "vol_h24": 292741.68,
+     "vol_m5": 20968.07
+    },
+    "id": "c834954e",
+    "last_mcap": 2278,
+    "missing": 0,
+    "peak_mcap": 431654,
+    "pnl": 3.464909379652603,
+    "pnl_pct": 34.64909379652603,
+    "profile": "migrated",
+    "realized": 13.464909379652603,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "FLOATER",
+    "tf": "minute",
+    "token": "J7cqsaTuXUavwA3sp238tSpartUfYwDrJAaHuDvypump",
+    "tp_done": [
+     0
+    ],
+    "units": 6.017369727047146e-05,
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-28",
+  "positions": {
    "28d8acc0": {
     "chain": "solana",
     "created_ts": 1793241741.0952663,
@@ -12971,7 +13034,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 2054883,
+    "last_mcap": 2042404,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -13078,7 +13141,7 @@
      "vol_m5": 1870.14
     },
     "id": "723ac672",
-    "last_mcap": 1120634,
+    "last_mcap": 1127609,
     "missing": 0,
     "peak_mcap": 1174018,
     "profile": "swing_survivor",
@@ -13131,7 +13194,7 @@
      "vol_m5": 13952.25
     },
     "id": "8a18a72a",
-    "last_mcap": 2408625,
+    "last_mcap": 2461515,
     "missing": 0,
     "peak_mcap": 3101696,
     "profile": "migrated",
@@ -13148,61 +13211,6 @@
     ],
     "units": 1.9474509473244632e-05,
     "units_left": 2.9211764209866957e-06
-   },
-   "c834954e": {
-    "chain": "solana",
-    "created_ts": 1793234840.8226695,
-    "entry_mcap": 161200,
-    "entry_ts": 1793234840.8226695,
-    "features": {
-     "age_min": 12.847879791259766,
-     "boosts": 30,
-     "buys_h1": 3297,
-     "buys_h24": 3297,
-     "buys_m5": 1283,
-     "change_h1": 257,
-     "change_h24": 257,
-     "change_h6": 257,
-     "change_m5": -7.43,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.28582718422064507,
-     "insiders": 0,
-     "liquidity": 32798.21,
-     "lp_locked_pct": 100,
-     "mcap": 161200,
-     "n_socials": 3,
-     "n_warn": 0,
-     "retracement_now": 0.6189730266738382,
-     "score": 84,
-     "sells_h1": 690,
-     "sells_h24": 690,
-     "sells_m5": 139,
-     "top1": 0.879432943957004,
-     "top10": 8.081785863252119,
-     "top5": 4.307771104337037,
-     "txns_h24": 3987,
-     "vol_h1": 292741.68,
-     "vol_h24": 292741.68,
-     "vol_m5": 20968.07
-    },
-    "id": "c834954e",
-    "last_mcap": 270408,
-    "missing": 0,
-    "peak_mcap": 431654,
-    "profile": "migrated",
-    "realized": 13.425020356079402,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "FLOATER",
-    "tf": "minute",
-    "token": "J7cqsaTuXUavwA3sp238tSpartUfYwDrJAaHuDvypump",
-    "tp_done": [
-     0
-    ],
-    "units": 6.017369727047146e-05,
-    "units_left": 1.805210918114144e-05
    },
    "dc3f16e4": {
     "chain": "solana",
@@ -13242,7 +13250,7 @@
      "vol_m5": 31281.24
     },
     "id": "dc3f16e4",
-    "last_mcap": 172866,
+    "last_mcap": 158428,
     "missing": 0,
     "peak_mcap": 185709,
     "profile": "migrated",
@@ -13297,7 +13305,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 2054883,
+    "last_mcap": 2042404,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -22035,5 +22043,5 @@
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 146
+ "runs": 148
 }
