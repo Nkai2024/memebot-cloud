@@ -1729,10 +1729,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 12:38:25 UTC",
+ "last_run": "2026-10-29 12:48:19 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -14074,11 +14074,11 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 178115,
+    "last_mcap": 190353,
     "missing": 0,
-    "peak_mcap": 178115,
+    "peak_mcap": 244547,
     "profile": "migrated",
-    "realized": 13.265563777939848,
+    "realized": 20.66917200759363,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -14086,10 +14086,11 @@
     "tf": "minute",
     "token": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 0.00020807413445450253,
-    "units_left": 6.242224033635078e-05
+    "units_left": 3.121112016817539e-05
    },
    "2b3b15c2": {
     "chain": "bsc",
@@ -14130,7 +14131,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 1905876,
+    "last_mcap": 1907213,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -14289,7 +14290,7 @@
      "vol_m5": 1870.14
     },
     "id": "723ac672",
-    "last_mcap": 1035473,
+    "last_mcap": 922635,
     "missing": 0,
     "peak_mcap": 1513140,
     "profile": "swing_survivor",
@@ -14394,9 +14395,9 @@
      "vol_m5": 9227.91
     },
     "id": "7ee32fb7",
-    "last_mcap": 164144,
+    "last_mcap": 233859,
     "missing": 0,
-    "peak_mcap": 186005,
+    "peak_mcap": 293968,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -14447,7 +14448,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 1905876,
+    "last_mcap": 1907213,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -23190,5 +23191,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793264192.6209338,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 238
+ "runs": 240
 }
