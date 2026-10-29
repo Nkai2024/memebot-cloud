@@ -945,6 +945,15 @@
    "profile": "migrated",
    "symbol": "AAPL"
   },
+  "solana:AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": {
+   "count": 1,
+   "first_mcap": 500297,
+   "first_ts": 1793299304.2988498,
+   "last_mcap": 500297,
+   "last_ts": 1793299304.2988498,
+   "profile": "migrated",
+   "symbol": "HYPERCAT"
+  },
   "solana:AG1Z8sn3kNpuY6HReZcMjUUTdgBQQZasXZARhh6Ppump": {
    "count": 1,
    "first_mcap": 186130,
@@ -1810,10 +1819,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-29 18:31:54 UTC",
+ "last_run": "2026-10-29 18:42:01 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -15023,9 +15032,9 @@
      "vol_m5": 136042.79
     },
     "id": "135fead2",
-    "last_mcap": 477920,
+    "last_mcap": 427315,
     "missing": 0,
-    "peak_mcap": 479697,
+    "peak_mcap": 518830,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -15078,7 +15087,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 129383,
+    "last_mcap": 114221,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -15135,7 +15144,7 @@
      "vol_m5": 1131.92
     },
     "id": "2b3b15c2",
-    "last_mcap": 1808841,
+    "last_mcap": 1817933,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -15151,6 +15160,58 @@
     "units_left": 4.513578192623696e-06,
     "zone_bottom": 1305822.9258803632,
     "zone_top": 2291639.967225493
+   },
+   "64fac59f": {
+    "chain": "solana",
+    "created_ts": 1793299304.2988672,
+    "expires_ts": 1793306504.2988672,
+    "features": {
+     "age_min": 32.278667986392975,
+     "boosts": 30,
+     "buys_h1": 3759,
+     "buys_h24": 3759,
+     "buys_m5": 726,
+     "change_h1": 961,
+     "change_h24": 961,
+     "change_h6": 961,
+     "change_m5": -7.16,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.444419683050866,
+     "insiders": 0,
+     "liquidity": 59190.71,
+     "lp_locked_pct": 100,
+     "mcap": 500297,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.35659071523515645,
+     "score": 81,
+     "sells_h1": 2408,
+     "sells_h24": 2408,
+     "sells_m5": 441,
+     "top1": 1.6272839121608762,
+     "top10": 15.461867825417087,
+     "top5": 8.06084658498435,
+     "txns_h24": 6167,
+     "vol_h1": 577437.03,
+     "vol_h24": 577437.03,
+     "vol_m5": 72222.97
+    },
+    "id": "64fac59f",
+    "last_mcap": 500297,
+    "missing": 0,
+    "peak_mcap": 500297,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "HYPERCAT",
+    "tf": "minute",
+    "token": "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
+    "tp_done": [],
+    "zone_bottom": 197627.64409946863,
+    "zone_top": 316042.53077136556
    },
    "699d38d2": {
     "chain": "solana",
@@ -15190,9 +15251,9 @@
      "vol_m5": 26207.07
     },
     "id": "699d38d2",
-    "last_mcap": 721669,
+    "last_mcap": 854050,
     "missing": 0,
-    "peak_mcap": 821728,
+    "peak_mcap": 1018619,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -15241,7 +15302,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 569725,
+    "last_mcap": 621302,
     "missing": 0,
     "peak_mcap": 839453,
     "profile": "migrated",
@@ -15310,6 +15371,59 @@
     "zone_bottom": 192286.9315394688,
     "zone_top": 302998.82954235945
    },
+   "ca89beb0": {
+    "chain": "solana",
+    "created_ts": 1793299304.2988672,
+    "entry_mcap": 500297,
+    "entry_ts": 1793299304.2988672,
+    "features": {
+     "age_min": 32.278667986392975,
+     "boosts": 30,
+     "buys_h1": 3759,
+     "buys_h24": 3759,
+     "buys_m5": 726,
+     "change_h1": 961,
+     "change_h24": 961,
+     "change_h6": 961,
+     "change_m5": -7.16,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.444419683050866,
+     "insiders": 0,
+     "liquidity": 59190.71,
+     "lp_locked_pct": 100,
+     "mcap": 500297,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.35659071523515645,
+     "score": 81,
+     "sells_h1": 2408,
+     "sells_h24": 2408,
+     "sells_m5": 441,
+     "top1": 1.6272839121608762,
+     "top10": 15.461867825417087,
+     "top5": 8.06084658498435,
+     "txns_h24": 6167,
+     "vol_h1": 577437.03,
+     "vol_h24": 577437.03,
+     "vol_m5": 72222.97
+    },
+    "id": "ca89beb0",
+    "last_mcap": 578032,
+    "missing": 0,
+    "peak_mcap": 578032,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "HYPERCAT",
+    "tf": "minute",
+    "token": "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
+    "tp_done": [],
+    "units": 1.9388483240954872e-05,
+    "units_left": 1.9388483240954872e-05
+   },
    "ded903a5": {
     "chain": "bsc",
     "created_ts": 1793228874.826915,
@@ -15348,7 +15462,7 @@
      "vol_m5": 1131.92
     },
     "id": "ded903a5",
-    "last_mcap": 1808841,
+    "last_mcap": 1817933,
     "missing": 0,
     "peak_mcap": 2153135,
     "profile": "swing_survivor",
@@ -15401,7 +15515,7 @@
      "vol_m5": 19699.67
     },
     "id": "e0f132e6",
-    "last_mcap": 89988,
+    "last_mcap": 90965,
     "missing": 0,
     "peak_mcap": 119032,
     "profile": "migrated",
@@ -15455,7 +15569,7 @@
      "vol_m5": 19699.67
     },
     "id": "f7d6102c",
-    "last_mcap": 89988,
+    "last_mcap": 90965,
     "missing": 0,
     "peak_mcap": 119032,
     "profile": "migrated",
@@ -24204,5 +24318,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793264192.6209338,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 291
+ "runs": 293
 }
