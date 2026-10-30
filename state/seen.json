@@ -1981,10 +1981,10 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 10:24:35 UTC",
+ "last_run": "2026-10-30 10:39:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -17756,7 +17756,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 105562,
+    "last_mcap": 89461,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17810,9 +17810,9 @@
      "vol_m5": 58936.97
     },
     "id": "6ba980ac",
-    "last_mcap": 311833,
+    "last_mcap": 329147,
     "missing": 0,
-    "peak_mcap": 324172,
+    "peak_mcap": 363701,
     "profile": "migrated",
     "realized": 13.426141161506877,
     "size": 10,
@@ -17863,7 +17863,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 884308,
+    "last_mcap": 927107,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17919,9 +17919,9 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 2272457,
+    "last_mcap": 2191528,
     "missing": 0,
-    "peak_mcap": 2274193,
+    "peak_mcap": 2387469,
     "profile": "migrated",
     "realized": 13.577639920084241,
     "size": 10,
@@ -26676,5 +26676,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793352009.5783265,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 482
+ "runs": 485
 }
