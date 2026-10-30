@@ -909,6 +909,15 @@
    "profile": "migrated",
    "symbol": "Frongy"
   },
+  "solana:9hhLCxn41KZcmK1vAf7u5M6vKLHRcsVn1VmVgUrhpump": {
+   "count": 1,
+   "first_mcap": 94739,
+   "first_ts": 1793353164.8570895,
+   "last_mcap": 94739,
+   "last_ts": 1793353164.8570895,
+   "profile": "migrated",
+   "symbol": "CTO"
+  },
   "solana:9hsUf4d21CpjLs6FNdxQosSEUnoT4SqLyUAjqGESKgG7": {
    "count": 1,
    "first_mcap": 102594,
@@ -1972,7 +1981,7 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 09:34:35 UTC",
+ "last_run": "2026-10-30 09:44:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17690,7 +17699,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 83690,
+    "last_mcap": 76574,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17746,9 +17755,9 @@
      "vol_m5": 51565.44
     },
     "id": "42defcf0",
-    "last_mcap": 99272,
+    "last_mcap": 115174,
     "missing": 0,
-    "peak_mcap": 112087,
+    "peak_mcap": 115174,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -17760,6 +17769,57 @@
     "tp_done": [],
     "units": 9.048338650398312e-05,
     "units_left": 9.048338650398312e-05
+   },
+   "6ba980ac": {
+    "chain": "solana",
+    "created_ts": 1793353164.857106,
+    "entry_mcap": 94739,
+    "entry_ts": 1793353164.857106,
+    "features": {
+     "age_min": 13.688208405176798,
+     "boosts": 0,
+     "buys_h1": 2862,
+     "buys_h24": 2862,
+     "buys_m5": 774,
+     "change_h1": 114,
+     "change_h24": 114,
+     "change_h6": 114,
+     "change_m5": 79.74,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 25639.71,
+     "lp_locked_pct": 100,
+     "mcap": 94739,
+     "n_socials": 1,
+     "n_warn": 0,
+     "score": 78,
+     "sells_h1": 2168,
+     "sells_h24": 2168,
+     "sells_m5": 637,
+     "top1": 3.317224227252046,
+     "top10": 17.69179252806894,
+     "top5": 10.478094606774132,
+     "txns_h24": 5030,
+     "vol_h1": 206204.33,
+     "vol_h24": 206204.33,
+     "vol_m5": 58936.97
+    },
+    "id": "6ba980ac",
+    "last_mcap": 119918,
+    "missing": 0,
+    "peak_mcap": 119918,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "CTO",
+    "tf": "minute",
+    "token": "9hhLCxn41KZcmK1vAf7u5M6vKLHRcsVn1VmVgUrhpump",
+    "tp_done": [],
+    "units": 0.00010238655675065178,
+    "units_left": 0.00010238655675065178
    },
    "87a31d3e": {
     "chain": "solana",
@@ -17797,7 +17857,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 947199,
+    "last_mcap": 948534,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17853,7 +17913,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1847912,
+    "last_mcap": 1714184,
     "missing": 0,
     "peak_mcap": 2274193,
     "profile": "migrated",
@@ -26662,5 +26722,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793352009.5783265,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 472
+ "runs": 474
 }
