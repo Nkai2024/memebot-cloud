@@ -1981,7 +1981,7 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 09:54:41 UTC",
+ "last_run": "2026-10-30 10:04:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17699,7 +17699,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 79185,
+    "last_mcap": 80245,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17755,9 +17755,9 @@
      "vol_m5": 51565.44
     },
     "id": "42defcf0",
-    "last_mcap": 115583,
+    "last_mcap": 132127,
     "missing": 0,
-    "peak_mcap": 137862,
+    "peak_mcap": 167310,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -17806,20 +17806,22 @@
      "vol_m5": 58936.97
     },
     "id": "6ba980ac",
-    "last_mcap": 167418,
+    "last_mcap": 193125,
     "missing": 0,
-    "peak_mcap": 167418,
+    "peak_mcap": 193125,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.426141161506877,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "CTO",
     "tf": "minute",
     "token": "9hhLCxn41KZcmK1vAf7u5M6vKLHRcsVn1VmVgUrhpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.00010238655675065178,
-    "units_left": 0.00010238655675065178
+    "units_left": 3.0715967025195535e-05
    },
    "87a31d3e": {
     "chain": "solana",
@@ -17857,7 +17859,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 905833,
+    "last_mcap": 853205,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17913,7 +17915,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1887444,
+    "last_mcap": 1924873,
     "missing": 0,
     "peak_mcap": 2274193,
     "profile": "migrated",
@@ -26722,5 +26724,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793352009.5783265,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 476
+ "runs": 478
 }
