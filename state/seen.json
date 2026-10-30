@@ -468,6 +468,15 @@
    "profile": "migrated",
    "symbol": "SIB"
   },
+  "solana:5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump": {
+   "count": 1,
+   "first_mcap": 293456,
+   "first_ts": 1793384504.7550995,
+   "last_mcap": 293456,
+   "last_ts": 1793384504.7550995,
+   "profile": "migrated",
+   "symbol": "TYGR"
+  },
   "solana:5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": {
    "count": 1,
    "first_mcap": 80998,
@@ -2053,10 +2062,10 @@
    "symbol": "$19"
   }
  },
- "last_run": "2026-10-30 18:16:55 UTC",
+ "last_run": "2026-10-30 18:26:55 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -18762,7 +18771,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 81424,
+    "last_mcap": 87801,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -18816,7 +18825,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 1090944,
+    "last_mcap": 850597,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -18833,6 +18842,58 @@
     ],
     "units": 4.08849699263649e-05,
     "units_left": 6.132745488954737e-06
+   },
+   "984909e2": {
+    "chain": "solana",
+    "created_ts": 1793384504.7551198,
+    "expires_ts": 1793391704.7551198,
+    "features": {
+     "age_min": 25.06098601023356,
+     "boosts": 0,
+     "buys_h1": 10134,
+     "buys_h24": 10134,
+     "buys_m5": 1004,
+     "change_h1": 561,
+     "change_h24": 561,
+     "change_h6": 561,
+     "change_m5": 22.77,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.03787862105841613,
+     "insiders": 0,
+     "liquidity": 51835.71,
+     "lp_locked_pct": 100,
+     "mcap": 293456,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.29653919389089545,
+     "score": 72,
+     "sells_h1": 7631,
+     "sells_h24": 7631,
+     "sells_m5": 836,
+     "top1": 2.6589096867912576,
+     "top10": 17.710438066873383,
+     "top5": 10.87311351908337,
+     "txns_h24": 17765,
+     "vol_h1": 1172857.19,
+     "vol_h24": 1172857.19,
+     "vol_m5": 107716.51
+    },
+    "id": "984909e2",
+    "last_mcap": 293456,
+    "missing": 0,
+    "peak_mcap": 293456,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "TYGR",
+    "tf": "minute",
+    "token": "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump",
+    "tp_done": [],
+    "zone_bottom": 116170.59357539387,
+    "zone_top": 177021.1211510273
    },
    "b107ce74": {
     "chain": "solana",
@@ -18872,7 +18933,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1492318,
+    "last_mcap": 1556265,
     "missing": 0,
     "peak_mcap": 2387469,
     "profile": "migrated",
@@ -18888,6 +18949,59 @@
     ],
     "units": 1.4782281378440118e-05,
     "units_left": 4.434684413532037e-06
+   },
+   "dd1ea094": {
+    "chain": "solana",
+    "created_ts": 1793384504.7551198,
+    "entry_mcap": 293456,
+    "entry_ts": 1793384504.7551198,
+    "features": {
+     "age_min": 25.06098601023356,
+     "boosts": 0,
+     "buys_h1": 10134,
+     "buys_h24": 10134,
+     "buys_m5": 1004,
+     "change_h1": 561,
+     "change_h24": 561,
+     "change_h6": 561,
+     "change_m5": 22.77,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.03787862105841613,
+     "insiders": 0,
+     "liquidity": 51835.71,
+     "lp_locked_pct": 100,
+     "mcap": 293456,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.29653919389089545,
+     "score": 72,
+     "sells_h1": 7631,
+     "sells_h24": 7631,
+     "sells_m5": 836,
+     "top1": 2.6589096867912576,
+     "top10": 17.710438066873383,
+     "top5": 10.87311351908337,
+     "txns_h24": 17765,
+     "vol_h1": 1172857.19,
+     "vol_h24": 1172857.19,
+     "vol_m5": 107716.51
+    },
+    "id": "dd1ea094",
+    "last_mcap": 393221,
+    "missing": 0,
+    "peak_mcap": 397010,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "TYGR",
+    "tf": "minute",
+    "token": "5wCqCq6jbppuTocMeq6zd4UywAm64L1QNNxvEDAHpump",
+    "tp_done": [],
+    "units": 3.3054359086200315e-05,
+    "units_left": 3.3054359086200315e-05
    }
   },
   "started_ts": 1793014927.9447827,
@@ -27638,5 +27752,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 564
+ "runs": 566
 }
