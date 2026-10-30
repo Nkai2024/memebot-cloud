@@ -2044,7 +2044,7 @@
    "symbol": "$19"
   }
  },
- "last_run": "2026-10-30 17:31:55 UTC",
+ "last_run": "2026-10-30 17:41:55 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18403,7 +18403,7 @@
      "vol_m5": 17873.25
     },
     "id": "180bd140",
-    "last_mcap": 88447,
+    "last_mcap": 91167,
     "missing": 0,
     "peak_mcap": 134142,
     "profile": "migrated",
@@ -18456,7 +18456,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 94350,
+    "last_mcap": 87494,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -18564,7 +18564,7 @@
      "vol_m5": 116338.29
     },
     "id": "5659e629",
-    "last_mcap": 430239,
+    "last_mcap": 499721,
     "missing": 0,
     "peak_mcap": 503924,
     "profile": "migrated",
@@ -18667,7 +18667,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 784216,
+    "last_mcap": 833936,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -18723,20 +18723,22 @@
      "vol_m5": 18204.02
     },
     "id": "8d0d9afd",
-    "last_mcap": 298980,
+    "last_mcap": 379030,
     "missing": 0,
-    "peak_mcap": 344125,
+    "peak_mcap": 379030,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.203184375594995,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "SPACEINU",
     "tf": "minute",
     "token": "5izHfawy4Rg1Vjm27F3ieHzmkEtWWyVNenhFFDPvpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 5.130212189807273e-05,
-    "units_left": 5.130212189807273e-05
+    "units_left": 1.5390636569421822e-05
    },
    "b107ce74": {
     "chain": "solana",
@@ -18776,7 +18778,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1488102,
+    "last_mcap": 1451699,
     "missing": 0,
     "peak_mcap": 2387469,
     "profile": "migrated",
@@ -27541,5 +27543,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 555
+ "runs": 557
 }
