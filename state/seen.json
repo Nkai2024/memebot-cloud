@@ -1981,7 +1981,7 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 12:04:35 UTC",
+ "last_run": "2026-10-30 12:14:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17756,7 +17756,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 154749,
+    "last_mcap": 144316,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17810,7 +17810,7 @@
      "vol_m5": 58936.97
     },
     "id": "6ba980ac",
-    "last_mcap": 272729,
+    "last_mcap": 235425,
     "missing": 0,
     "peak_mcap": 410291,
     "profile": "migrated",
@@ -17863,7 +17863,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 799612,
+    "last_mcap": 832949,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17919,7 +17919,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1795893,
+    "last_mcap": 1963098,
     "missing": 0,
     "peak_mcap": 2387469,
     "profile": "migrated",
@@ -26679,5 +26679,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 502
+ "runs": 504
 }
