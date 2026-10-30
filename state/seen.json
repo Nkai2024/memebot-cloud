@@ -1945,10 +1945,10 @@
    "symbol": "PETECOOPER"
   }
  },
- "last_run": "2026-10-30 04:25:20 UTC",
+ "last_run": "2026-10-30 04:35:40 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -17255,7 +17255,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 74676,
+    "last_mcap": 77053,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17311,7 +17311,7 @@
      "vol_m5": 29794.24
     },
     "id": "6a751b12",
-    "last_mcap": 290472,
+    "last_mcap": 279609,
     "missing": 0,
     "peak_mcap": 324216,
     "profile": "migrated",
@@ -17414,7 +17414,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 566983,
+    "last_mcap": 615844,
     "missing": 0,
     "peak_mcap": 1167040,
     "profile": "migrated",
@@ -17521,20 +17521,22 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1114857,
+    "last_mcap": 1420148,
     "missing": 0,
-    "peak_mcap": 1306857,
+    "peak_mcap": 1565107,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.577639920084241,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "HYPERCHAN",
     "tf": "minute",
     "token": "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 1.4782281378440118e-05,
-    "units_left": 1.4782281378440118e-05
+    "units_left": 4.434684413532037e-06
    }
   },
   "started_ts": 1793014927.9447827,
@@ -26273,5 +26275,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793330157.9957817,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 410
+ "runs": 412
 }
