@@ -1981,11 +1981,11 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 11:44:35 UTC",
+ "last_run": "2026-10-30 11:54:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -17756,7 +17756,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 118901,
+    "last_mcap": 132115,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17810,7 +17810,7 @@
      "vol_m5": 58936.97
     },
     "id": "6ba980ac",
-    "last_mcap": 341433,
+    "last_mcap": 327957,
     "missing": 0,
     "peak_mcap": 410291,
     "profile": "migrated",
@@ -17863,7 +17863,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 817816,
+    "last_mcap": 820793,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17919,7 +17919,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 2137414,
+    "last_mcap": 1994640,
     "missing": 0,
     "peak_mcap": 2387469,
     "profile": "migrated",
@@ -26662,6 +26662,7 @@
   "solana:6xcLnAebDFLgPDBrVrGzHEcMvjVQfMW6yQL4NvECpump": 1793260892.6104248,
   "solana:7YzMVYuhnUytjhqLJ7oz8JS9Lv5u7gW4JcjSfEpkpump": 1793335209.4763305,
   "solana:7fR4hpUuHYaUTnnUeVLWke2GvMZdZtaeM8yFwu92pump": 1793320555.5274808,
+  "solana:A66kHaKDhK1wGpsPLaxBW6FThCeU4V9LSy3arGkNpump": 1793361263.8833573,
   "solana:AHtLsp84S3ThHeNgcqg1jXaE9M6FSXKW8oj7WjYkXhot": 1793217451.269318,
   "solana:AkN8CWevo77MjjkfY3hQ5R7vGsPb5zumqKaUJbr4pump": 1793327456.6427498,
   "solana:Co9MpsTVpAiCLnbZbPDqFHfzYge7qvtVJYfwf2w9pump": 1793268187.6561115,
@@ -26678,5 +26679,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 498
+ "runs": 500
 }
