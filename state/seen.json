@@ -1963,11 +1963,11 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 09:10:19 UTC",
+ "last_run": "2026-10-30 09:20:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -17681,7 +17681,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 81250,
+    "last_mcap": 78797,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17735,7 +17735,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 966455,
+    "last_mcap": 924556,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17791,7 +17791,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1877544,
+    "last_mcap": 1946819,
     "missing": 0,
     "peak_mcap": 2274193,
     "profile": "migrated",
@@ -26545,8 +26545,8 @@
   "solana:GqaP7NBtPAFAUq45UAp426bdEtfz5nz2ffMn9MiHpump": 1793333710.7189674,
   "solana:GrP9Ej7FzDcxHKTfLSywEofwVrWTzUAsnC4TM86Tpump": 1793300806.270315,
   "solana:H3iGq7KSqdzw7QG3xZo2mF4eaYsvihZqqoAkdXripump": 1793302604.350793,
-  "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793330157.9957817,
+  "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793352009.5783265,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 467
+ "runs": 469
 }
