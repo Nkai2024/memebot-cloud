@@ -1954,11 +1954,11 @@
    "symbol": "MFORGE"
   }
  },
- "last_run": "2026-10-30 07:55:20 UTC",
+ "last_run": "2026-10-30 08:05:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -17495,7 +17495,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 94576,
+    "last_mcap": 94905,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -17552,7 +17552,7 @@
      "vol_m5": 29794.24
     },
     "id": "864573eb",
-    "last_mcap": 97484,
+    "last_mcap": 102571,
     "missing": 0,
     "peak_mcap": 158928,
     "profile": "migrated",
@@ -17605,7 +17605,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 825373,
+    "last_mcap": 836284,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -17661,7 +17661,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 2047422,
+    "last_mcap": 1931502,
     "missing": 0,
     "peak_mcap": 2274193,
     "profile": "migrated",
@@ -26397,6 +26397,7 @@
   "bsc:0xb124890D2Db132d26008bED87089E3BD6E467777": 1793294516.741213,
   "solana:2RyCCRenDtquADusNUfwFpvTaDkam82imh46SL2mpump": 1793217450.6655579,
   "solana:3EnfmbxdD2nHJ1KoogUgoYgeqS54gKis3AD3ieHGpump": 1793313356.567279,
+  "solana:3UrbFtErj4FYspTupgAfKqztrMYNVQA2GocpT97Q3ray": 1793347509.6095235,
   "solana:6KiSJe4GB9vLratvfF4Zb91jNQeekE3QCG3BnLzkpump": 1793269091.9722764,
   "solana:6eccVGkbi8cvAYBGzfDmUwFYrMj8eGZF2xyZqZLkpump": 1793310102.1792555,
   "solana:6xcLnAebDFLgPDBrVrGzHEcMvjVQfMW6yQL4NvECpump": 1793260892.6104248,
@@ -26407,6 +26408,7 @@
   "solana:Co9MpsTVpAiCLnbZbPDqFHfzYge7qvtVJYfwf2w9pump": 1793268187.6561115,
   "solana:DPe74dTCW7aFSCwCK4ZFWJJ4BL7uVJ9i4P58VUWJpump": 1793227039.27603,
   "solana:DTLnctZ8TsBoVEX7XsbUzwkZm7KmuhXVmgGuhNoLpump": 1793222504.4235759,
+  "solana:EjbgFA8vFhswojnNLxQVKYKiDsm3PgM6w7JuehfPpump": 1793347209.5793786,
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
   "solana:Fa1Uqysy2s6UwpcMQhjwpn49dp7oHPvxq8FrBqKqpump": 1793297505.4271822,
   "solana:Fa24xN13pzjmcx1dtKP9nBMMFCwLtXCJrtP5hSPKpump": 1793260593.8388455,
@@ -26416,5 +26418,5 @@
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793330157.9957817,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 452
+ "runs": 454
 }
