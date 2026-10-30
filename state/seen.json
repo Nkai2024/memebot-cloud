@@ -2080,7 +2080,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-30 19:11:55 UTC",
+ "last_run": "2026-10-30 19:21:55 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18789,7 +18789,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 67887,
+    "last_mcap": 69397,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -18845,7 +18845,7 @@
      "vol_m5": 115048.77
     },
     "id": "65576258",
-    "last_mcap": 378194,
+    "last_mcap": 426318,
     "missing": 0,
     "peak_mcap": 663373,
     "profile": "migrated",
@@ -18948,7 +18948,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 894307,
+    "last_mcap": 901344,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -19056,7 +19056,7 @@
      "vol_m5": 182202.37
     },
     "id": "b107ce74",
-    "last_mcap": 1935447,
+    "last_mcap": 1395911,
     "missing": 0,
     "peak_mcap": 2743414,
     "profile": "migrated",
@@ -19111,7 +19111,7 @@
      "vol_m5": 10092.64
     },
     "id": "be8c4cb0",
-    "last_mcap": 127922,
+    "last_mcap": 102918,
     "missing": 0,
     "peak_mcap": 156926,
     "profile": "migrated",
@@ -19129,6 +19129,8 @@
    "cd0617ff": {
     "chain": "solana",
     "created_ts": 1793386905.5431163,
+    "entry_mcap": 82909,
+    "entry_ts": 1793388031.453707,
     "expires_ts": 1793394105.5431163,
     "features": {
      "age_min": 33.661614032586414,
@@ -19163,18 +19165,20 @@
      "vol_m5": 10092.64
     },
     "id": "cd0617ff",
-    "last_mcap": 140824,
+    "last_mcap": 102918,
     "missing": 0,
-    "peak_mcap": 140824,
+    "peak_mcap": 102918,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "BTC",
     "tf": "minute",
     "token": "ra4qZ68oPFuEhHR5hMRpUsGH5riMbRBuMyW68r3pump",
     "tp_done": [],
+    "units": 0.00011699574231989289,
+    "units_left": 0.00011699574231989289,
     "zone_bottom": 70740.54800826313,
     "zone_top": 95082.51169967622
    },
@@ -19216,7 +19220,7 @@
      "vol_m5": 107716.51
     },
     "id": "dd1ea094",
-    "last_mcap": 238828,
+    "last_mcap": 278773,
     "missing": 0,
     "peak_mcap": 420355,
     "profile": "migrated",
@@ -27980,5 +27984,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 575
+ "runs": 577
 }
