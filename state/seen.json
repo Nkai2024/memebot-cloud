@@ -2287,7 +2287,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 19:33:59 UTC",
+ "last_run": "2026-10-31 19:43:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -21508,7 +21508,7 @@
      "vol_m5": 11766.99
     },
     "id": "06d8b9d0",
-    "last_mcap": 693529,
+    "last_mcap": 673947,
     "missing": 0,
     "peak_mcap": 800261,
     "profile": "swing_survivor",
@@ -21563,9 +21563,9 @@
      "vol_m5": 30184.7
     },
     "id": "0be84e08",
-    "last_mcap": 106631,
+    "last_mcap": 150914,
     "missing": 0,
-    "peak_mcap": 116882,
+    "peak_mcap": 150914,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -21720,7 +21720,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 114462,
+    "last_mcap": 109999,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -21777,7 +21777,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 1826862,
+    "last_mcap": 1825479,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21832,7 +21832,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 1826862,
+    "last_mcap": 1825479,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21885,7 +21885,7 @@
      "vol_m5": 2167.71
     },
     "id": "3d836d23",
-    "last_mcap": 66914,
+    "last_mcap": 65253,
     "missing": 0,
     "peak_mcap": 78765,
     "profile": "migrated",
@@ -22042,9 +22042,9 @@
      "vol_m5": 16382.83
     },
     "id": "6725bbaf",
-    "last_mcap": 430612,
+    "last_mcap": 520653,
     "missing": 0,
-    "peak_mcap": 482509,
+    "peak_mcap": 526240,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -22093,7 +22093,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 421108,
+    "last_mcap": 365343,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -22149,7 +22149,7 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 505997,
+    "last_mcap": 418190,
     "missing": 0,
     "peak_mcap": 580145,
     "profile": "migrated",
@@ -22308,7 +22308,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3099260,
+    "last_mcap": 3117992,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -22361,9 +22361,9 @@
      "vol_m5": 21689.75
     },
     "id": "fed322eb",
-    "last_mcap": 197848,
+    "last_mcap": 273619,
     "missing": 0,
-    "peak_mcap": 250996,
+    "peak_mcap": 317662,
     "profile": "migrated",
     "realized": 13.273242844548925,
     "size": 10,
@@ -31131,5 +31131,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 868
+ "runs": 870
 }
