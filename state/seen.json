@@ -2197,11 +2197,11 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 03:06:02 UTC",
+ "last_run": "2026-10-31 03:16:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -20194,58 +20194,6 @@
     "zone_bottom": 423200.92308842205,
     "zone_top": 735373.4996442934
    },
-   "10fa9e71": {
-    "chain": "solana",
-    "created_ts": 1793409099.8703253,
-    "expires_ts": 1793416299.8703253,
-    "features": {
-     "age_min": 30.919749557971954,
-     "boosts": 0,
-     "buys_h1": 9777,
-     "buys_h24": 9777,
-     "buys_m5": 912,
-     "change_h1": 899,
-     "change_h24": 899,
-     "change_h6": 899,
-     "change_m5": 8.05,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.48189292902823067,
-     "insiders": 0,
-     "liquidity": 57057.61,
-     "lp_locked_pct": 100,
-     "mcap": 481795,
-     "n_socials": 3,
-     "n_warn": 0,
-     "retracement_now": 0.3854764491881665,
-     "score": 78,
-     "sells_h1": 3045,
-     "sells_h24": 3045,
-     "sells_m5": 350,
-     "top1": 1.1460328270539868,
-     "top10": 11.14096803783484,
-     "top5": 5.684108093625438,
-     "txns_h24": 12822,
-     "vol_h1": 744987.76,
-     "vol_h24": 744987.76,
-     "vol_m5": 24353.48
-    },
-    "id": "10fa9e71",
-    "last_mcap": 481795,
-    "missing": 0,
-    "peak_mcap": 481795,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "Apple",
-    "tf": "minute",
-    "token": "6nJVg7wV1UBaWBpHuP7pEHLBd26U4cj6vXnGShobpump",
-    "tp_done": [],
-    "zone_bottom": 199045.17822751522,
-    "zone_top": 317644.8709584276
-   },
    "26353c17": {
     "chain": "solana",
     "created_ts": 1793276288.60573,
@@ -20284,7 +20232,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 84996,
+    "last_mcap": 83704,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -20341,7 +20289,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 2078026,
+    "last_mcap": 2091050,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20396,7 +20344,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 2078026,
+    "last_mcap": 2091050,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20450,7 +20398,7 @@
      "vol_m5": 63601.55
     },
     "id": "4a6ac59d",
-    "last_mcap": 132609,
+    "last_mcap": 108031,
     "missing": 0,
     "peak_mcap": 200938,
     "profile": "migrated",
@@ -20505,9 +20453,9 @@
      "vol_m5": 88912.11
     },
     "id": "750c04c1",
-    "last_mcap": 734567,
+    "last_mcap": 710893,
     "missing": 0,
-    "peak_mcap": 734567,
+    "peak_mcap": 739980,
     "profile": "migrated",
     "realized": 13.906530755469417,
     "size": 10,
@@ -20558,7 +20506,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 745660,
+    "last_mcap": 830908,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -20666,7 +20614,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3371371,
+    "last_mcap": 3415235,
     "missing": 0,
     "peak_mcap": 3663913,
     "profile": "swing_survivor",
@@ -20719,7 +20667,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 1082621,
+    "last_mcap": 1034854,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -29485,5 +29433,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 670
+ "runs": 672
 }
