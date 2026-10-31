@@ -2188,7 +2188,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 09:50:15 UTC",
+ "last_run": "2026-10-31 10:00:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20285,7 +20285,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 89742,
+    "last_mcap": 93336,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -20342,7 +20342,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 2146558,
+    "last_mcap": 2149614,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20397,7 +20397,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 2146558,
+    "last_mcap": 2149614,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20448,7 +20448,7 @@
      "vol_m5": 88912.11
     },
     "id": "750c04c1",
-    "last_mcap": 532245,
+    "last_mcap": 472342,
     "missing": 0,
     "peak_mcap": 787180,
     "profile": "migrated",
@@ -20501,7 +20501,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 651680,
+    "last_mcap": 629902,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -20609,7 +20609,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3279542,
+    "last_mcap": 3239778,
     "missing": 0,
     "peak_mcap": 3663913,
     "profile": "swing_survivor",
@@ -20662,7 +20662,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 972423,
+    "last_mcap": 973384,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -29391,7 +29391,7 @@
   }
  },
  "rejected": {
-  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793418664.1487005,
+  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793440516.5939608,
   "bsc:0x4a4B0bB2843dfd351653232f9f458A0f37F47777": 1793380916.0785205,
   "bsc:0xDd806E436Dda5588bf54061C11590c77dDC87777": 1793371775.7550342,
   "bsc:0xF7f76C059C83c21e627cb90800Ad2AfBCf3c7777": 1793206052.6857166,
@@ -29428,5 +29428,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 751
+ "runs": 753
 }
