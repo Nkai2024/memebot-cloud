@@ -2215,7 +2215,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 17:29:37 UTC",
+ "last_run": "2026-10-31 17:39:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20865,6 +20865,65 @@
     "tp_done": [],
     "units": 6.072329583513312e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1793468293.413666,
+    "created_ts": 1793466566.8287845,
+    "entry_mcap": 160392,
+    "entry_ts": 1793466566.8287845,
+    "features": {
+     "age_min": 33.1630526304245,
+     "boosts": 0,
+     "buys_h1": 2613,
+     "buys_h24": 2613,
+     "buys_m5": 264,
+     "change_h1": 297,
+     "change_h24": 297,
+     "change_h6": 297,
+     "change_m5": 2.02,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3630553715234246,
+     "insiders": 0,
+     "liquidity": 31787.33,
+     "lp_locked_pct": 100,
+     "mcap": 160392,
+     "n_socials": 1,
+     "n_warn": 0,
+     "retracement_now": 0.33237954956993293,
+     "score": 73,
+     "sells_h1": 1681,
+     "sells_h24": 1681,
+     "sells_m5": 174,
+     "top1": 0.8239104201191277,
+     "top10": 7.525462211973274,
+     "top5": 3.961066745646556,
+     "txns_h24": 4294,
+     "vol_h1": 256805.52,
+     "vol_h24": 256805.52,
+     "vol_m5": 24345.41
+    },
+    "id": "d4740379",
+    "last_mcap": 151115,
+    "missing": 0,
+    "peak_mcap": 417615,
+    "pnl": 8.967214003192176,
+    "pnl_pct": 89.67214003192177,
+    "profile": "migrated",
+    "realized": 18.967214003192176,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "DAVID",
+    "tf": "minute",
+    "token": "7ku3pcgXiGBqCCd6VZ8AyGe7t89BXtVpe6cVXwCLpump",
+    "tp_done": [
+     0
+    ],
+    "units": 6.047683176218265e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-10-30",
@@ -21011,7 +21070,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 95875,
+    "last_mcap": 93793,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -21068,7 +21127,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 1921272,
+    "last_mcap": 1972788,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21123,7 +21182,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 1921272,
+    "last_mcap": 1972788,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21174,7 +21233,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 334358,
+    "last_mcap": 358374,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -21230,7 +21289,7 @@
      "vol_m5": 44454.96
     },
     "id": "9e0d38ee",
-    "last_mcap": 527450,
+    "last_mcap": 622688,
     "missing": 0,
     "peak_mcap": 798891,
     "profile": "migrated",
@@ -21351,61 +21410,6 @@
     "zone_bottom": 104937.80500446106,
     "zone_top": 138395.24768892367
    },
-   "d4740379": {
-    "chain": "solana",
-    "created_ts": 1793466566.8287845,
-    "entry_mcap": 160392,
-    "entry_ts": 1793466566.8287845,
-    "features": {
-     "age_min": 33.1630526304245,
-     "boosts": 0,
-     "buys_h1": 2613,
-     "buys_h24": 2613,
-     "buys_m5": 264,
-     "change_h1": 297,
-     "change_h24": 297,
-     "change_h6": 297,
-     "change_m5": 2.02,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.3630553715234246,
-     "insiders": 0,
-     "liquidity": 31787.33,
-     "lp_locked_pct": 100,
-     "mcap": 160392,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.33237954956993293,
-     "score": 73,
-     "sells_h1": 1681,
-     "sells_h24": 1681,
-     "sells_m5": 174,
-     "top1": 0.8239104201191277,
-     "top10": 7.525462211973274,
-     "top5": 3.961066745646556,
-     "txns_h24": 4294,
-     "vol_h1": 256805.52,
-     "vol_h24": 256805.52,
-     "vol_m5": 24345.41
-    },
-    "id": "d4740379",
-    "last_mcap": 344906,
-    "missing": 0,
-    "peak_mcap": 417615,
-    "profile": "migrated",
-    "realized": 16.307777681555187,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "DAVID",
-    "tf": "minute",
-    "token": "7ku3pcgXiGBqCCd6VZ8AyGe7t89BXtVpe6cVXwCLpump",
-    "tp_done": [
-     0
-    ],
-    "units": 6.047683176218265e-05,
-    "units_left": 1.8143049528654797e-05
-   },
    "e625380e": {
     "chain": "solana",
     "created_ts": 1793393206.7004983,
@@ -21444,7 +21448,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3341402,
+    "last_mcap": 3344615,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -21497,7 +21501,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 998848,
+    "last_mcap": 1007418,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -30265,5 +30269,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 843
+ "runs": 845
 }
