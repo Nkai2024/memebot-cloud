@@ -2215,10 +2215,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 17:09:44 UTC",
+ "last_run": "2026-10-31 17:19:37 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -21011,7 +21011,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 103389,
+    "last_mcap": 98667,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -21068,7 +21068,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 1909737,
+    "last_mcap": 1895963,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21123,7 +21123,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 1909737,
+    "last_mcap": 1895963,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21174,7 +21174,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 317956,
+    "last_mcap": 353714,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -21191,58 +21191,6 @@
     ],
     "units": 4.08849699263649e-05,
     "units_left": 6.132745488954737e-06
-   },
-   "8922261c": {
-    "chain": "solana",
-    "created_ts": 1793462959.7329378,
-    "expires_ts": 1793470159.7329378,
-    "features": {
-     "age_min": 12.73562307357788,
-     "boosts": 0,
-     "buys_h1": 1690,
-     "buys_h24": 1690,
-     "buys_m5": 147,
-     "change_h1": 296,
-     "change_h24": 296,
-     "change_h6": 296,
-     "change_m5": 14.52,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.522410532758906,
-     "insiders": 0,
-     "liquidity": 31723.31,
-     "lp_locked_pct": 100,
-     "mcap": 159741,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.04829989563252759,
-     "score": 74,
-     "sells_h1": 931,
-     "sells_h24": 931,
-     "sells_m5": 143,
-     "top1": 2.068053467682641,
-     "top10": 10.847066538476465,
-     "top5": 6.81694019137146,
-     "txns_h24": 2621,
-     "vol_h1": 234235.08,
-     "vol_h24": 234235.08,
-     "vol_m5": 15280.48
-    },
-    "id": "8922261c",
-    "last_mcap": 159741,
-    "missing": 0,
-    "peak_mcap": 159741,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "whitepaper",
-    "tf": "minute",
-    "token": "42yUJZF3AarkppccT6MFQqgvh1LnL47GnQezetWipump",
-    "tp_done": [],
-    "zone_bottom": 66970.31818527244,
-    "zone_top": 88097.43264899847
    },
    "9e0d38ee": {
     "chain": "solana",
@@ -21282,9 +21230,9 @@
      "vol_m5": 44454.96
     },
     "id": "9e0d38ee",
-    "last_mcap": 617284,
+    "last_mcap": 662647,
     "missing": 0,
-    "peak_mcap": 617284,
+    "peak_mcap": 754075,
     "profile": "migrated",
     "realized": 14.207303421932991,
     "size": 10,
@@ -21441,9 +21389,9 @@
      "vol_m5": 24345.41
     },
     "id": "d4740379",
-    "last_mcap": 160392,
+    "last_mcap": 218123,
     "missing": 0,
-    "peak_mcap": 160392,
+    "peak_mcap": 293999,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -21494,7 +21442,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3446431,
+    "last_mcap": 3450166,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -21547,7 +21495,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 1073271,
+    "last_mcap": 1019984,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -30315,5 +30263,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 839
+ "runs": 841
 }
