@@ -2197,7 +2197,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 02:46:50 UTC",
+ "last_run": "2026-10-31 02:51:50 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -20284,7 +20284,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 82077,
+    "last_mcap": 82333,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -20341,7 +20341,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 2114826,
+    "last_mcap": 2126351,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20396,7 +20396,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 2114826,
+    "last_mcap": 2126351,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20450,7 +20450,7 @@
      "vol_m5": 63601.55
     },
     "id": "4a6ac59d",
-    "last_mcap": 124174,
+    "last_mcap": 137769,
     "missing": 0,
     "peak_mcap": 200938,
     "profile": "migrated",
@@ -20505,7 +20505,7 @@
      "vol_m5": 88912.11
     },
     "id": "750c04c1",
-    "last_mcap": 349290,
+    "last_mcap": 461974,
     "missing": 0,
     "peak_mcap": 661351,
     "profile": "migrated",
@@ -20558,7 +20558,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 753473,
+    "last_mcap": 693067,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -20666,7 +20666,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3410037,
+    "last_mcap": 3474195,
     "missing": 0,
     "peak_mcap": 3663913,
     "profile": "swing_survivor",
@@ -20719,7 +20719,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 1160407,
+    "last_mcap": 1142349,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -29485,5 +29485,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 666
+ "runs": 667
 }
