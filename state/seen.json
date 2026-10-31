@@ -2287,7 +2287,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 22:28:59 UTC",
+ "last_run": "2026-10-31 22:38:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -22035,7 +22035,7 @@
      "vol_m5": 11766.99
     },
     "id": "06d8b9d0",
-    "last_mcap": 585432,
+    "last_mcap": 572176,
     "missing": 0,
     "peak_mcap": 800261,
     "profile": "swing_survivor",
@@ -22090,7 +22090,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 101831,
+    "last_mcap": 100388,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22147,9 +22147,9 @@
      "vol_m5": 16993.13
     },
     "id": "26d4df9a",
-    "last_mcap": 610532,
+    "last_mcap": 703990,
     "missing": 0,
-    "peak_mcap": 702472,
+    "peak_mcap": 703990,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -22202,7 +22202,7 @@
      "vol_m5": 2167.71
     },
     "id": "3d836d23",
-    "last_mcap": 62495,
+    "last_mcap": 62500,
     "missing": 0,
     "peak_mcap": 78765,
     "profile": "migrated",
@@ -22255,9 +22255,9 @@
      "vol_m5": 16993.13
     },
     "id": "44af5de7",
-    "last_mcap": 610532,
+    "last_mcap": 703990,
     "missing": 0,
-    "peak_mcap": 702472,
+    "peak_mcap": 703990,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -22308,9 +22308,9 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 913265,
+    "last_mcap": 764549,
     "missing": 0,
-    "peak_mcap": 913265,
+    "peak_mcap": 1150013,
     "profile": "migrated",
     "realized": 21.146767169856282,
     "size": 10,
@@ -22416,7 +22416,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2831023,
+    "last_mcap": 2938929,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -22469,7 +22469,7 @@
      "vol_m5": 260495.9
     },
     "id": "f0142209",
-    "last_mcap": 640271,
+    "last_mcap": 715607,
     "missing": 0,
     "peak_mcap": 863393,
     "profile": "migrated",
@@ -31289,5 +31289,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 903
+ "runs": 905
 }
