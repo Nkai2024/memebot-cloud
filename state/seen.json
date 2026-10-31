@@ -1872,15 +1872,6 @@
    "profile": "migrated",
    "symbol": "SPERM"
   },
-  "solana:GoLpdpR9X66mC8m2hYYHsuMDs5trNNVv9ze21gzXpump": {
-   "count": 1,
-   "first_mcap": 976486,
-   "first_ts": 1792823468.069061,
-   "last_mcap": 976486,
-   "last_ts": 1792823468.069061,
-   "profile": "migrated",
-   "symbol": "GSIR"
-  },
   "solana:GozXFUVjxtTMVfF1HRAE9difXDLcciemgsJ2i5u1X6UJ": {
    "count": 1,
    "first_mcap": 75500,
@@ -2197,7 +2188,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 06:31:03 UTC",
+ "last_run": "2026-10-31 06:46:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -20351,7 +20342,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 2135597,
+    "last_mcap": 2205074,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20406,7 +20397,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 2135597,
+    "last_mcap": 2205074,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -20457,9 +20448,9 @@
      "vol_m5": 88912.11
     },
     "id": "750c04c1",
-    "last_mcap": 651509,
+    "last_mcap": 710933,
     "missing": 0,
-    "peak_mcap": 739980,
+    "peak_mcap": 787180,
     "profile": "migrated",
     "realized": 13.906530755469417,
     "size": 10,
@@ -20510,7 +20501,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 745551,
+    "last_mcap": 753178,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -20618,7 +20609,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3303622,
+    "last_mcap": 3335210,
     "missing": 0,
     "peak_mcap": 3663913,
     "profile": "swing_survivor",
@@ -20671,7 +20662,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 1045792,
+    "last_mcap": 1040411,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -29437,5 +29428,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 711
+ "runs": 714
 }
