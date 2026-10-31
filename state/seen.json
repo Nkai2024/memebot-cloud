@@ -2314,7 +2314,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 23:33:59 UTC",
+ "last_run": "2026-10-31 23:43:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -22407,7 +22407,7 @@
      "vol_m5": 11766.99
     },
     "id": "06d8b9d0",
-    "last_mcap": 536509,
+    "last_mcap": 538177,
     "missing": 0,
     "peak_mcap": 800261,
     "profile": "swing_survivor",
@@ -22462,7 +22462,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 104286,
+    "last_mcap": 106166,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22483,6 +22483,8 @@
    "37c3bd2c": {
     "chain": "solana",
     "created_ts": 1793486948.8073285,
+    "entry_mcap": 41676,
+    "entry_ts": 1793489795.149874,
     "expires_ts": 1793494148.8073285,
     "features": {
      "age_min": 12.85542500813802,
@@ -22517,18 +22519,20 @@
      "vol_m5": 34649.04
     },
     "id": "37c3bd2c",
-    "last_mcap": 62335,
+    "last_mcap": 24790,
     "missing": 0,
-    "peak_mcap": 62335,
+    "peak_mcap": 41969,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "CHUDBOB",
     "tf": "minute",
     "token": "DZrVCDqSyUBFoFJWJCVELhzL4cTFYWpCMirnv91TTTSH",
     "tp_done": [],
+    "units": 0.00023274786447835682,
+    "units_left": 0.00023274786447835682,
     "zone_bottom": 37511.25581412299,
     "zone_top": 44780.77526798194
    },
@@ -22570,7 +22574,7 @@
      "vol_m5": 2167.71
     },
     "id": "3d836d23",
-    "last_mcap": 62252,
+    "last_mcap": 62102,
     "missing": 0,
     "peak_mcap": 78765,
     "profile": "migrated",
@@ -22623,7 +22627,7 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 370768,
+    "last_mcap": 407887,
     "missing": 0,
     "peak_mcap": 1150013,
     "profile": "migrated",
@@ -22731,7 +22735,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2780922,
+    "last_mcap": 2768815,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -22745,58 +22749,6 @@
     "tp_done": [],
     "units": 2.9437203162223265e-06,
     "units_left": 2.9437203162223265e-06
-   },
-   "fdc6cd30": {
-    "chain": "solana",
-    "created_ts": 1793482728.9645078,
-    "expires_ts": 1793489928.9645078,
-    "features": {
-     "age_min": 36.77171706755956,
-     "boosts": 0,
-     "buys_h1": 19493,
-     "buys_h24": 19493,
-     "buys_m5": 2083,
-     "change_h1": 1095,
-     "change_h24": 1095,
-     "change_h6": 1095,
-     "change_m5": 11.87,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.047553491552151564,
-     "insiders": 0,
-     "liquidity": 65246.78,
-     "lp_locked_pct": 100,
-     "mcap": 488465,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.17227726612915664,
-     "score": 75,
-     "sells_h1": 16555,
-     "sells_h24": 16555,
-     "sells_m5": 1950,
-     "top1": 2.442680390267361,
-     "top10": 17.116978134438185,
-     "top5": 9.925927696181919,
-     "txns_h24": 36048,
-     "vol_h1": 1941888.31,
-     "vol_h24": 1941888.31,
-     "vol_m5": 260495.9
-    },
-    "id": "fdc6cd30",
-    "last_mcap": 488465,
-    "missing": 0,
-    "peak_mcap": 488465,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "KIM",
-    "tf": "minute",
-    "token": "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump",
-    "tp_done": [],
-    "zone_bottom": 151886.689426098,
-    "zone_top": 244021.38324748632
    }
   },
   "started_ts": 1793014927.9447827,
@@ -31552,5 +31504,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 916
+ "runs": 918
 }
