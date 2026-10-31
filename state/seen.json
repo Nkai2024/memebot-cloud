@@ -2215,7 +2215,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-10-31 17:19:37 UTC",
+ "last_run": "2026-10-31 17:29:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -21011,7 +21011,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 98667,
+    "last_mcap": 95875,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -21068,7 +21068,7 @@
      "vol_m5": 14656.7
     },
     "id": "2748142a",
-    "last_mcap": 1895963,
+    "last_mcap": 1921272,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21123,7 +21123,7 @@
      "vol_m5": 14656.7
     },
     "id": "3acdb10b",
-    "last_mcap": 1895963,
+    "last_mcap": 1921272,
     "missing": 0,
     "peak_mcap": 2476467,
     "profile": "swing_survivor",
@@ -21174,7 +21174,7 @@
      "vol_m5": 214242.44
     },
     "id": "87a31d3e",
-    "last_mcap": 353714,
+    "last_mcap": 334358,
     "missing": 0,
     "peak_mcap": 1246673,
     "profile": "migrated",
@@ -21230,9 +21230,9 @@
      "vol_m5": 44454.96
     },
     "id": "9e0d38ee",
-    "last_mcap": 662647,
+    "last_mcap": 527450,
     "missing": 0,
-    "peak_mcap": 754075,
+    "peak_mcap": 798891,
     "profile": "migrated",
     "realized": 14.207303421932991,
     "size": 10,
@@ -21389,20 +21389,22 @@
      "vol_m5": 24345.41
     },
     "id": "d4740379",
-    "last_mcap": 218123,
+    "last_mcap": 344906,
     "missing": 0,
-    "peak_mcap": 293999,
+    "peak_mcap": 417615,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 16.307777681555187,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "DAVID",
     "tf": "minute",
     "token": "7ku3pcgXiGBqCCd6VZ8AyGe7t89BXtVpe6cVXwCLpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 6.047683176218265e-05,
-    "units_left": 6.047683176218265e-05
+    "units_left": 1.8143049528654797e-05
    },
    "e625380e": {
     "chain": "solana",
@@ -21442,7 +21444,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 3450166,
+    "last_mcap": 3341402,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -21495,7 +21497,7 @@
      "vol_m5": 11766.99
     },
     "id": "ef53a5f8",
-    "last_mcap": 1019984,
+    "last_mcap": 998848,
     "missing": 0,
     "peak_mcap": 1232769,
     "profile": "swing_survivor",
@@ -30263,5 +30265,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 841
+ "runs": 843
 }
