@@ -2350,7 +2350,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 02:28:14 UTC",
+ "last_run": "2026-11-01 02:38:14 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -22676,7 +22676,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 93378,
+    "last_mcap": 95640,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22837,7 +22837,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 1017220,
+    "last_mcap": 1004481,
     "missing": 0,
     "peak_mcap": 1077409,
     "profile": "swing_survivor",
@@ -22890,7 +22890,7 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 1041920,
+    "last_mcap": 1151478,
     "missing": 0,
     "peak_mcap": 1465048,
     "profile": "migrated",
@@ -22998,9 +22998,9 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 343157,
+    "last_mcap": 387164,
     "missing": 0,
-    "peak_mcap": 384591,
+    "peak_mcap": 387164,
     "profile": "migrated",
     "realized": 15.700168177794637,
     "size": 10,
@@ -23105,7 +23105,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2969240,
+    "last_mcap": 2905894,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -31846,6 +31846,7 @@
   "solana:2pDkdMYChGZQQMfbRhfDgorZkKwmPF6sjN4bPfxoABTC": 1793487828.8724456,
   "solana:3EnfmbxdD2nHJ1KoogUgoYgeqS54gKis3AD3ieHGpump": 1793313356.567279,
   "solana:3UrbFtErj4FYspTupgAfKqztrMYNVQA2GocpT97Q3ray": 1793347509.6095235,
+  "solana:4RGFCEspCXydaXwH4siYcyeNduY2MABG1nWsTUAjpump": 1793500383.0076318,
   "solana:5Afz2mwDXjasvHXZHTT8anNxpec2QYdCiHHhubAWpump": 1793405158.6466243,
   "solana:5yappSXzEFBAqJufBqhpRJq29BVFbd5iyAkLvZgBpump": 1793358563.837966,
   "solana:6GCPmGAvH986ZE9psfHK5viH8haFL1c4KLNGXWiKpump": 1793364864.0389085,
@@ -31875,5 +31876,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 951
+ "runs": 953
 }
