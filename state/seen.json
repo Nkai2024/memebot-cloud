@@ -2431,7 +2431,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 13:16:38 UTC",
+ "last_run": "2026-11-01 13:26:38 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -23706,14 +23706,13 @@
     "tp_done": [],
     "units": 6.105813111761558e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-10-31",
-  "positions": {
-   "18afc418": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793539334.7812634,
     "created_ts": 1793538388.7445316,
-    "expires_ts": 1793545588.7445316,
+    "entry_mcap": 135131,
+    "entry_ts": 1793538388.7445316,
     "features": {
      "age_min": 11.083636061350505,
      "boosts": 0,
@@ -23746,22 +23745,28 @@
      "vol_h24": 137126.75,
      "vol_m5": 55519.31
     },
-    "id": "18afc418",
-    "last_mcap": 135131,
+    "id": "808fd641",
+    "last_mcap": 1894,
     "missing": 0,
     "peak_mcap": 135131,
+    "pnl": -9.868123184169436,
+    "pnl_pct": -98.68123184169436,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.1318768158305644,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
+    "status": "closed",
+    "strategy": "INSTANT",
     "symbol": "REGRET",
     "tf": "minute",
     "token": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump",
     "tp_done": [],
-    "zone_bottom": 61094.3564103994,
-    "zone_top": 77998.50642270724
-   },
+    "units": 7.178219653521398e-05,
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-31",
+  "positions": {
    "3d836d23": {
     "chain": "solana",
     "created_ts": 1793474081.0874467,
@@ -23854,7 +23859,7 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 62544,
+    "last_mcap": 59459,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23873,59 +23878,6 @@
     "units_left": 3.2479128532523775e-05,
     "zone_bottom": 38337.54726137257,
     "zone_top": 49543.280279242594
-   },
-   "808fd641": {
-    "chain": "solana",
-    "created_ts": 1793538388.7445316,
-    "entry_mcap": 135131,
-    "entry_ts": 1793538388.7445316,
-    "features": {
-     "age_min": 11.083636061350505,
-     "boosts": 0,
-     "buys_h1": 1433,
-     "buys_h24": 1433,
-     "buys_m5": 725,
-     "change_h1": 239,
-     "change_h24": 239,
-     "change_h6": 239,
-     "change_m5": 79.38,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.2516730866448571,
-     "insiders": 0,
-     "liquidity": 29998.57,
-     "lp_locked_pct": 100,
-     "mcap": 135131,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.050195116938933144,
-     "score": 88,
-     "sells_h1": 697,
-     "sells_h24": 697,
-     "sells_m5": 379,
-     "top1": 1.0027036643636826,
-     "top10": 8.80262262331242,
-     "top5": 4.671650844715378,
-     "txns_h24": 2130,
-     "vol_h1": 137126.75,
-     "vol_h24": 137126.75,
-     "vol_m5": 55519.31
-    },
-    "id": "808fd641",
-    "last_mcap": 103777,
-    "missing": 0,
-    "peak_mcap": 135131,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "REGRET",
-    "tf": "minute",
-    "token": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump",
-    "tp_done": [],
-    "units": 7.178219653521398e-05,
-    "units_left": 7.178219653521398e-05
    },
    "80a69274": {
     "chain": "solana",
@@ -23965,7 +23917,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 991185,
+    "last_mcap": 966638,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24019,7 +23971,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 991185,
+    "last_mcap": 966638,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24074,7 +24026,7 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 62544,
+    "last_mcap": 59459,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -24130,7 +24082,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 261089,
+    "last_mcap": 303483,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -32959,5 +32911,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1081
+ "runs": 1083
 }
