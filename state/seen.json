@@ -2413,7 +2413,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 14:01:39 UTC",
+ "last_run": "2026-11-01 14:11:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -23745,12 +23745,10 @@
     "tp_done": [],
     "units": 7.178219653521398e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-10-31",
-  "positions": {
-   "09823444": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793541854.7959557,
     "created_ts": 1793540188.6612785,
     "entry_mcap": 126973,
     "entry_ts": 1793540188.6612785,
@@ -23787,23 +23785,27 @@
      "vol_m5": 17021.17
     },
     "id": "09823444",
-    "last_mcap": 102869,
+    "last_mcap": 1875,
     "missing": 0,
     "peak_mcap": 154418,
+    "pnl": -9.86105805958747,
+    "pnl_pct": -98.61058059587471,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.13894194041252864,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "REGRETAMINE",
     "tf": "minute",
     "token": "57piTgZ3PUbrf3C59qJXrCwAms5VEa5ys1KPZNYSpump",
     "tp_done": [],
     "units": 7.639419404125286e-05,
-    "units_left": 7.639419404125286e-05
+    "units_left": 0.0
    },
-   "3d836d23": {
+   {
     "chain": "solana",
+    "close_ts": 1793541974.7958815,
     "created_ts": 1793474081.0874467,
     "entry_mcap": 78765,
     "entry_ts": 1793474081.0874467,
@@ -23840,21 +23842,27 @@
      "vol_m5": 2167.71
     },
     "id": "3d836d23",
-    "last_mcap": 53949,
+    "last_mcap": 1882,
     "missing": 0,
     "peak_mcap": 78765,
+    "pnl": -9.77518265727163,
+    "pnl_pct": -97.75182657271631,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.22481734272836915,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "HI",
     "tf": "minute",
     "token": "BJPP9Df54Gi394FFsMJFgJwoBhD1Vku7ZNvxQhYApump",
     "tp_done": [],
     "units": 0.00012315114581349583,
-    "units_left": 0.00012315114581349583
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-31",
+  "positions": {
    "43c1b59d": {
     "chain": "solana",
     "created_ts": 1793505483.7260783,
@@ -23894,7 +23902,7 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 54889,
+    "last_mcap": 52503,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23952,7 +23960,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 876644,
+    "last_mcap": 921490,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24006,7 +24014,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 876644,
+    "last_mcap": 921490,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24061,7 +24069,7 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 54889,
+    "last_mcap": 52503,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -24117,7 +24125,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 342107,
+    "last_mcap": 364409,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -24186,58 +24194,6 @@
     "tp_done": [],
     "zone_bottom": 886172.2979978934,
     "zone_top": 1548852.976144964
-   },
-   "e0b8ca5a": {
-    "chain": "solana",
-    "created_ts": 1793540188.6612785,
-    "expires_ts": 1793547388.6612785,
-    "features": {
-     "age_min": 12.733740965525309,
-     "boosts": 0,
-     "buys_h1": 1736,
-     "buys_h24": 1736,
-     "buys_m5": 293,
-     "change_h1": 218,
-     "change_h24": 218,
-     "change_h6": 218,
-     "change_m5": 45.9,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.3861416020860282,
-     "insiders": 0,
-     "liquidity": 29076.67,
-     "lp_locked_pct": 100,
-     "mcap": 126973,
-     "n_socials": 1,
-     "n_warn": 0,
-     "retracement_now": 0.07466583940954229,
-     "score": 79,
-     "sells_h1": 814,
-     "sells_h24": 814,
-     "sells_m5": 189,
-     "top1": 2.637295848204545,
-     "top10": 11.924371730440027,
-     "top5": 7.657031452954942,
-     "txns_h24": 2550,
-     "vol_h1": 133628.38,
-     "vol_h24": 133628.38,
-     "vol_m5": 17021.17
-    },
-    "id": "e0b8ca5a",
-    "last_mcap": 126973,
-    "missing": 0,
-    "peak_mcap": 126973,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "REGRETAMINE",
-    "tf": "minute",
-    "token": "57piTgZ3PUbrf3C59qJXrCwAms5VEa5ys1KPZNYSpump",
-    "tp_done": [],
-    "zone_bottom": 59833.51431003942,
-    "zone_top": 75690.24412960923
    }
   },
   "started_ts": 1793014927.9447827,
@@ -32998,5 +32954,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1090
+ "runs": 1092
 }
