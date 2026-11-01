@@ -2404,10 +2404,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 10:22:25 UTC",
+ "last_run": "2026-11-01 10:32:26 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -23487,7 +23487,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 123553,
+    "last_mcap": 125597,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -23543,7 +23543,7 @@
      "vol_m5": 2167.71
     },
     "id": "3d836d23",
-    "last_mcap": 61571,
+    "last_mcap": 61614,
     "missing": 0,
     "peak_mcap": 78765,
     "profile": "migrated",
@@ -23597,7 +23597,7 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 62042,
+    "last_mcap": 70644,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23655,7 +23655,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 1029428,
+    "last_mcap": 968970,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23709,7 +23709,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 1029428,
+    "last_mcap": 968970,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23764,7 +23764,7 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 62042,
+    "last_mcap": 70644,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23820,7 +23820,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 490531,
+    "last_mcap": 462545,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -32648,5 +32648,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1046
+ "runs": 1048
 }
