@@ -2440,7 +2440,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 18:55:53 UTC",
+ "last_run": "2026-11-01 19:05:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -24593,7 +24593,7 @@
     "zone_top": 807952.1265191246
    }
   ],
-  "last_summary_day": "2026-10-31",
+  "last_summary_day": "2026-11-01",
   "positions": {
    "bbb3d842": {
     "chain": "solana",
@@ -24633,7 +24633,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 132443,
+    "last_mcap": 125362,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33464,5 +33464,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1149
+ "runs": 1151
 }
