@@ -2350,10 +2350,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 02:08:21 UTC",
+ "last_run": "2026-11-01 02:18:14 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -22676,7 +22676,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 100713,
+    "last_mcap": 94736,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22837,7 +22837,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 1019093,
+    "last_mcap": 966144,
     "missing": 0,
     "peak_mcap": 1077409,
     "profile": "swing_survivor",
@@ -22890,7 +22890,7 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 1178032,
+    "last_mcap": 1160201,
     "missing": 0,
     "peak_mcap": 1465048,
     "profile": "migrated",
@@ -22998,20 +22998,22 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 110712,
+    "last_mcap": 297237,
     "missing": 0,
-    "peak_mcap": 110712,
+    "peak_mcap": 297237,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 15.700168177794637,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "BLUE",
     "tf": "minute",
     "token": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 8.761471204566804e-05,
-    "units_left": 8.761471204566804e-05
+    "units_left": 2.6284413613700413e-05
    },
    "c2667bcb": {
     "chain": "solana",
@@ -23103,7 +23105,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2939717,
+    "last_mcap": 2911351,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -31873,5 +31875,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 947
+ "runs": 949
 }
