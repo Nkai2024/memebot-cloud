@@ -639,15 +639,6 @@
    "profile": "migrated",
    "symbol": "OnlyCats"
   },
-  "solana:6mKrM1kb4jcZeBCo5596nWkM4JrERxkWsj7i157kpump": {
-   "count": 1,
-   "first_mcap": 292009,
-   "first_ts": 1792957265.3829052,
-   "last_mcap": 292009,
-   "last_ts": 1792957265.3829052,
-   "profile": "migrated",
-   "symbol": "NMS"
-  },
   "solana:6nJVg7wV1UBaWBpHuP7pEHLBd26U4cj6vXnGShobpump": {
    "count": 1,
    "first_mcap": 481795,
@@ -1170,15 +1161,6 @@
    "profile": "migrated",
    "symbol": "MoonCoin"
   },
-  "solana:ABTGtvVT28SAxRM22EdwrxzywgqKAfPTuhR6QJ3dpump": {
-   "count": 1,
-   "first_mcap": 199307,
-   "first_ts": 1792957258.8394122,
-   "last_mcap": 199307,
-   "last_ts": 1792957258.8394122,
-   "profile": "migrated",
-   "symbol": "AAPL"
-  },
   "solana:AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump": {
    "count": 1,
    "first_mcap": 500297,
@@ -1304,15 +1286,6 @@
    "last_ts": 1793490528.9078834,
    "profile": "migrated",
    "symbol": "INKKY"
-  },
-  "solana:B3utmoAez4taLJQ5usxEeya7T5ZijchsETdQCMazpump": {
-   "count": 1,
-   "first_mcap": 183096,
-   "first_ts": 1792957272.085848,
-   "last_mcap": 183096,
-   "last_ts": 1792957272.085848,
-   "profile": "migrated",
-   "symbol": "AMC"
   },
   "solana:B5txdTJXiNdKC9Bt8ST8wEBzH8tqBk5yLekEA5hSpump": {
    "count": 1,
@@ -2133,15 +2106,6 @@
    "profile": "migrated",
    "symbol": "carti"
   },
-  "solana:H7VZNCBynDK5ikBS9krDJ2Tx8CUr1wxedV19ZgkWpump": {
-   "count": 1,
-   "first_mcap": 1278570,
-   "first_ts": 1792957252.7388492,
-   "last_mcap": 1278570,
-   "last_ts": 1792957252.7388492,
-   "profile": "swing_survivor",
-   "symbol": "CATTLEAXE"
-  },
   "solana:HA479B5zxyLPsV6rUo8PzoYKK2WCDZhJojJuqdx9pump": {
    "count": 1,
    "first_mcap": 175142,
@@ -2449,7 +2413,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 19:40:53 UTC",
+ "last_run": "2026-11-01 19:50:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -24607,6 +24571,8 @@
    "5ccb1a04": {
     "chain": "solana",
     "created_ts": 1793561743.4937978,
+    "entry_mcap": 94444,
+    "entry_ts": 1793562569.7705703,
     "expires_ts": 1793568943.4937978,
     "features": {
      "age_min": 12.281775228182475,
@@ -24641,18 +24607,20 @@
      "vol_m5": 193851.33
     },
     "id": "5ccb1a04",
-    "last_mcap": 172338,
+    "last_mcap": 124946,
     "missing": 0,
-    "peak_mcap": 172338,
+    "peak_mcap": 124946,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "AI",
     "tf": "minute",
     "token": "HNxyGpz8AkLqmfBBKMzmugkPE5Bahj2bGPPTNgWGpump",
     "tp_done": [],
+    "units": 0.00010270636567701494,
+    "units_left": 0.00010270636567701494,
     "zone_bottom": 75366.50094714141,
     "zone_top": 110028.70032846802
    },
@@ -24694,7 +24662,7 @@
      "vol_m5": 193851.33
     },
     "id": "973a6e5c",
-    "last_mcap": 147482,
+    "last_mcap": 124946,
     "missing": 0,
     "peak_mcap": 199122,
     "profile": "migrated",
@@ -24747,7 +24715,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 155673,
+    "last_mcap": 148029,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33579,5 +33547,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1158
+ "runs": 1160
 }
