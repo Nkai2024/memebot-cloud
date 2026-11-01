@@ -2332,7 +2332,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 00:48:59 UTC",
+ "last_run": "2026-11-01 01:03:14 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -22559,14 +22559,13 @@
     "units_left": 0.0,
     "zone_bottom": 423200.92308842205,
     "zone_top": 735373.4996442934
-   }
-  ],
-  "last_summary_day": "2026-10-31",
-  "positions": {
-   "057a9343": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793494370.386066,
     "created_ts": 1793493229.0065343,
-    "expires_ts": 1793500429.0065343,
+    "entry_mcap": 90351,
+    "entry_ts": 1793493229.0065343,
     "features": {
      "age_min": 11.856435596942902,
      "boosts": 0,
@@ -22599,22 +22598,28 @@
      "vol_h24": 284309.48,
      "vol_m5": 97006.24
     },
-    "id": "057a9343",
-    "last_mcap": 90351,
+    "id": "4887a515",
+    "last_mcap": 42561,
     "missing": 0,
-    "peak_mcap": 90351,
+    "peak_mcap": 96627,
+    "pnl": -5.5677695985655955,
+    "pnl_pct": -55.67769598565595,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.4322304014344045,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
+    "status": "closed",
+    "strategy": "INSTANT",
     "symbol": "CASHCAT",
     "tf": "minute",
     "token": "GT7npkZe1b9ayvsHhvSm7yUYqq8XkWSP4v1xYNcSpump",
     "tp_done": [],
-    "zone_bottom": 51936.580849593534,
-    "zone_top": 62531.28220017592
-   },
+    "units": 0.00010735907737601132,
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-10-31",
+  "positions": {
    "26353c17": {
     "chain": "solana",
     "created_ts": 1793276288.60573,
@@ -22653,7 +22658,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 101294,
+    "last_mcap": 104691,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22724,59 +22729,6 @@
     "units": 0.00012315114581349583,
     "units_left": 0.00012315114581349583
    },
-   "4887a515": {
-    "chain": "solana",
-    "created_ts": 1793493229.0065343,
-    "entry_mcap": 90351,
-    "entry_ts": 1793493229.0065343,
-    "features": {
-     "age_min": 11.856435596942902,
-     "boosts": 0,
-     "buys_h1": 5227,
-     "buys_h24": 5227,
-     "buys_m5": 1855,
-     "change_h1": 129,
-     "change_h24": 129,
-     "change_h6": 129,
-     "change_m5": 18.02,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.039146066552716345,
-     "insiders": 0,
-     "liquidity": 23687.63,
-     "lp_locked_pct": 100,
-     "mcap": 90351,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.1768632056991833,
-     "score": 90,
-     "sells_h1": 1334,
-     "sells_h24": 1334,
-     "sells_m5": 380,
-     "top1": 2.244777005462627,
-     "top10": 14.108954276028417,
-     "top5": 8.057177426453118,
-     "txns_h24": 6561,
-     "vol_h1": 284309.48,
-     "vol_h24": 284309.48,
-     "vol_m5": 97006.24
-    },
-    "id": "4887a515",
-    "last_mcap": 50627,
-    "missing": 0,
-    "peak_mcap": 96627,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "CASHCAT",
-    "tf": "minute",
-    "token": "GT7npkZe1b9ayvsHhvSm7yUYqq8XkWSP4v1xYNcSpump",
-    "tp_done": [],
-    "units": 0.00010735907737601132,
-    "units_left": 0.00010735907737601132
-   },
    "895dedeb": {
     "chain": "solana",
     "created_ts": 1793473175.1435423,
@@ -22815,9 +22767,9 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 898497,
+    "last_mcap": 1313902,
     "missing": 0,
-    "peak_mcap": 1150013,
+    "peak_mcap": 1313902,
     "profile": "migrated",
     "realized": 21.146767169856282,
     "size": 10,
@@ -22923,7 +22875,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2808936,
+    "last_mcap": 2776723,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -31692,5 +31644,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 931
+ "runs": 934
 }
