@@ -225,15 +225,6 @@
    "profile": "migrated",
    "symbol": "HYPERCHAN"
   },
-  "solana:3KMHtbaxxMwp1EWWE5yFvLbJA9eLLiy11RucstArXwy7": {
-   "count": 1,
-   "first_mcap": 61014,
-   "first_ts": 1792902560.6031451,
-   "last_mcap": 61014,
-   "last_ts": 1792902560.6031451,
-   "profile": "migrated",
-   "symbol": "MOON"
-  },
   "solana:3P6dYjBnwHKbowrxV73oEGZGUdw4ooD98MiAMTAQpump": {
    "count": 1,
    "first_mcap": 129827,
@@ -2377,11 +2368,11 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 04:28:14 UTC",
+ "last_run": "2026-11-01 04:38:15 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -23000,7 +22991,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 88252,
+    "last_mcap": 90362,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -23110,9 +23101,9 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 122590,
+    "last_mcap": 205663,
     "missing": 0,
-    "peak_mcap": 132361,
+    "peak_mcap": 206800,
     "profile": "migrated",
     "realized": 15.441887479351752,
     "size": 10,
@@ -23167,7 +23158,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 908347,
+    "last_mcap": 930359,
     "missing": 0,
     "peak_mcap": 1077409,
     "profile": "swing_survivor",
@@ -23221,7 +23212,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 908347,
+    "last_mcap": 930359,
     "missing": 0,
     "peak_mcap": 958892,
     "profile": "swing_survivor",
@@ -23276,9 +23267,9 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 122590,
+    "last_mcap": 205663,
     "missing": 0,
-    "peak_mcap": 132361,
+    "peak_mcap": 206800,
     "profile": "migrated",
     "realized": 15.441887479351752,
     "size": 10,
@@ -23331,7 +23322,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 280278,
+    "last_mcap": 339413,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -23439,7 +23430,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2959818,
+    "last_mcap": 2903418,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -32171,7 +32162,7 @@
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793484239.7015495,
   "bsc:0x457bAdeE84b6bE7539458eac993983058C7f7777": 1793451016.2771196,
   "bsc:0x4a4B0bB2843dfd351653232f9f458A0f37F47777": 1793380916.0785205,
-  "bsc:0xDd806E436Dda5588bf54061C11590c77dDC87777": 1793371775.7550342,
+  "bsc:0xDd806E436Dda5588bf54061C11590c77dDC87777": 1793507895.0897985,
   "bsc:0xF7f76C059C83c21e627cb90800Ad2AfBCf3c7777": 1793206052.6857166,
   "bsc:0xb124890D2Db132d26008bED87089E3BD6E467777": 1793294516.741213,
   "solana:2RyCCRenDtquADusNUfwFpvTaDkam82imh46SL2mpump": 1793217450.6655579,
@@ -32210,5 +32201,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 975
+ "runs": 977
 }
