@@ -2440,7 +2440,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 18:35:53 UTC",
+ "last_run": "2026-11-01 18:45:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -24633,7 +24633,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 137282,
+    "last_mcap": 152863,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33439,6 +33439,7 @@
   "solana:6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump": 1793465966.1730154,
   "solana:6eccVGkbi8cvAYBGzfDmUwFYrMj8eGZF2xyZqZLkpump": 1793310102.1792555,
   "solana:6xcLnAebDFLgPDBrVrGzHEcMvjVQfMW6yQL4NvECpump": 1793260892.6104248,
+  "solana:7Y6QNhQ2FxL6JEqZHooqgkXQubeQNC6N9emJxytdWp65": 1793558442.462473,
   "solana:7YzMVYuhnUytjhqLJ7oz8JS9Lv5u7gW4JcjSfEpkpump": 1793335209.4763305,
   "solana:7fR4hpUuHYaUTnnUeVLWke2GvMZdZtaeM8yFwu92pump": 1793320555.5274808,
   "solana:8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump": 1793535687.4758408,
@@ -33463,5 +33464,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1145
+ "runs": 1147
 }
