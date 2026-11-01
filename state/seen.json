@@ -144,15 +144,6 @@
    "profile": "swing_survivor",
    "symbol": "CLAUDIA"
   },
-  "solana:2jihDj8t1NZaE2CHD69qKwvwqQLTyDKYtZBFiFwmpump": {
-   "count": 1,
-   "first_mcap": 60138,
-   "first_ts": 1792948496.5399673,
-   "last_mcap": 60138,
-   "last_ts": 1792948496.5399673,
-   "profile": "migrated",
-   "symbol": "NNN"
-  },
   "solana:2jzKCyzPDfx6TNem1f1AUdz4UxSCUzkxUmSHRbKbpump": {
    "count": 1,
    "first_mcap": 188158,
@@ -2169,15 +2160,6 @@
    "profile": "migrated",
    "symbol": "QUBIT"
   },
-  "solana:HHDG5RDzasVTtM5PxwgbegzKkouB9esAjhYWMMFapump": {
-   "count": 1,
-   "first_mcap": 424182,
-   "first_ts": 1792948490.0738995,
-   "last_mcap": 424182,
-   "last_ts": 1792948490.0738995,
-   "profile": "migrated",
-   "symbol": "TRUMP"
-  },
   "solana:HZFrwE8NrqehL54sG5ob9L3kUTSSUVSyS5E7PHUPpump": {
    "count": 1,
    "first_mcap": 312914,
@@ -2449,7 +2431,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 17:11:39 UTC",
+ "last_run": "2026-11-01 17:16:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -24526,7 +24508,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 659459,
+    "last_mcap": 658357,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24581,7 +24563,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 176239,
+    "last_mcap": 175681,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33411,5 +33393,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1128
+ "runs": 1129
 }
