@@ -22653,7 +22653,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 101810,
+    "last_mcap": 101294,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -22762,7 +22762,7 @@
      "vol_m5": 97006.24
     },
     "id": "4887a515",
-    "last_mcap": 77626,
+    "last_mcap": 50627,
     "missing": 0,
     "peak_mcap": 96627,
     "profile": "migrated",
@@ -22815,7 +22815,7 @@
      "vol_m5": 39053.83
     },
     "id": "895dedeb",
-    "last_mcap": 844720,
+    "last_mcap": 898497,
     "missing": 0,
     "peak_mcap": 1150013,
     "profile": "migrated",
@@ -22923,7 +22923,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2845220,
+    "last_mcap": 2808936,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
