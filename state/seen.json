@@ -2358,6 +2358,15 @@
    "profile": "migrated",
    "symbol": "MFORGE"
   },
+  "solana:nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT": {
+   "count": 1,
+   "first_mcap": 83799,
+   "first_ts": 1793517134.9453278,
+   "last_mcap": 83799,
+   "last_ts": 1793517134.9453278,
+   "profile": "migrated",
+   "symbol": "niketyson"
+  },
   "solana:pa6bZZbPUj8JVciH9b2DrcqmDuDwkvPBAZnWHKnpump": {
    "count": 1,
    "first_mcap": 124431,
@@ -2377,10 +2386,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 07:02:25 UTC",
+ "last_run": "2026-11-01 07:12:32 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -23019,6 +23028,57 @@
   ],
   "last_summary_day": "2026-10-31",
   "positions": {
+   "1e4a64ec": {
+    "chain": "solana",
+    "created_ts": 1793517134.9453452,
+    "entry_mcap": 83799,
+    "entry_ts": 1793517134.9453452,
+    "features": {
+     "age_min": 11.160074277718861,
+     "boosts": 0,
+     "buys_h1": 1545,
+     "buys_h24": 1545,
+     "buys_m5": 745,
+     "change_h1": 91.87,
+     "change_h24": 91.87,
+     "change_h6": 91.87,
+     "change_m5": -8.06,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 23899.5,
+     "lp_locked_pct": 100,
+     "mcap": 83799,
+     "n_socials": 1,
+     "n_warn": 0,
+     "score": 79,
+     "sells_h1": 954,
+     "sells_h24": 954,
+     "sells_m5": 445,
+     "top1": 3.8801532415776907,
+     "top10": 19.89734283801615,
+     "top5": 13.860196206275003,
+     "txns_h24": 2499,
+     "vol_h1": 87960.23,
+     "vol_h24": 87960.23,
+     "vol_m5": 41471.04
+    },
+    "id": "1e4a64ec",
+    "last_mcap": 100411,
+    "missing": 0,
+    "peak_mcap": 109148,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "niketyson",
+    "tf": "minute",
+    "token": "nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT",
+    "tp_done": [],
+    "units": 0.00011575317127889354,
+    "units_left": 0.00011575317127889354
+   },
    "26353c17": {
     "chain": "solana",
     "created_ts": 1793276288.60573,
@@ -23057,7 +23117,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 80997,
+    "last_mcap": 91306,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -23219,7 +23279,7 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 198526,
+    "last_mcap": 180074,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23277,7 +23337,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 982338,
+    "last_mcap": 917712,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23331,7 +23391,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 982338,
+    "last_mcap": 917712,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23386,7 +23446,7 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 198526,
+    "last_mcap": 180074,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23442,7 +23502,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 329965,
+    "last_mcap": 355104,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -23550,7 +23610,7 @@
      "vol_m5": 4532.14
     },
     "id": "e625380e",
-    "last_mcap": 2945139,
+    "last_mcap": 2904552,
     "missing": 0,
     "peak_mcap": 3816764,
     "profile": "swing_survivor",
@@ -32323,5 +32383,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1006
+ "runs": 1008
 }
