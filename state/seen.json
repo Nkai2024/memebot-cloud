@@ -2313,6 +2313,15 @@
    "profile": "migrated",
    "symbol": "Rollcage"
   },
+  "solana:JBuEiMHw7NJjns8epvNBGyyViWbo8oTAAh8r7QGepump": {
+   "count": 1,
+   "first_mcap": 62937,
+   "first_ts": 1793553643.4826376,
+   "last_mcap": 62937,
+   "last_ts": 1793553643.4826376,
+   "profile": "migrated",
+   "symbol": "POPU"
+  },
   "solana:JDAEYyQswqJga9NmhmL7F2Ruf1CFa6iuS9Kvj8neSTNK": {
    "count": 1,
    "first_mcap": 140155,
@@ -2431,7 +2440,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 17:16:39 UTC",
+ "last_run": "2026-11-01 17:30:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -24465,6 +24474,63 @@
     "tp_done": [],
     "units": 7.104145305405009e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1793553689.7191823,
+    "created_ts": 1793553643.4826558,
+    "entry_mcap": 62937,
+    "entry_ts": 1793553643.4826558,
+    "features": {
+     "age_min": 12.350240043799083,
+     "boosts": 0,
+     "buys_h1": 4191,
+     "buys_h24": 4191,
+     "buys_m5": 752,
+     "change_h1": 68.82,
+     "change_h24": 68.82,
+     "change_h6": 68.82,
+     "change_m5": 68.93,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5553437761055637,
+     "insiders": 0,
+     "liquidity": 21656.68,
+     "lp_locked_pct": 100,
+     "mcap": 62937,
+     "n_socials": 1,
+     "n_warn": 0,
+     "retracement_now": 0.5417323825224782,
+     "score": 78,
+     "sells_h1": 3501,
+     "sells_h24": 3501,
+     "sells_m5": 616,
+     "top1": 2.0280595476295025,
+     "top10": 15.20212808986108,
+     "top5": 9.084727338914027,
+     "txns_h24": 7692,
+     "vol_h1": 319533.25,
+     "vol_h24": 319533.25,
+     "vol_m5": 57256.21
+    },
+    "id": "d9a20793",
+    "last_mcap": 8484,
+    "missing": 0,
+    "peak_mcap": 62937,
+    "pnl": -8.731652986319652,
+    "pnl_pct": -87.31652986319654,
+    "profile": "migrated",
+    "realized": 1.268347013680347,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "POPU",
+    "tf": "minute",
+    "token": "JBuEiMHw7NJjns8epvNBGyyViWbo8oTAAh8r7QGepump",
+    "tp_done": [],
+    "units": 0.00015412237634459855,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-10-31",
@@ -24508,7 +24574,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 658357,
+    "last_mcap": 696470,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -24563,7 +24629,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 175681,
+    "last_mcap": 178161,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33393,5 +33459,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1129
+ "runs": 1132
 }
