@@ -2449,10 +2449,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 21:51:00 UTC",
+ "last_run": "2026-11-01 22:00:53 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -25057,9 +25057,9 @@
      "vol_m5": 65571.57
     },
     "id": "77c33f7e",
-    "last_mcap": 303640,
+    "last_mcap": 366016,
     "missing": 0,
-    "peak_mcap": 328959,
+    "peak_mcap": 467789,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -25162,11 +25162,11 @@
      "vol_m5": 110560.49
     },
     "id": "b1d55244",
-    "last_mcap": 168666,
+    "last_mcap": 135471,
     "missing": 0,
-    "peak_mcap": 168666,
+    "peak_mcap": 235466,
     "profile": "migrated",
-    "realized": 17.67362765942253,
+    "realized": 24.811710604365523,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -25174,10 +25174,11 @@
     "tf": "minute",
     "token": "6pGyajBJsvKWLvgDZPNebH5uZcHXc7hVQAJ3y1uuVXNd",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 0.00023089190926185997,
-    "units_left": 6.926757277855801e-05
+    "units_left": 3.4633786389279004e-05
    },
    "b20c4bbc": {
     "chain": "solana",
@@ -25218,11 +25219,11 @@
      "vol_m5": 110560.49
     },
     "id": "b20c4bbc",
-    "last_mcap": 168666,
+    "last_mcap": 135471,
     "missing": 0,
-    "peak_mcap": 168666,
+    "peak_mcap": 235466,
     "profile": "migrated",
-    "realized": 17.67362765942253,
+    "realized": 24.811710604365523,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
@@ -25230,10 +25231,11 @@
     "tf": "minute",
     "token": "6pGyajBJsvKWLvgDZPNebH5uZcHXc7hVQAJ3y1uuVXNd",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 0.00023089190926185997,
-    "units_left": 6.926757277855801e-05,
+    "units_left": 3.4633786389279004e-05,
     "zone_bottom": 38782.90003084714,
     "zone_top": 56616.64466022057
    }
@@ -33999,5 +34001,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1184
+ "runs": 1186
 }
