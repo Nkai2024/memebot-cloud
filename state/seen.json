@@ -2440,7 +2440,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 17:30:53 UTC",
+ "last_run": "2026-11-01 17:40:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -24531,12 +24531,10 @@
     "tp_done": [],
     "units": 0.00015412237634459855,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-10-31",
-  "positions": {
-   "9c49068d": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793554649.7247798,
     "created_ts": 1793496484.252349,
     "entry_mcap": 807253,
     "entry_ts": 1793505650.455018,
@@ -24574,23 +24572,29 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 696470,
+    "last_mcap": 479400,
     "missing": 0,
     "peak_mcap": 1134427,
+    "pnl": -4.412316089255786,
+    "pnl_pct": -44.123160892557856,
     "profile": "swing_survivor",
-    "realized": 0.0,
+    "realized": 5.587683910744214,
+    "reason": "stop loss -30%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "Leverhedge",
     "tf": "hour",
     "token": "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump",
     "tp_done": [],
     "units": 1.2016059401451588e-05,
-    "units_left": 1.2016059401451588e-05,
+    "units_left": 0.0,
     "zone_bottom": 471826.04484239797,
     "zone_top": 807952.1265191246
-   },
+   }
+  ],
+  "last_summary_day": "2026-10-31",
+  "positions": {
    "bbb3d842": {
     "chain": "solana",
     "created_ts": 1793498883.9726784,
@@ -24629,7 +24633,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 178161,
+    "last_mcap": 160756,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -33459,5 +33463,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1132
+ "runs": 1134
 }
