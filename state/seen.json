@@ -297,6 +297,15 @@
    "profile": "migrated",
    "symbol": "whitepaper"
   },
+  "solana:48Uo5fMMicwgWy4BPN2smoMh4q2zvUR5MaKqZbQRpump": {
+   "count": 1,
+   "first_mcap": 146964,
+   "first_ts": 1793520435.4396918,
+   "last_mcap": 146964,
+   "last_ts": 1793520435.4396918,
+   "profile": "migrated",
+   "symbol": "BTC"
+  },
   "solana:4BSzhcmBYRCdVykTGZ9f4Kbp4P49Q4BNuGmfDs2Upump": {
    "count": 1,
    "first_mcap": 180381,
@@ -2395,7 +2404,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 07:57:32 UTC",
+ "last_run": "2026-11-01 08:07:32 UTC",
  "last_summary": {
   "alerts": 1,
   "checked": 1,
@@ -23187,7 +23196,7 @@
      "vol_m5": 31283.07
     },
     "id": "26353c17",
-    "last_mcap": 93513,
+    "last_mcap": 102449,
     "missing": 0,
     "peak_mcap": 292101,
     "profile": "migrated",
@@ -23204,6 +23213,59 @@
     ],
     "units": 0.00020807413445450253,
     "units_left": 3.121112016817539e-05
+   },
+   "2bf43434": {
+    "chain": "solana",
+    "created_ts": 1793520435.439707,
+    "entry_mcap": 146964,
+    "entry_ts": 1793520435.439707,
+    "features": {
+     "age_min": 18.593846261501312,
+     "boosts": 0,
+     "buys_h1": 2402,
+     "buys_h24": 2402,
+     "buys_m5": 151,
+     "change_h1": 266,
+     "change_h24": 266,
+     "change_h6": 266,
+     "change_m5": -6.25,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.41372199455654574,
+     "insiders": 0,
+     "liquidity": 31727.94,
+     "lp_locked_pct": 100,
+     "mcap": 146964,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.28671465742392577,
+     "score": 75,
+     "sells_h1": 1176,
+     "sells_h24": 1176,
+     "sells_m5": 137,
+     "top1": 0.9822574277396621,
+     "top10": 8.003237471199297,
+     "top5": 4.255814489404166,
+     "txns_h24": 3578,
+     "vol_h1": 221733.37,
+     "vol_h24": 221733.37,
+     "vol_m5": 8886.24
+    },
+    "id": "2bf43434",
+    "last_mcap": 133085,
+    "missing": 0,
+    "peak_mcap": 146964,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "BTC",
+    "tf": "minute",
+    "token": "48Uo5fMMicwgWy4BPN2smoMh4q2zvUR5MaKqZbQRpump",
+    "tp_done": [],
+    "units": 6.600255844968836e-05,
+    "units_left": 6.600255844968836e-05
    },
    "3d836d23": {
     "chain": "solana",
@@ -23297,7 +23359,7 @@
      "vol_m5": 29269.28
     },
     "id": "43c1b59d",
-    "last_mcap": 210513,
+    "last_mcap": 200766,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23355,7 +23417,7 @@
      "vol_m5": 38768.52
     },
     "id": "5aae5f72",
-    "last_mcap": 129095,
+    "last_mcap": 109736,
     "missing": 0,
     "peak_mcap": 153496,
     "profile": "migrated",
@@ -23460,7 +23522,7 @@
      "vol_m5": 6245.23
     },
     "id": "80a69274",
-    "last_mcap": 949437,
+    "last_mcap": 933037,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23474,6 +23536,58 @@
     "tp_done": [],
     "units": 1.0143186236219122e-05,
     "units_left": 1.0143186236219122e-05
+   },
+   "81fce756": {
+    "chain": "solana",
+    "created_ts": 1793520435.439707,
+    "expires_ts": 1793527635.439707,
+    "features": {
+     "age_min": 18.593846261501312,
+     "boosts": 0,
+     "buys_h1": 2402,
+     "buys_h24": 2402,
+     "buys_m5": 151,
+     "change_h1": 266,
+     "change_h24": 266,
+     "change_h6": 266,
+     "change_m5": -6.25,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.41372199455654574,
+     "insiders": 0,
+     "liquidity": 31727.94,
+     "lp_locked_pct": 100,
+     "mcap": 146964,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.28671465742392577,
+     "score": 75,
+     "sells_h1": 1176,
+     "sells_h24": 1176,
+     "sells_m5": 137,
+     "top1": 0.9822574277396621,
+     "top10": 8.003237471199297,
+     "top5": 4.255814489404166,
+     "txns_h24": 3578,
+     "vol_h1": 221733.37,
+     "vol_h24": 221733.37,
+     "vol_m5": 8886.24
+    },
+    "id": "81fce756",
+    "last_mcap": 146964,
+    "missing": 0,
+    "peak_mcap": 146964,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "BTC",
+    "tf": "minute",
+    "token": "48Uo5fMMicwgWy4BPN2smoMh4q2zvUR5MaKqZbQRpump",
+    "tp_done": [],
+    "zone_bottom": 72006.94932176605,
+    "zone_top": 97228.567983693
    },
    "9c49068d": {
     "chain": "solana",
@@ -23514,7 +23628,7 @@
      "vol_m5": 6245.23
     },
     "id": "9c49068d",
-    "last_mcap": 949437,
+    "last_mcap": 933037,
     "missing": 0,
     "peak_mcap": 1134427,
     "profile": "swing_survivor",
@@ -23569,7 +23683,7 @@
      "vol_m5": 29269.28
     },
     "id": "a787e06e",
-    "last_mcap": 210513,
+    "last_mcap": 200766,
     "missing": 0,
     "peak_mcap": 323139,
     "profile": "migrated",
@@ -23625,7 +23739,7 @@
      "vol_m5": 33071.03
     },
     "id": "bbb3d842",
-    "last_mcap": 398316,
+    "last_mcap": 381426,
     "missing": 0,
     "peak_mcap": 709811,
     "profile": "migrated",
@@ -32453,5 +32567,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1017
+ "runs": 1019
 }
