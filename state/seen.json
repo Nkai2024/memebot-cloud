@@ -2557,7 +2557,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 13:48:38 UTC",
+ "last_run": "2026-11-02 13:58:38 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -26910,7 +26910,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 4378985,
+    "last_mcap": 4187644,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26966,7 +26966,7 @@
      "vol_m5": 83374.79
     },
     "id": "2eff8101",
-    "last_mcap": 142135,
+    "last_mcap": 92062,
     "missing": 0,
     "peak_mcap": 147112,
     "profile": "migrated",
@@ -27019,9 +27019,9 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 835911,
+    "last_mcap": 872823,
     "missing": 0,
-    "peak_mcap": 835911,
+    "peak_mcap": 902327,
     "profile": "migrated",
     "realized": 13.237881348821277,
     "size": 10,
@@ -27127,7 +27127,7 @@
      "vol_m5": 22459.75
     },
     "id": "75910515",
-    "last_mcap": 37031,
+    "last_mcap": 57480,
     "missing": 0,
     "peak_mcap": 66910,
     "profile": "migrated",
@@ -27182,7 +27182,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 274031,
+    "last_mcap": 244330,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -27199,58 +27199,6 @@
     ],
     "units": 0.00010979557648337219,
     "units_left": 1.646933647250583e-05
-   },
-   "f887c69e": {
-    "chain": "solana",
-    "created_ts": 1793620406.8505046,
-    "expires_ts": 1793627606.8505046,
-    "features": {
-     "age_min": 18.39627327521642,
-     "boosts": 100,
-     "buys_h1": 1248,
-     "buys_h24": 1248,
-     "buys_m5": 154,
-     "change_h1": 525,
-     "change_h24": 525,
-     "change_h6": 525,
-     "change_m5": 18.41,
-     "creator_pct": null,
-     "dex": "raydium",
-     "first_candle_share": 0.5642238048323248,
-     "insiders": 0,
-     "liquidity": 40607.34,
-     "lp_locked_pct": 100,
-     "mcap": 245266,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.25054511157365894,
-     "score": 76,
-     "sells_h1": 750,
-     "sells_h24": 750,
-     "sells_m5": 110,
-     "top1": 1.620106637851463,
-     "top10": 9.86579773147501,
-     "top5": 5.85065801096051,
-     "txns_h24": 1998,
-     "vol_h1": 191859.07,
-     "vol_h24": 191859.07,
-     "vol_m5": 16594.32
-    },
-    "id": "f887c69e",
-    "last_mcap": 245266,
-    "missing": 0,
-    "peak_mcap": 245266,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "MAMESUKE",
-    "tf": "minute",
-    "token": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
-    "tp_done": [],
-    "zone_bottom": 98084.48475077332,
-    "zone_top": 144262.9679364237
    }
   },
   "started_ts": 1793014927.9447827,
@@ -36019,5 +35967,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1376
+ "runs": 1378
 }
