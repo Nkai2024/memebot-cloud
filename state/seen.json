@@ -1143,15 +1143,6 @@
    "profile": "migrated",
    "symbol": "BITCAT"
   },
-  "solana:9qyUWAY2LsccnYxNh5UCF8pybsbjru7nZLP59SMfpump": {
-   "count": 1,
-   "first_mcap": 150029,
-   "first_ts": 1792973381.238038,
-   "last_mcap": 150029,
-   "last_ts": 1792973381.238038,
-   "profile": "migrated",
-   "symbol": "GTONK"
-  },
   "solana:9rdw2ukP4gW5rQFS1RZrFdmpmB9tBFdngsYXP5NLpump": {
    "count": 1,
    "first_mcap": 58608,
@@ -1818,15 +1809,6 @@
    "profile": "migrated",
    "symbol": "RATIOED"
   },
-  "solana:Ef1msGuVNfbKY6AzVM25SHEJWuEFSscKxTR2TazZpump": {
-   "count": 1,
-   "first_mcap": 123219,
-   "first_ts": 1792973387.9166336,
-   "last_mcap": 123219,
-   "last_ts": 1792973387.9166336,
-   "profile": "migrated",
-   "symbol": "BTC"
-  },
   "solana:EgHf3XonHq6QCUoSZ1tFV5bQUG4Ez7FcvzMbdTF1pump": {
    "count": 1,
    "first_mcap": 199762,
@@ -2142,15 +2124,6 @@
    "profile": "migrated",
    "symbol": "Tofu"
   },
-  "solana:H5UCZUqCsuTQijwNLBX2KjwP7XJaMaESBSDzQytypump": {
-   "count": 1,
-   "first_mcap": 622906,
-   "first_ts": 1792973375.010418,
-   "last_mcap": 622906,
-   "last_ts": 1792973375.010418,
-   "profile": "migrated",
-   "symbol": "carti"
-  },
   "solana:HA479B5zxyLPsV6rUo8PzoYKK2WCDZhJojJuqdx9pump": {
    "count": 1,
    "first_mcap": 175142,
@@ -2458,7 +2431,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 00:05:06 UTC",
+ "last_run": "2026-11-02 00:15:06 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -25303,7 +25276,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 2194122,
+    "last_mcap": 1994645,
     "missing": 0,
     "peak_mcap": 2304707,
     "profile": "migrated",
@@ -25358,7 +25331,7 @@
      "vol_m5": 33247.75
     },
     "id": "1fea759f",
-    "last_mcap": 252597,
+    "last_mcap": 279772,
     "missing": 0,
     "peak_mcap": 350940,
     "profile": "migrated",
@@ -25372,58 +25345,6 @@
     "tp_done": [],
     "units": 3.520628341421099e-05,
     "units_left": 3.520628341421099e-05
-   },
-   "28fa255b": {
-    "chain": "solana",
-    "created_ts": 1793570743.7377272,
-    "expires_ts": 1793577943.7377272,
-    "features": {
-     "age_min": 38.25068248510361,
-     "boosts": 0,
-     "buys_h1": 2062,
-     "buys_h24": 2062,
-     "buys_m5": 193,
-     "change_h1": 227,
-     "change_h24": 227,
-     "change_h6": 227,
-     "change_m5": -5.89,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.8495471364177933,
-     "insiders": 0,
-     "liquidity": 28665.85,
-     "lp_locked_pct": 100,
-     "mcap": 132561,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.13971306257016303,
-     "score": 71,
-     "sells_h1": 1145,
-     "sells_h24": 1145,
-     "sells_m5": 118,
-     "top1": 0.6495595601858991,
-     "top10": 6.3446126205508815,
-     "top5": 3.2037335630402373,
-     "txns_h24": 3207,
-     "vol_h1": 167964.03,
-     "vol_h24": 167964.03,
-     "vol_m5": 10732.37
-    },
-    "id": "28fa255b",
-    "last_mcap": 132561,
-    "missing": 0,
-    "peak_mcap": 132561,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "VETOTRUMP",
-    "tf": "minute",
-    "token": "6g16UK4wHoFhC7PCmw8LYYCdt9q8m99fyoAwxeCrpump",
-    "tp_done": [],
-    "zone_bottom": 63214.5125631678,
-    "zone_top": 81240.88632173165
    },
    "2979bbba": {
     "chain": "solana",
@@ -25516,7 +25437,7 @@
      "vol_m5": 65571.57
     },
     "id": "85f55f8b",
-    "last_mcap": 360684,
+    "last_mcap": 364670,
     "missing": 0,
     "peak_mcap": 374423,
     "profile": "migrated",
@@ -34347,5 +34268,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1211
+ "runs": 1213
 }
