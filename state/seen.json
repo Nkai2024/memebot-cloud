@@ -2205,6 +2205,15 @@
    "profile": "migrated",
    "symbol": "Tofu"
   },
+  "solana:H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump": {
+   "count": 1,
+   "first_mcap": 161401,
+   "first_ts": 1793648236.474905,
+   "last_mcap": 161401,
+   "last_ts": 1793648236.474905,
+   "profile": "migrated",
+   "symbol": "Slingoor"
+  },
   "solana:HA479B5zxyLPsV6rUo8PzoYKK2WCDZhJojJuqdx9pump": {
    "count": 1,
    "first_mcap": 175142,
@@ -2512,10 +2521,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-02 19:27:27 UTC",
+ "last_run": "2026-11-02 19:37:33 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -27501,7 +27510,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 1080568,
+    "last_mcap": 965750,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -27557,7 +27566,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1319539,
+    "last_mcap": 1349329,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -27613,20 +27622,75 @@
      "vol_m5": 244679.58
     },
     "id": "4230d2bf",
-    "last_mcap": 484009,
+    "last_mcap": 782430,
     "missing": 0,
-    "peak_mcap": 605558,
+    "peak_mcap": 782430,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.194832746924464,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "CAPY",
     "tf": "minute",
     "token": "5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 2.8747469778111022e-05,
-    "units_left": 2.8747469778111022e-05
+    "units_left": 8.624240933433307e-06
+   },
+   "4a162e31": {
+    "chain": "solana",
+    "created_ts": 1793648236.4749217,
+    "entry_mcap": 161401,
+    "entry_ts": 1793648236.4749217,
+    "features": {
+     "age_min": 30.889546314875286,
+     "boosts": 0,
+     "buys_h1": 2849,
+     "buys_h24": 2849,
+     "buys_m5": 438,
+     "change_h1": 254,
+     "change_h24": 254,
+     "change_h6": 254,
+     "change_m5": 53.26,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.8205521836654539,
+     "insiders": 0,
+     "liquidity": 31037.54,
+     "lp_locked_pct": 100,
+     "mcap": 161401,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0634338105995964,
+     "score": 77,
+     "sells_h1": 583,
+     "sells_h24": 583,
+     "sells_m5": 128,
+     "top1": 0.48317648173322864,
+     "top10": 4.553068174096418,
+     "top5": 2.340584198893799,
+     "txns_h24": 3432,
+     "vol_h1": 152427.23,
+     "vol_h24": 152427.23,
+     "vol_m5": 19839.52
+    },
+    "id": "4a162e31",
+    "last_mcap": 161401,
+    "missing": 0,
+    "peak_mcap": 161401,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Slingoor",
+    "tf": "minute",
+    "token": "H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump",
+    "tp_done": [],
+    "units": 6.0098760230729666e-05,
+    "units_left": 6.0098760230729666e-05
    },
    "6aef28d9": {
     "chain": "solana",
@@ -27667,7 +27731,7 @@
      "vol_m5": 49644.75
     },
     "id": "6aef28d9",
-    "last_mcap": 27350,
+    "last_mcap": 22091,
     "missing": 0,
     "peak_mcap": 40267,
     "profile": "migrated",
@@ -27722,7 +27786,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 130712,
+    "last_mcap": 105624,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -27739,6 +27803,58 @@
     ],
     "units": 0.00010979557648337219,
     "units_left": 1.646933647250583e-05
+   },
+   "959ef658": {
+    "chain": "solana",
+    "created_ts": 1793648236.4749217,
+    "expires_ts": 1793655436.4749217,
+    "features": {
+     "age_min": 30.889546314875286,
+     "boosts": 0,
+     "buys_h1": 2849,
+     "buys_h24": 2849,
+     "buys_m5": 438,
+     "change_h1": 254,
+     "change_h24": 254,
+     "change_h6": 254,
+     "change_m5": 53.26,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.8205521836654539,
+     "insiders": 0,
+     "liquidity": 31037.54,
+     "lp_locked_pct": 100,
+     "mcap": 161401,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0634338105995964,
+     "score": 77,
+     "sells_h1": 583,
+     "sells_h24": 583,
+     "sells_m5": 128,
+     "top1": 0.48317648173322864,
+     "top10": 4.553068174096418,
+     "top5": 2.340584198893799,
+     "txns_h24": 3432,
+     "vol_h1": 152427.23,
+     "vol_h24": 152427.23,
+     "vol_m5": 19839.52
+    },
+    "id": "959ef658",
+    "last_mcap": 161401,
+    "missing": 0,
+    "peak_mcap": 161401,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Slingoor",
+    "tf": "minute",
+    "token": "H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump",
+    "tp_done": [],
+    "zone_bottom": 71724.77910860657,
+    "zone_top": 92574.91758831564
    },
    "9efc9908": {
     "chain": "solana",
@@ -27830,7 +27946,7 @@
      "vol_m5": 93744.86
     },
     "id": "f620d260",
-    "last_mcap": 175623,
+    "last_mcap": 160902,
     "missing": 0,
     "peak_mcap": 175623,
     "profile": "migrated",
@@ -27884,7 +28000,7 @@
      "vol_m5": 93744.86
     },
     "id": "fa08bd3f",
-    "last_mcap": 175623,
+    "last_mcap": 160902,
     "missing": 0,
     "peak_mcap": 175623,
     "profile": "migrated",
@@ -36672,5 +36788,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1407
+ "runs": 1409
 }
