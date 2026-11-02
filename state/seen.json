@@ -2431,7 +2431,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 00:35:06 UTC",
+ "last_run": "2026-11-02 00:50:06 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -25276,7 +25276,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 1975279,
+    "last_mcap": 1889717,
     "missing": 0,
     "peak_mcap": 2374311,
     "profile": "migrated",
@@ -25331,7 +25331,7 @@
      "vol_m5": 33247.75
     },
     "id": "1fea759f",
-    "last_mcap": 287880,
+    "last_mcap": 335334,
     "missing": 0,
     "peak_mcap": 350940,
     "profile": "migrated",
@@ -25345,58 +25345,6 @@
     "tp_done": [],
     "units": 3.520628341421099e-05,
     "units_left": 3.520628341421099e-05
-   },
-   "2979bbba": {
-    "chain": "solana",
-    "created_ts": 1793572863.0478442,
-    "expires_ts": 1793580063.0478442,
-    "features": {
-     "age_min": 12.184466592470805,
-     "boosts": 0,
-     "buys_h1": 3251,
-     "buys_h24": 3251,
-     "buys_m5": 1072,
-     "change_h1": 1623,
-     "change_h24": 1623,
-     "change_h6": 1623,
-     "change_m5": 97.5,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.3637521799298763,
-     "insiders": 0,
-     "liquidity": 76349,
-     "lp_locked_pct": 100,
-     "mcap": 883979,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.13955773809205793,
-     "score": 81,
-     "sells_h1": 1481,
-     "sells_h24": 1481,
-     "sells_m5": 582,
-     "top1": 1.5503187990742886,
-     "top10": 15.314090633422945,
-     "top5": 7.714086136798387,
-     "txns_h24": 4732,
-     "vol_h1": 582898.38,
-     "vol_h24": 582898.38,
-     "vol_m5": 211708.91
-    },
-    "id": "2979bbba",
-    "last_mcap": 883979,
-    "missing": 0,
-    "peak_mcap": 883979,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "ANAKIN",
-    "tf": "minute",
-    "token": "8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump",
-    "tp_done": [],
-    "zone_bottom": 258150.09533582855,
-    "zone_top": 420793.013627197
    },
    "85f55f8b": {
     "chain": "solana",
@@ -25437,7 +25385,7 @@
      "vol_m5": 65571.57
     },
     "id": "85f55f8b",
-    "last_mcap": 357480,
+    "last_mcap": 363250,
     "missing": 0,
     "peak_mcap": 398871,
     "profile": "migrated",
@@ -34270,5 +34218,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1217
+ "runs": 1220
 }
