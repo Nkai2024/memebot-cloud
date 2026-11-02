@@ -2485,7 +2485,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 04:49:39 UTC",
+ "last_run": "2026-11-02 04:59:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -25971,7 +25971,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 2878463,
+    "last_mcap": 3206965,
     "missing": 0,
     "peak_mcap": 4707828,
     "profile": "migrated",
@@ -26131,7 +26131,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 261387,
+    "last_mcap": 186172,
     "missing": 0,
     "peak_mcap": 302942,
     "profile": "migrated",
@@ -26186,20 +26186,22 @@
      "vol_m5": 21739.2
     },
     "id": "c05bec13",
-    "last_mcap": 156299,
+    "last_mcap": 159733,
     "missing": 0,
-    "peak_mcap": 200249,
+    "peak_mcap": 224441,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.89371553723824,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "NA",
     "tf": "minute",
     "token": "9ZmdP8q22ebRhEkcwd5EDkitu7ypeDFXTQXpv2kUpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 9.116884093386969e-05,
-    "units_left": 9.116884093386969e-05
+    "units_left": 2.7350652280160915e-05
    }
   },
   "started_ts": 1793014927.9447827,
@@ -34965,5 +34967,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1268
+ "runs": 1270
 }
