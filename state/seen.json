@@ -1827,15 +1827,6 @@
    "profile": "migrated",
    "symbol": "Tumulun"
   },
-  "solana:ECW3x9jPetgg587DMKDP8uVJS9EyoGfcZN7wdaQmpump": {
-   "count": 1,
-   "first_mcap": 265360,
-   "first_ts": 1793016141.585535,
-   "last_mcap": 265360,
-   "last_ts": 1793016141.585535,
-   "profile": "migrated",
-   "symbol": "\ubd88\uac1c\ubbf8"
-  },
   "solana:EEF4au54pLjPmCWbXJPomtkpkDh3fNd6eRGrKyyfpump": {
    "count": 1,
    "first_mcap": 157110,
@@ -2575,7 +2566,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 11:58:38 UTC",
+ "last_run": "2026-11-02 12:08:38 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -26814,7 +26805,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3859333,
+    "last_mcap": 3701145,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26870,9 +26861,9 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 226842,
+    "last_mcap": 284016,
     "missing": 0,
-    "peak_mcap": 249982,
+    "peak_mcap": 284039,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -26923,7 +26914,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 372447,
+    "last_mcap": 318651,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -26979,7 +26970,7 @@
      "vol_m5": 44554.09
     },
     "id": "a5ee4c3e",
-    "last_mcap": 114443,
+    "last_mcap": 122607,
     "missing": 0,
     "peak_mcap": 149404,
     "profile": "migrated",
@@ -35865,5 +35856,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1354
+ "runs": 1356
 }
