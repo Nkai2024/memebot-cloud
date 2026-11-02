@@ -765,15 +765,6 @@
    "profile": "migrated",
    "symbol": "PAWCAT"
   },
-  "solana:7ACCyJGpkiqKjcG8eiRpkwm8GznKnp3EpteqMC6qpump": {
-   "count": 1,
-   "first_mcap": 145284,
-   "first_ts": 1793020041.6877172,
-   "last_mcap": 145284,
-   "last_ts": 1793020041.6877172,
-   "profile": "migrated",
-   "symbol": "Alan"
-  },
   "solana:7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump": {
    "count": 1,
    "first_mcap": 114363,
@@ -2557,7 +2548,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 13:03:38 UTC",
+ "last_run": "2026-11-02 13:13:38 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -26853,7 +26844,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3974397,
+    "last_mcap": 3950660,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26909,7 +26900,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 646211,
+    "last_mcap": 638316,
     "missing": 0,
     "peak_mcap": 785733,
     "profile": "migrated",
@@ -26964,7 +26955,7 @@
      "vol_m5": 22459.75
     },
     "id": "4373b4a9",
-    "last_mcap": 91467,
+    "last_mcap": 62198,
     "missing": 0,
     "peak_mcap": 109514,
     "profile": "migrated",
@@ -27069,7 +27060,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 254761,
+    "last_mcap": 203383,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -35906,5 +35897,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1367
+ "runs": 1369
 }
