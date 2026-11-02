@@ -2431,7 +2431,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 00:15:06 UTC",
+ "last_run": "2026-11-02 00:25:06 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -25276,9 +25276,9 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 1994645,
+    "last_mcap": 2374311,
     "missing": 0,
-    "peak_mcap": 2304707,
+    "peak_mcap": 2374311,
     "profile": "migrated",
     "realized": 13.405912554031259,
     "size": 10,
@@ -25331,7 +25331,7 @@
      "vol_m5": 33247.75
     },
     "id": "1fea759f",
-    "last_mcap": 279772,
+    "last_mcap": 281972,
     "missing": 0,
     "peak_mcap": 350940,
     "profile": "migrated",
@@ -25437,20 +25437,22 @@
      "vol_m5": 65571.57
     },
     "id": "85f55f8b",
-    "last_mcap": 364670,
+    "last_mcap": 372844,
     "missing": 0,
-    "peak_mcap": 374423,
+    "peak_mcap": 398871,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.853517411526473,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "ANAKINCORE",
     "tf": "minute",
     "token": "EZZ4WS7XXKgWP2btL2iTjHz4of9PT16tCDMd1LTCpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 5.1151434613173865e-05,
-    "units_left": 5.1151434613173865e-05,
+    "units_left": 1.534543038395216e-05,
     "zone_bottom": 127216.54100748594,
     "zone_top": 190088.3834278258
    },
@@ -34268,5 +34270,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1213
+ "runs": 1215
 }
