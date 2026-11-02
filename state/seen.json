@@ -2539,7 +2539,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 07:44:28 UTC",
+ "last_run": "2026-11-02 07:54:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -26368,7 +26368,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3920774,
+    "last_mcap": 3851083,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26424,7 +26424,7 @@
      "vol_m5": 11844.02
     },
     "id": "38d95c47",
-    "last_mcap": 110473,
+    "last_mcap": 94638,
     "missing": 0,
     "peak_mcap": 156164,
     "profile": "migrated",
@@ -26477,9 +26477,9 @@
      "vol_m5": 23698.02
     },
     "id": "65f78e77",
-    "last_mcap": 150073,
+    "last_mcap": 147475,
     "missing": 0,
-    "peak_mcap": 171147,
+    "peak_mcap": 188717,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -26530,11 +26530,11 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 382448,
+    "last_mcap": 450375,
     "missing": 0,
-    "peak_mcap": 382448,
+    "peak_mcap": 453637,
     "profile": "migrated",
-    "realized": 15.168782835668845,
+    "realized": 22.415750213365627,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -26542,10 +26542,11 @@
     "tf": "minute",
     "token": "BngAfLZxaWN2QvpFhRbUHydYGr8zA7YTSA178G8Epump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "units": 0.00010979557648337219,
-    "units_left": 3.293867294501166e-05
+    "units_left": 1.646933647250583e-05
    },
    "99ab5b05": {
     "chain": "solana",
@@ -26602,6 +26603,8 @@
    "a7f91e18": {
     "chain": "solana",
     "created_ts": 1793604848.8445952,
+    "entry_mcap": 86404,
+    "entry_ts": 1793605555.386442,
     "expires_ts": 1793612048.8445952,
     "features": {
      "age_min": 33.52448156674703,
@@ -26636,18 +26639,20 @@
      "vol_m5": 11844.02
     },
     "id": "a7f91e18",
-    "last_mcap": 128664,
+    "last_mcap": 94638,
     "missing": 0,
-    "peak_mcap": 128664,
+    "peak_mcap": 103434,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "CI",
     "tf": "minute",
     "token": "gg1zQUgUoXd8hVmkTmLooyzC1QBT1cvJDnCXHLPpump",
     "tp_done": [],
+    "units": 0.00011226332114253969,
+    "units_left": 0.00011226332114253969,
     "zone_bottom": 64644.849938385305,
     "zone_top": 87436.45370610006
    }
@@ -35415,5 +35420,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1303
+ "runs": 1305
 }
