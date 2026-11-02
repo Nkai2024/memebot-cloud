@@ -2566,7 +2566,7 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 12:18:38 UTC",
+ "last_run": "2026-11-02 12:28:38 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -26805,7 +26805,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3702937,
+    "last_mcap": 3760991,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26861,20 +26861,22 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 379535,
+    "last_mcap": 531453,
     "missing": 0,
-    "peak_mcap": 444588,
+    "peak_mcap": 733341,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 13.237881348821277,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "MAMESUKE",
     "tf": "minute",
     "token": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 3.9548897931225686e-05,
-    "units_left": 3.9548897931225686e-05
+    "units_left": 1.1864669379367707e-05
    },
    "8ec37c8c": {
     "chain": "solana",
@@ -26914,7 +26916,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 324180,
+    "last_mcap": 264333,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -26970,7 +26972,7 @@
      "vol_m5": 44554.09
     },
     "id": "a5ee4c3e",
-    "last_mcap": 144864,
+    "last_mcap": 91817,
     "missing": 0,
     "peak_mcap": 166848,
     "profile": "migrated",
@@ -35856,5 +35858,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1358
+ "runs": 1360
 }
