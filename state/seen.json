@@ -2539,10 +2539,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-02 19:57:33 UTC",
+ "last_run": "2026-11-02 20:07:27 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -27762,9 +27762,9 @@
      "vol_m5": 107733.04
     },
     "id": "0a143092",
-    "last_mcap": 169266,
+    "last_mcap": 209593,
     "missing": 0,
-    "peak_mcap": 233215,
+    "peak_mcap": 235558,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -27815,7 +27815,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1624309,
+    "last_mcap": 1566985,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -27923,7 +27923,7 @@
      "vol_m5": 244679.58
     },
     "id": "4230d2bf",
-    "last_mcap": 498074,
+    "last_mcap": 510543,
     "missing": 0,
     "peak_mcap": 909162,
     "profile": "migrated",
@@ -27978,7 +27978,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 355862,
+    "last_mcap": 185540,
     "missing": 0,
     "peak_mcap": 355862,
     "profile": "migrated",
@@ -28032,7 +28032,7 @@
      "vol_m5": 49644.75
     },
     "id": "6aef28d9",
-    "last_mcap": 28653,
+    "last_mcap": 24627,
     "missing": 0,
     "peak_mcap": 40267,
     "profile": "migrated",
@@ -28244,7 +28244,7 @@
      "vol_m5": 93744.86
     },
     "id": "fa08bd3f",
-    "last_mcap": 137255,
+    "last_mcap": 90894,
     "missing": 0,
     "peak_mcap": 189684,
     "profile": "migrated",
@@ -37032,5 +37032,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1413
+ "runs": 1415
 }
