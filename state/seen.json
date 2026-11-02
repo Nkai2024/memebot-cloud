@@ -1251,6 +1251,15 @@
    "profile": "migrated",
    "symbol": "Ai"
   },
+  "solana:ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump": {
+   "count": 1,
+   "first_mcap": 54911,
+   "first_ts": 1793646137.104023,
+   "last_mcap": 54911,
+   "last_ts": 1793646137.104023,
+   "profile": "migrated",
+   "symbol": "PizzaGate"
+  },
   "solana:AN4mNPb3rP61d3b2u1LCKKhBdEgdW9BiNDp7ZHKupump": {
    "count": 1,
    "first_mcap": 93098,
@@ -2503,11 +2512,11 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 18:52:42 UTC",
+ "last_run": "2026-11-02 19:02:34 UTC",
  "last_summary": {
-  "alerts": 0,
+  "alerts": 1,
   "checked": 1,
-  "rejected_safety": 1
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -27395,7 +27404,7 @@
     "zone_top": 186148.68801688988
    }
   ],
-  "last_summary_day": "2026-11-01",
+  "last_summary_day": "2026-11-02",
   "positions": {
    "0d1b16b2": {
     "chain": "solana",
@@ -27435,7 +27444,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 1562463,
+    "last_mcap": 1568976,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -27491,9 +27500,9 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1722836,
+    "last_mcap": 1486516,
     "missing": 0,
-    "peak_mcap": 1791926,
+    "peak_mcap": 1877328,
     "profile": "migrated",
     "realized": 20.514856638302902,
     "size": 10,
@@ -27508,6 +27517,115 @@
     ],
     "units": 3.9548897931225686e-05,
     "units_left": 5.932334689683854e-06
+   },
+   "3acbb2da": {
+    "chain": "solana",
+    "created_ts": 1793646137.1040416,
+    "entry_mcap": 54911,
+    "entry_ts": 1793646137.1040416,
+    "features": {
+     "age_min": 13.724049401283263,
+     "boosts": 0,
+     "buys_h1": 1706,
+     "buys_h24": 1706,
+     "buys_m5": 658,
+     "change_h1": 29.63,
+     "change_h24": 29.63,
+     "change_h6": 29.63,
+     "change_m5": 41.04,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3375531749563565,
+     "insiders": 0,
+     "liquidity": 17727.45,
+     "lp_locked_pct": 100,
+     "mcap": 54911,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.2946983117506768,
+     "score": 75,
+     "sells_h1": 1324,
+     "sells_h24": 1324,
+     "sells_m5": 470,
+     "top1": 4.072380989667957,
+     "top10": 23.939959762744696,
+     "top5": 14.38744754387518,
+     "txns_h24": 3030,
+     "vol_h1": 119484.63,
+     "vol_h24": 119484.63,
+     "vol_m5": 49644.75
+    },
+    "id": "3acbb2da",
+    "last_mcap": 35471,
+    "missing": 0,
+    "peak_mcap": 54911,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "PizzaGate",
+    "tf": "minute",
+    "token": "ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump",
+    "tp_done": [],
+    "units": 0.00017664948735226092,
+    "units_left": 0.00017664948735226092
+   },
+   "6aef28d9": {
+    "chain": "solana",
+    "created_ts": 1793646137.1040416,
+    "entry_mcap": 32354,
+    "entry_ts": 1793646243.1545792,
+    "expires_ts": 1793653337.1040416,
+    "features": {
+     "age_min": 13.724049401283263,
+     "boosts": 0,
+     "buys_h1": 1706,
+     "buys_h24": 1706,
+     "buys_m5": 658,
+     "change_h1": 29.63,
+     "change_h24": 29.63,
+     "change_h6": 29.63,
+     "change_m5": 41.04,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3375531749563565,
+     "insiders": 0,
+     "liquidity": 17727.45,
+     "lp_locked_pct": 100,
+     "mcap": 54911,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.2946983117506768,
+     "score": 75,
+     "sells_h1": 1324,
+     "sells_h24": 1324,
+     "sells_m5": 470,
+     "top1": 4.072380989667957,
+     "top10": 23.939959762744696,
+     "top5": 14.38744754387518,
+     "txns_h24": 3030,
+     "vol_h1": 119484.63,
+     "vol_h24": 119484.63,
+     "vol_m5": 49644.75
+    },
+    "id": "6aef28d9",
+    "last_mcap": 35471,
+    "missing": 0,
+    "peak_mcap": 35471,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "ZONE",
+    "symbol": "PizzaGate",
+    "tf": "minute",
+    "token": "ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump",
+    "tp_done": [],
+    "units": 0.0002998083699078939,
+    "units_left": 0.0002998083699078939,
+    "zone_bottom": 26317.715817989454,
+    "zone_top": 36095.15370894177
    },
    "8ec37c8c": {
     "chain": "solana",
@@ -27547,7 +27665,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 165536,
+    "last_mcap": 163529,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -36334,5 +36452,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1400
+ "runs": 1402
 }
