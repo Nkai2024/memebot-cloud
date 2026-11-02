@@ -2458,10 +2458,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 02:35:13 UTC",
+ "last_run": "2026-11-02 02:50:07 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -25656,7 +25656,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 2807287,
+    "last_mcap": 2864385,
     "missing": 0,
     "peak_mcap": 4707828,
     "profile": "migrated",
@@ -25712,9 +25712,9 @@
      "vol_m5": 25880.6
     },
     "id": "8acf1d40",
-    "last_mcap": 164384,
+    "last_mcap": 184338,
     "missing": 0,
-    "peak_mcap": 164384,
+    "peak_mcap": 192799,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -34504,6 +34504,7 @@
   "solana:2mZwefm2rvQBAW6DBQLseD82cwXc5tnN7JTQbmaVpump": 1793495582.9952688,
   "solana:2ngSZWzKzhVtSrWjrYJRFu4iD3zGHQYFS6WMRwPfpump": 1793382406.9013143,
   "solana:2pDkdMYChGZQQMfbRhfDgorZkKwmPF6sjN4bPfxoABTC": 1793487828.8724456,
+  "solana:31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump": 1793587196.4770765,
   "solana:3EnfmbxdD2nHJ1KoogUgoYgeqS54gKis3AD3ieHGpump": 1793313356.567279,
   "solana:3UrbFtErj4FYspTupgAfKqztrMYNVQA2GocpT97Q3ray": 1793347509.6095235,
   "solana:4RGFCEspCXydaXwH4siYcyeNduY2MABG1nWsTUAjpump": 1793500383.0076318,
@@ -34519,6 +34520,7 @@
   "solana:7YzMVYuhnUytjhqLJ7oz8JS9Lv5u7gW4JcjSfEpkpump": 1793335209.4763305,
   "solana:7fR4hpUuHYaUTnnUeVLWke2GvMZdZtaeM8yFwu92pump": 1793320555.5274808,
   "solana:8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump": 1793535687.4758408,
+  "solana:91QMBp6GNEfMmDg2VWH7iWkyUSpePRkdhc44W7oapump": 1793587197.6788833,
   "solana:A66kHaKDhK1wGpsPLaxBW6FThCeU4V9LSy3arGkNpump": 1793361263.8833573,
   "solana:AHtLsp84S3ThHeNgcqg1jXaE9M6FSXKW8oj7WjYkXhot": 1793217451.269318,
   "solana:AkN8CWevo77MjjkfY3hQ5R7vGsPb5zumqKaUJbr4pump": 1793327456.6427498,
@@ -34541,5 +34543,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1241
+ "runs": 1244
 }
