@@ -25914,7 +25914,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3078107,
+    "last_mcap": 3145672,
     "missing": 0,
     "peak_mcap": 4707828,
     "profile": "migrated",
@@ -26022,9 +26022,9 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 103919,
+    "last_mcap": 143877,
     "missing": 0,
-    "peak_mcap": 118327,
+    "peak_mcap": 143877,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
