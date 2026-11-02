@@ -2458,10 +2458,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-01 23:55:06 UTC",
+ "last_run": "2026-11-02 00:05:06 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -25303,9 +25303,9 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 1677358,
+    "last_mcap": 2194122,
     "missing": 0,
-    "peak_mcap": 2054027,
+    "peak_mcap": 2304707,
     "profile": "migrated",
     "realized": 13.405912554031259,
     "size": 10,
@@ -25358,7 +25358,7 @@
      "vol_m5": 33247.75
     },
     "id": "1fea759f",
-    "last_mcap": 308084,
+    "last_mcap": 252597,
     "missing": 0,
     "peak_mcap": 350940,
     "profile": "migrated",
@@ -25516,9 +25516,9 @@
      "vol_m5": 65571.57
     },
     "id": "85f55f8b",
-    "last_mcap": 309025,
+    "last_mcap": 360684,
     "missing": 0,
-    "peak_mcap": 358588,
+    "peak_mcap": 374423,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -34347,5 +34347,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633
  },
- "runs": 1209
+ "runs": 1211
 }
