@@ -2557,10 +2557,10 @@
    "symbol": "BTC"
   }
  },
- "last_run": "2026-11-02 12:53:45 UTC",
+ "last_run": "2026-11-02 13:03:38 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -26853,7 +26853,7 @@
      "vol_m5": 211708.91
     },
     "id": "0d1b16b2",
-    "last_mcap": 3846938,
+    "last_mcap": 3974397,
     "missing": 0,
     "peak_mcap": 5523225,
     "profile": "migrated",
@@ -26909,7 +26909,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 639462,
+    "last_mcap": 646211,
     "missing": 0,
     "peak_mcap": 785733,
     "profile": "migrated",
@@ -26964,9 +26964,9 @@
      "vol_m5": 22459.75
     },
     "id": "4373b4a9",
-    "last_mcap": 74198,
+    "last_mcap": 91467,
     "missing": 0,
-    "peak_mcap": 74198,
+    "peak_mcap": 109514,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -27069,7 +27069,7 @@
      "vol_m5": 52586.17
     },
     "id": "8ec37c8c",
-    "last_mcap": 256699,
+    "last_mcap": 254761,
     "missing": 0,
     "peak_mcap": 480538,
     "profile": "migrated",
@@ -35906,5 +35906,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1365
+ "runs": 1367
 }
