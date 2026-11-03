@@ -585,15 +585,6 @@
    "profile": "migrated",
    "symbol": "STANK"
   },
-  "solana:5zTLJ9JxQRDeTxfm8onF8Gbf7J9tfXFwRbubaLs3pump": {
-   "count": 1,
-   "first_mcap": 79208,
-   "first_ts": 1793074270.0393565,
-   "last_mcap": 79208,
-   "last_ts": 1793074270.0393565,
-   "profile": "migrated",
-   "symbol": "Particle"
-  },
   "solana:66auXVTRw9ZekMeB8h5jdJS9WhMRVz8zfMyzqeinpump": {
    "count": 1,
    "first_mcap": 104504,
@@ -2503,7 +2494,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 04:06:18 UTC",
+ "last_run": "2026-11-03 04:16:18 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -29188,7 +29179,7 @@
      "vol_m5": 57396.29
     },
     "id": "0af1c35c",
-    "last_mcap": 102546,
+    "last_mcap": 122981,
     "missing": 0,
     "peak_mcap": 143757,
     "profile": "migrated",
@@ -29241,7 +29232,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 908126,
+    "last_mcap": 933613,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -29297,7 +29288,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 513330,
+    "last_mcap": 595108,
     "missing": 0,
     "peak_mcap": 827839,
     "profile": "migrated",
@@ -29353,7 +29344,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 157550,
+    "last_mcap": 157063,
     "missing": 0,
     "peak_mcap": 243736,
     "profile": "migrated",
@@ -38142,5 +38133,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1490
+ "runs": 1492
 }
