@@ -180,15 +180,6 @@
    "profile": "migrated",
    "symbol": "Anakinius"
   },
-  "solana:2qQVrHpQaWzGf8iGYbpVUjYELYN2Q911XQWxFbsGpump": {
-   "count": 1,
-   "first_mcap": 88263,
-   "first_ts": 1793080521.0853982,
-   "last_mcap": 88263,
-   "last_ts": 1793080521.0853982,
-   "profile": "migrated",
-   "symbol": "UNITE"
-  },
   "solana:2vk31WofkrWKQPrWxhYpdobDRS29EESJ59xbjcHtpump": {
    "count": 1,
    "first_mcap": 135474,
@@ -629,15 +620,6 @@
    "last_ts": 1793203342.0019891,
    "profile": "migrated",
    "symbol": "NVINU"
-  },
-  "solana:6GaNPFwUv3P7K8nzFRXLba4hnabdmrjiKofmr5Qkpump": {
-   "count": 1,
-   "first_mcap": 325456,
-   "first_ts": 1793080221.1363077,
-   "last_mcap": 325456,
-   "last_ts": 1793080221.1363077,
-   "profile": "migrated",
-   "symbol": "GTAELON"
   },
   "solana:6g16UK4wHoFhC7PCmw8LYYCdt9q8m99fyoAwxeCrpump": {
    "count": 1,
@@ -2503,7 +2485,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 05:46:18 UTC",
+ "last_run": "2026-11-03 05:56:18 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -29421,7 +29403,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1082164,
+    "last_mcap": 1122488,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -29477,9 +29459,9 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 757202,
+    "last_mcap": 804907,
     "missing": 0,
-    "peak_mcap": 827839,
+    "peak_mcap": 866769,
     "profile": "migrated",
     "realized": 13.492569130017324,
     "size": 10,
@@ -29533,7 +29515,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 190596,
+    "last_mcap": 184859,
     "missing": 0,
     "peak_mcap": 243736,
     "profile": "migrated",
@@ -38323,5 +38305,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1510
+ "runs": 1512
 }
