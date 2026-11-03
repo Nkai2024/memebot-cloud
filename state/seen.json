@@ -2449,7 +2449,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 11:42:39 UTC",
+ "last_run": "2026-11-03 11:52:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -29499,12 +29499,10 @@
     "tp_done": [],
     "units": 6.836088911440934e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-02",
-  "positions": {
-   "19c1ed03": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793706435.2351725,
     "created_ts": 1793698949.138828,
     "entry_mcap": 78446,
     "entry_ts": 1793706075.2327974,
@@ -29542,23 +29540,29 @@
      "vol_m5": 20666.05
     },
     "id": "19c1ed03",
-    "last_mcap": 73848,
+    "last_mcap": 2007,
     "missing": 0,
     "peak_mcap": 78446,
+    "pnl": -9.759275641842796,
+    "pnl_pct": -97.59275641842797,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.24072435815720364,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "ABDUL",
     "tf": "minute",
     "token": "94exwLui2KfAzYnbATkX8iKh4tcjMDW6YwckkSJVpump",
     "tp_done": [],
     "units": 0.00012365193891339263,
-    "units_left": 0.00012365193891339263,
+    "units_left": 0.0,
     "zone_bottom": 64354.68074098486,
     "zone_top": 84616.39910828823
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-02",
+  "positions": {
    "3200c2e9": {
     "chain": "solana",
     "created_ts": 1793620406.8505046,
@@ -29597,7 +29601,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1540817,
+    "last_mcap": 1410281,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -29653,7 +29657,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 628000,
+    "last_mcap": 631911,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -29709,7 +29713,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 244470,
+    "last_mcap": 259100,
     "missing": 0,
     "peak_mcap": 335651,
     "profile": "migrated",
@@ -38501,5 +38505,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1552
+ "runs": 1554
 }
