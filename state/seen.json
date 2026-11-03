@@ -2449,7 +2449,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 13:17:39 UTC",
+ "last_run": "2026-11-03 13:27:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -29778,7 +29778,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 594477,
+    "last_mcap": 566255,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -29798,6 +29798,8 @@
    "6f3cfc0d": {
     "chain": "solana",
     "created_ts": 1793707370.6930737,
+    "entry_mcap": 38573,
+    "entry_ts": 1793712435.2728755,
     "expires_ts": 1793714570.6930737,
     "features": {
      "age_min": 12.106501305103302,
@@ -29832,18 +29834,20 @@
      "vol_m5": 34200.28
     },
     "id": "6f3cfc0d",
-    "last_mcap": 71100,
+    "last_mcap": 41004,
     "missing": 0,
-    "peak_mcap": 71100,
+    "peak_mcap": 47442,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "PUMP",
     "tf": "minute",
     "token": "Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump",
     "tp_done": [],
+    "units": 0.0002514712363570373,
+    "units_left": 0.0002514712363570373,
     "zone_bottom": 33809.68533497096,
     "zone_top": 44289.09592663609
    },
@@ -29886,7 +29890,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 242925,
+    "last_mcap": 248320,
     "missing": 0,
     "peak_mcap": 335651,
     "profile": "migrated",
@@ -38678,5 +38682,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1571
+ "runs": 1573
 }
