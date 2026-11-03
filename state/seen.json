@@ -2413,10 +2413,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 22:57:06 UTC",
+ "last_run": "2026-11-03 23:07:05 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -31599,7 +31599,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 1895171,
+    "last_mcap": 1768390,
     "missing": 0,
     "peak_mcap": 1985951,
     "profile": "swing_survivor",
@@ -31654,7 +31654,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 185437,
+    "last_mcap": 181110,
     "missing": 0,
     "peak_mcap": 186536,
     "profile": "migrated",
@@ -31759,7 +31759,7 @@
      "vol_m5": 97254.49
     },
     "id": "d314edf8",
-    "last_mcap": 1751791,
+    "last_mcap": 1896784,
     "missing": 0,
     "peak_mcap": 2762956,
     "profile": "migrated",
@@ -31775,58 +31775,6 @@
     ],
     "units": 1.3918543517689463e-05,
     "units_left": 4.17556305530684e-06
-   },
-   "fba55580": {
-    "chain": "solana",
-    "created_ts": 1793740028.4651449,
-    "expires_ts": 1793747228.4651449,
-    "features": {
-     "age_min": 37.18473771015803,
-     "boosts": 0,
-     "buys_h1": 2449,
-     "buys_h24": 2449,
-     "buys_m5": 510,
-     "change_h1": 23.32,
-     "change_h24": 23.32,
-     "change_h6": 23.32,
-     "change_m5": 58.29,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.15940604153840596,
-     "insiders": 0,
-     "liquidity": 16685.28,
-     "lp_locked_pct": 100,
-     "mcap": 45019,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.32378338086507735,
-     "score": 71,
-     "sells_h1": 1876,
-     "sells_h24": 1876,
-     "sells_m5": 393,
-     "top1": 4.845859431663375,
-     "top10": 28.08471173474948,
-     "top5": 17.896943967204248,
-     "txns_h24": 4325,
-     "vol_h1": 206755.49,
-     "vol_h24": 206755.49,
-     "vol_m5": 57678.25
-    },
-    "id": "fba55580",
-    "last_mcap": 45019,
-    "missing": 0,
-    "peak_mcap": 45019,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "Sexbot",
-    "tf": "minute",
-    "token": "6Na6huTtPekKeeJpmtpq8mw2ZVAC2qCaRBj8KeB4pump",
-    "tp_done": [],
-    "zone_bottom": 19685.347735307496,
-    "zone_top": 28893.26758127475
    },
    "fd262d81": {
     "chain": "solana",
@@ -31866,7 +31814,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 920384,
+    "last_mcap": 898683,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40659,5 +40607,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1653
+ "runs": 1655
 }
