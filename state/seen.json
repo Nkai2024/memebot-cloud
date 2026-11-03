@@ -30145,7 +30145,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 621685,
+    "last_mcap": 619647,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -30201,7 +30201,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 286917,
+    "last_mcap": 286083,
     "missing": 0,
     "peak_mcap": 356680,
     "profile": "migrated",
@@ -30256,9 +30256,9 @@
      "vol_m5": 97254.49
     },
     "id": "d314edf8",
-    "last_mcap": 1426771,
+    "last_mcap": 1466650,
     "missing": 0,
-    "peak_mcap": 1426771,
+    "peak_mcap": 1466650,
     "profile": "migrated",
     "realized": 13.483971917975293,
     "size": 10,
