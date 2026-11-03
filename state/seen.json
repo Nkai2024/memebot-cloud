@@ -1143,15 +1143,6 @@
    "profile": "swing_survivor",
    "symbol": "CHICO"
   },
-  "solana:9vphGHJXi6LSwRYGxvLSaenLK4J3DYjpGrmpqRLkpump": {
-   "count": 1,
-   "first_mcap": 150541,
-   "first_ts": 1793082321.065503,
-   "last_mcap": 150541,
-   "last_ts": 1793082321.065503,
-   "profile": "migrated",
-   "symbol": "LUMINA"
-  },
   "solana:A7pmyAhMbRXrQ6FXThxaNCNCmcdqCssjptizX15Ypump": {
    "count": 1,
    "first_mcap": 230185,
@@ -2485,11 +2476,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 06:16:18 UTC",
+ "last_run": "2026-11-03 06:31:18 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -29403,7 +29394,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1069506,
+    "last_mcap": 1097169,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -29459,7 +29450,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 823974,
+    "last_mcap": 761899,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -29515,9 +29506,9 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 191314,
+    "last_mcap": 220040,
     "missing": 0,
-    "peak_mcap": 243736,
+    "peak_mcap": 245427,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -38306,5 +38297,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1516
+ "runs": 1519
 }
