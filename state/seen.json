@@ -2449,10 +2449,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 13:07:39 UTC",
+ "last_run": "2026-11-03 13:17:39 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -29675,12 +29675,10 @@
     "tp_done": [],
     "units": 8.736062827602355e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-02",
-  "positions": {
-   "3200c2e9": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793711955.2697222,
     "created_ts": 1793620406.8505046,
     "entry_mcap": 245266,
     "entry_ts": 1793620406.8505046,
@@ -29717,24 +29715,31 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 2215327,
+    "last_mcap": 2462662,
     "missing": 0,
-    "peak_mcap": 2403475,
+    "peak_mcap": 2462662,
+    "pnl": 24.685911793522138,
+    "pnl_pct": 246.8591179352214,
     "profile": "migrated",
-    "realized": 20.514856638302902,
+    "realized": 34.68591179352214,
+    "reason": "all take-profits hit",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "MAMESUKE",
     "tf": "minute",
     "token": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK",
     "tp_done": [
      0,
-     1
+     1,
+     2
     ],
     "units": 3.9548897931225686e-05,
-    "units_left": 5.932334689683854e-06
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-02",
+  "positions": {
    "686e1af2": {
     "chain": "solana",
     "created_ts": 1793649436.638586,
@@ -29773,7 +29778,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 635749,
+    "last_mcap": 594477,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -29881,7 +29886,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 213703,
+    "last_mcap": 242925,
     "missing": 0,
     "peak_mcap": 335651,
     "profile": "migrated",
@@ -38673,5 +38678,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1569
+ "runs": 1571
 }
