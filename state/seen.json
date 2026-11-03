@@ -2458,10 +2458,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-03 12:03:02 UTC",
+ "last_run": "2026-11-03 12:12:39 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -29610,7 +29610,7 @@
      "vol_m5": 16594.32
     },
     "id": "3200c2e9",
-    "last_mcap": 1446392,
+    "last_mcap": 1491313,
     "missing": 0,
     "peak_mcap": 1877328,
     "profile": "migrated",
@@ -29666,20 +29666,22 @@
      "vol_m5": 34200.28
     },
     "id": "3a2b4f18",
-    "last_mcap": 109467,
+    "last_mcap": 190893,
     "missing": 0,
-    "peak_mcap": 109467,
+    "peak_mcap": 261464,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.363692059071727,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "PUMP",
     "tf": "minute",
     "token": "Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.00013642756680731362,
-    "units_left": 0.00013642756680731362
+    "units_left": 4.092827004219409e-05
    },
    "686e1af2": {
     "chain": "solana",
@@ -29719,7 +29721,7 @@
      "vol_m5": 130324.14
     },
     "id": "686e1af2",
-    "last_mcap": 571954,
+    "last_mcap": 566759,
     "missing": 0,
     "peak_mcap": 866769,
     "profile": "migrated",
@@ -29827,7 +29829,7 @@
      "vol_m5": 244679.58
     },
     "id": "9efc9908",
-    "last_mcap": 283987,
+    "last_mcap": 293047,
     "missing": 0,
     "peak_mcap": 335651,
     "profile": "migrated",
@@ -38619,5 +38621,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1556
+ "runs": 1558
 }
