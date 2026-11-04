@@ -2115,15 +2115,6 @@
    "profile": "migrated",
    "symbol": "AI"
   },
-  "solana:HZccH9aPk9PpxNRZwgESbYE3BMb3zcrjtunJkdAwpump": {
-   "count": 1,
-   "first_mcap": 51062,
-   "first_ts": 1793185109.6217172,
-   "last_mcap": 51062,
-   "last_ts": 1793185109.6217172,
-   "profile": "migrated",
-   "symbol": "Spain"
-  },
   "solana:Hey3e2voJQXYAo7fWSzC9XLYqcZ4TC9Dm3RCiW1tpump": {
    "count": 1,
    "first_mcap": 86405,
@@ -2231,15 +2222,6 @@
    "last_ts": 1793553643.4826376,
    "profile": "migrated",
    "symbol": "POPU"
-  },
-  "solana:JDAEYyQswqJga9NmhmL7F2Ruf1CFa6iuS9Kvj8neSTNK": {
-   "count": 1,
-   "first_mcap": 140155,
-   "first_ts": 1793185389.8992727,
-   "last_mcap": 140155,
-   "last_ts": 1793185389.8992727,
-   "profile": "migrated",
-   "symbol": "Stonker"
   },
   "solana:JcPLcB4WN61b2i6cZctiXW2R9AYCAKCQo6tqFVNpump": {
    "count": 1,
@@ -2368,11 +2350,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 10:52:02 UTC",
+ "last_run": "2026-11-04 11:07:03 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -31703,7 +31685,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 2059133,
+    "last_mcap": 2116348,
     "missing": 0,
     "peak_mcap": 2793486,
     "profile": "swing_survivor",
@@ -31758,7 +31740,7 @@
      "vol_m5": 107539.48
     },
     "id": "3db7b47c",
-    "last_mcap": 410992,
+    "last_mcap": 376391,
     "missing": 0,
     "peak_mcap": 509164,
     "profile": "migrated",
@@ -31811,9 +31793,9 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 189201,
+    "last_mcap": 202513,
     "missing": 0,
-    "peak_mcap": 190174,
+    "peak_mcap": 203953,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -31864,7 +31846,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 742761,
+    "last_mcap": 735297,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40646,6 +40628,7 @@
   "solana:EFo8uB6wD739GgtGoYbAwxM6Pp8iCzM8XGf7jQW7pump": 1793363365.099797,
   "solana:EjbgFA8vFhswojnNLxQVKYKiDsm3PgM6w7JuehfPpump": 1793347209.5793786,
   "solana:Exv4ix6ZjWXexSkf4ZUvUbMcXCoGMksTp1NDG74wpump": 1793200341.901638,
+  "solana:FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump": 1793790412.5365212,
   "solana:Fa1Uqysy2s6UwpcMQhjwpn49dp7oHPvxq8FrBqKqpump": 1793297505.4271822,
   "solana:Fa24xN13pzjmcx1dtKP9nBMMFCwLtXCJrtP5hSPKpump": 1793260593.8388455,
   "solana:G9r7CoaAEKzsFudkAhSWmuFi2huQpAqZ7w7TMfYqpump": 1793630306.9011316,
@@ -40662,5 +40645,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1778
+ "runs": 1781
 }
