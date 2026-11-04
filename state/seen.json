@@ -1368,15 +1368,6 @@
    "profile": "migrated",
    "symbol": "PEACE"
   },
-  "solana:BpRPVFVhGN5Pf1HpXpqYuESGwAj52ETreJbmkpLFpump": {
-   "count": 1,
-   "first_mcap": 148413,
-   "first_ts": 1793159632.3742795,
-   "last_mcap": 148413,
-   "last_ts": 1793159632.3742795,
-   "profile": "migrated",
-   "symbol": "INVISIBLE"
-  },
   "solana:BrsZa8LYyBuD4jjkzHCFzjacgtXCZSn9kuDFdeitpump": {
    "count": 1,
    "first_mcap": 367735,
@@ -2187,6 +2178,15 @@
    "profile": "migrated",
    "symbol": "$PERIODTPE"
   },
+  "solana:HvRdss17AKoeYZbfLVtN5gt7SGDU1MRKHyTnHZikpump": {
+   "count": 1,
+   "first_mcap": 142098,
+   "first_ts": 1793764149.8051796,
+   "last_mcap": 142098,
+   "last_ts": 1793764149.8051796,
+   "profile": "migrated",
+   "symbol": "Groyper"
+  },
   "solana:HvitmAeh6TkToQonoiNwqWcrZsYdYiaSZHP7yMmspump": {
    "count": 1,
    "first_mcap": 187817,
@@ -2404,7 +2404,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 03:44:20 UTC",
+ "last_run": "2026-11-04 03:54:20 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31719,6 +31719,58 @@
   ],
   "last_summary_day": "2026-11-03",
   "positions": {
+   "112a6a26": {
+    "chain": "solana",
+    "created_ts": 1793764149.8051968,
+    "expires_ts": 1793771349.8051968,
+    "features": {
+     "age_min": 20.555503090222675,
+     "boosts": 0,
+     "buys_h1": 2832,
+     "buys_h24": 2832,
+     "buys_m5": 402,
+     "change_h1": 270,
+     "change_h24": 270,
+     "change_h6": 270,
+     "change_m5": -3.22,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.28472054246411266,
+     "insiders": 0,
+     "liquidity": 30062.41,
+     "lp_locked_pct": 100,
+     "mcap": 142098,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1432277369664839,
+     "score": 83,
+     "sells_h1": 1565,
+     "sells_h24": 1565,
+     "sells_m5": 279,
+     "top1": 0.690052534980107,
+     "top10": 6.617865892022418,
+     "top5": 3.381205186464017,
+     "txns_h24": 4397,
+     "vol_h1": 213405.47,
+     "vol_h24": 213405.47,
+     "vol_m5": 26806.17
+    },
+    "id": "112a6a26",
+    "last_mcap": 142098,
+    "missing": 0,
+    "peak_mcap": 142098,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Groyper",
+    "tf": "minute",
+    "token": "HvRdss17AKoeYZbfLVtN5gt7SGDU1MRKHyTnHZikpump",
+    "tp_done": [],
+    "zone_bottom": 64047.457636088104,
+    "zone_top": 84447.35954730898
+   },
    "38088e7f": {
     "chain": "solana",
     "created_ts": 1793737015.264363,
@@ -31758,9 +31810,9 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 2426934,
+    "last_mcap": 2415633,
     "missing": 0,
-    "peak_mcap": 2426934,
+    "peak_mcap": 2485372,
     "profile": "swing_survivor",
     "realized": 0.0,
     "size": 10,
@@ -31813,7 +31865,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 175826,
+    "last_mcap": 174958,
     "missing": 0,
     "peak_mcap": 187335,
     "profile": "migrated",
@@ -31827,6 +31879,59 @@
     "tp_done": [],
     "units": 9.025522689419668e-05,
     "units_left": 9.025522689419668e-05
+   },
+   "903f1122": {
+    "chain": "solana",
+    "created_ts": 1793764149.8051968,
+    "entry_mcap": 142098,
+    "entry_ts": 1793764149.8051968,
+    "features": {
+     "age_min": 20.555503090222675,
+     "boosts": 0,
+     "buys_h1": 2832,
+     "buys_h24": 2832,
+     "buys_m5": 402,
+     "change_h1": 270,
+     "change_h24": 270,
+     "change_h6": 270,
+     "change_m5": -3.22,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.28472054246411266,
+     "insiders": 0,
+     "liquidity": 30062.41,
+     "lp_locked_pct": 100,
+     "mcap": 142098,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1432277369664839,
+     "score": 83,
+     "sells_h1": 1565,
+     "sells_h24": 1565,
+     "sells_m5": 279,
+     "top1": 0.690052534980107,
+     "top10": 6.617865892022418,
+     "top5": 3.381205186464017,
+     "txns_h24": 4397,
+     "vol_h1": 213405.47,
+     "vol_h24": 213405.47,
+     "vol_m5": 26806.17
+    },
+    "id": "903f1122",
+    "last_mcap": 125742,
+    "missing": 0,
+    "peak_mcap": 150030,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Groyper",
+    "tf": "minute",
+    "token": "HvRdss17AKoeYZbfLVtN5gt7SGDU1MRKHyTnHZikpump",
+    "tp_done": [],
+    "units": 6.826274824416951e-05,
+    "units_left": 6.826274824416951e-05
    },
    "d314edf8": {
     "chain": "solana",
@@ -31866,7 +31971,7 @@
      "vol_m5": 97254.49
     },
     "id": "d314edf8",
-    "last_mcap": 847381,
+    "last_mcap": 871429,
     "missing": 0,
     "peak_mcap": 2762956,
     "profile": "migrated",
@@ -31921,7 +32026,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 895837,
+    "last_mcap": 852260,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40717,5 +40822,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1710
+ "runs": 1712
 }
