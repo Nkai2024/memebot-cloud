@@ -927,6 +927,15 @@
    "profile": "swing_survivor",
    "symbol": "JOB"
   },
+  "solana:9VHCDisE9pybDt5eCuKv1AyddCx8gksuxpoWi6vjpump": {
+   "count": 1,
+   "first_mcap": 269035,
+   "first_ts": 1793818596.5171523,
+   "last_mcap": 269035,
+   "last_ts": 1793818596.5171523,
+   "profile": "migrated",
+   "symbol": "AMD"
+  },
   "solana:9XwcqFsLTshVo7QwWyNmjVBsB982EW9C4YotSbpoxYYi": {
    "count": 1,
    "first_mcap": 109713,
@@ -1043,15 +1052,6 @@
    "last_ts": 1793646137.104023,
    "profile": "migrated",
    "symbol": "PizzaGate"
-  },
-  "solana:AN4mNPb3rP61d3b2u1LCKKhBdEgdW9BiNDp7ZHKupump": {
-   "count": 1,
-   "first_mcap": 93098,
-   "first_ts": 1793213541.779946,
-   "last_mcap": 93098,
-   "last_ts": 1793213541.779946,
-   "profile": "migrated",
-   "symbol": "omni"
   },
   "solana:ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump": {
    "count": 1,
@@ -2269,10 +2269,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 18:51:46 UTC",
+ "last_run": "2026-11-04 19:01:47 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -31561,7 +31561,7 @@
     "zone_top": 38981.99412316359
    }
   ],
-  "last_summary_day": "2026-11-03",
+  "last_summary_day": "2026-11-04",
   "positions": {
    "38088e7f": {
     "chain": "solana",
@@ -31602,7 +31602,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3102606,
+    "last_mcap": 3057212,
     "missing": 0,
     "peak_mcap": 4102724,
     "profile": "swing_survivor",
@@ -31620,6 +31620,111 @@
     "units_left": 1.4652929503295905e-06,
     "zone_bottom": 1244741.2656717356,
     "zone_top": 2113179.057778495
+   },
+   "4fa890f8": {
+    "chain": "solana",
+    "created_ts": 1793818596.5171683,
+    "expires_ts": 1793825796.5171683,
+    "features": {
+     "age_min": 15.578954497973124,
+     "boosts": 0,
+     "buys_h1": 4226,
+     "buys_h24": 4226,
+     "buys_m5": 1203,
+     "change_h1": 533,
+     "change_h24": 533,
+     "change_h6": 533,
+     "change_m5": 26.22,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7473007591835116,
+     "insiders": 0,
+     "liquidity": 41438.1,
+     "lp_locked_pct": 100,
+     "mcap": 269035,
+     "n_socials": 3,
+     "n_warn": 1,
+     "retracement_now": 0.11003261530012108,
+     "score": 73,
+     "sells_h1": 886,
+     "sells_h24": 886,
+     "sells_m5": 223,
+     "top1": 1.9263328971885971,
+     "top10": 17.839752524230708,
+     "top5": 9.313957802755958,
+     "txns_h24": 5112,
+     "vol_h1": 262480.35,
+     "vol_h24": 262480.35,
+     "vol_m5": 32313.81
+    },
+    "id": "4fa890f8",
+    "last_mcap": 269035,
+    "missing": 0,
+    "peak_mcap": 269035,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "AMD",
+    "tf": "minute",
+    "token": "9VHCDisE9pybDt5eCuKv1AyddCx8gksuxpoWi6vjpump",
+    "tp_done": [],
+    "zone_bottom": 96633.42223643385,
+    "zone_top": 139480.8520383
+   },
+   "5b0b6c24": {
+    "chain": "solana",
+    "created_ts": 1793818596.5171683,
+    "entry_mcap": 269035,
+    "entry_ts": 1793818596.5171683,
+    "features": {
+     "age_min": 15.578954497973124,
+     "boosts": 0,
+     "buys_h1": 4226,
+     "buys_h24": 4226,
+     "buys_m5": 1203,
+     "change_h1": 533,
+     "change_h24": 533,
+     "change_h6": 533,
+     "change_m5": 26.22,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7473007591835116,
+     "insiders": 0,
+     "liquidity": 41438.1,
+     "lp_locked_pct": 100,
+     "mcap": 269035,
+     "n_socials": 3,
+     "n_warn": 1,
+     "retracement_now": 0.11003261530012108,
+     "score": 73,
+     "sells_h1": 886,
+     "sells_h24": 886,
+     "sells_m5": 223,
+     "top1": 1.9263328971885971,
+     "top10": 17.839752524230708,
+     "top5": 9.313957802755958,
+     "txns_h24": 5112,
+     "vol_h1": 262480.35,
+     "vol_h24": 262480.35,
+     "vol_m5": 32313.81
+    },
+    "id": "5b0b6c24",
+    "last_mcap": 283273,
+    "missing": 0,
+    "peak_mcap": 304743,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "AMD",
+    "tf": "minute",
+    "token": "9VHCDisE9pybDt5eCuKv1AyddCx8gksuxpoWi6vjpump",
+    "tp_done": [],
+    "units": 3.605478841042987e-05,
+    "units_left": 3.605478841042987e-05
    },
    "6079afb9": {
     "chain": "solana",
@@ -31659,7 +31764,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 174626,
+    "last_mcap": 170662,
     "missing": 0,
     "peak_mcap": 206841,
     "profile": "migrated",
@@ -31764,20 +31869,22 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 202427,
+    "last_mcap": 196895,
     "missing": 0,
-    "peak_mcap": 202427,
+    "peak_mcap": 248217,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 14.016046185699585,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "FIX",
     "tf": "minute",
     "token": "LWSYx94hV8NaFujStsqRZNsd1V8PkasADLTfiWjbfix",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 8.316186556927297e-05,
-    "units_left": 8.316186556927297e-05
+    "units_left": 2.4948559670781893e-05
    },
    "92e340ad": {
     "chain": "solana",
@@ -31870,7 +31977,7 @@
      "vol_m5": 207247.64
     },
     "id": "97800919",
-    "last_mcap": 160608,
+    "last_mcap": 140187,
     "missing": 0,
     "peak_mcap": 261587,
     "profile": "migrated",
@@ -31927,7 +32034,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3772893,
+    "last_mcap": 3902001,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -31980,7 +32087,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 805796,
+    "last_mcap": 776700,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40777,5 +40884,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1831
+ "runs": 1833
 }
