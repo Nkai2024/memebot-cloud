@@ -621,6 +621,15 @@
    "profile": "migrated",
    "symbol": "SEXYANSEM"
   },
+  "solana:7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump": {
+   "count": 1,
+   "first_mcap": 444805,
+   "first_ts": 1793824897.14256,
+   "last_mcap": 444805,
+   "last_ts": 1793824897.14256,
+   "profile": "migrated",
+   "symbol": "GTA"
+  },
   "solana:7LzPdsBxMoR9FrjgizvxNRvDtjGSP423quJ4M7Jqpump": {
    "count": 1,
    "first_mcap": 364658,
@@ -2215,10 +2224,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 20:26:47 UTC",
+ "last_run": "2026-11-04 20:41:54 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 1,
+  "alerts": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -31550,7 +31559,7 @@
      "vol_m5": 50364.08
     },
     "id": "31a01dfa",
-    "last_mcap": 179539,
+    "last_mcap": 137572,
     "missing": 0,
     "peak_mcap": 299761,
     "profile": "migrated",
@@ -31604,7 +31613,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3340315,
+    "last_mcap": 3232339,
     "missing": 0,
     "peak_mcap": 4102724,
     "profile": "swing_survivor",
@@ -31713,7 +31722,7 @@
      "vol_m5": 32313.81
     },
     "id": "5b0b6c24",
-    "last_mcap": 403769,
+    "last_mcap": 442938,
     "missing": 0,
     "peak_mcap": 507822,
     "profile": "migrated",
@@ -31727,6 +31736,58 @@
     "tp_done": [],
     "units": 3.605478841042987e-05,
     "units_left": 3.605478841042987e-05
+   },
+   "5c215039": {
+    "chain": "solana",
+    "created_ts": 1793824897.14257,
+    "expires_ts": 1793832097.14257,
+    "features": {
+     "age_min": 17.332239826520283,
+     "boosts": 0,
+     "buys_h1": 6132,
+     "buys_h24": 6132,
+     "buys_m5": 1296,
+     "change_h1": 751,
+     "change_h24": 751,
+     "change_h6": 751,
+     "change_m5": 19.75,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5925185339633774,
+     "insiders": 0,
+     "liquidity": 53829.03,
+     "lp_locked_pct": 100,
+     "mcap": 444805,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.17983794720392102,
+     "score": 74,
+     "sells_h1": 1538,
+     "sells_h24": 1538,
+     "sells_m5": 345,
+     "top1": 2.3158824921458145,
+     "top10": 22.581932936433553,
+     "top5": 11.445779169637516,
+     "txns_h24": 7670,
+     "vol_h1": 451096.06,
+     "vol_h24": 451096.06,
+     "vol_m5": 75633.26
+    },
+    "id": "5c215039",
+    "last_mcap": 444805,
+    "missing": 0,
+    "peak_mcap": 444805,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "GTA",
+    "tf": "minute",
+    "token": "7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump",
+    "tp_done": [],
+    "zone_bottom": 154414.58003990052,
+    "zone_top": 234897.33267718717
    },
    "6079afb9": {
     "chain": "solana",
@@ -31766,7 +31827,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 172811,
+    "last_mcap": 180037,
     "missing": 0,
     "peak_mcap": 206841,
     "profile": "migrated",
@@ -31871,7 +31932,7 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 159442,
+    "last_mcap": 149339,
     "missing": 0,
     "peak_mcap": 248217,
     "profile": "migrated",
@@ -31926,7 +31987,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3599539,
+    "last_mcap": 3576046,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -31940,6 +32001,59 @@
     "tp_done": [],
     "units": 2.4675372579047045e-06,
     "units_left": 2.4675372579047045e-06
+   },
+   "f5ad31b4": {
+    "chain": "solana",
+    "created_ts": 1793824897.14257,
+    "entry_mcap": 444805,
+    "entry_ts": 1793824897.14257,
+    "features": {
+     "age_min": 17.332239826520283,
+     "boosts": 0,
+     "buys_h1": 6132,
+     "buys_h24": 6132,
+     "buys_m5": 1296,
+     "change_h1": 751,
+     "change_h24": 751,
+     "change_h6": 751,
+     "change_m5": 19.75,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5925185339633774,
+     "insiders": 0,
+     "liquidity": 53829.03,
+     "lp_locked_pct": 100,
+     "mcap": 444805,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.17983794720392102,
+     "score": 74,
+     "sells_h1": 1538,
+     "sells_h24": 1538,
+     "sells_m5": 345,
+     "top1": 2.3158824921458145,
+     "top10": 22.581932936433553,
+     "top5": 11.445779169637516,
+     "txns_h24": 7670,
+     "vol_h1": 451096.06,
+     "vol_h24": 451096.06,
+     "vol_m5": 75633.26
+    },
+    "id": "f5ad31b4",
+    "last_mcap": 444805,
+    "missing": 0,
+    "peak_mcap": 444805,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "GTA",
+    "tf": "minute",
+    "token": "7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump",
+    "tp_done": [],
+    "units": 2.180730882071919e-05,
+    "units_left": 2.180730882071919e-05
    },
    "fd262d81": {
     "chain": "solana",
@@ -31979,7 +32093,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 807119,
+    "last_mcap": 822269,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40774,5 +40888,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1850
+ "runs": 1853
 }
