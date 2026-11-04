@@ -2206,7 +2206,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 22:53:19 UTC",
+ "last_run": "2026-11-04 23:08:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 2,
@@ -31589,7 +31589,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3485339,
+    "last_mcap": 3278787,
     "missing": 0,
     "peak_mcap": 4102724,
     "profile": "swing_survivor",
@@ -31646,7 +31646,7 @@
      "vol_m5": 123046.67
     },
     "id": "49839372",
-    "last_mcap": 628496,
+    "last_mcap": 551922,
     "missing": 0,
     "peak_mcap": 672339,
     "profile": "migrated",
@@ -31699,7 +31699,7 @@
      "vol_m5": 32313.81
     },
     "id": "5b0b6c24",
-    "last_mcap": 673558,
+    "last_mcap": 646193,
     "missing": 0,
     "peak_mcap": 769573,
     "profile": "migrated",
@@ -31754,7 +31754,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 210227,
+    "last_mcap": 210151,
     "missing": 0,
     "peak_mcap": 213001,
     "profile": "migrated",
@@ -31859,9 +31859,9 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 185245,
+    "last_mcap": 236423,
     "missing": 0,
-    "peak_mcap": 252911,
+    "peak_mcap": 257831,
     "profile": "migrated",
     "realized": 14.016046185699585,
     "size": 10,
@@ -31914,7 +31914,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3907205,
+    "last_mcap": 3683985,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -31967,7 +31967,7 @@
      "vol_m5": 75633.26
     },
     "id": "f5ad31b4",
-    "last_mcap": 2538683,
+    "last_mcap": 2625285,
     "missing": 0,
     "peak_mcap": 3080701,
     "profile": "migrated",
@@ -32023,7 +32023,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 693072,
+    "last_mcap": 683819,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40817,5 +40817,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1868
+ "runs": 1871
 }
