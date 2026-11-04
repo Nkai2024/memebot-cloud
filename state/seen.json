@@ -2404,7 +2404,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-04 01:09:20 UTC",
+ "last_run": "2026-11-04 01:24:20 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31661,12 +31661,10 @@
     "tp_done": [],
     "units": 4.847551986246945e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-03",
-  "positions": {
-   "13b58c7a": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1793754836.1129818,
     "created_ts": 1793750952.9149806,
     "entry_mcap": 137723,
     "entry_ts": 1793752016.0962548,
@@ -31704,23 +31702,29 @@
      "vol_m5": 56874.57
     },
     "id": "13b58c7a",
-    "last_mcap": 147508,
+    "last_mcap": 1893,
     "missing": 0,
     "peak_mcap": 192726,
+    "pnl": -9.870673475018696,
+    "pnl_pct": -98.70673475018697,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.12932652498130304,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "AMC",
     "tf": "minute",
     "token": "YUduqrb8kK4p9VfV2JXyHnV4yCXBiUoKgH7znLNpump",
     "tp_done": [],
     "units": 7.043122789947939e-05,
-    "units_left": 7.043122789947939e-05,
+    "units_left": 0.0,
     "zone_bottom": 114171.54416303645,
     "zone_top": 171131.976696917
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-03",
+  "positions": {
    "38088e7f": {
     "chain": "solana",
     "created_ts": 1793737015.264363,
@@ -31760,7 +31764,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 1956407,
+    "last_mcap": 1982236,
     "missing": 0,
     "peak_mcap": 2162459,
     "profile": "swing_survivor",
@@ -31815,7 +31819,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 179860,
+    "last_mcap": 180891,
     "missing": 0,
     "peak_mcap": 187335,
     "profile": "migrated",
@@ -31868,7 +31872,7 @@
      "vol_m5": 97254.49
     },
     "id": "d314edf8",
-    "last_mcap": 1437292,
+    "last_mcap": 1490042,
     "missing": 0,
     "peak_mcap": 2762956,
     "profile": "migrated",
@@ -31923,7 +31927,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 793847,
+    "last_mcap": 916972,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40707,6 +40711,7 @@
   "solana:G9r7CoaAEKzsFudkAhSWmuFi2huQpAqZ7w7TMfYqpump": 1793630306.9011316,
   "solana:GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump": 1793607847.7984579,
   "solana:GGLZzgVssSaW7zKrtNveFYyp2zrkfVTce1TjgPfNpump": 1793620400.7763653,
+  "solana:GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump": 1793755149.6685536,
   "solana:GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793671866.6212287,
   "solana:GqaP7NBtPAFAUq45UAp426bdEtfz5nz2ffMn9MiHpump": 1793333710.7189674,
   "solana:GrP9Ej7FzDcxHKTfLSywEofwVrWTzUAsnC4TM86Tpump": 1793300806.270315,
@@ -40716,5 +40721,5 @@
   "solana:HsChU2kZ2aP8qxBP4EXX16UAR95duMoGBZhB9Zpopump": 1793205140.6930633,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1679
+ "runs": 1682
 }
