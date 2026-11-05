@@ -2206,7 +2206,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-05 08:17:30 UTC",
+ "last_run": "2026-11-05 08:27:30 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31512,7 +31512,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 4187585,
+    "last_mcap": 4198927,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31569,7 +31569,7 @@
      "vol_m5": 123046.67
     },
     "id": "49839372",
-    "last_mcap": 749596,
+    "last_mcap": 743316,
     "missing": 0,
     "peak_mcap": 1152315,
     "profile": "migrated",
@@ -31729,7 +31729,7 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 234559,
+    "last_mcap": 240772,
     "missing": 0,
     "peak_mcap": 364009,
     "profile": "migrated",
@@ -31745,58 +31745,6 @@
     ],
     "units": 8.316186556927297e-05,
     "units_left": 2.4948559670781893e-05
-   },
-   "b7d932e0": {
-    "chain": "solana",
-    "created_ts": 1793859740.2042053,
-    "expires_ts": 1793866940.2042053,
-    "features": {
-     "age_min": 13.973936577637991,
-     "boosts": 0,
-     "buys_h1": 1906,
-     "buys_h24": 1906,
-     "buys_m5": 662,
-     "change_h1": 102,
-     "change_h24": 102,
-     "change_h6": 102,
-     "change_m5": 30.59,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.11291345431051127,
-     "insiders": 0,
-     "liquidity": 22440.89,
-     "lp_locked_pct": 100,
-     "mcap": 80666,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.06532317276034189,
-     "score": 80,
-     "sells_h1": 1397,
-     "sells_h24": 1397,
-     "sells_m5": 439,
-     "top1": 3.715234793720422,
-     "top10": 20.348978291842077,
-     "top5": 12.583434705335899,
-     "txns_h24": 3303,
-     "vol_h1": 110005.42,
-     "vol_h24": 110005.42,
-     "vol_m5": 37489.26
-    },
-    "id": "b7d932e0",
-    "last_mcap": 80666,
-    "missing": 0,
-    "peak_mcap": 80666,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "ZELDA",
-    "tf": "minute",
-    "token": "E1PpVMPtWPhPUKL7DbF6f2eAmuwo3CHBkKusKk54pump",
-    "tp_done": [],
-    "zone_bottom": 29671.604537073905,
-    "zone_top": 41559.12209551296
    },
    "d66c497b": {
     "chain": "solana",
@@ -31836,7 +31784,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 385009,
+    "last_mcap": 363172,
     "missing": 0,
     "peak_mcap": 400521,
     "profile": "migrated",
@@ -31891,7 +31839,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3658075,
+    "last_mcap": 3730901,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -31944,7 +31892,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 527838,
+    "last_mcap": 483841,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40740,5 +40688,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1981
+ "runs": 1983
 }
