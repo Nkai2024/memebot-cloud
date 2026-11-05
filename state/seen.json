@@ -2215,7 +2215,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-05 05:42:30 UTC",
+ "last_run": "2026-11-05 05:52:30 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -31533,7 +31533,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 4292201,
+    "last_mcap": 4291525,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31590,7 +31590,7 @@
      "vol_m5": 123046.67
     },
     "id": "49839372",
-    "last_mcap": 934314,
+    "last_mcap": 984735,
     "missing": 0,
     "peak_mcap": 1152315,
     "profile": "migrated",
@@ -31643,7 +31643,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 223803,
+    "last_mcap": 223455,
     "missing": 0,
     "peak_mcap": 236305,
     "profile": "migrated",
@@ -31750,7 +31750,7 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 324128,
+    "last_mcap": 325680,
     "missing": 0,
     "peak_mcap": 364009,
     "profile": "migrated",
@@ -31805,7 +31805,7 @@
      "vol_m5": 45566.33
     },
     "id": "701564ce",
-    "last_mcap": 168586,
+    "last_mcap": 138512,
     "missing": 0,
     "peak_mcap": 518689,
     "profile": "migrated",
@@ -31860,7 +31860,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 345804,
+    "last_mcap": 345753,
     "missing": 0,
     "peak_mcap": 361571,
     "profile": "migrated",
@@ -31915,7 +31915,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3879951,
+    "last_mcap": 3799213,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -31968,7 +31968,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 446880,
+    "last_mcap": 407737,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40740,6 +40740,7 @@
   "solana:Bmn5qFwQHxteaoM1et9FLdHsi52DmuXZyzWinih8pump": 1793688067.726867,
   "solana:Bz5UYN6K9ACNSDQb6W2jfRq79m28e51dQZFTK5yLpump": 1793401264.2232475,
   "solana:Co9MpsTVpAiCLnbZbPDqFHfzYge7qvtVJYfwf2w9pump": 1793268187.6561115,
+  "solana:CprMhio8gWydFtxQnySgLkgFrw94UawTy5Ao6rpZpump": 1793857641.0174787,
   "solana:DR3Jtxwzkw9uBpi6Bz7qJX7zuFSJkNKXthD8nB1mpump": 1793377003.9155297,
   "solana:DYgjAqwkr2EDkGYstsLEEpDdb7SHYjrSJyzu9RQ8pump": 1793762949.691626,
   "solana:Dc8qw7K8ohS74ZS1rHknvsuxnxV9hkJBCYNzX3gdpump": 1793840588.5843964,
@@ -40764,5 +40765,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1950
+ "runs": 1952
 }
