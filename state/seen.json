@@ -1296,15 +1296,6 @@
    "profile": "migrated",
    "symbol": "ASSAY"
   },
-  "solana:C7wnX8xaSvNXGpRufLfmf3iPDmzSXKvnTP2Tjytapump": {
-   "count": 1,
-   "first_mcap": 201009,
-   "first_ts": 1793245593.6938446,
-   "last_mcap": 201009,
-   "last_ts": 1793245593.6938446,
-   "profile": "migrated",
-   "symbol": "DOGPOOP"
-  },
   "solana:CCF6ui6YjjhLaVtuYLH8b5jza8jHathqww5VbrMapump": {
    "count": 1,
    "first_mcap": 162486,
@@ -2233,7 +2224,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-05 03:42:30 UTC",
+ "last_run": "2026-11-05 03:52:30 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -31552,7 +31543,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 4091701,
+    "last_mcap": 3833029,
     "missing": 0,
     "peak_mcap": 4443701,
     "profile": "swing_survivor",
@@ -31661,7 +31652,7 @@
      "vol_m5": 123046.67
     },
     "id": "49839372",
-    "last_mcap": 850175,
+    "last_mcap": 890630,
     "missing": 0,
     "peak_mcap": 1072655,
     "profile": "migrated",
@@ -31714,7 +31705,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 226743,
+    "last_mcap": 225899,
     "missing": 0,
     "peak_mcap": 236305,
     "profile": "migrated",
@@ -31821,7 +31812,7 @@
      "vol_m5": 43311.83
     },
     "id": "6561118b",
-    "last_mcap": 274389,
+    "last_mcap": 283934,
     "missing": 0,
     "peak_mcap": 361240,
     "profile": "migrated",
@@ -31928,7 +31919,7 @@
      "vol_m5": 45566.33
     },
     "id": "701564ce",
-    "last_mcap": 135025,
+    "last_mcap": 172405,
     "missing": 0,
     "peak_mcap": 210411,
     "profile": "migrated",
@@ -32033,7 +32024,7 @@
      "vol_m5": 66566.66
     },
     "id": "d4965854",
-    "last_mcap": 432059,
+    "last_mcap": 371737,
     "missing": 0,
     "peak_mcap": 563920,
     "profile": "migrated",
@@ -32086,7 +32077,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 197179,
+    "last_mcap": 175591,
     "missing": 0,
     "peak_mcap": 214398,
     "profile": "migrated",
@@ -32139,7 +32130,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3778894,
+    "last_mcap": 3886068,
     "missing": 0,
     "peak_mcap": 4081090,
     "profile": "swing_survivor",
@@ -32192,7 +32183,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 564358,
+    "last_mcap": 548302,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40988,5 +40979,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 1926
+ "runs": 1928
 }
