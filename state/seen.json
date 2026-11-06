@@ -1431,15 +1431,6 @@
    "profile": "migrated",
    "symbol": "ZELDA"
   },
-  "solana:E5pZM5GH1WaCWxNnDvhtWVjvzR7P5iUqXU8epki2pump": {
-   "count": 1,
-   "first_mcap": 162598,
-   "first_ts": 1793344530.8930228,
-   "last_mcap": 162598,
-   "last_ts": 1793344530.8930228,
-   "profile": "migrated",
-   "symbol": "SI"
-  },
   "solana:E7cdaueM9tCakwmaRiZxs5h6QMTMMaC369dVAYfRpump": {
    "count": 1,
    "first_mcap": 89385,
@@ -2170,7 +2161,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-06 07:07:05 UTC",
+ "last_run": "2026-11-06 07:17:04 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31408,7 +31399,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3535937,
+    "last_mcap": 3566495,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31466,7 +31457,7 @@
      "vol_m5": 77395
     },
     "id": "50aed82b",
-    "last_mcap": 114992,
+    "last_mcap": 105989,
     "missing": 0,
     "peak_mcap": 183703,
     "profile": "migrated",
@@ -31631,7 +31622,7 @@
      "vol_m5": 33134.32
     },
     "id": "64ff0e7d",
-    "last_mcap": 77406,
+    "last_mcap": 85887,
     "missing": 0,
     "peak_mcap": 117330,
     "profile": "migrated",
@@ -31688,7 +31679,7 @@
      "vol_m5": 5838.43
     },
     "id": "749a944a",
-    "last_mcap": 2646932,
+    "last_mcap": 2664274,
     "missing": 0,
     "peak_mcap": 3422755,
     "profile": "migrated",
@@ -31741,7 +31732,7 @@
      "vol_m5": 33933.64
     },
     "id": "7ceff2d4",
-    "last_mcap": 124000,
+    "last_mcap": 101496,
     "missing": 0,
     "peak_mcap": 338146,
     "profile": "migrated",
@@ -31797,7 +31788,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 239130,
+    "last_mcap": 217547,
     "missing": 0,
     "peak_mcap": 1574728,
     "profile": "migrated",
@@ -31853,7 +31844,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 4507111,
+    "last_mcap": 4556284,
     "missing": 0,
     "peak_mcap": 4679888,
     "profile": "swing_survivor",
@@ -40639,5 +40630,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2188
+ "runs": 2190
 }
