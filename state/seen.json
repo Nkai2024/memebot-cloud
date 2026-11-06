@@ -2161,7 +2161,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-06 01:41:39 UTC",
+ "last_run": "2026-11-06 01:51:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31413,7 +31413,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3841505,
+    "last_mcap": 3830931,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31470,7 +31470,7 @@
      "vol_m5": 19830.67
     },
     "id": "441092c3",
-    "last_mcap": 658290,
+    "last_mcap": 729546,
     "missing": 0,
     "peak_mcap": 783006,
     "profile": "swing_survivor",
@@ -31524,7 +31524,7 @@
      "vol_m5": 77395
     },
     "id": "50aed82b",
-    "last_mcap": 121518,
+    "last_mcap": 122048,
     "missing": 0,
     "peak_mcap": 181753,
     "profile": "migrated",
@@ -31581,7 +31581,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 186343,
+    "last_mcap": 189033,
     "missing": 0,
     "peak_mcap": 236305,
     "profile": "migrated",
@@ -31689,7 +31689,7 @@
      "vol_m5": 19830.67
     },
     "id": "73ee3987",
-    "last_mcap": 658290,
+    "last_mcap": 729546,
     "missing": 0,
     "peak_mcap": 783006,
     "profile": "swing_survivor",
@@ -31744,7 +31744,7 @@
      "vol_m5": 5838.43
     },
     "id": "749a944a",
-    "last_mcap": 3099124,
+    "last_mcap": 2901598,
     "missing": 0,
     "peak_mcap": 3374941,
     "profile": "migrated",
@@ -31799,7 +31799,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 946087,
+    "last_mcap": 1002696,
     "missing": 0,
     "peak_mcap": 1574728,
     "profile": "migrated",
@@ -31855,7 +31855,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 3719569,
+    "last_mcap": 3798161,
     "missing": 0,
     "peak_mcap": 4425219,
     "profile": "swing_survivor",
@@ -31908,7 +31908,7 @@
      "vol_m5": 74280.97
     },
     "id": "fd262d81",
-    "last_mcap": 395136,
+    "last_mcap": 395260,
     "missing": 0,
     "peak_mcap": 1277420,
     "profile": "migrated",
@@ -40698,5 +40698,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2137
+ "runs": 2139
 }
