@@ -63,6 +63,11 @@ def recover_lost_trades():
         state = st.load()
         if state is None or version in state.get("recovery", {}):
             return
+        if (state.get("paper") or {}).get("version", "v1") != version:
+            # Switching to a new paper version: the new book starts empty, nothing to recover
+            state.setdefault("recovery", {})[version] = {"skipped": "new version", "ts": time.time()}
+            st.save(state)
+            return
         rep = recover.run_once(state, M.ROOT, version)
         st.save(state)
         push_state()
