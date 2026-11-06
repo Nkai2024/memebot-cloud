@@ -2161,7 +2161,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-06 03:51:48 UTC",
+ "last_run": "2026-11-06 04:01:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31451,7 +31451,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3647849,
+    "last_mcap": 3684432,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31508,7 +31508,7 @@
      "vol_m5": 19830.67
     },
     "id": "441092c3",
-    "last_mcap": 664749,
+    "last_mcap": 643911,
     "missing": 0,
     "peak_mcap": 788468,
     "profile": "swing_survivor",
@@ -31562,7 +31562,7 @@
      "vol_m5": 77395
     },
     "id": "50aed82b",
-    "last_mcap": 125261,
+    "last_mcap": 108580,
     "missing": 0,
     "peak_mcap": 183703,
     "profile": "migrated",
@@ -31619,7 +31619,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 190041,
+    "last_mcap": 189068,
     "missing": 0,
     "peak_mcap": 236305,
     "profile": "migrated",
@@ -31727,7 +31727,7 @@
      "vol_m5": 19830.67
     },
     "id": "73ee3987",
-    "last_mcap": 664749,
+    "last_mcap": 643911,
     "missing": 0,
     "peak_mcap": 788468,
     "profile": "swing_survivor",
@@ -31782,7 +31782,7 @@
      "vol_m5": 5838.43
     },
     "id": "749a944a",
-    "last_mcap": 2549410,
+    "last_mcap": 2673790,
     "missing": 0,
     "peak_mcap": 3374941,
     "profile": "migrated",
@@ -31837,7 +31837,7 @@
      "vol_m5": 31650.14
     },
     "id": "d66c497b",
-    "last_mcap": 203608,
+    "last_mcap": 198104,
     "missing": 0,
     "peak_mcap": 1574728,
     "profile": "migrated",
@@ -31945,7 +31945,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 4068610,
+    "last_mcap": 4165194,
     "missing": 0,
     "peak_mcap": 4679888,
     "profile": "swing_survivor",
@@ -31998,7 +31998,7 @@
      "vol_m5": 37384.12
     },
     "id": "feb06ea7",
-    "last_mcap": 194396,
+    "last_mcap": 140369,
     "missing": 0,
     "peak_mcap": 194396,
     "profile": "migrated",
@@ -40786,5 +40786,5 @@
   "solana:HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump": 1793357663.902972,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2163
+ "runs": 2165
 }
