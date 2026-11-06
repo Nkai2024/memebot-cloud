@@ -2,9 +2,10 @@ name: MemeBot   # schedule refresh
 
 on:
   schedule:
-    # GitHub fires schedules late and rarely (about every 4h in Oct 2026), so each job now runs
-    # for ~5.5 hours by itself (memebot/loop.py). Hourly cron + the queue below keeps one job alive.
-    - cron: "17 * * * *"
+    # Each job runs ~5.5 hours by itself (memebot/loop.py). The cron only has to start the next
+    # one. Hourly left 1-4h gaps at handovers (Nov 2026), so ask every 15 min; the concurrency
+    # queue below keeps at most one job running and one waiting.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:            # lets you press "Run workflow" by hand
     inputs:
       test:
