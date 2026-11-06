@@ -54,7 +54,7 @@ def merge(state, snapshots, version):
 
     closed_ids = have
     lost_open = [pid for pid in last_open if pid not in closed_ids and pid not in have_open]
-    book["closed"] = sorted(book.get("closed", []) + added, key=lambda c: c.get("close_ts", 0))[-500:]
+    book["closed"] = sorted(book.get("closed", []) + added, key=lambda c: c.get("close_ts", 0))[-3000:]
     book["started_ts"] = earliest
     return {"added_closed": len(added), "lost_open": len(lost_open), "started_ts": earliest}
 
