@@ -33,6 +33,8 @@ DEFAULTS = {
     "daily_summary_utc_hour": 19,   # 19:00 UTC = 20:00 Cameroon
 }
 
+MAX_CLOSED = 3000  # closed trades kept in the book (was 500: early v2 trades got dropped)
+
 
 def settings(cfg):
     out = dict(DEFAULTS)
@@ -50,6 +52,8 @@ def _book(state, version=None):
             "archived_ts": time.time(), "stats": stats(book.get("closed", []))}
         book = state["paper"] = {"positions": {}, "closed": [], "last_summary_day": "",
                                  "version": version, "started_ts": time.time()}
+        # A fresh book has nothing to recover; skip the slow git-history walk in loop.py
+        state.setdefault("recovery", {}).setdefault(version, {"skipped": "fresh book", "ts": time.time()})
     return book
 
 
@@ -106,7 +110,7 @@ def on_alert(state, s, zone, profile_name, prof, cfg, now=None, features=None):
 
 
 def _fill(p, mcap, now, pc):
-    p.update(status="open", entry_ts=now, entry_mcap=mcap, peak_mcap=mcap,  # peak counts from the fill
+    p.update(status="open", entry_ts=now, entry_mcap=mcap, peak_mcap=mcap, trough_mcap=mcap,  # from the fill
              units=p["size"] * (1 - pc["buy_cost_pct"] / 100) / mcap)
     p["units_left"] = p["units"]
     return p
@@ -126,7 +130,7 @@ def _close(book, pid, reason, now):
     p.update(status="closed", close_ts=now, reason=reason,
              pnl=p["realized"] - p["size"], pnl_pct=(p["realized"] / p["size"] - 1) * 100)
     book["closed"].append(p)
-    book["closed"] = book["closed"][-500:]
+    book["closed"] = book["closed"][-MAX_CLOSED:]
     return p
 
 
@@ -181,6 +185,8 @@ def update(state, cfg, now=None):
         p["missing"] = 0
         p["last_mcap"] = mcap
         p["peak_mcap"] = max(p["peak_mcap"], mcap)
+        # lowest price seen while held: shows how far coins fall past the stop between checks
+        p["trough_mcap"] = min(p.get("trough_mcap") or mcap, mcap)
         mult = mcap / p["entry_mcap"]
 
         if liq is not None and liq < pc["rug_liquidity_usd"]:
