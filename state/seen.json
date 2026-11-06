@@ -1710,15 +1710,6 @@
    "profile": "migrated",
    "symbol": "SIS"
   },
-  "solana:FhdqbRJgDnsxHS4mcY5YpuezTFysbPyDzLXrthyBpump": {
-   "count": 1,
-   "first_mcap": 588664,
-   "first_ts": 1793375803.9653177,
-   "last_mcap": 588664,
-   "last_ts": 1793375803.9653177,
-   "profile": "migrated",
-   "symbol": "ELONTROLL"
-  },
   "solana:FmFqGGrst9vmzbiRq7sW1iNkdz4QccUCjfpm3trjpump": {
    "count": 1,
    "first_mcap": 270085,
@@ -1772,15 +1763,6 @@
    "last_ts": 1793830388.8993208,
    "profile": "migrated",
    "symbol": "PI"
-  },
-  "solana:G4vGFQjeqYdbfckvipiuyusFgY1jqAK23mbYG4H8pump": {
-   "count": 1,
-   "first_mcap": 229364,
-   "first_ts": 1793375791.18634,
-   "last_mcap": 229364,
-   "last_ts": 1793375791.18634,
-   "profile": "migrated",
-   "symbol": "CTO"
   },
   "solana:GCEEdGYx17shhJyudBTAHYAgcTEpKzntyiiqysmUpump": {
    "count": 1,
@@ -2187,15 +2169,6 @@
    "profile": "migrated",
    "symbol": "AMD"
   },
-  "solana:pa6bZZbPUj8JVciH9b2DrcqmDuDwkvPBAZnWHKnpump": {
-   "count": 1,
-   "first_mcap": 124431,
-   "first_ts": 1793375797.3029366,
-   "last_mcap": 124431,
-   "last_ts": 1793375797.3029366,
-   "profile": "migrated",
-   "symbol": "$19"
-  },
   "solana:ra4qZ68oPFuEhHR5hMRpUsGH5riMbRBuMyW68r3pump": {
    "count": 1,
    "first_mcap": 140824,
@@ -2215,7 +2188,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-06 15:54:05 UTC",
+ "last_run": "2026-11-06 16:09:05 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -31542,7 +31515,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 3164651,
+    "last_mcap": 3141065,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31599,9 +31572,9 @@
      "vol_m5": 33851.7
     },
     "id": "388af5db",
-    "last_mcap": 144541,
+    "last_mcap": 191915,
     "missing": 0,
-    "peak_mcap": 173362,
+    "peak_mcap": 214210,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -31707,7 +31680,7 @@
      "vol_m5": 5838.43
     },
     "id": "749a944a",
-    "last_mcap": 4056503,
+    "last_mcap": 4103475,
     "missing": 0,
     "peak_mcap": 4286725,
     "profile": "migrated",
@@ -31762,7 +31735,7 @@
      "vol_m5": 69391.19
     },
     "id": "7f909dca",
-    "last_mcap": 174599,
+    "last_mcap": 216006,
     "missing": 0,
     "peak_mcap": 234739,
     "profile": "migrated",
@@ -31867,7 +31840,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 4439098,
+    "last_mcap": 4437144,
     "missing": 0,
     "peak_mcap": 4773163,
     "profile": "swing_survivor",
@@ -31920,7 +31893,7 @@
      "vol_m5": 6909.58
     },
     "id": "ff08b72d",
-    "last_mcap": 720465,
+    "last_mcap": 718602,
     "missing": 0,
     "peak_mcap": 837689,
     "profile": "swing_survivor",
@@ -40700,5 +40673,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2262
+ "runs": 2265
 }
