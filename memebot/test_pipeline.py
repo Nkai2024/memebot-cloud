@@ -157,13 +157,14 @@ def test_paper_breakeven_and_zone_peak():
     try:
         prices = {"mcap": 100_000}
         cfg = _paper_setup(prices)
+        cfg["paper"] = dict(cfg["paper"], take_profits=[[100, 70], [400, 50], [900, 100]])  # v2 exits
         state = {}
         s = {"chain": "solana", "token": "T1", "symbol": "T1", "mcap": 100_000}
         prof = {"chart_timeframe": "minute"}
         zone = {"zone_top_mcap": 70_000, "zone_bottom_mcap": 55_000, "in_zone": False}
         paper.on_alert(state, s, zone, "migrated", prof, cfg, features={"score": 80})
         book = state["paper"]
-        assert book["version"] == "v2"
+        assert book["version"] == cfg["paper"]["version"]
         z = [p for p in book["positions"].values() if p["strategy"] == "ZONE"][0]
         prices["mcap"] = 60_000                  # ZONE fills
         paper.update(state, cfg)
@@ -241,6 +242,49 @@ def test_damaged_state_file_falls_back_to_git(tmp_path, monkeypatch):
     monkeypatch.setattr(st, "last_good_from_git", lambda *a, **k: good)
     assert st.load() == good
     assert st.load() == good  # and the repaired copy was written back
+
+
+def test_v3_tp1_at_1_3x_trough_and_fresh_book():
+    real_md, real_snap = sources.market_data, sources.snapshot_from_pair
+    try:
+        prices = {"mcap": 100_000}
+        cfg = _paper_setup(prices)
+        assert cfg["paper"]["version"] == "v3"
+        assert not cfg["profiles"]["swing_survivor"]["enabled"]
+        assert cfg["profiles"]["migrated"]["require_socials"] == 2
+        # an existing v2 book gets archived; the fresh v3 book is marked so recovery is skipped
+        state = {"paper": {"version": "v2", "positions": {}, "last_summary_day": "",
+                           "closed": [{"pnl": 2, "pnl_pct": 20, "size": 10, "symbol": "A", "reason": "x",
+                                       "strategy": "INSTANT", "profile": "migrated", "close_ts": 1}]}}
+        paper.on_alert(state, {"chain": "solana", "token": "T3", "symbol": "T3", "mcap": 100_000},
+                       None, "migrated", {"chart_timeframe": "minute"}, cfg)
+        assert state["paper_archive"]["v2"]["stats"]["n"] == 1
+        assert state["recovery"]["v3"]["skipped"] == "fresh book"
+        pos = next(iter(state["paper"]["positions"].values()))
+        prices["mcap"] = 80_000
+        paper.update(state, cfg)
+        assert pos["trough_mcap"] == 80_000
+        prices["mcap"] = 131_000                     # +31% -> TP1 sells 70%
+        ev = paper.update(state, cfg)
+        assert any("TP1" in e for e in ev), ev
+        prices["mcap"] = 99_000                      # rest stopped at entry
+        ev = paper.update(state, cfg)
+        c = state["paper"]["closed"][0]
+        assert c["reason"] == "moon bag stopped at entry" and c["pnl"] > 0, c
+        assert c["trough_mcap"] == 80_000 and c["peak_mcap"] == 131_000
+        assert paper.MAX_CLOSED == 3000
+    finally:
+        sources.market_data, sources.snapshot_from_pair = real_md, real_snap
+
+
+def test_recovery_skipped_on_version_switch(tmp_path, monkeypatch):
+    monkeypatch.setattr(st, "PATH", str(tmp_path / "seen.json"))
+    st.save({"runs": 5, "paper": {"version": "v2", "positions": {}, "closed": []}, "recovery": {"v2": {}}})
+    walked = []
+    from memebot import recover
+    monkeypatch.setattr(recover, "run_once", lambda *a, **k: walked.append(1))
+    loop.recover_lost_trades()
+    assert not walked and st.load()["recovery"]["v3"]["skipped"] == "new version"
 
 
 if __name__ == "__main__":
