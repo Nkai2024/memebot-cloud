@@ -36,7 +36,7 @@
       "vol_ratio_h1_m5_max": null,
       "txns_h24_min": 0,
       "require_dex_paid": true,
-      "require_socials": 1,
+      "require_socials": 2,
       "chart_timeframe": "minute",
       "momentum": {
         "_note": "v2: skip coins already fading. Change values are %, ratios are buys/sells.",
@@ -47,7 +47,7 @@
       }
     },
     "swing_survivor": {
-      "enabled": true,
+      "enabled": false,
       "label": "SWING",
       "age_minutes": [
         1440,
@@ -72,7 +72,8 @@
         "max_change_h24": 80,
         "min_change_h1": -5,
         "min_buy_sell_ratio_h24": 1.0
-      }
+      },
+      "_note": "off since v3 (2026-11-06): 0 wins in 19 v2 trades"
     },
     "fresh_aggressive": {
       "enabled": false,
@@ -111,11 +112,26 @@
     "fail_on_rugcheck_danger": true
   },
   "paper": {
-    "version": "v2",
+    "version": "v3",
     "stop_loss_pct": {
       "minute": 50,
       "hour": 30
     },
-    "breakeven_after_gain_pct": 50
+    "breakeven_after_gain_pct": 50,
+    "take_profits": [
+      [
+        30,
+        70
+      ],
+      [
+        400,
+        50
+      ],
+      [
+        900,
+        100
+      ]
+    ],
+    "_note": "v3: TP1 at 1.3x sells 70%, rest rides with stop at entry; 5x and 10x for the rest"
   }
 }
