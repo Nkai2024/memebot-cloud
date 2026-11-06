@@ -2188,11 +2188,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-06 17:34:06 UTC",
+ "last_run": "2026-11-06 17:44:09 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -31463,7 +31463,7 @@
      "vol_m5": 12726.32
     },
     "id": "38088e7f",
-    "last_mcap": 4068327,
+    "last_mcap": 4048379,
     "missing": 0,
     "peak_mcap": 4604179,
     "profile": "swing_survivor",
@@ -31572,7 +31572,7 @@
      "vol_m5": 29471.92
     },
     "id": "6079afb9",
-    "last_mcap": 197711,
+    "last_mcap": 201827,
     "missing": 0,
     "peak_mcap": 236305,
     "profile": "migrated",
@@ -31628,20 +31628,22 @@
      "vol_m5": 12708.55
     },
     "id": "626236e2",
-    "last_mcap": 157369,
+    "last_mcap": 221413,
     "missing": 0,
-    "peak_mcap": 157369,
+    "peak_mcap": 221413,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 15.241758115236012,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "HODL",
     "tf": "minute",
     "token": "8csCzE6QWAjNRiVNNSSn7ifR2CZHFj3sWuTzGSDapump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.00010862870261492803,
-    "units_left": 0.00010862870261492803,
+    "units_left": 3.258861078447842e-05,
     "zone_bottom": 69646.21030275377,
     "zone_top": 89351.48235839437
    },
@@ -31683,7 +31685,7 @@
      "vol_m5": 16710.15
     },
     "id": "6c276e60",
-    "last_mcap": 228144,
+    "last_mcap": 222313,
     "missing": 0,
     "peak_mcap": 322177,
     "profile": "migrated",
@@ -31736,7 +31738,7 @@
      "vol_m5": 5838.43
     },
     "id": "749a944a",
-    "last_mcap": 3812386,
+    "last_mcap": 4088393,
     "missing": 0,
     "peak_mcap": 4286725,
     "profile": "migrated",
@@ -31791,20 +31793,22 @@
      "vol_m5": 12708.55
     },
     "id": "9561942f",
-    "last_mcap": 157369,
+    "last_mcap": 221413,
     "missing": 0,
-    "peak_mcap": 157369,
+    "peak_mcap": 221413,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 15.241758115236012,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "HODL",
     "tf": "minute",
     "token": "8csCzE6QWAjNRiVNNSSn7ifR2CZHFj3sWuTzGSDapump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "units": 0.00010862870261492803,
-    "units_left": 0.00010862870261492803
+    "units_left": 3.258861078447842e-05
    },
    "e8f59ecd": {
     "chain": "solana",
@@ -31844,7 +31848,7 @@
      "vol_m5": 4434.87
     },
     "id": "e8f59ecd",
-    "last_mcap": 4483293,
+    "last_mcap": 4203344,
     "missing": 0,
     "peak_mcap": 4773163,
     "profile": "swing_survivor",
@@ -31897,7 +31901,7 @@
      "vol_m5": 6909.58
     },
     "id": "ff08b72d",
-    "last_mcap": 667796,
+    "last_mcap": 662874,
     "missing": 0,
     "peak_mcap": 837689,
     "profile": "swing_survivor",
@@ -40644,6 +40648,7 @@
   "solana:519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump": 1793935297.8716044,
   "solana:5Afz2mwDXjasvHXZHTT8anNxpec2QYdCiHHhubAWpump": 1793405158.6466243,
   "solana:5fgJwPNtsohc1FwjkjvmVWoXTbSzD8Z3zzbcuXdepump": 1793779311.1711135,
+  "solana:5nMbMFxkzCEUbStJQsjreiYco46bJWqzfer23Xwcpump": 1793987036.23156,
   "solana:6Kk8M1wGrWxCZ2qJiSr2W52wXKW3spBUwg5yx6r9pump": 1793512383.1410043,
   "solana:6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump": 1793465966.1730154,
   "solana:6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump": 1793645551.0326357,
@@ -40677,5 +40682,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2282
+ "runs": 2284
 }
