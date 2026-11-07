@@ -2044,7 +2044,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 09:51:59 UTC",
+ "last_run": "2026-11-07 10:01:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -40587,8 +40587,9 @@
   "solana:GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump": 1793755149.6685536,
   "solana:GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793671866.6212287,
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793859439.726656,
+  "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2432
+ "runs": 2434
 }
