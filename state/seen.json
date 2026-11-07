@@ -315,6 +315,15 @@
    "profile": "migrated",
    "symbol": "MARVIN"
   },
+  "solana:5UWfbqWEcLqDSrA2SwNXQpvbqEhZ2kPyh3LaPEmzpump": {
+   "count": 1,
+   "first_mcap": 142301,
+   "first_ts": 1794080639.173274,
+   "last_mcap": 142301,
+   "last_ts": 1794080639.173274,
+   "profile": "migrated",
+   "symbol": "Whitehouse"
+  },
   "solana:5ZndeMaC36YapnG4UpXsFg2DXDquHw6xEpBXGfmfpump": {
    "count": 1,
    "first_mcap": 123340,
@@ -1954,10 +1963,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 19:29:09 UTC",
+ "last_run": "2026-11-07 19:44:16 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2680,7 +2689,60 @@
    }
   ],
   "last_summary_day": "2026-11-07",
-  "positions": {},
+  "positions": {
+   "4f25eeb8": {
+    "chain": "solana",
+    "created_ts": 1794080639.1732893,
+    "entry_mcap": 142301,
+    "entry_ts": 1794080639.1732893,
+    "features": {
+     "age_min": 14.99645713965098,
+     "boosts": 0,
+     "buys_h1": 2101,
+     "buys_h24": 2101,
+     "buys_m5": 865,
+     "change_h1": 200,
+     "change_h24": 200,
+     "change_h6": 200,
+     "change_m5": 143,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 32088.5,
+     "lp_locked_pct": 100,
+     "mcap": 142301,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 80,
+     "sells_h1": 1551,
+     "sells_h24": 1551,
+     "sells_m5": 705,
+     "top1": 3.008507287653777,
+     "top10": 20.58975030686138,
+     "top5": 12.142719086588356,
+     "txns_h24": 3652,
+     "vol_h1": 168462.74,
+     "vol_h24": 168462.74,
+     "vol_m5": 78424.85
+    },
+    "id": "4f25eeb8",
+    "last_mcap": 142301,
+    "missing": 0,
+    "peak_mcap": 142301,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Whitehouse",
+    "tf": "minute",
+    "token": "5UWfbqWEcLqDSrA2SwNXQpvbqEhZ2kPyh3LaPEmzpump",
+    "tp_done": [],
+    "trough_mcap": 142301,
+    "units": 6.81653677767549e-05,
+    "units_left": 6.81653677767549e-05
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -40979,5 +41041,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2537
+ "runs": 2540
 }
