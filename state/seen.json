@@ -2008,7 +2008,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 17:11:35 UTC",
+ "last_run": "2026-11-07 17:21:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2595,21 +2595,23 @@
      "vol_m5": 64439.12
     },
     "id": "52c148a3",
-    "last_mcap": 48912,
+    "last_mcap": 88361,
     "missing": 0,
-    "peak_mcap": 68613,
+    "peak_mcap": 90721,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.612570866716485,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "piLL",
     "tf": "minute",
     "token": "DY3o5SLKeZkhkyqJJL4bbxxHos86yLqoVD4wVVaHpiLL",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 39921,
     "units": 0.0001685813100679539,
-    "units_left": 0.0001685813100679539,
+    "units_left": 5.057439302038618e-05,
     "zone_bottom": 47014.94976842268,
     "zone_top": 59111.87478968179
    }
@@ -40911,5 +40913,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2511
+ "runs": 2513
 }
