@@ -1413,15 +1413,6 @@
    "profile": "migrated",
    "symbol": "AIB"
   },
-  "solana:Ewyifvp8X9NxeaKawXamGXBFDisuMfcFfcdvSZ8opump": {
-   "count": 1,
-   "first_mcap": 315626,
-   "first_ts": 1793479428.552972,
-   "last_mcap": 315626,
-   "last_ts": 1793479428.552972,
-   "profile": "migrated",
-   "symbol": "CREDIT"
-  },
   "solana:ExoA74hEH7Bjby9X5VPsj3xtUgVzZCLXr1AvJMMRKVj1": {
    "count": 1,
    "first_mcap": 201488,
@@ -1728,6 +1719,15 @@
    "profile": "migrated",
    "symbol": "STARMIND"
   },
+  "solana:HgRk5aPDzwDCrdcuD2KoavBHBrNYbUdmUPXusnyapump": {
+   "count": 1,
+   "first_mcap": 218931,
+   "first_ts": 1794084539.2315252,
+   "last_mcap": 218931,
+   "last_ts": 1794084539.2315252,
+   "profile": "migrated",
+   "symbol": "Jos\u00e9"
+  },
   "solana:HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump": {
    "count": 1,
    "first_mcap": 170759,
@@ -1963,10 +1963,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 20:39:09 UTC",
+ "last_run": "2026-11-07 20:49:16 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2805,7 +2805,114 @@
    }
   ],
   "last_summary_day": "2026-11-07",
-  "positions": {},
+  "positions": {
+   "57d2822b": {
+    "chain": "solana",
+    "created_ts": 1794084539.2315412,
+    "entry_mcap": 218931,
+    "entry_ts": 1794084539.2315412,
+    "features": {
+     "age_min": 16.92869134346644,
+     "boosts": 0,
+     "buys_h1": 3160,
+     "buys_h24": 3160,
+     "buys_m5": 842,
+     "change_h1": 443,
+     "change_h24": 443,
+     "change_h6": 443,
+     "change_m5": 35.64,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.8498390035591801,
+     "insiders": 0,
+     "liquidity": 36038.3,
+     "lp_locked_pct": 100,
+     "mcap": 218931,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.21003719032610116,
+     "score": 81,
+     "sells_h1": 857,
+     "sells_h24": 857,
+     "sells_m5": 204,
+     "top1": 1.8356923561685679,
+     "top10": 17.46926541245749,
+     "top5": 8.978497570407221,
+     "txns_h24": 4017,
+     "vol_h1": 244830.38,
+     "vol_h24": 244830.38,
+     "vol_m5": 32469.2
+    },
+    "id": "57d2822b",
+    "last_mcap": 218931,
+    "missing": 0,
+    "peak_mcap": 218931,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Jos\u00e9",
+    "tf": "minute",
+    "token": "HgRk5aPDzwDCrdcuD2KoavBHBrNYbUdmUPXusnyapump",
+    "tp_done": [],
+    "trough_mcap": 218931,
+    "units": 4.4306196929626224e-05,
+    "units_left": 4.4306196929626224e-05
+   },
+   "f9615be9": {
+    "chain": "solana",
+    "created_ts": 1794084539.2315412,
+    "expires_ts": 1794091739.2315412,
+    "features": {
+     "age_min": 16.92869134346644,
+     "boosts": 0,
+     "buys_h1": 3160,
+     "buys_h24": 3160,
+     "buys_m5": 842,
+     "change_h1": 443,
+     "change_h24": 443,
+     "change_h6": 443,
+     "change_m5": 35.64,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.8498390035591801,
+     "insiders": 0,
+     "liquidity": 36038.3,
+     "lp_locked_pct": 100,
+     "mcap": 218931,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.21003719032610116,
+     "score": 81,
+     "sells_h1": 857,
+     "sells_h24": 857,
+     "sells_m5": 204,
+     "top1": 1.8356923561685679,
+     "top10": 17.46926541245749,
+     "top5": 8.978497570407221,
+     "txns_h24": 4017,
+     "vol_h1": 244830.38,
+     "vol_h24": 244830.38,
+     "vol_m5": 32469.2
+    },
+    "id": "f9615be9",
+    "last_mcap": 218931,
+    "missing": 0,
+    "peak_mcap": 218931,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Jos\u00e9",
+    "tf": "minute",
+    "token": "HgRk5aPDzwDCrdcuD2KoavBHBrNYbUdmUPXusnyapump",
+    "tp_done": [],
+    "zone_bottom": 88475.93657632041,
+    "zone_top": 126527.7869511509
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -41105,5 +41212,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2551
+ "runs": 2553
 }
