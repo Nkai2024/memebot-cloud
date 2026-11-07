@@ -2035,7 +2035,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 04:34:35 UTC",
+ "last_run": "2026-11-07 04:49:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2109,6 +2109,8 @@
    "f064ed20": {
     "chain": "solana",
     "created_ts": 1794025165.8358529,
+    "entry_mcap": 35095,
+    "entry_ts": 1794026411.5440238,
     "expires_ts": 1794032365.8358529,
     "features": {
      "age_min": 13.946213646729786,
@@ -2143,18 +2145,23 @@
      "vol_m5": 143564.81
     },
     "id": "f064ed20",
-    "last_mcap": 103784,
+    "last_mcap": 37490,
     "missing": 0,
-    "peak_mcap": 103784,
+    "peak_mcap": 57759,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.734099113833876,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "Slingfolio",
     "tf": "minute",
     "token": "Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 35095,
+    "units": 0.00027639264852543093,
+    "units_left": 8.291779455762928e-05,
     "zone_bottom": 34208.027343045134,
     "zone_top": 50270.1370730095
    }
@@ -40451,5 +40458,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2372
+ "runs": 2375
 }
