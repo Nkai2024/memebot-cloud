@@ -1989,15 +1989,6 @@
    "profile": "migrated",
    "symbol": "AMC"
   },
-  "solana:dKySSjXqXMrnAaXwjEJibNq7okM4zPGudayi3vjpump": {
-   "count": 1,
-   "first_mcap": 96602,
-   "first_ts": 1793406999.8658774,
-   "last_mcap": 96602,
-   "last_ts": 1793406999.8658774,
-   "profile": "migrated",
-   "symbol": "$1"
-  },
   "solana:fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump": {
    "count": 1,
    "first_mcap": 92099,
@@ -2053,7 +2044,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 00:34:35 UTC",
+ "last_run": "2026-11-07 00:44:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -40352,5 +40343,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2324
+ "runs": 2326
 }
