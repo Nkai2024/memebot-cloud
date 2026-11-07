@@ -1980,6 +1980,15 @@
    "profile": "migrated",
    "symbol": "MEMESTONK"
   },
+  "solana:X7vvi2scAYDftprhfRf2ij2YHHbaL3Noenpzmrypump": {
+   "count": 1,
+   "first_mcap": 73080,
+   "first_ts": 1794057384.4398658,
+   "last_mcap": 73080,
+   "last_ts": 1794057384.4398658,
+   "profile": "migrated",
+   "symbol": "cig"
+  },
   "solana:YUduqrb8kK4p9VfV2JXyHnV4yCXBiUoKgH7znLNpump": {
    "count": 1,
    "first_mcap": 200101,
@@ -2044,7 +2053,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 13:11:34 UTC",
+ "last_run": "2026-11-07 13:21:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2293,6 +2302,64 @@
     "units_left": 0.0,
     "zone_bottom": 40506.81694535481,
     "zone_top": 53983.61683558855
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794057670.9942713,
+    "created_ts": 1794057384.4398892,
+    "entry_mcap": 73080,
+    "entry_ts": 1794057384.4398892,
+    "features": {
+     "age_min": 16.717696273326872,
+     "boosts": 0,
+     "buys_h1": 2387,
+     "buys_h24": 2387,
+     "buys_m5": 567,
+     "change_h1": 96.95,
+     "change_h24": 96.95,
+     "change_h6": 96.95,
+     "change_m5": 22.47,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.23903148931553184,
+     "insiders": 0,
+     "liquidity": 20355.57,
+     "lp_locked_pct": 100,
+     "mcap": 73080,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.25680126062095454,
+     "score": 80,
+     "sells_h1": 1897,
+     "sells_h24": 1897,
+     "sells_m5": 492,
+     "top1": 3.3360480781594593,
+     "top10": 15.199766932370467,
+     "top5": 9.27638264371074,
+     "txns_h24": 4284,
+     "vol_h1": 133760.26,
+     "vol_h24": 133760.26,
+     "vol_m5": 39390.52
+    },
+    "id": "9ea30e9f",
+    "last_mcap": 16379,
+    "missing": 0,
+    "peak_mcap": 78306,
+    "pnl": -7.89121495621237,
+    "pnl_pct": -78.9121495621237,
+    "profile": "migrated",
+    "realized": 2.1087850437876297,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "cig",
+    "tf": "minute",
+    "token": "X7vvi2scAYDftprhfRf2ij2YHHbaL3Noenpzmrypump",
+    "tp_done": [],
+    "trough_mcap": 16379,
+    "units": 0.00013273125342090858,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "",
@@ -40591,5 +40658,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2463
+ "runs": 2465
 }
