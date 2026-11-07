@@ -603,15 +603,6 @@
    "profile": "migrated",
    "symbol": "KoriMu"
   },
-  "solana:8S49oCFR9Shcvibo42fJft2GH3X5rKgcFisZ57jopump": {
-   "count": 1,
-   "first_mcap": 316906,
-   "first_ts": 1793461159.6370742,
-   "last_mcap": 316906,
-   "last_ts": 1793461159.6370742,
-   "profile": "migrated",
-   "symbol": "SIS"
-  },
   "solana:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump": {
    "count": 1,
    "first_mcap": 936179,
@@ -2062,11 +2053,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 15:31:35 UTC",
+ "last_run": "2026-11-07 15:41:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -40848,5 +40839,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2491
+ "runs": 2493
 }
