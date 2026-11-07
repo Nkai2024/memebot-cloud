@@ -522,15 +522,6 @@
    "profile": "migrated",
    "symbol": "BABYKIN"
   },
-  "solana:8DKHFW32ApiG6xLYrTDTxkWMGxdDyASfNnSaWwCbpump": {
-   "count": 1,
-   "first_mcap": 97674,
-   "first_ts": 1793474074.7493052,
-   "last_mcap": 97674,
-   "last_ts": 1793474074.7493052,
-   "profile": "migrated",
-   "symbol": "SUPER"
-  },
   "solana:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump": {
    "count": 1,
    "first_mcap": 209189,
@@ -917,15 +908,6 @@
    "last_ts": 1793737914.9471865,
    "profile": "migrated",
    "symbol": "MAIN"
-  },
-  "solana:BJPP9Df54Gi394FFsMJFgJwoBhD1Vku7ZNvxQhYApump": {
-   "count": 1,
-   "first_mcap": 78765,
-   "first_ts": 1793474081.0874314,
-   "last_mcap": 78765,
-   "last_ts": 1793474081.0874314,
-   "profile": "migrated",
-   "symbol": "HI"
   },
   "solana:BM1Q9KfjgVoERj1eipkPqueMvhz1kfkUfE835ZjJpump": {
    "count": 1,
@@ -1981,7 +1963,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 19:09:09 UTC",
+ "last_run": "2026-11-07 19:19:09 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -41006,5 +40988,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2533
+ "runs": 2535
 }
