@@ -360,15 +360,6 @@
    "profile": "migrated",
    "symbol": "MUCHAN"
   },
-  "solana:5kCcoN8Xy2tPWEYi7pGLCxym5kmh3znMT3odrhWvpump": {
-   "count": 1,
-   "first_mcap": 747035,
-   "first_ts": 1793462360.3673315,
-   "last_mcap": 747035,
-   "last_ts": 1793462360.3673315,
-   "profile": "migrated",
-   "symbol": "HALLOWTRUMP"
-  },
   "solana:5ve4fMHU4BsSgJvjF9NEMp5m9yNLqYkugPKbV7SZpump": {
    "count": 1,
    "first_mcap": 101587,
@@ -2044,10 +2035,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 15:56:35 UTC",
+ "last_run": "2026-11-07 16:06:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -40830,5 +40821,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2496
+ "runs": 2498
 }
