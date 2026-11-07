@@ -270,15 +270,6 @@
    "profile": "migrated",
    "symbol": "NNH"
   },
-  "solana:4tEvXHpd6JrCWJGByBS3qFBAtJbeoiEpgvWLw9hkpump": {
-   "count": 1,
-   "first_mcap": 103060,
-   "first_ts": 1793460560.4526224,
-   "last_mcap": 103060,
-   "last_ts": 1793460560.4526224,
-   "profile": "migrated",
-   "symbol": "whitepaper"
-  },
   "solana:4xFp4RHxPSqBrgmCq772fTW9jgJypm7rxrFvJv5Mpump": {
    "count": 1,
    "first_mcap": 409901,
@@ -2071,11 +2062,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 15:21:35 UTC",
+ "last_run": "2026-11-07 15:31:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -2560,60 +2551,7 @@
    }
   ],
   "last_summary_day": "",
-  "positions": {
-   "8c48d49d": {
-    "chain": "solana",
-    "created_ts": 1794058284.8068662,
-    "expires_ts": 1794065484.8068662,
-    "features": {
-     "age_min": 12.622392058372498,
-     "boosts": 0,
-     "buys_h1": 2272,
-     "buys_h24": 2272,
-     "buys_m5": 728,
-     "change_h1": 119,
-     "change_h24": 119,
-     "change_h6": 119,
-     "change_m5": 18.5,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.14345528896005072,
-     "insiders": 0,
-     "liquidity": 22697.77,
-     "lp_locked_pct": 100,
-     "mcap": 86262,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.07399667773284804,
-     "score": 85,
-     "sells_h1": 1581,
-     "sells_h24": 1581,
-     "sells_m5": 505,
-     "top1": 3.050163001819314,
-     "top10": 14.459226396378103,
-     "top5": 8.804049396777554,
-     "txns_h24": 3853,
-     "vol_h1": 121852.31,
-     "vol_h24": 121852.31,
-     "vol_m5": 38335.35
-    },
-    "id": "8c48d49d",
-    "last_mcap": 86262,
-    "missing": 0,
-    "peak_mcap": 86262,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "debtdog",
-    "tf": "minute",
-    "token": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump",
-    "tp_done": [],
-    "zone_bottom": 43381.61178292675,
-    "zone_top": 53499.40898298717
-   }
-  },
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -40873,6 +40811,7 @@
   "solana:6Kk8M1wGrWxCZ2qJiSr2W52wXKW3spBUwg5yx6r9pump": 1793512383.1410043,
   "solana:6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump": 1793465966.1730154,
   "solana:6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump": 1793645551.0326357,
+  "solana:75VDY6P9kJyAp7QGYRzq7o85oKBSXpR9XmaWVHcspump": 1794065483.4343572,
   "solana:7THX6dQXVCvchYpyRdZ2JBW4eCq9ZYpwkXty99Rmpump": 1793863939.7694206,
   "solana:7Y6QNhQ2FxL6JEqZHooqgkXQubeQNC6N9emJxytdWp65": 1793558442.462473,
   "solana:7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump": 1793810788.0726418,
@@ -40909,5 +40848,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2489
+ "runs": 2491
 }
