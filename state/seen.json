@@ -2017,11 +2017,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 16:16:35 UTC",
+ "last_run": "2026-11-07 16:26:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -40792,6 +40792,7 @@
   "solana:F7CSEdSHM4jxhqN8fS6o1SUDagnZUhaC4ZTfbvBJpump": 1793881852.5351977,
   "solana:FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump": 1793790412.5365212,
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
+  "solana:G3PzMuSp2A7oP2qiTwnEywEYsVgTPFKzR8V7QrS9pump": 1794068783.4147844,
   "solana:G9r7CoaAEKzsFudkAhSWmuFi2huQpAqZ7w7TMfYqpump": 1793630306.9011316,
   "solana:GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump": 1793607847.7984579,
   "solana:GGLZzgVssSaW7zKrtNveFYyp2zrkfVTce1TjgPfNpump": 1793620400.7763653,
@@ -40803,5 +40804,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2500
+ "runs": 2502
 }
