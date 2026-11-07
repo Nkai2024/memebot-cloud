@@ -2026,7 +2026,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 18:14:09 UTC",
+ "last_run": "2026-11-07 18:24:09 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2691,12 +2691,10 @@
     "trough_mcap": 1841,
     "units": 6.02450794676074e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "1f5955cb": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794075585.581815,
     "created_ts": 1794074939.2978883,
     "entry_mcap": 139885,
     "entry_ts": 1794074939.2978883,
@@ -2733,75 +2731,28 @@
      "vol_m5": 18379.84
     },
     "id": "1f5955cb",
-    "last_mcap": 120809,
+    "last_mcap": 1810,
     "missing": 0,
     "peak_mcap": 170962,
+    "pnl": -9.8782550666619,
+    "pnl_pct": -98.782550666619,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.12174493333809915,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "LUCIA",
     "tf": "minute",
     "token": "8gpdPLGTServ9bQXx6ZzinbDtKj8LDogCxPNrvUGpump",
     "tp_done": [],
-    "trough_mcap": 120809,
+    "trough_mcap": 1810,
     "units": 6.934267433963612e-05,
-    "units_left": 6.934267433963612e-05
-   },
-   "4f3a1565": {
-    "chain": "solana",
-    "created_ts": 1794074939.2978883,
-    "expires_ts": 1794082139.2978883,
-    "features": {
-     "age_min": 36.794404768943785,
-     "boosts": 0,
-     "buys_h1": 3012,
-     "buys_h24": 3012,
-     "buys_m5": 333,
-     "change_h1": 219,
-     "change_h24": 219,
-     "change_h6": 219,
-     "change_m5": 33.85,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.9257570834412102,
-     "insiders": 0,
-     "liquidity": 28701.08,
-     "lp_locked_pct": 100,
-     "mcap": 139885,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.09168787377877427,
-     "score": 72,
-     "sells_h1": 597,
-     "sells_h24": 597,
-     "sells_m5": 104,
-     "top1": 1.0088196511196192,
-     "top10": 8.322039096576363,
-     "top5": 4.479410158152688,
-     "txns_h24": 3609,
-     "vol_h1": 160889.25,
-     "vol_h24": 160889.25,
-     "vol_m5": 18379.84
-    },
-    "id": "4f3a1565",
-    "last_mcap": 139885,
-    "missing": 0,
-    "peak_mcap": 139885,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "LUCIA",
-    "tf": "minute",
-    "token": "8gpdPLGTServ9bQXx6ZzinbDtKj8LDogCxPNrvUGpump",
-    "tp_done": [],
-    "zone_bottom": 66223.46045010055,
-    "zone_top": 84047.05617459762
+    "units_left": 0.0
    }
-  },
+  ],
+  "last_summary_day": "",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -41100,5 +41051,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2522
+ "runs": 2524
 }
