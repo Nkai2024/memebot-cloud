@@ -1638,15 +1638,6 @@
    "profile": "migrated",
    "symbol": "CASHCAT"
   },
-  "solana:GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump": {
-   "count": 1,
-   "first_mcap": 163656,
-   "first_ts": 1793473175.1435266,
-   "last_mcap": 163656,
-   "last_ts": 1793473175.1435266,
-   "profile": "migrated",
-   "symbol": "AAPLCAT"
-  },
   "solana:Ge9u2FUrrcDVZmEpQgyRqPhcxXABWDz4kJWQ2KQBpump": {
    "count": 1,
    "first_mcap": 480264,
@@ -1990,7 +1981,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 18:59:09 UTC",
+ "last_run": "2026-11-07 19:09:09 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2715,7 +2706,7 @@
     "units_left": 0.0
    }
   ],
-  "last_summary_day": "",
+  "last_summary_day": "2026-11-07",
   "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
@@ -41015,5 +41006,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2531
+ "runs": 2533
 }
