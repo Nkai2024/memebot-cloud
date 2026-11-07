@@ -2071,7 +2071,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 14:36:35 UTC",
+ "last_run": "2026-11-07 14:46:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -40909,5 +40909,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2480
+ "runs": 2482
 }
