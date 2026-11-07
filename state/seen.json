@@ -45,15 +45,6 @@
    "profile": "migrated",
    "symbol": "GTAVI"
   },
-  "solana:28dYWwEA6w8WFY2Uiakidujkq6ZPDzBDsGGZ1tM2pump": {
-   "count": 1,
-   "first_mcap": 78269,
-   "first_ts": 1793471973.5952823,
-   "last_mcap": 78269,
-   "last_ts": 1793471973.5952823,
-   "profile": "migrated",
-   "symbol": "TRACER"
-  },
   "solana:2JPSdYmf9tkKu1ks479jYourtwu8ewAqzkGyXuyXpump": {
    "count": 1,
    "first_mcap": 411578,
@@ -1242,15 +1233,6 @@
    "profile": "migrated",
    "symbol": "Learjet"
   },
-  "solana:Df7kaKskbRMAYEkPEGJ1e33n4RPWDNs9GP9pzPjgpump": {
-   "count": 1,
-   "first_mcap": 77756,
-   "first_ts": 1793471967.2042658,
-   "last_mcap": 77756,
-   "last_ts": 1793471967.2042658,
-   "profile": "migrated",
-   "symbol": "Satoshi"
-  },
   "solana:DjHKt7MrZQ1cCiBJgtD6aomQcUBsnxedrHqgdCTupump": {
    "count": 1,
    "first_mcap": 110211,
@@ -1529,15 +1511,6 @@
    "last_ts": 1793496484.2523303,
    "profile": "swing_survivor",
    "symbol": "Leverhedge"
-  },
-  "solana:FdKdpz11GsTofLaNiddrhxrsE4APZYSSfLFqQ9YKpump": {
-   "count": 1,
-   "first_mcap": 334180,
-   "first_ts": 1793471667.0824196,
-   "last_mcap": 334180,
-   "last_ts": 1793471667.0824196,
-   "profile": "migrated",
-   "symbol": "SIS"
   },
   "solana:FmFqGGrst9vmzbiRq7sW1iNkdz4QccUCjfpm3trjpump": {
    "count": 1,
@@ -2026,7 +1999,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 18:34:09 UTC",
+ "last_run": "2026-11-07 18:49:09 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -41051,5 +41024,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2526
+ "runs": 2529
 }
