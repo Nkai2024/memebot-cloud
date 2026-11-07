@@ -1233,15 +1233,6 @@
    "profile": "migrated",
    "symbol": "ABTC"
   },
-  "solana:DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump": {
-   "count": 1,
-   "first_mcap": 133439,
-   "first_ts": 1793461459.399461,
-   "last_mcap": 133439,
-   "last_ts": 1793461459.399461,
-   "profile": "migrated",
-   "symbol": "billy"
-  },
   "solana:DWdBJoNezK9itTwmPDYrScYpBxvWySxeWWV8N9RcmdrT": {
    "count": 1,
    "first_mcap": 342261,
@@ -2053,10 +2044,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 15:41:35 UTC",
+ "last_run": "2026-11-07 15:56:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -40839,5 +40830,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2493
+ "runs": 2496
 }
