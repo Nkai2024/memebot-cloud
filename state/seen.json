@@ -2035,7 +2035,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 04:49:35 UTC",
+ "last_run": "2026-11-07 04:59:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2102,12 +2102,10 @@
     "trough_mcap": 101906,
     "units": 9.346334695136051e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "f064ed20": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794027071.5480404,
     "created_ts": 1794025165.8358529,
     "entry_mcap": 35095,
     "entry_ts": 1794026411.5440238,
@@ -2145,13 +2143,16 @@
      "vol_m5": 143564.81
     },
     "id": "f064ed20",
-    "last_mcap": 37490,
+    "last_mcap": 34290,
     "missing": 0,
     "peak_mcap": 57759,
+    "pnl": 2.4920527539535513,
+    "pnl_pct": 24.92052753953551,
     "profile": "migrated",
-    "realized": 9.734099113833876,
+    "realized": 12.492052753953551,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "Slingfolio",
     "tf": "minute",
@@ -2159,13 +2160,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 35095,
+    "trough_mcap": 34290,
     "units": 0.00027639264852543093,
-    "units_left": 8.291779455762928e-05,
+    "units_left": 0.0,
     "zone_bottom": 34208.027343045134,
     "zone_top": 50270.1370730095
    }
-  },
+  ],
+  "last_summary_day": "",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -40458,5 +40461,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2375
+ "runs": 2377
 }
