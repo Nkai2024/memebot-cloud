@@ -2071,7 +2071,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 13:51:35 UTC",
+ "last_run": "2026-11-07 14:06:34 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2591,21 +2591,23 @@
      "vol_m5": 38335.35
     },
     "id": "98b297b8",
-    "last_mcap": 82424,
+    "last_mcap": 148729,
     "missing": 0,
-    "peak_mcap": 100342,
+    "peak_mcap": 148729,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.259774931024086,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "debtdog",
     "tf": "minute",
     "token": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 59202,
     "units": 0.00011244812315967632,
-    "units_left": 0.00011244812315967632
+    "units_left": 3.373443694790291e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -40903,5 +40905,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2471
+ "runs": 2474
 }
