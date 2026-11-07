@@ -252,15 +252,6 @@
    "profile": "migrated",
    "symbol": "NNH"
   },
-  "solana:4xFp4RHxPSqBrgmCq772fTW9jgJypm7rxrFvJv5Mpump": {
-   "count": 1,
-   "first_mcap": 409901,
-   "first_ts": 1793474377.3900526,
-   "last_mcap": 409901,
-   "last_ts": 1793474377.3900526,
-   "profile": "migrated",
-   "symbol": "OnlyCats"
-  },
   "solana:52e9K9NtXT9m6yX4ykfKE4WuGc8uocjTNuvfsHbWpump": {
    "count": 1,
    "first_mcap": 70216,
@@ -1963,7 +1954,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 19:19:09 UTC",
+ "last_run": "2026-11-07 19:29:09 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -40988,5 +40979,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2535
+ "runs": 2537
 }
