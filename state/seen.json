@@ -1891,10 +1891,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 10:07:45 UTC",
+ "last_run": "2026-11-08 10:21:53 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3573,12 +3573,10 @@
     "trough_mcap": 29735,
     "units": 0.0001551056957369919,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-07",
-  "positions": {
-   "2738ad7a": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794132989.2962847,
     "created_ts": 1794132448.8923724,
     "entry_mcap": 85471,
     "entry_ts": 1794132448.8923724,
@@ -3615,22 +3613,28 @@
      "vol_m5": 30050.47
     },
     "id": "2738ad7a",
-    "last_mcap": 86411,
+    "last_mcap": 33543,
     "missing": 0,
-    "peak_mcap": 90060,
+    "peak_mcap": 95381,
+    "pnl": -6.307448292403272,
+    "pnl_pct": -63.074482924032715,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 3.6925517075967282,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "StonksPair",
     "tf": "minute",
     "token": "7pVL46MuwmQn3bYM3DBKSS1ddNtRur6wEyS54pGPrAiJ",
     "tp_done": [],
-    "trough_mcap": 77467,
+    "trough_mcap": 33543,
     "units": 0.00011348878566999332,
-    "units_left": 0.00011348878566999332
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-07",
+  "positions": {
    "8da7cc64": {
     "chain": "solana",
     "created_ts": 1794086339.2318618,
@@ -3669,7 +3673,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1196479,
+    "last_mcap": 1187570,
     "missing": 0,
     "peak_mcap": 1579934,
     "profile": "migrated",
@@ -41990,5 +41994,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2713
+ "runs": 2716
 }
