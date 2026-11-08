@@ -1846,10 +1846,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 18:36:12 UTC",
+ "last_run": "2026-11-08 18:46:05 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3769,12 +3769,10 @@
     "trough_mcap": 682550,
     "units": 1.3369223496203553e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-07",
-  "positions": {
-   "3fa8d957": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794163001.3772404,
     "created_ts": 1794150122.432937,
     "entry_mcap": 73768,
     "entry_ts": 1794150122.432937,
@@ -3811,13 +3809,16 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 75438,
+    "last_mcap": 73269,
     "missing": 0,
     "peak_mcap": 101638,
+    "pnl": 1.3833492137512167,
+    "pnl_pct": 13.83349213751217,
     "profile": "migrated",
-    "realized": 8.57974322877128,
+    "realized": 11.383349213751217,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "forg",
     "tf": "minute",
@@ -3825,13 +3826,18 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 73768,
+    "trough_mcap": 73269,
     "units": 0.00013149333044138378,
-    "units_left": 3.944799913241514e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-07",
+  "positions": {
    "759bfd23": {
     "chain": "solana",
     "created_ts": 1794162955.2058125,
+    "entry_mcap": 106419,
+    "entry_ts": 1794163241.3786917,
     "expires_ts": 1794170155.2058125,
     "features": {
      "age_min": 16.09295045932134,
@@ -3866,18 +3872,21 @@
      "vol_m5": 57230.27
     },
     "id": "759bfd23",
-    "last_mcap": 152451,
+    "last_mcap": 127165,
     "missing": 0,
-    "peak_mcap": 152451,
+    "peak_mcap": 132111,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "STOKE",
     "tf": "minute",
     "token": "5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx",
     "tp_done": [],
+    "trough_mcap": 106419,
+    "units": 9.114913690224489e-05,
+    "units_left": 9.114913690224489e-05,
     "zone_bottom": 89030.29145271846,
     "zone_top": 123579.89233709597
    },
@@ -3919,7 +3928,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 3796023,
+    "last_mcap": 3919236,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -3976,9 +3985,9 @@
      "vol_m5": 57230.27
     },
     "id": "ae43472b",
-    "last_mcap": 152451,
+    "last_mcap": 127165,
     "missing": 0,
-    "peak_mcap": 152451,
+    "peak_mcap": 164660,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -3988,7 +3997,7 @@
     "tf": "minute",
     "token": "5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx",
     "tp_done": [],
-    "trough_mcap": 152451,
+    "trough_mcap": 106419,
     "units": 6.362700146276508e-05,
     "units_left": 6.362700146276508e-05
    }
@@ -42252,7 +42261,6 @@
   "solana:6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump": 1793645551.0326357,
   "solana:75VDY6P9kJyAp7QGYRzq7o85oKBSXpR9XmaWVHcspump": 1794065483.4343572,
   "solana:7THX6dQXVCvchYpyRdZ2JBW4eCq9ZYpwkXty99Rmpump": 1793863939.7694206,
-  "solana:7Y6QNhQ2FxL6JEqZHooqgkXQubeQNC6N9emJxytdWp65": 1793558442.462473,
   "solana:7jXs2ff3dN4ZxngNADH3152Q2PNwMGg4mhTEZ7Rnpump": 1794088139.3972435,
   "solana:7mAcg6duNYnfeP4pVie1JMvGsXF9FP6A3Aah47rcpump": 1794151301.834031,
   "solana:7qf6JJpfGZtpLifvBvmgU6RHNWubD8jRGy4aHBnhpump": 1794153953.8300076,
@@ -42296,5 +42304,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2815
+ "runs": 2817
 }
