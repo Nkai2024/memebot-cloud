@@ -1584,15 +1584,6 @@
    "profile": "migrated",
    "symbol": "Chewchan"
   },
-  "solana:GT7npkZe1b9ayvsHhvSm7yUYqq8XkWSP4v1xYNcSpump": {
-   "count": 1,
-   "first_mcap": 90351,
-   "first_ts": 1793493229.0065198,
-   "last_mcap": 90351,
-   "last_ts": 1793493229.0065198,
-   "profile": "migrated",
-   "symbol": "CASHCAT"
-  },
   "solana:Ge9u2FUrrcDVZmEpQgyRqPhcxXABWDz4kJWQ2KQBpump": {
    "count": 1,
    "first_mcap": 480264,
@@ -1945,7 +1936,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 00:28:24 UTC",
+ "last_run": "2026-11-08 00:38:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3184,7 +3175,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1177201,
+    "last_mcap": 1192447,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -3293,7 +3284,7 @@
      "vol_m5": 61565.83
     },
     "id": "e8f980fb",
-    "last_mcap": 238399,
+    "last_mcap": 255323,
     "missing": 0,
     "peak_mcap": 287318,
     "profile": "migrated",
@@ -41616,5 +41607,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2597
+ "runs": 2599
 }
