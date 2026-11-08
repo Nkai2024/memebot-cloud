@@ -1846,10 +1846,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 20:46:12 UTC",
+ "last_run": "2026-11-08 20:56:05 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -4064,13 +4064,13 @@
     "trough_mcap": 39299,
     "units": 0.00011785432233764655,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "4e5f1cbc": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794171221.429267,
     "created_ts": 1794170754.9515135,
+    "entry_mcap": 90481,
+    "entry_ts": 1794170921.4273489,
     "expires_ts": 1794177954.9515135,
     "features": {
      "age_min": 14.025717528661092,
@@ -4105,23 +4105,30 @@
      "vol_m5": 14093.48
     },
     "id": "4e5f1cbc",
-    "last_mcap": 141594,
+    "last_mcap": 1753,
     "missing": 0,
-    "peak_mcap": 141594,
+    "peak_mcap": 93049,
+    "pnl": -9.817707839214863,
+    "pnl_pct": -98.17707839214863,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.1822921607851372,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "pending",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "GTA",
     "tf": "minute",
     "token": "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     "tp_done": [],
+    "trough_mcap": 1753,
+    "units": 0.00010720482753285219,
+    "units_left": 0.0,
     "zone_bottom": 72832.60201526024,
     "zone_top": 95034.95551293688
    },
-   "63301ef1": {
+   {
     "chain": "solana",
+    "close_ts": 1794171221.429267,
     "created_ts": 1794170754.9515135,
     "entry_mcap": 141594,
     "entry_ts": 1794170754.9515135,
@@ -4158,22 +4165,28 @@
      "vol_m5": 14093.48
     },
     "id": "63301ef1",
-    "last_mcap": 141594,
+    "last_mcap": 1753,
     "missing": 0,
     "peak_mcap": 141594,
+    "pnl": -9.883512175657161,
+    "pnl_pct": -98.83512175657161,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.11648782434283937,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "GTA",
     "tf": "minute",
     "token": "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     "tp_done": [],
-    "trough_mcap": 141594,
+    "trough_mcap": 1753,
     "units": 6.850572764382671e-05,
-    "units_left": 6.850572764382671e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {
    "ace34816": {
     "chain": "solana",
     "created_ts": 1794151022.6153803,
@@ -4212,7 +4225,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 4310785,
+    "last_mcap": 4657790,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -42534,5 +42547,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2841
+ "runs": 2843
 }
