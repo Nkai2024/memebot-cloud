@@ -1846,7 +1846,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 23:30:19 UTC",
+ "last_run": "2026-11-08 23:40:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -4543,12 +4543,10 @@
     "units_left": 0.0,
     "zone_bottom": 88997.41647432727,
     "zone_top": 124044.52096871781
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "142919d0": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794180835.2637384,
     "created_ts": 1794179108.8195534,
     "entry_mcap": 103993,
     "entry_ts": 1794179108.8195534,
@@ -4585,25 +4583,33 @@
      "vol_m5": 59589.67
     },
     "id": "142919d0",
-    "last_mcap": 90137,
+    "last_mcap": 51316,
     "missing": 0,
     "peak_mcap": 132538,
+    "pnl": -5.35706976431106,
+    "pnl_pct": -53.5706976431106,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.64293023568894,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "S&P500",
     "tf": "minute",
     "token": "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump",
     "tp_done": [],
-    "trough_mcap": 81387,
+    "trough_mcap": 51316,
     "units": 9.327550892848557e-05,
-    "units_left": 9.327550892848557e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {
    "984c5b8e": {
     "chain": "solana",
     "created_ts": 1794179108.8195534,
+    "entry_mcap": 51316,
+    "entry_ts": 1794180835.2637384,
     "expires_ts": 1794186308.8195534,
     "features": {
      "age_min": 16.327422440052032,
@@ -4638,18 +4644,23 @@
      "vol_m5": 59589.67
     },
     "id": "984c5b8e",
-    "last_mcap": 103993,
+    "last_mcap": 140886,
     "missing": 0,
-    "peak_mcap": 103993,
+    "peak_mcap": 153333,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.608420907709094,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "S&P500",
     "tf": "minute",
     "token": "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 51316,
+    "units": 0.00018902486553901317,
+    "units_left": 5.670745966170396e-05,
     "zone_bottom": 40077.202088442515,
     "zone_top": 53738.59400847007
    },
@@ -4691,7 +4702,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 4200750,
+    "last_mcap": 3824893,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -43015,5 +43026,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2874
+ "runs": 2876
 }
