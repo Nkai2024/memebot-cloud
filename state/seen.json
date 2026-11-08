@@ -243,15 +243,6 @@
    "profile": "migrated",
    "symbol": "MameStonk"
   },
-  "solana:57piTgZ3PUbrf3C59qJXrCwAms5VEa5ys1KPZNYSpump": {
-   "count": 1,
-   "first_mcap": 126973,
-   "first_ts": 1793540188.6612546,
-   "last_mcap": 126973,
-   "last_ts": 1793540188.6612546,
-   "profile": "migrated",
-   "symbol": "REGRETAMINE"
-  },
   "solana:592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump": {
    "count": 1,
    "first_mcap": 107473,
@@ -1873,7 +1864,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 13:26:53 UTC",
+ "last_run": "2026-11-08 13:36:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3778,7 +3769,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 884814,
+    "last_mcap": 950909,
     "missing": 0,
     "peak_mcap": 1579934,
     "profile": "migrated",
@@ -42099,5 +42090,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2753
+ "runs": 2755
 }
