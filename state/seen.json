@@ -1864,11 +1864,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 21:30:26 UTC",
+ "last_run": "2026-11-08 21:40:19 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 1,
-  "rejected_safety": 0
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -4353,21 +4353,23 @@
      "vol_m5": 77453.96
     },
     "id": "75273118",
-    "last_mcap": 180566,
+    "last_mcap": 301320,
     "missing": 0,
-    "peak_mcap": 199577,
+    "peak_mcap": 307662,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 10.044637995861246,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "JensenAlice",
     "tf": "minute",
     "token": "BkYGs8BJzoc7ZgptAiMqAed8KQ31rVTsegBHdPTbpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 180566,
     "units": 4.8602794911237264e-05,
-    "units_left": 4.8602794911237264e-05
+    "units_left": 1.4580838473371185e-05
    },
    "a2aa7afb": {
     "chain": "solana",
@@ -4407,9 +4409,9 @@
      "vol_m5": 118393.59
     },
     "id": "a2aa7afb",
-    "last_mcap": 177834,
+    "last_mcap": 226588,
     "missing": 0,
-    "peak_mcap": 202743,
+    "peak_mcap": 226588,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -4461,7 +4463,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 4089124,
+    "last_mcap": 4760745,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -4519,21 +4521,23 @@
      "vol_m5": 118393.59
     },
     "id": "c19771f7",
-    "last_mcap": 177834,
+    "last_mcap": 226588,
     "missing": 0,
-    "peak_mcap": 177834,
+    "peak_mcap": 226588,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.70289271704653,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "chud",
     "tf": "minute",
     "token": "7xWZSw8KfLbPRiLiyPPMNboCq81j3oc53DpAYiXfLoat",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 152905,
     "units": 6.34380824695072e-05,
-    "units_left": 6.34380824695072e-05,
+    "units_left": 1.9031424740852164e-05,
     "zone_bottom": 123592.2973746919,
     "zone_top": 156887.34215989005
    }
@@ -42826,6 +42830,7 @@
   "solana:Ey4YG29k4hQmTPfRr3aRrpzSx8THEeSWbgCo2yWypump": 1794016465.1736717,
   "solana:F7CSEdSHM4jxhqN8fS6o1SUDagnZUhaC4ZTfbvBJpump": 1793881852.5351977,
   "solana:F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump": 1794082138.135526,
+  "solana:FDZUnsTuyHKYSqriT8JJ1PKFRwbsYRNWhkV5DV9upump": 1794174007.9493494,
   "solana:FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump": 1793790412.5365212,
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
   "solana:G3PzMuSp2A7oP2qiTwnEywEYsVgTPFKzR8V7QrS9pump": 1794068783.4147844,
@@ -42840,5 +42845,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2850
+ "runs": 2852
 }
