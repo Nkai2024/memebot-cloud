@@ -1936,7 +1936,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 01:43:24 UTC",
+ "last_run": "2026-11-08 01:53:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3357,7 +3357,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1225367,
+    "last_mcap": 1189922,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -3414,11 +3414,11 @@
      "vol_m5": 48789.61
     },
     "id": "da2b13e5",
-    "last_mcap": 94164,
+    "last_mcap": 295498,
     "missing": 0,
-    "peak_mcap": 94164,
+    "peak_mcap": 295498,
     "profile": "migrated",
-    "realized": 13.032536631083465,
+    "realized": 20.109631804236358,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
@@ -3426,11 +3426,12 @@
     "tf": "minute",
     "token": "HGE5K8mQtD7zYGfTCimkPRQ7HLKuefS26Z58XNxzuWuf",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "trough_mcap": 41839,
     "units": 0.0002038328990501807,
-    "units_left": 6.114986971505421e-05,
+    "units_left": 3.057493485752711e-05,
     "zone_bottom": 34626.34508535838,
     "zone_top": 49135.828578564215
    }
@@ -41736,5 +41737,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2612
+ "runs": 2614
 }
