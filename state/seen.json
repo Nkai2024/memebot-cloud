@@ -1945,7 +1945,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-07 23:53:24 UTC",
+ "last_run": "2026-11-08 00:03:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2961,12 +2961,10 @@
     "trough_mcap": 121371,
     "units": 3.685144309491336e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-07",
-  "positions": {
-   "2aaaf2b6": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794096180.0470436,
     "created_ts": 1794094994.1003668,
     "entry_mcap": 442042,
     "entry_ts": 1794094994.1003668,
@@ -3003,24 +3001,28 @@
      "vol_m5": 136610.95
     },
     "id": "2aaaf2b6",
-    "last_mcap": 344667,
+    "last_mcap": 141215,
     "missing": 0,
     "peak_mcap": 442042,
+    "pnl": -6.994195268775366,
+    "pnl_pct": -69.94195268775366,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 3.005804731224634,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "APU",
     "tf": "minute",
     "token": "6nGocDUtGSJoSz1gUPgFGTpHtUSK3s7FN6zhB6AfLoat",
     "tp_done": [],
-    "trough_mcap": 237624,
+    "trough_mcap": 141215,
     "units": 2.1943616217463497e-05,
-    "units_left": 2.1943616217463497e-05
+    "units_left": 0.0
    },
-   "527b9c8f": {
+   {
     "chain": "solana",
+    "close_ts": 1794096180.0470436,
     "created_ts": 1794094994.1003668,
     "entry_mcap": 237624,
     "entry_ts": 1794095280.0416667,
@@ -3058,13 +3060,16 @@
      "vol_m5": 136610.95
     },
     "id": "527b9c8f",
-    "last_mcap": 344667,
+    "last_mcap": 141215,
     "missing": 0,
     "peak_mcap": 353739,
+    "pnl": 0.5822146815978186,
+    "pnl_pct": 5.822146815978191,
     "profile": "migrated",
-    "realized": 8.90474279113221,
+    "realized": 10.582214681597819,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "APU",
     "tf": "minute",
@@ -3072,12 +3077,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 237624,
+    "trough_mcap": 141215,
     "units": 4.082079251254082e-05,
-    "units_left": 1.2246237753762249e-05,
+    "units_left": 0.0,
     "zone_bottom": 210027.0803457058,
     "zone_top": 271392.66027526604
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-07",
+  "positions": {
    "8da7cc64": {
     "chain": "solana",
     "created_ts": 1794086339.2318618,
@@ -3116,7 +3124,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1196745,
+    "last_mcap": 1179443,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -3224,7 +3232,7 @@
      "vol_m5": 34408.9
     },
     "id": "d463442f",
-    "last_mcap": 517148,
+    "last_mcap": 487419,
     "missing": 0,
     "peak_mcap": 558544,
     "profile": "migrated",
@@ -3281,9 +3289,9 @@
      "vol_m5": 61565.83
     },
     "id": "e8f980fb",
-    "last_mcap": 261386,
+    "last_mcap": 283600,
     "missing": 0,
-    "peak_mcap": 273373,
+    "peak_mcap": 283600,
     "profile": "migrated",
     "realized": 12.18034900511654,
     "size": 10,
@@ -41604,5 +41612,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2590
+ "runs": 2592
 }
