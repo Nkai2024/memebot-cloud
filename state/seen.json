@@ -1900,10 +1900,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 07:57:45 UTC",
+ "last_run": "2026-11-08 08:07:39 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3566,7 +3566,7 @@
      "vol_m5": 24363.91
     },
     "id": "0baf694b",
-    "last_mcap": 75498,
+    "last_mcap": 41583,
     "missing": 0,
     "peak_mcap": 75498,
     "profile": "migrated",
@@ -3578,7 +3578,7 @@
     "tf": "minute",
     "token": "ctMpaPiXjiUN86BoYbdE1G5QtjvTjkdyBbGkZHepump",
     "tp_done": [],
-    "trough_mcap": 62538,
+    "trough_mcap": 39398,
     "units": 0.0001551056957369919,
     "units_left": 0.0001551056957369919
    },
@@ -3620,7 +3620,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1037000,
+    "last_mcap": 1130659,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -41940,5 +41940,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2687
+ "runs": 2689
 }
