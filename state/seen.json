@@ -1710,15 +1710,6 @@
    "profile": "migrated",
    "symbol": "PIRATE"
   },
-  "solana:JBuEiMHw7NJjns8epvNBGyyViWbo8oTAAh8r7QGepump": {
-   "count": 1,
-   "first_mcap": 62937,
-   "first_ts": 1793553643.4826376,
-   "last_mcap": 62937,
-   "last_ts": 1793553643.4826376,
-   "profile": "migrated",
-   "symbol": "POPU"
-  },
   "solana:JDaram8Jt8qVVKuWTBN9dYk69xmpKFHj6RrzVGgXpump": {
    "count": 1,
    "first_mcap": 145596,
@@ -1846,10 +1837,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 17:16:05 UTC",
+ "last_run": "2026-11-08 17:26:05 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3811,7 +3802,7 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 79713,
+    "last_mcap": 87034,
     "missing": 0,
     "peak_mcap": 101638,
     "profile": "migrated",
@@ -3867,9 +3858,9 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 5477922,
+    "last_mcap": 5925266,
     "missing": 0,
-    "peak_mcap": 5477922,
+    "peak_mcap": 5925266,
     "profile": "migrated",
     "realized": 16.143043160266245,
     "size": 10,
@@ -42190,5 +42181,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2799
+ "runs": 2801
 }
