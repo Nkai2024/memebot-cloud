@@ -1936,7 +1936,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 00:48:24 UTC",
+ "last_run": "2026-11-08 00:58:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3236,7 +3236,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1186419,
+    "last_mcap": 1209341,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -3293,7 +3293,7 @@
      "vol_m5": 61565.83
     },
     "id": "e8f980fb",
-    "last_mcap": 214222,
+    "last_mcap": 180645,
     "missing": 0,
     "peak_mcap": 287318,
     "profile": "migrated",
@@ -41616,5 +41616,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2601
+ "runs": 2603
 }
