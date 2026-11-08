@@ -1855,7 +1855,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 22:15:19 UTC",
+ "last_run": "2026-11-08 22:25:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -4435,58 +4435,6 @@
   ],
   "last_summary_day": "2026-11-08",
   "positions": {
-   "1e3b98ae": {
-    "chain": "solana",
-    "created_ts": 1794174908.6806626,
-    "expires_ts": 1794182108.6806626,
-    "features": {
-     "age_min": 11.39080650806427,
-     "boosts": 0,
-     "buys_h1": 1574,
-     "buys_h24": 1574,
-     "buys_m5": 465,
-     "change_h1": 110,
-     "change_h24": 110,
-     "change_h6": 110,
-     "change_m5": 60.34,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.1694940804422922,
-     "insiders": 0,
-     "liquidity": 20532.91,
-     "lp_locked_pct": 100,
-     "mcap": 75818,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.0,
-     "score": 76,
-     "sells_h1": 1195,
-     "sells_h24": 1195,
-     "sells_m5": 330,
-     "top1": 3.6241201261212677,
-     "top10": 24.307912796447283,
-     "top5": 14.818370342869153,
-     "txns_h24": 2769,
-     "vol_h1": 99551.22,
-     "vol_h24": 99551.22,
-     "vol_m5": 26892.77
-    },
-    "id": "1e3b98ae",
-    "last_mcap": 75818,
-    "missing": 0,
-    "peak_mcap": 75818,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "EARN",
-    "tf": "minute",
-    "token": "ARGGnM1zK12eYCzRYbULJECFsMh4DM7hKgxNk97Pearn",
-    "tp_done": [],
-    "zone_bottom": 38143.51076493655,
-    "zone_top": 46196.07334953027
-   },
    "74e47a53": {
     "chain": "solana",
     "created_ts": 1794173409.2288334,
@@ -4577,9 +4525,9 @@
      "vol_m5": 77453.96
     },
     "id": "75273118",
-    "last_mcap": 439768,
+    "last_mcap": 643969,
     "missing": 0,
-    "peak_mcap": 612728,
+    "peak_mcap": 643969,
     "profile": "migrated",
     "realized": 10.044637995861246,
     "size": 10,
@@ -4633,7 +4581,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 4709107,
+    "last_mcap": 4490800,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -42957,5 +42905,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2859
+ "runs": 2861
 }
