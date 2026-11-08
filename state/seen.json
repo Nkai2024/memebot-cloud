@@ -774,6 +774,15 @@
    "profile": "migrated",
    "symbol": "TripleH"
   },
+  "solana:AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump": {
+   "count": 1,
+   "first_mcap": 940329,
+   "first_ts": 1794151022.615358,
+   "last_mcap": 940329,
+   "last_ts": 1794151022.615358,
+   "profile": "migrated",
+   "symbol": "ELYSION"
+  },
   "solana:Aes6XNH9BboLZuchD5PnDwaX6Zj1nU79TU3gNtPEpump": {
    "count": 1,
    "first_mcap": 182659,
@@ -1142,15 +1151,6 @@
    "last_ts": 1793931394.9660287,
    "profile": "migrated",
    "symbol": "DEGEN"
-  },
-  "solana:DoPuTpyJnKEvZeQpDTr5cbZ1vRsTuQuJNCM4S4gPyPZA": {
-   "count": 1,
-   "first_mcap": 152115,
-   "first_ts": 1793546189.3346531,
-   "last_mcap": 152115,
-   "last_ts": 1793546189.3346531,
-   "profile": "migrated",
-   "symbol": "pairless"
   },
   "solana:DvFiCjUe7kQsj8okUfu6qSegVAa4BvKnbX2jTgMSpump": {
    "count": 1,
@@ -1864,10 +1864,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 15:06:53 UTC",
+ "last_run": "2026-11-08 15:17:14 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3829,7 +3829,7 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 88906,
+    "last_mcap": 92274,
     "missing": 0,
     "peak_mcap": 93382,
     "profile": "migrated",
@@ -3844,6 +3844,60 @@
     "trough_mcap": 73768,
     "units": 0.00013149333044138378,
     "units_left": 0.00013149333044138378
+   },
+   "ace34816": {
+    "chain": "solana",
+    "created_ts": 1794151022.6153803,
+    "entry_mcap": 940329,
+    "entry_ts": 1794151022.6153803,
+    "features": {
+     "age_min": 18.37451487382253,
+     "boosts": 0,
+     "buys_h1": 2136,
+     "buys_h24": 2136,
+     "buys_m5": 519,
+     "change_h1": 1726,
+     "change_h24": 1726,
+     "change_h6": 1726,
+     "change_m5": 54.61,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.33147133880883667,
+     "insiders": 0,
+     "liquidity": 77636.78,
+     "lp_locked_pct": 100,
+     "mcap": 940329,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1323735989492519,
+     "score": 87,
+     "sells_h1": 943,
+     "sells_h24": 943,
+     "sells_m5": 280,
+     "top1": 1.2826604000769866,
+     "top10": 12.632913596645812,
+     "top5": 6.353576290620307,
+     "txns_h24": 3079,
+     "vol_h1": 809731.68,
+     "vol_h24": 809731.68,
+     "vol_m5": 233870.52
+    },
+    "id": "ace34816",
+    "last_mcap": 1114508,
+    "missing": 0,
+    "peak_mcap": 1114508,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "ELYSION",
+    "tf": "minute",
+    "token": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
+    "tp_done": [],
+    "trough_mcap": 940329,
+    "units": 1.0315538497696018e-05,
+    "units_left": 1.0315538497696018e-05
    },
    "cd26e073": {
     "chain": "solana",
@@ -3896,6 +3950,58 @@
     "tp_done": [],
     "zone_bottom": 55344.594448450036,
     "zone_top": 60580.24010630752
+   },
+   "e28d204a": {
+    "chain": "solana",
+    "created_ts": 1794151022.6153803,
+    "expires_ts": 1794158222.6153803,
+    "features": {
+     "age_min": 18.37451487382253,
+     "boosts": 0,
+     "buys_h1": 2136,
+     "buys_h24": 2136,
+     "buys_m5": 519,
+     "change_h1": 1726,
+     "change_h24": 1726,
+     "change_h6": 1726,
+     "change_m5": 54.61,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.33147133880883667,
+     "insiders": 0,
+     "liquidity": 77636.78,
+     "lp_locked_pct": 100,
+     "mcap": 940329,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.1323735989492519,
+     "score": 87,
+     "sells_h1": 943,
+     "sells_h24": 943,
+     "sells_m5": 280,
+     "top1": 1.2826604000769866,
+     "top10": 12.632913596645812,
+     "top5": 6.353576290620307,
+     "txns_h24": 3079,
+     "vol_h1": 809731.68,
+     "vol_h24": 809731.68,
+     "vol_m5": 233870.52
+    },
+    "id": "e28d204a",
+    "last_mcap": 940329,
+    "missing": 0,
+    "peak_mcap": 940329,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "ELYSION",
+    "tf": "minute",
+    "token": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
+    "tp_done": [],
+    "zone_bottom": 270487.8522354141,
+    "zone_top": 442655.4890437585
    }
   },
   "started_ts": 1794009851.4477682,
@@ -42180,7 +42286,6 @@
   "solana:DFq4aBnZkNd4PcKaSb37wRpaUGKAFUXenGbd78pTpump": 1794038807.5313668,
   "solana:DYgjAqwkr2EDkGYstsLEEpDdb7SHYjrSJyzu9RQ8pump": 1793762949.691626,
   "solana:Dc8qw7K8ohS74ZS1rHknvsuxnxV9hkJBCYNzX3gdpump": 1793840588.5843964,
-  "solana:Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump": 1793546187.578812,
   "solana:DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": 1793628506.9138243,
   "solana:ERs7y4nMGLFVmHcXyDxiS7iDKpp4jWHz2VUuE2gxpump": 1793825196.2177937,
   "solana:Ey4YG29k4hQmTPfRr3aRrpzSx8THEeSWbgCo2yWypump": 1794016465.1736717,
@@ -42200,5 +42305,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2773
+ "runs": 2775
 }
