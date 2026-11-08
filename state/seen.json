@@ -1881,15 +1881,6 @@
    "profile": "migrated",
    "symbol": "CI"
   },
-  "solana:nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT": {
-   "count": 1,
-   "first_mcap": 83799,
-   "first_ts": 1793517134.9453278,
-   "last_mcap": 83799,
-   "last_ts": 1793517134.9453278,
-   "profile": "migrated",
-   "symbol": "niketyson"
-  },
   "solana:oCZHH8HnEBCPipEGdEcP3f45pQAaM7nh7P6EkRPpump": {
    "count": 1,
    "first_mcap": 249552,
@@ -1909,7 +1900,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 07:02:39 UTC",
+ "last_run": "2026-11-08 07:12:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3577,7 +3568,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1148271,
+    "last_mcap": 1067699,
     "missing": 0,
     "peak_mcap": 1429009,
     "profile": "migrated",
@@ -41897,5 +41888,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2676
+ "runs": 2678
 }
