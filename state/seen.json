@@ -1314,15 +1314,6 @@
    "profile": "migrated",
    "symbol": "TRUMP"
   },
-  "solana:EpciamcHuELQsgQQiMUhk8LKx5Hz16iNqJ3D5r5fpump": {
-   "count": 1,
-   "first_mcap": 158865,
-   "first_ts": 1793535388.9250717,
-   "last_mcap": 158865,
-   "last_ts": 1793535388.9250717,
-   "profile": "migrated",
-   "symbol": "SA"
-  },
   "solana:Eq8UZ5oadKvLtiDnPrb41dwDwU4BuB2tFXRT8rw8pump": {
    "count": 1,
    "first_mcap": 362489,
@@ -1891,7 +1882,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 12:11:53 UTC",
+ "last_run": "2026-11-08 12:21:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3673,9 +3664,9 @@
      "vol_m5": 31871.53
     },
     "id": "39b5c4ba",
-    "last_mcap": 80715,
+    "last_mcap": 64054,
     "missing": 0,
-    "peak_mcap": 80715,
+    "peak_mcap": 85884,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -3727,7 +3718,7 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 1230481,
+    "last_mcap": 1233437,
     "missing": 0,
     "peak_mcap": 1579934,
     "profile": "migrated",
@@ -3784,9 +3775,9 @@
      "vol_m5": 31871.53
     },
     "id": "f905f2ba",
-    "last_mcap": 80715,
+    "last_mcap": 64054,
     "missing": 0,
-    "peak_mcap": 80715,
+    "peak_mcap": 85884,
     "profile": "migrated",
     "realized": 9.086956427667165,
     "size": 10,
@@ -42068,7 +42059,6 @@
   "solana:7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump": 1793810788.0726418,
   "solana:7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793914529.5164878,
   "solana:7zFXW5a3ySnfRXHuKX6sK9A9K5zQm35dA4JpwrdDpump": 1793981935.3367617,
-  "solana:8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump": 1793535687.4758408,
   "solana:91QMBp6GNEfMmDg2VWH7iWkyUSpePRkdhc44W7oapump": 1793587197.6788833,
   "solana:9LAu2WFQGV2FDSoa36S25LMmQSg5E2yUPT33j519pump": 1793673967.722638,
   "solana:9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": 1794072383.4883432,
@@ -42107,5 +42097,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2738
+ "runs": 2740
 }
