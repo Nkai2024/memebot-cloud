@@ -1846,7 +1846,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 16:56:05 UTC",
+ "last_run": "2026-11-08 17:06:05 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3811,7 +3811,7 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 80172,
+    "last_mcap": 83855,
     "missing": 0,
     "peak_mcap": 101638,
     "profile": "migrated",
@@ -3867,9 +3867,9 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 3101627,
+    "last_mcap": 4276309,
     "missing": 0,
-    "peak_mcap": 3101627,
+    "peak_mcap": 4316367,
     "profile": "migrated",
     "realized": 8.844421376560755,
     "size": 10,
@@ -3884,58 +3884,6 @@
     "trough_mcap": 940329,
     "units": 1.0315538497696018e-05,
     "units_left": 3.0946615493088057e-06
-   },
-   "cd26e073": {
-    "chain": "solana",
-    "created_ts": 1794150122.432937,
-    "expires_ts": 1794157322.432937,
-    "features": {
-     "age_min": 24.60767936706543,
-     "boosts": 100,
-     "buys_h1": 2245,
-     "buys_h24": 2245,
-     "buys_m5": 1470,
-     "change_h1": 51.72,
-     "change_h24": 51.72,
-     "change_h6": 51.72,
-     "change_m5": -5.19,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.13876618685421907,
-     "insiders": 0,
-     "liquidity": 20218.57,
-     "lp_locked_pct": 100,
-     "mcap": 73768,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.19483468154203332,
-     "score": 75,
-     "sells_h1": 414,
-     "sells_h24": 414,
-     "sells_m5": 50,
-     "top1": 1.345867623156491,
-     "top10": 8.937588939621971,
-     "top5": 4.773662492321091,
-     "txns_h24": 2659,
-     "vol_h1": 104057.56,
-     "vol_h24": 104057.56,
-     "vol_m5": 1130.46
-    },
-    "id": "cd26e073",
-    "last_mcap": 73768,
-    "missing": 0,
-    "peak_mcap": 73768,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "forg",
-    "tf": "minute",
-    "token": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump",
-    "tp_done": [],
-    "zone_bottom": 55344.594448450036,
-    "zone_top": 60580.24010630752
    },
    "e28d204a": {
     "chain": "solana",
@@ -42293,5 +42241,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2795
+ "runs": 2797
 }
