@@ -1197,15 +1197,6 @@
    "profile": "swing_survivor",
    "symbol": "CHOO"
   },
-  "solana:EM6awuXD9bFZfbchFFioeNpHyKur9bmD5kj3svHpump": {
-   "count": 1,
-   "first_mcap": 136540,
-   "first_ts": 1793550708.214345,
-   "last_mcap": 136540,
-   "last_ts": 1793550708.214345,
-   "profile": "migrated",
-   "symbol": "VETO"
-  },
   "solana:EPcHDXD3P23KcQsHyZYZLAx8odhgh1ELNnGL5szgpump": {
    "count": 1,
    "first_mcap": 126255,
@@ -1855,7 +1846,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 16:31:05 UTC",
+ "last_run": "2026-11-08 16:46:05 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3820,7 +3811,7 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 101341,
+    "last_mcap": 82175,
     "missing": 0,
     "peak_mcap": 101638,
     "profile": "migrated",
@@ -3876,9 +3867,9 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2584099,
+    "last_mcap": 2610516,
     "missing": 0,
-    "peak_mcap": 2584099,
+    "peak_mcap": 2697119,
     "profile": "migrated",
     "realized": 8.844421376560755,
     "size": 10,
@@ -42302,5 +42293,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2790
+ "runs": 2793
 }
