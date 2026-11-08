@@ -1864,10 +1864,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 15:17:14 UTC",
+ "last_run": "2026-11-08 15:26:53 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3829,7 +3829,7 @@
      "vol_m5": 1130.46
     },
     "id": "3fa8d957",
-    "last_mcap": 92274,
+    "last_mcap": 80384,
     "missing": 0,
     "peak_mcap": 93382,
     "profile": "migrated",
@@ -3883,21 +3883,23 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 1114508,
+    "last_mcap": 1432659,
     "missing": 0,
-    "peak_mcap": 1114508,
+    "peak_mcap": 1432659,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.844421376560755,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "ELYSION",
     "tf": "minute",
     "token": "AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 940329,
     "units": 1.0315538497696018e-05,
-    "units_left": 1.0315538497696018e-05
+    "units_left": 3.0946615493088057e-06
    },
    "cd26e073": {
     "chain": "solana",
@@ -42265,6 +42267,7 @@
   "solana:7THX6dQXVCvchYpyRdZ2JBW4eCq9ZYpwkXty99Rmpump": 1793863939.7694206,
   "solana:7Y6QNhQ2FxL6JEqZHooqgkXQubeQNC6N9emJxytdWp65": 1793558442.462473,
   "solana:7jXs2ff3dN4ZxngNADH3152Q2PNwMGg4mhTEZ7Rnpump": 1794088139.3972435,
+  "solana:7mAcg6duNYnfeP4pVie1JMvGsXF9FP6A3Aah47rcpump": 1794151301.834031,
   "solana:7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump": 1793810788.0726418,
   "solana:7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793914529.5164878,
   "solana:7zFXW5a3ySnfRXHuKX6sK9A9K5zQm35dA4JpwrdDpump": 1793981935.3367617,
@@ -42305,5 +42308,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2775
+ "runs": 2777
 }
