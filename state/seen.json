@@ -1846,10 +1846,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 19:41:12 UTC",
+ "last_run": "2026-11-08 19:51:05 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3992,7 +3992,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2885862,
+    "last_mcap": 3118137,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -4047,21 +4047,23 @@
      "vol_m5": 61767.53
     },
     "id": "d67b7364",
-    "last_mcap": 103888,
+    "last_mcap": 207421,
     "missing": 0,
-    "peak_mcap": 103888,
+    "peak_mcap": 215507,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.722878780032342,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "GROKIA",
     "tf": "minute",
     "token": "BYPPfvV8xdFeTS43nPFRZeLdJ8STPVELg7rvagtqpump",
-    "tp_done": [],
-    "trough_mcap": 103888,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 84540,
     "units": 9.336978284306176e-05,
-    "units_left": 9.336978284306176e-05
+    "units_left": 2.801093485291853e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -42366,5 +42368,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2828
+ "runs": 2830
 }
