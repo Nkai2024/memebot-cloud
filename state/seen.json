@@ -1864,7 +1864,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 21:40:19 UTC",
+ "last_run": "2026-11-08 21:50:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -4353,9 +4353,9 @@
      "vol_m5": 77453.96
     },
     "id": "75273118",
-    "last_mcap": 301320,
+    "last_mcap": 385797,
     "missing": 0,
-    "peak_mcap": 307662,
+    "peak_mcap": 448959,
     "profile": "migrated",
     "realized": 10.044637995861246,
     "size": 10,
@@ -4409,7 +4409,7 @@
      "vol_m5": 118393.59
     },
     "id": "a2aa7afb",
-    "last_mcap": 226588,
+    "last_mcap": 198071,
     "missing": 0,
     "peak_mcap": 226588,
     "profile": "migrated",
@@ -4463,7 +4463,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 4760745,
+    "last_mcap": 4946955,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -4521,7 +4521,7 @@
      "vol_m5": 118393.59
     },
     "id": "c19771f7",
-    "last_mcap": 226588,
+    "last_mcap": 198071,
     "missing": 0,
     "peak_mcap": 226588,
     "profile": "migrated",
@@ -42784,6 +42784,7 @@
   "bsc:0x0FFfDaF8664ef90BC4A979670Fc9BFb35C487777": 1793988248.2204537,
   "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793847498.6236343,
   "bsc:0x1d628E104a110E02BdD91eA34E124278874F7777": 1794055295.3789637,
+  "bsc:0x5Ac9886B8629d38094A6CAe7CF9879b40CEB7777": 1794174619.6888008,
   "bsc:0xDd806E436Dda5588bf54061C11590c77dDC87777": 1793792523.1428645,
   "bsc:0xE38F103e108cfB19EC25cBA610c8Ed58E3957777": 1793895363.360192,
   "bsc:0xb47DB73293380088A1d78fb5c51BF9038f217777": 1793786823.09858,
@@ -42845,5 +42846,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2852
+ "runs": 2854
 }
