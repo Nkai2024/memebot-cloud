@@ -1008,15 +1008,6 @@
    "profile": "migrated",
    "symbol": "pain"
   },
-  "solana:Ccm5ZnTrKY7YNskkiQJ4nrL4GHSGoXniik9pyV4Jpump": {
-   "count": 1,
-   "first_mcap": 184269,
-   "first_ts": 1793544088.5360947,
-   "last_mcap": 184269,
-   "last_ts": 1793544088.5360947,
-   "profile": "migrated",
-   "symbol": "SOL"
-  },
   "solana:CggrqcmnVyppSAgyaVMDPrESybPHhq9dZgVV788Vpump": {
    "count": 1,
    "first_mcap": 45677,
@@ -1864,7 +1855,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-08 14:31:53 UTC",
+ "last_run": "2026-11-08 14:41:53 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3727,12 +3718,10 @@
     "units_left": 0.0,
     "zone_bottom": 45343.26788776529,
     "zone_top": 54524.88973611401
-   }
-  ],
-  "last_summary_day": "2026-11-07",
-  "positions": {
-   "8da7cc64": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794149069.3884826,
     "created_ts": 1794086339.2318618,
     "entry_mcap": 725547,
     "entry_ts": 1794086339.2318618,
@@ -3769,13 +3758,16 @@
      "vol_m5": 32288.83
     },
     "id": "8da7cc64",
-    "last_mcap": 976552,
+    "last_mcap": 721938,
     "missing": 0,
     "peak_mcap": 1579934,
+    "pnl": 1.8344467593415708,
+    "pnl_pct": 18.344467593415704,
     "profile": "migrated",
-    "realized": 9.02578737187253,
+    "realized": 11.83444675934157,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "GIGAHUG",
     "tf": "minute",
@@ -3785,9 +3777,11 @@
     ],
     "trough_mcap": 682550,
     "units": 1.3369223496203553e-05,
-    "units_left": 4.010767048861067e-06
+    "units_left": 0.0
    }
-  },
+  ],
+  "last_summary_day": "2026-11-07",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -42090,5 +42084,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2766
+ "runs": 2768
 }
