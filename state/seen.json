@@ -1783,7 +1783,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 11:24:48 UTC",
+ "last_run": "2026-11-09 11:39:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5439,12 +5439,10 @@
     "trough_mcap": 882994,
     "units": 1.0315538497696018e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "16d784bb": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794224004.4542692,
     "created_ts": 1794222578.1447566,
     "entry_mcap": 36493,
     "entry_ts": 1794222984.4482374,
@@ -5482,24 +5480,30 @@
      "vol_m5": 12976.25
     },
     "id": "16d784bb",
-    "last_mcap": 38030,
+    "last_mcap": 17299,
     "missing": 0,
     "peak_mcap": 47114,
+    "pnl": -5.539794179705697,
+    "pnl_pct": -55.39794179705697,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.460205820294303,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "CURVD",
     "tf": "minute",
     "token": "AhMWqC77W2YUx6rPXtoju3N3L1pA89p5JvZxYWN3dHUf",
     "tp_done": [],
-    "trough_mcap": 31950,
+    "trough_mcap": 17299,
     "units": 0.00026580440084399744,
-    "units_left": 0.00026580440084399744,
+    "units_left": 0.0,
     "zone_bottom": 29660.028267188194,
     "zone_top": 37292.48024061362
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {
    "d2f2581f": {
     "chain": "solana",
     "created_ts": 1794186009.1198437,
@@ -5538,7 +5542,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 434237,
+    "last_mcap": 474775,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -43858,5 +43862,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 2999
+ "runs": 3002
 }
