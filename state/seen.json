@@ -1152,15 +1152,6 @@
    "profile": "migrated",
    "symbol": "AIB"
   },
-  "solana:ExoA74hEH7Bjby9X5VPsj3xtUgVzZCLXr1AvJMMRKVj1": {
-   "count": 1,
-   "first_mcap": 201488,
-   "first_ts": 1793658156.773392,
-   "last_mcap": 201488,
-   "last_ts": 1793658156.773392,
-   "profile": "migrated",
-   "symbol": "iNu"
-  },
   "solana:F4Um7uHXRoXZ92DXVZ6FoDUstnubJgaSzwEZuBZcpump": {
    "count": 1,
    "first_mcap": 64410,
@@ -1675,7 +1666,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 22:08:22 UTC",
+ "last_run": "2026-11-09 22:23:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6113,64 +6104,10 @@
     "units_left": 0.0,
     "zone_bottom": 22879.848952358352,
     "zone_top": 34882.8229469134
-   }
-  ],
-  "last_summary_day": "2026-11-09",
-  "positions": {
-   "9f3dc9a4": {
-    "chain": "solana",
-    "created_ts": 1794255185.6838121,
-    "expires_ts": 1794262385.6838121,
-    "features": {
-     "age_min": 44.43788527647654,
-     "boosts": 0,
-     "buys_h1": 9533,
-     "buys_h24": 9533,
-     "buys_m5": 458,
-     "change_h1": 544,
-     "change_h24": 544,
-     "change_h6": 544,
-     "change_m5": 1.78,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.9057737036137511,
-     "insiders": 0,
-     "liquidity": 47210.97,
-     "lp_locked_pct": 100,
-     "mcap": 367206,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.16903382674063558,
-     "score": 70,
-     "sells_h1": 2851,
-     "sells_h24": 2851,
-     "sells_m5": 245,
-     "top1": 1.161232318897747,
-     "top10": 10.47080123168714,
-     "top5": 5.523315537214558,
-     "txns_h24": 12384,
-     "vol_h1": 596238.33,
-     "vol_h24": 596238.33,
-     "vol_m5": 6176.51
-    },
-    "id": "9f3dc9a4",
-    "last_mcap": 367206,
-    "missing": 0,
-    "peak_mcap": 367206,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "ORBIT",
-    "tf": "minute",
-    "token": "6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump",
-    "tp_done": [],
-    "zone_bottom": 136575.6500888069,
-    "zone_top": 199376.3358709627
    },
-   "a093042a": {
+   {
     "chain": "solana",
+    "close_ts": 1794262432.213973,
     "created_ts": 1794255185.6838121,
     "entry_mcap": 367206,
     "entry_ts": 1794255185.6838121,
@@ -6207,13 +6144,16 @@
      "vol_m5": 6176.51
     },
     "id": "a093042a",
-    "last_mcap": 573569,
+    "last_mcap": 1871,
     "missing": 0,
     "peak_mcap": 628485,
+    "pnl": -1.3807178793374817,
+    "pnl_pct": -13.807178793374819,
     "profile": "migrated",
-    "realized": 8.60489980746502,
+    "realized": 8.619282120662518,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "ORBIT",
     "tf": "minute",
@@ -6221,11 +6161,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 359457,
+    "trough_mcap": 1871,
     "units": 2.6415690375429594e-05,
-    "units_left": 7.924707112628878e-06
+    "units_left": 0.0
    }
-  },
+  ],
+  "last_summary_day": "2026-11-09",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -44526,5 +44468,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3067
+ "runs": 3070
 }
