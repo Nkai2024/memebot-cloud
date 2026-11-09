@@ -207,15 +207,6 @@
    "profile": "migrated",
    "symbol": "assoff"
   },
-  "solana:4MnM6aAuayLRhejDSuiaEm2QGyR4ye4Sxhdywt37pump": {
-   "count": 1,
-   "first_mcap": 140550,
-   "first_ts": 1793644041.5959404,
-   "last_mcap": 140550,
-   "last_ts": 1793644041.5959404,
-   "profile": "migrated",
-   "symbol": "SLINGOOR"
-  },
   "solana:4PAtcdgNuh93Tn4LA2XkbDgee2PnoCb263j7hkyupump": {
    "count": 1,
    "first_mcap": 70281,
@@ -261,15 +252,6 @@
    "profile": "migrated",
    "symbol": "STOKE"
   },
-  "solana:5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g": {
-   "count": 1,
-   "first_mcap": 337421,
-   "first_ts": 1793647036.7151856,
-   "last_mcap": 337421,
-   "last_ts": 1793647036.7151856,
-   "profile": "migrated",
-   "symbol": "CAPY"
-  },
   "solana:5UWfbqWEcLqDSrA2SwNXQpvbqEhZ2kPyh3LaPEmzpump": {
    "count": 1,
    "first_mcap": 142301,
@@ -296,15 +278,6 @@
    "last_ts": 1794172809.0247257,
    "profile": "migrated",
    "symbol": "NVIDIH"
-  },
-  "solana:5focFU1VGb1ywCFcpBNGrg2VWedoQ6EXU6p2ZTqZpump": {
-   "count": 1,
-   "first_mcap": 246658,
-   "first_ts": 1793632408.1854458,
-   "last_mcap": 246658,
-   "last_ts": 1793632408.1854458,
-   "profile": "migrated",
-   "symbol": "MUCHAN"
   },
   "solana:5ve4fMHU4BsSgJvjF9NEMp5m9yNLqYkugPKbV7SZpump": {
    "count": 1,
@@ -350,6 +323,15 @@
    "last_ts": 1793940097.4273448,
    "profile": "migrated",
    "symbol": "Bill"
+  },
+  "solana:6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump": {
+   "count": 1,
+   "first_mcap": 367206,
+   "first_ts": 1794255185.683793,
+   "last_mcap": 367206,
+   "last_ts": 1794255185.683793,
+   "profile": "migrated",
+   "symbol": "ORBIT"
   },
   "solana:6nGocDUtGSJoSz1gUPgFGTpHtUSK3s7FN6zhB6AfLoat": {
    "count": 1,
@@ -413,15 +395,6 @@
    "last_ts": 1793824897.14256,
    "profile": "migrated",
    "symbol": "GTA"
-  },
-  "solana:7LzPdsBxMoR9FrjgizvxNRvDtjGSP423quJ4M7Jqpump": {
-   "count": 1,
-   "first_mcap": 364658,
-   "first_ts": 1793643736.708085,
-   "last_mcap": 364658,
-   "last_ts": 1793643736.708085,
-   "profile": "migrated",
-   "symbol": "Slingoor"
   },
   "solana:7UooapEDmXmP5hRJPoYvXqYDWMVh15Gi59gYu7hopump": {
    "count": 1,
@@ -675,15 +648,6 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
-  "solana:ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump": {
-   "count": 1,
-   "first_mcap": 54911,
-   "first_ts": 1793646137.104023,
-   "last_mcap": 54911,
-   "last_ts": 1793646137.104023,
-   "profile": "migrated",
-   "symbol": "PizzaGate"
-  },
   "solana:APj59xtb4dRp49bXwKSq5E1XWKLrFbtaYfoQZ9Arpump": {
    "count": 1,
    "first_mcap": 135822,
@@ -773,15 +737,6 @@
    "last_ts": 1794186908.7130215,
    "profile": "migrated",
    "symbol": "TITTYVERSE"
-  },
-  "solana:B1FxS86N8hEBTgKMpt29yPB9VzPxXUgNY7AzdjGZpump": {
-   "count": 1,
-   "first_mcap": 103511,
-   "first_ts": 1793650936.4367201,
-   "last_mcap": 103511,
-   "last_ts": 1793650936.4367201,
-   "profile": "migrated",
-   "symbol": "SLM"
   },
   "solana:B32gQ1hRs6ZHG2Tv6N8PLtESBa1rcKufatp8gb38pump": {
    "count": 1,
@@ -1017,15 +972,6 @@
    "profile": "migrated",
    "symbol": "inu"
   },
-  "solana:DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr": {
-   "count": 1,
-   "first_mcap": 261419,
-   "first_ts": 1793649436.638567,
-   "last_mcap": 261419,
-   "last_ts": 1793649436.638567,
-   "profile": "migrated",
-   "symbol": "CAPY"
-  },
   "solana:DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump": {
    "count": 1,
    "first_mcap": 754049,
@@ -1169,15 +1115,6 @@
    "last_ts": 1793886652.837003,
    "profile": "migrated",
    "symbol": "SOCIAL"
-  },
-  "solana:Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump": {
-   "count": 1,
-   "first_mcap": 213132,
-   "first_ts": 1793648836.9390755,
-   "last_mcap": 213132,
-   "last_ts": 1793648836.9390755,
-   "profile": "migrated",
-   "symbol": "\u8c46\u52a9"
   },
   "solana:Eq8UZ5oadKvLtiDnPrb41dwDwU4BuB2tFXRT8rw8pump": {
    "count": 1,
@@ -1430,15 +1367,6 @@
    "last_ts": 1793680267.9912913,
    "profile": "migrated",
    "symbol": "LeTwerk"
-  },
-  "solana:H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump": {
-   "count": 1,
-   "first_mcap": 161401,
-   "first_ts": 1793648236.474905,
-   "last_mcap": 161401,
-   "last_ts": 1793648236.474905,
-   "profile": "migrated",
-   "symbol": "Slingoor"
   },
   "solana:HAZCmiEEKcRL9pQpLDxJhjLAqZzViXQiQSEWntHVpump": {
    "count": 1,
@@ -1709,18 +1637,9 @@
    "last_ts": 1793932897.5210724,
    "profile": "migrated",
    "symbol": "AMD"
-  },
-  "solana:xRtT8q7g7NsAnbTgvCtim8jtxKVVc5epoLoAYmqpump": {
-   "count": 1,
-   "first_mcap": 112577,
-   "first_ts": 1793646436.9105284,
-   "last_mcap": 112577,
-   "last_ts": 1793646436.9105284,
-   "profile": "migrated",
-   "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 15:04:48 UTC",
+ "last_run": "2026-11-09 20:23:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5499,8 +5418,115 @@
     "units_left": 0.0
    }
   ],
-  "last_summary_day": "2026-11-08",
-  "positions": {},
+  "last_summary_day": "2026-11-09",
+  "positions": {
+   "9f3dc9a4": {
+    "chain": "solana",
+    "created_ts": 1794255185.6838121,
+    "expires_ts": 1794262385.6838121,
+    "features": {
+     "age_min": 44.43788527647654,
+     "boosts": 0,
+     "buys_h1": 9533,
+     "buys_h24": 9533,
+     "buys_m5": 458,
+     "change_h1": 544,
+     "change_h24": 544,
+     "change_h6": 544,
+     "change_m5": 1.78,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.9057737036137511,
+     "insiders": 0,
+     "liquidity": 47210.97,
+     "lp_locked_pct": 100,
+     "mcap": 367206,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.16903382674063558,
+     "score": 70,
+     "sells_h1": 2851,
+     "sells_h24": 2851,
+     "sells_m5": 245,
+     "top1": 1.161232318897747,
+     "top10": 10.47080123168714,
+     "top5": 5.523315537214558,
+     "txns_h24": 12384,
+     "vol_h1": 596238.33,
+     "vol_h24": 596238.33,
+     "vol_m5": 6176.51
+    },
+    "id": "9f3dc9a4",
+    "last_mcap": 367206,
+    "missing": 0,
+    "peak_mcap": 367206,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "ORBIT",
+    "tf": "minute",
+    "token": "6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump",
+    "tp_done": [],
+    "zone_bottom": 136575.6500888069,
+    "zone_top": 199376.3358709627
+   },
+   "a093042a": {
+    "chain": "solana",
+    "created_ts": 1794255185.6838121,
+    "entry_mcap": 367206,
+    "entry_ts": 1794255185.6838121,
+    "features": {
+     "age_min": 44.43788527647654,
+     "boosts": 0,
+     "buys_h1": 9533,
+     "buys_h24": 9533,
+     "buys_m5": 458,
+     "change_h1": 544,
+     "change_h24": 544,
+     "change_h6": 544,
+     "change_m5": 1.78,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.9057737036137511,
+     "insiders": 0,
+     "liquidity": 47210.97,
+     "lp_locked_pct": 100,
+     "mcap": 367206,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.16903382674063558,
+     "score": 70,
+     "sells_h1": 2851,
+     "sells_h24": 2851,
+     "sells_m5": 245,
+     "top1": 1.161232318897747,
+     "top10": 10.47080123168714,
+     "top5": 5.523315537214558,
+     "txns_h24": 12384,
+     "vol_h1": 596238.33,
+     "vol_h24": 596238.33,
+     "vol_m5": 6176.51
+    },
+    "id": "a093042a",
+    "last_mcap": 477253,
+    "missing": 0,
+    "peak_mcap": 477253,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "ORBIT",
+    "tf": "minute",
+    "token": "6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump",
+    "tp_done": [],
+    "trough_mcap": 359457,
+    "units": 2.6415690375429594e-05,
+    "units_left": 2.6415690375429594e-05
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -43760,7 +43786,6 @@
   "solana:5fgJwPNtsohc1FwjkjvmVWoXTbSzD8Z3zzbcuXdepump": 1793779311.1711135,
   "solana:5gzQya4V9iporEf4vafGMw2TjejxLWDAC44odWcxpump": 1794091439.88294,
   "solana:5nMbMFxkzCEUbStJQsjreiYco46bJWqzfer23Xwcpump": 1793987036.23156,
-  "solana:6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump": 1793645551.0326357,
   "solana:75VDY6P9kJyAp7QGYRzq7o85oKBSXpR9XmaWVHcspump": 1794065483.4343572,
   "solana:7THX6dQXVCvchYpyRdZ2JBW4eCq9ZYpwkXty99Rmpump": 1793863939.7694206,
   "solana:7jXs2ff3dN4ZxngNADH3152Q2PNwMGg4mhTEZ7Rnpump": 1794088139.3972435,
@@ -43802,5 +43827,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3043
+ "runs": 3046
 }
