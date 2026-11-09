@@ -5101,9 +5101,9 @@
      "vol_m5": 69365.11
     },
     "id": "246ce1c4",
-    "last_mcap": 51838,
+    "last_mcap": 54650,
     "missing": 0,
-    "peak_mcap": 53049,
+    "peak_mcap": 54650,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -5261,7 +5261,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2688890,
+    "last_mcap": 2708030,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5318,7 +5318,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 583893,
+    "last_mcap": 585348,
     "missing": 0,
     "peak_mcap": 633022,
     "profile": "migrated",
@@ -5374,7 +5374,7 @@
      "vol_m5": 12639.92
     },
     "id": "f1030179",
-    "last_mcap": 274784,
+    "last_mcap": 236728,
     "missing": 0,
     "peak_mcap": 389625,
     "profile": "migrated",
