@@ -1639,7 +1639,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 22:53:16 UTC",
+ "last_run": "2026-11-09 23:03:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6179,9 +6179,9 @@
      "vol_m5": 63263.72
     },
     "id": "45e57627",
-    "last_mcap": 301256,
+    "last_mcap": 365484,
     "missing": 0,
-    "peak_mcap": 312728,
+    "peak_mcap": 365484,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -44548,5 +44548,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3076
+ "runs": 3078
 }
