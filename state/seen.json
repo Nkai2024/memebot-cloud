@@ -603,15 +603,6 @@
    "profile": "migrated",
    "symbol": "MOSQUE"
   },
-  "solana:9JnYh2Rbww5vypYxaJm98gRRGUZn36M5UPgFY3Fkpump": {
-   "count": 1,
-   "first_mcap": 120449,
-   "first_ts": 1793626107.9216378,
-   "last_mcap": 120449,
-   "last_ts": 1793626107.9216378,
-   "profile": "migrated",
-   "symbol": "GTA6STAR"
-  },
   "solana:9KASpPXxyL8DnV4Wrayg5dbae7GyV76YyJGpSK82pump": {
    "count": 1,
    "first_mcap": 71153,
@@ -1756,7 +1747,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 13:14:48 UTC",
+ "last_run": "2026-11-09 13:29:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5515,7 +5506,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 327598,
+    "last_mcap": 286992,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -43835,5 +43826,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3021
+ "runs": 3024
 }
