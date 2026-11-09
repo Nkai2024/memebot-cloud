@@ -585,15 +585,6 @@
    "profile": "migrated",
    "symbol": "ABDUL"
   },
-  "solana:99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump": {
-   "count": 1,
-   "first_mcap": 58390,
-   "first_ts": 1793600668.4587932,
-   "last_mcap": 58390,
-   "last_ts": 1793600668.4587932,
-   "profile": "migrated",
-   "symbol": "faucet"
-  },
   "solana:9A9vMe8m78yWJpKv7DqgTSSNHSKKeF64neivVkripump": {
    "count": 1,
    "first_mcap": 230494,
@@ -1819,10 +1810,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 06:24:35 UTC",
+ "last_run": "2026-11-09 06:39:35 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -5398,7 +5389,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2186046,
+    "last_mcap": 2294977,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5455,7 +5446,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 740012,
+    "last_mcap": 592381,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -43776,5 +43767,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2957
+ "runs": 2960
 }
