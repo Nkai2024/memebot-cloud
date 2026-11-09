@@ -1873,7 +1873,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 03:09:35 UTC",
+ "last_run": "2026-11-09 03:19:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5213,7 +5213,7 @@
      "vol_m5": 69365.11
     },
     "id": "246ce1c4",
-    "last_mcap": 36389,
+    "last_mcap": 37756,
     "missing": 0,
     "peak_mcap": 56419,
     "profile": "migrated",
@@ -5230,58 +5230,6 @@
     "units_left": 0.00018284981809270673,
     "zone_bottom": 45294.83042178567,
     "zone_top": 54299.95464765119
-   },
-   "343afd09": {
-    "chain": "solana",
-    "created_ts": 1794186908.7130365,
-    "expires_ts": 1794194108.7130365,
-    "features": {
-     "age_min": 26.792448051770528,
-     "boosts": 0,
-     "buys_h1": 2919,
-     "buys_h24": 2919,
-     "buys_m5": 470,
-     "change_h1": 264,
-     "change_h24": 264,
-     "change_h6": 264,
-     "change_m5": 82.14,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.8571619059025646,
-     "insiders": 0,
-     "liquidity": 29862.17,
-     "lp_locked_pct": 100,
-     "mcap": 156529,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.14745242073098888,
-     "score": 71,
-     "sells_h1": 545,
-     "sells_h24": 545,
-     "sells_m5": 136,
-     "top1": 1.9102886942713497,
-     "top10": 18.552995373118147,
-     "top5": 9.44057924333747,
-     "txns_h24": 3464,
-     "vol_h1": 116817.47,
-     "vol_h24": 116817.47,
-     "vol_m5": 19538.37
-    },
-    "id": "343afd09",
-    "last_mcap": 156529,
-    "missing": 0,
-    "peak_mcap": 156529,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "TITTYVERSE",
-    "tf": "minute",
-    "token": "AxWd7zsqNmgcPyt8evEzycPAAgfAPNdZh8nToP1bpump",
-    "tp_done": [],
-    "zone_bottom": 71360.28281424039,
-    "zone_top": 93767.92314009888
    },
    "ace34816": {
     "chain": "solana",
@@ -5321,7 +5269,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2177655,
+    "last_mcap": 2504894,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5378,7 +5326,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 650530,
+    "last_mcap": 645312,
     "missing": 0,
     "peak_mcap": 675208,
     "profile": "migrated",
@@ -43699,5 +43647,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2918
+ "runs": 2920
 }
