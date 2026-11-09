@@ -414,15 +414,6 @@
    "profile": "migrated",
    "symbol": "HAMSTER"
   },
-  "solana:7kYXsF59Cc3HBjL1mW5y9eutEWYh3dTUuvBvnNV7pump": {
-   "count": 1,
-   "first_mcap": 150205,
-   "first_ts": 1793658756.8218012,
-   "last_mcap": 150205,
-   "last_ts": 1793658756.8218012,
-   "profile": "migrated",
-   "symbol": "\u1453\u0b39\ua6a1\u0908"
-  },
   "solana:7pVL46MuwmQn3bYM3DBKSS1ddNtRur6wEyS54pGPrAiJ": {
    "count": 1,
    "first_mcap": 85471,
@@ -683,15 +674,6 @@
    "last_ts": 1794151022.615358,
    "profile": "migrated",
    "symbol": "ELYSION"
-  },
-  "solana:Aes6XNH9BboLZuchD5PnDwaX6Zj1nU79TU3gNtPEpump": {
-   "count": 1,
-   "first_mcap": 182659,
-   "first_ts": 1793658757.2954893,
-   "last_mcap": 182659,
-   "last_ts": 1793658757.2954893,
-   "profile": "migrated",
-   "symbol": "ZERO"
   },
   "solana:AfxPrmPAM1iUZJYJWjwnQmpXFB1heZpD8BYdtrcEpump": {
    "count": 1,
@@ -1666,7 +1648,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 22:23:16 UTC",
+ "last_run": "2026-11-09 22:33:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -44468,5 +44450,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3070
+ "runs": 3072
 }
