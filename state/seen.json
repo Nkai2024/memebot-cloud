@@ -1747,11 +1747,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 13:39:48 UTC",
+ "last_run": "2026-11-09 13:49:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -43830,5 +43830,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3026
+ "runs": 3028
 }
