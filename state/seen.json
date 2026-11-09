@@ -909,15 +909,6 @@
    "profile": "migrated",
    "symbol": "ZCATS"
   },
-  "solana:CHjgAurRkfkcoJpiFCVhpU7uxbm1jKkDcNcnG64xpump": {
-   "count": 1,
-   "first_mcap": 81271,
-   "first_ts": 1793663260.7906642,
-   "last_mcap": 81271,
-   "last_ts": 1793663260.7906642,
-   "profile": "migrated",
-   "symbol": "walter"
-  },
   "solana:CJ88vgZxFcaKwwTNktXK48wAi9fNHxrvKfwK1N9pump": {
    "count": 1,
    "first_mcap": 120598,
@@ -1648,7 +1639,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 23:38:16 UTC",
+ "last_run": "2026-11-09 23:48:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -44684,5 +44675,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3085
+ "runs": 3087
 }
