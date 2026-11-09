@@ -1648,7 +1648,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 23:18:16 UTC",
+ "last_run": "2026-11-09 23:28:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6204,12 +6204,10 @@
     "trough_mcap": 199939,
     "units": 2.270014743394725e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-09",
-  "positions": {
-   "45e57627": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794266692.2424057,
     "created_ts": 1794264185.7784584,
     "entry_mcap": 291871,
     "entry_ts": 1794264185.7784584,
@@ -6246,13 +6244,16 @@
      "vol_m5": 63263.72
     },
     "id": "45e57627",
-    "last_mcap": 353478,
+    "last_mcap": 291712,
     "missing": 0,
     "peak_mcap": 405218,
+    "pnl": 1.6748955531724636,
+    "pnl_pct": 16.74895553172464,
     "profile": "migrated",
-    "realized": 8.853733250648403,
+    "realized": 11.674895553172464,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "GPU",
     "tf": "minute",
@@ -6262,11 +6263,16 @@
     ],
     "trough_mcap": 269397,
     "units": 3.323386016425064e-05,
-    "units_left": 9.970158049275193e-06
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-09",
+  "positions": {
    "b8a2ee0b": {
     "chain": "solana",
     "created_ts": 1794265686.1122668,
+    "entry_mcap": 143074,
+    "entry_ts": 1794266332.2400951,
     "expires_ts": 1794272886.1122668,
     "features": {
      "age_min": 11.372599526246388,
@@ -6301,18 +6307,23 @@
      "vol_m5": 161185.48
     },
     "id": "b8a2ee0b",
-    "last_mcap": 427310,
+    "last_mcap": 388652,
     "missing": 0,
-    "peak_mcap": 427310,
+    "peak_mcap": 458684,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 17.319546679340757,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "TOGO",
     "tf": "minute",
     "token": "3S4y78b14PRp1e71JNu5rZ2dvP2rwixTc45UE4zWpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 143074,
+    "units": 6.779708402644784e-05,
+    "units_left": 2.0339125207934356e-05,
     "zone_bottom": 126262.43537340769,
     "zone_top": 191529.26311002925
    },
@@ -44669,5 +44680,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3081
+ "runs": 3083
 }
