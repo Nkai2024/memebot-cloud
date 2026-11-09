@@ -1747,11 +1747,11 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 13:29:48 UTC",
+ "last_run": "2026-11-09 13:39:48 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -5464,12 +5464,10 @@
     "units_left": 0.0,
     "zone_bottom": 29660.028267188194,
     "zone_top": 37292.48024061362
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "d2f2581f": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794231444.504556,
     "created_ts": 1794186009.1198437,
     "entry_mcap": 239620,
     "entry_ts": 1794186009.1198437,
@@ -5506,13 +5504,16 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 286992,
+    "last_mcap": 229349,
     "missing": 0,
     "peak_mcap": 1012083,
+    "pnl": 1.3358856097153815,
+    "pnl_pct": 13.358856097153815,
     "profile": "migrated",
-    "realized": 8.634176978132041,
+    "realized": 11.335885609715382,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "NVIDIH",
     "tf": "minute",
@@ -5520,11 +5521,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 239620,
+    "trough_mcap": 229349,
     "units": 4.0480761205241627e-05,
-    "units_left": 1.2144228361572491e-05
+    "units_left": 0.0
    }
-  },
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -43796,6 +43799,7 @@
   "solana:9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": 1794072383.4883432,
   "solana:9X5UwHT7gWSPtAH5yeEzrLHqv3Nedmhy3HyZN3Yspump": 1793686567.7575665,
   "solana:9hKJb9YEf5RYb4f71Xr3Kr86hZq86Xad5X7gdyv1pump": 1793679967.7273853,
+  "solana:AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump": 1794231577.0172195,
   "solana:AFfoew4h79qV3HSdCA19LQM6CimNpznBaY7jjpuXpump": 1794086039.2875142,
   "solana:AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump": 1794129747.6860135,
   "solana:ASTLrYPQeCt4iTdiZu439i4cfkcWEH1RrPA4ctyEpump": 1794058283.3434665,
@@ -43826,5 +43830,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3024
+ "runs": 3026
 }
