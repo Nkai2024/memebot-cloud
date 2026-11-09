@@ -1783,7 +1783,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 08:04:35 UTC",
+ "last_run": "2026-11-09 09:49:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5362,7 +5362,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2457437,
+    "last_mcap": 1399882,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5419,7 +5419,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 489885,
+    "last_mcap": 376084,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -43730,15 +43730,13 @@
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
   "solana:G3PzMuSp2A7oP2qiTwnEywEYsVgTPFKzR8V7QrS9pump": 1794068783.4147844,
   "solana:G9r7CoaAEKzsFudkAhSWmuFi2huQpAqZ7w7TMfYqpump": 1793630306.9011316,
-  "solana:GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump": 1793607847.7984579,
   "solana:GGLZzgVssSaW7zKrtNveFYyp2zrkfVTce1TjgPfNpump": 1793620400.7763653,
   "solana:GRWVAfwa6PJtWZtfG6jdu5vAVe4AckQiKT8Jsga6pump": 1793758749.7123888,
   "solana:GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump": 1793755149.6685536,
   "solana:GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793671866.6212287,
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793859439.726656,
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
-  "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
-  "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
+  "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 2977
+ "runs": 2980
 }
