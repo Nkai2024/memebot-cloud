@@ -1855,7 +1855,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 03:44:35 UTC",
+ "last_run": "2026-11-09 03:54:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5152,12 +5152,10 @@
     "units_left": 0.0,
     "zone_bottom": 84335.92523113526,
     "zone_top": 116281.41238484468
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "246ce1c4": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794196451.2791262,
     "created_ts": 1794187808.7387645,
     "entry_mcap": 53049,
     "entry_ts": 1794191515.3308263,
@@ -5195,24 +5193,30 @@
      "vol_m5": 69365.11
     },
     "id": "246ce1c4",
-    "last_mcap": 32014,
+    "last_mcap": 26295,
     "missing": 0,
     "peak_mcap": 56419,
+    "pnl": -5.336205112254708,
+    "pnl_pct": -53.362051122547086,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.663794887745292,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "QUINN",
     "tf": "minute",
     "token": "B32gQ1hRs6ZHG2Tv6N8PLtESBa1rcKufatp8gb38pump",
     "tp_done": [],
-    "trough_mcap": 31723,
+    "trough_mcap": 26295,
     "units": 0.00018284981809270673,
-    "units_left": 0.00018284981809270673,
+    "units_left": 0.0,
     "zone_bottom": 45294.83042178567,
     "zone_top": 54299.95464765119
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {
    "ace34816": {
     "chain": "solana",
     "created_ts": 1794151022.6153803,
@@ -5251,7 +5255,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2981133,
+    "last_mcap": 2422999,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5308,7 +5312,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 695686,
+    "last_mcap": 684031,
     "missing": 0,
     "peak_mcap": 761075,
     "profile": "migrated",
@@ -43629,5 +43633,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2925
+ "runs": 2927
 }
