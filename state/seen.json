@@ -981,15 +981,6 @@
    "profile": "migrated",
    "symbol": "JensenAlice"
   },
-  "solana:BngAfLZxaWN2QvpFhRbUHydYGr8zA7YTSA178G8Epump": {
-   "count": 1,
-   "first_mcap": 88346,
-   "first_ts": 1793592596.3057454,
-   "last_mcap": 88346,
-   "last_ts": 1793592596.3057454,
-   "profile": "migrated",
-   "symbol": "PEACE"
-  },
   "solana:Bu3h78FY2fsWVZ1MdyQVpFTvv5XsRotWX6VjszQTpump": {
    "count": 1,
    "first_mcap": 42781,
@@ -1855,7 +1846,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 04:04:34 UTC",
+ "last_run": "2026-11-09 04:14:34 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -5255,7 +5246,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2237611,
+    "last_mcap": 2176850,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5312,9 +5303,9 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 697814,
+    "last_mcap": 747518,
     "missing": 0,
-    "peak_mcap": 761075,
+    "peak_mcap": 772447,
     "profile": "migrated",
     "realized": 8.634176978132041,
     "size": 10,
@@ -43633,5 +43624,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2929
+ "runs": 2931
 }
