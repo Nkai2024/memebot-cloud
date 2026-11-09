@@ -1648,7 +1648,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 23:28:16 UTC",
+ "last_run": "2026-11-09 23:38:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6264,12 +6264,10 @@
     "trough_mcap": 269397,
     "units": 3.323386016425064e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-09",
-  "positions": {
-   "b8a2ee0b": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794267412.2506268,
     "created_ts": 1794265686.1122668,
     "entry_mcap": 143074,
     "entry_ts": 1794266332.2400951,
@@ -6307,13 +6305,16 @@
      "vol_m5": 161185.48
     },
     "id": "b8a2ee0b",
-    "last_mcap": 388652,
+    "last_mcap": 103645,
     "missing": 0,
     "peak_mcap": 458684,
+    "pnl": 9.364353852551822,
+    "pnl_pct": 93.64353852551824,
     "profile": "migrated",
-    "realized": 17.319546679340757,
+    "realized": 19.364353852551822,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "TOGO",
     "tf": "minute",
@@ -6321,12 +6322,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 143074,
+    "trough_mcap": 103645,
     "units": 6.779708402644784e-05,
-    "units_left": 2.0339125207934356e-05,
+    "units_left": 0.0,
     "zone_bottom": 126262.43537340769,
     "zone_top": 191529.26311002925
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-09",
+  "positions": {
    "befb8415": {
     "chain": "solana",
     "created_ts": 1794264185.7784584,
@@ -44680,5 +44684,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3083
+ "runs": 3085
 }
