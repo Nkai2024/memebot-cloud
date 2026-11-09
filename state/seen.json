@@ -1882,10 +1882,10 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 02:05:26 UTC",
+ "last_run": "2026-11-09 02:15:19 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -5196,7 +5196,7 @@
      "vol_m5": 69365.11
     },
     "id": "85871461",
-    "last_mcap": 134385,
+    "last_mcap": 82518,
     "missing": 0,
     "peak_mcap": 205204,
     "profile": "migrated",
@@ -5252,7 +5252,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 2589277,
+    "last_mcap": 2683346,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5309,7 +5309,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 496509,
+    "last_mcap": 477953,
     "missing": 0,
     "peak_mcap": 510765,
     "profile": "migrated",
@@ -5365,21 +5365,23 @@
      "vol_m5": 12639.92
     },
     "id": "f1030179",
-    "last_mcap": 185256,
+    "last_mcap": 266992,
     "missing": 0,
-    "peak_mcap": 185256,
+    "peak_mcap": 288488,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.570729692425616,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Nvidiass",
     "tf": "minute",
     "token": "Ca1tVaqW2MzXkqcseHB7P7b6q1xo1XeJLmiTGqkVpump",
-    "tp_done": [],
-    "trough_mcap": 185256,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 168520,
     "units": 5.235997754458695e-05,
-    "units_left": 5.235997754458695e-05
+    "units_left": 1.5707993263376086e-05
    },
    "f8fe8a12": {
     "chain": "solana",
@@ -43738,5 +43740,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2905
+ "runs": 2907
 }
