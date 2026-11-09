@@ -1819,7 +1819,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 05:54:35 UTC",
+ "last_run": "2026-11-09 06:04:35 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -5298,12 +5298,10 @@
     "trough_mcap": 28734,
     "units": 9.280076536713704e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-08",
-  "positions": {
-   "3889d4a7": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794204131.3223982,
     "created_ts": 1794203065.0769856,
     "entry_mcap": 120598,
     "entry_ts": 1794203065.0769856,
@@ -5340,22 +5338,28 @@
      "vol_m5": 30099.52
     },
     "id": "3889d4a7",
-    "last_mcap": 94216,
+    "last_mcap": 2825,
     "missing": 0,
     "peak_mcap": 120598,
+    "pnl": -9.779594810859217,
+    "pnl_pct": -97.79594810859219,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.22040518914078175,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "HUNG",
     "tf": "minute",
     "token": "CJ88vgZxFcaKwwTNktXK48wAi9fNHxrvKfwK1N9pump",
     "tp_done": [],
-    "trough_mcap": 85909,
+    "trough_mcap": 2825,
     "units": 8.043251131859566e-05,
-    "units_left": 8.043251131859566e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-08",
+  "positions": {
    "ace34816": {
     "chain": "solana",
     "created_ts": 1794151022.6153803,
@@ -5394,7 +5398,7 @@
      "vol_m5": 233870.52
     },
     "id": "ace34816",
-    "last_mcap": 1874252,
+    "last_mcap": 2034643,
     "missing": 0,
     "peak_mcap": 7020574,
     "profile": "migrated",
@@ -5451,7 +5455,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 1012083,
+    "last_mcap": 876189,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -5468,58 +5472,6 @@
     "trough_mcap": 239620,
     "units": 4.0480761205241627e-05,
     "units_left": 1.2144228361572491e-05
-   },
-   "ea0840f1": {
-    "chain": "solana",
-    "created_ts": 1794203065.0769856,
-    "expires_ts": 1794210265.0769856,
-    "features": {
-     "age_min": 13.576013926664988,
-     "boosts": 0,
-     "buys_h1": 1811,
-     "buys_h24": 1811,
-     "buys_m5": 475,
-     "change_h1": 229,
-     "change_h24": 229,
-     "change_h6": 229,
-     "change_m5": -4.56,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.2565939913298473,
-     "insiders": 0,
-     "liquidity": 27590.84,
-     "lp_locked_pct": 100,
-     "mcap": 120598,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.20410954929780645,
-     "score": 84,
-     "sells_h1": 1024,
-     "sells_h24": 1024,
-     "sells_m5": 288,
-     "top1": 0.9284471572143324,
-     "top10": 8.337504931124306,
-     "top5": 4.331125124615465,
-     "txns_h24": 2835,
-     "vol_h1": 162378.43,
-     "vol_h24": 162378.43,
-     "vol_m5": 30099.52
-    },
-    "id": "ea0840f1",
-    "last_mcap": 120598,
-    "missing": 0,
-    "peak_mcap": 120598,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "HUNG",
-    "tf": "minute",
-    "token": "CJ88vgZxFcaKwwTNktXK48wAi9fNHxrvKfwK1N9pump",
-    "tp_done": [],
-    "zone_bottom": 59083.77973604423,
-    "zone_top": 76843.80482646047
    }
   },
   "started_ts": 1794009851.4477682,
@@ -43824,5 +43776,5 @@
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833,
   "solana:zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump": 1793611147.7802193
  },
- "runs": 2951
+ "runs": 2953
 }
