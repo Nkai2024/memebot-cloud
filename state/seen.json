@@ -828,15 +828,6 @@
    "profile": "migrated",
    "symbol": "QUINN"
   },
-  "solana:B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump": {
-   "count": 1,
-   "first_mcap": 74198,
-   "first_ts": 1793624008.5988567,
-   "last_mcap": 74198,
-   "last_ts": 1793624008.5988567,
-   "profile": "migrated",
-   "symbol": "YES"
-  },
   "solana:BFJd5mWCvu7yMivKCM7Xh8Dx17GgBbwaxcmFX3Aqpump": {
    "count": 1,
    "first_mcap": 246560,
@@ -1765,7 +1756,7 @@
    "symbol": "CAPYTISTAS"
   }
  },
- "last_run": "2026-11-09 12:44:48 UTC",
+ "last_run": "2026-11-09 12:54:48 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -5524,7 +5515,7 @@
      "vol_m5": 52414.33
     },
     "id": "d2f2581f",
-    "last_mcap": 337577,
+    "last_mcap": 311374,
     "missing": 0,
     "peak_mcap": 1012083,
     "profile": "migrated",
@@ -43844,5 +43835,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3015
+ "runs": 3017
 }
