@@ -1531,10 +1531,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 18:52:22 UTC",
+ "last_run": "2026-11-10 19:02:23 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -6864,7 +6864,7 @@
     "zone_top": 325357.33345984307
    }
   ],
-  "last_summary_day": "2026-11-09",
+  "last_summary_day": "2026-11-10",
   "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
@@ -45163,5 +45163,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3250
+ "runs": 3252
 }
