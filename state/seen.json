@@ -18,15 +18,6 @@
    "profile": "migrated",
    "symbol": "meganfox"
   },
-  "solana:22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K": {
-   "count": 1,
-   "first_mcap": 328732,
-   "first_ts": 1793729822.0467792,
-   "last_mcap": 328732,
-   "last_ts": 1793729822.0467792,
-   "profile": "migrated",
-   "symbol": "STONKS"
-  },
   "solana:24KaBFmjyvPyvjaWfnSsvJBbSaAiAD57TPvxngzpump2": {
    "count": 1,
    "first_mcap": 89562,
@@ -71,15 +62,6 @@
    "last_ts": 1794150122.432914,
    "profile": "migrated",
    "symbol": "forg"
-  },
-  "solana:2JPSdYmf9tkKu1ks479jYourtwu8ewAqzkGyXuyXpump": {
-   "count": 1,
-   "first_mcap": 411578,
-   "first_ts": 1793728318.5046654,
-   "last_mcap": 411578,
-   "last_ts": 1793728318.5046654,
-   "profile": "migrated",
-   "symbol": "KOTANOSUKE"
   },
   "solana:2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat": {
    "count": 1,
@@ -603,15 +585,6 @@
    "profile": "migrated",
    "symbol": "AMC"
   },
-  "solana:9iFR4DuinJ96rUHdf7uRutJYbdAPZKrFbkRzVzSepump": {
-   "count": 1,
-   "first_mcap": 235430,
-   "first_ts": 1793729816.0147898,
-   "last_mcap": 235430,
-   "last_ts": 1793729816.0147898,
-   "profile": "migrated",
-   "symbol": "$DCYC "
-  },
   "solana:9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump": {
    "count": 1,
    "first_mcap": 608452,
@@ -863,15 +836,6 @@
    "last_ts": 1793737015.26435,
    "profile": "swing_survivor",
    "symbol": "FLOAT"
-  },
-  "solana:ByaRBuSE7KYAjHcb6h1MdK6dbAZv4ycRFmXSdK2Cpump": {
-   "count": 1,
-   "first_mcap": 323698,
-   "first_ts": 1793728616.9947336,
-   "last_mcap": 323698,
-   "last_ts": 1793728616.9947336,
-   "profile": "migrated",
-   "symbol": "ElunMesk"
   },
   "solana:C891rB7xCUAztoAinptQFbDiDnDhJf3NQWALP98fpump": {
    "count": 1,
@@ -1567,10 +1531,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 15:55:58 UTC",
+ "last_run": "2026-11-10 18:22:22 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -45199,5 +45163,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3241
+ "runs": 3244
 }
