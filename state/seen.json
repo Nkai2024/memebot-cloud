@@ -81,15 +81,6 @@
    "profile": "migrated",
    "symbol": "HABIBI"
   },
-  "solana:2nUaDdA3TvSFVx2EENX3WxWc2AYiEKo7xJU2jzYrpump": {
-   "count": 1,
-   "first_mcap": 108361,
-   "first_ts": 1793740015.7823122,
-   "last_mcap": 108361,
-   "last_ts": 1793740015.7823122,
-   "profile": "migrated",
-   "symbol": "MSTRT"
-  },
   "solana:2uQw2gvnhYYQ5T5jJf3MvLPyUquQ54VFHbMHBTtCpump": {
    "count": 1,
    "first_mcap": 578280,
@@ -1504,7 +1495,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 20:52:22 UTC",
+ "last_run": "2026-11-10 21:07:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7145,7 +7136,7 @@
      "vol_m5": 37148.72
     },
     "id": "de8be101",
-    "last_mcap": 153892,
+    "last_mcap": 139174,
     "missing": 0,
     "peak_mcap": 203313,
     "profile": "migrated",
@@ -7199,7 +7190,7 @@
      "vol_m5": 145270.41
     },
     "id": "edc34ac2",
-    "last_mcap": 1010957,
+    "last_mcap": 1412119,
     "missing": 0,
     "peak_mcap": 1497788,
     "profile": "migrated",
@@ -7255,11 +7246,11 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1341367,
+    "last_mcap": 1226750,
     "missing": 0,
-    "peak_mcap": 1408762,
+    "peak_mcap": 1532652,
     "profile": "migrated",
-    "realized": 9.11294623028315,
+    "realized": 16.1798497574371,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -7267,11 +7258,12 @@
     "tf": "minute",
     "token": "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "trough_mcap": 275616,
     "units": 3.342130832362852e-05,
-    "units_left": 1.0026392497088557e-05
+    "units_left": 5.0131962485442785e-06
    }
   },
   "started_ts": 1794009851.4477682,
@@ -45573,5 +45565,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3274
+ "runs": 3277
 }
