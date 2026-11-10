@@ -468,6 +468,15 @@
    "profile": "migrated",
    "symbol": "KoriMu"
   },
+  "solana:8QCqrCmjCTmFarmq8SxCryuxzMBLVEWasbFaZQgXpump": {
+   "count": 1,
+   "first_mcap": 69614,
+   "first_ts": 1794317748.0063667,
+   "last_mcap": 69614,
+   "last_ts": 1794317748.0063667,
+   "profile": "migrated",
+   "symbol": "h1t"
+  },
   "solana:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump": {
    "count": 1,
    "first_mcap": 936179,
@@ -1594,10 +1603,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 13:25:58 UTC",
+ "last_run": "2026-11-10 13:36:05 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -6753,7 +6762,60 @@
    }
   ],
   "last_summary_day": "2026-11-09",
-  "positions": {},
+  "positions": {
+   "b87e3a55": {
+    "chain": "solana",
+    "created_ts": 1794317748.0063863,
+    "entry_mcap": 69614,
+    "entry_ts": 1794317748.0063863,
+    "features": {
+     "age_min": 10.756358913580577,
+     "boosts": 0,
+     "buys_h1": 1763,
+     "buys_h24": 1763,
+     "buys_m5": 604,
+     "change_h1": 53.85,
+     "change_h24": 53.85,
+     "change_h6": 53.85,
+     "change_m5": 5.4,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 21776.97,
+     "lp_locked_pct": 100,
+     "mcap": 69614,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 81,
+     "sells_h1": 1437,
+     "sells_h24": 1437,
+     "sells_m5": 432,
+     "top1": 3.249841562045975,
+     "top10": 21.33729884965545,
+     "top5": 13.222974388965477,
+     "txns_h24": 3200,
+     "vol_h1": 130105.15,
+     "vol_h24": 130105.15,
+     "vol_m5": 39826.52
+    },
+    "id": "b87e3a55",
+    "last_mcap": 69614,
+    "missing": 0,
+    "peak_mcap": 69614,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "h1t",
+    "tf": "minute",
+    "token": "8QCqrCmjCTmFarmq8SxCryuxzMBLVEWasbFaZQgXpump",
+    "tp_done": [],
+    "trough_mcap": 69614,
+    "units": 0.00013933978797368344,
+    "units_left": 0.00013933978797368344
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -45051,5 +45113,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3211
+ "runs": 3213
 }
