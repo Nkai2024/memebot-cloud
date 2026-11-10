@@ -117,15 +117,6 @@
    "profile": "migrated",
    "symbol": "LUCIA"
   },
-  "solana:3MfZ4URVxmB4mfPuy4AxUxpcC5U7aXe7TDA7XVoGpump": {
-   "count": 1,
-   "first_mcap": 331523,
-   "first_ts": 1793747515.6522446,
-   "last_mcap": 331523,
-   "last_ts": 1793747515.6522446,
-   "profile": "migrated",
-   "symbol": "AMD"
-  },
   "solana:3RWWrY7FcyikEb9V2PFxR7PCBJU6ZW9kkE6pTSYqpump": {
    "count": 1,
    "first_mcap": 117204,
@@ -1441,7 +1432,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 23:07:22 UTC",
+ "last_run": "2026-11-10 23:17:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7054,7 +7045,7 @@
      "vol_m5": 42215.88
     },
     "id": "8747f631",
-    "last_mcap": 39807,
+    "last_mcap": 26152,
     "missing": 0,
     "peak_mcap": 40466,
     "profile": "migrated",
@@ -7112,7 +7103,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1774278,
+    "last_mcap": 1749012,
     "missing": 0,
     "peak_mcap": 1943003,
     "profile": "migrated",
@@ -45431,5 +45422,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3301
+ "runs": 3303
 }
