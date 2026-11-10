@@ -1332,15 +1332,6 @@
    "profile": "migrated",
    "symbol": "CR"
   },
-  "solana:GtRH3cGYWPLLjjvcgMV1Fb3Jd25rhGRQmXgwu79Npump": {
-   "count": 1,
-   "first_mcap": 102814,
-   "first_ts": 1793680267.9912913,
-   "last_mcap": 102814,
-   "last_ts": 1793680267.9912913,
-   "profile": "migrated",
-   "symbol": "LeTwerk"
-  },
   "solana:HGE5K8mQtD7zYGfTCimkPRQ7HLKuefS26Z58XNxzuWuf": {
    "count": 1,
    "first_mcap": 102510,
@@ -1630,10 +1621,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 04:23:15 UTC",
+ "last_run": "2026-11-10 04:33:15 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -44820,7 +44811,6 @@
   "solana:7zFXW5a3ySnfRXHuKX6sK9A9K5zQm35dA4JpwrdDpump": 1793981935.3367617,
   "solana:9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": 1794072383.4883432,
   "solana:9X5UwHT7gWSPtAH5yeEzrLHqv3Nedmhy3HyZN3Yspump": 1793686567.7575665,
-  "solana:9hKJb9YEf5RYb4f71Xr3Kr86hZq86Xad5X7gdyv1pump": 1793679967.7273853,
   "solana:AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump": 1794231577.0172195,
   "solana:AFfoew4h79qV3HSdCA19LQM6CimNpznBaY7jjpuXpump": 1794086039.2875142,
   "solana:AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump": 1794129747.6860135,
@@ -44850,5 +44840,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3129
+ "runs": 3131
 }
