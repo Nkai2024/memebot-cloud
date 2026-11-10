@@ -1648,10 +1648,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-09 23:58:22 UTC",
+ "last_run": "2026-11-10 00:13:16 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -6369,21 +6369,23 @@
      "vol_m5": 16395.24
     },
     "id": "1417d638",
-    "last_mcap": 659890,
+    "last_mcap": 702233,
     "missing": 0,
-    "peak_mcap": 659890,
+    "peak_mcap": 786461,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.622422089899601,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "BORLY",
     "tf": "minute",
     "token": "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 565453,
     "units": 1.7154387720995377e-05,
-    "units_left": 1.7154387720995377e-05
+    "units_left": 5.1463163162986135e-06
    },
    "83644ea2": {
     "chain": "solana",
@@ -44790,5 +44792,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3089
+ "runs": 3092
 }
