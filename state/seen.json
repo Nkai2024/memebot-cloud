@@ -189,15 +189,6 @@
    "profile": "migrated",
    "symbol": "BDHM"
   },
-  "solana:3imKAhTuUakBCGK1aXxihc13Qe5prGzQb7eWMn1gpump": {
-   "count": 1,
-   "first_mcap": 96062,
-   "first_ts": 1793700749.3105643,
-   "last_mcap": 96062,
-   "last_ts": 1793700749.3105643,
-   "profile": "migrated",
-   "symbol": "\uae40\uc5ec\uc815"
-  },
   "solana:3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": {
    "count": 1,
    "first_mcap": 239620,
@@ -530,15 +521,6 @@
    "last_ts": 1794264185.7784407,
    "profile": "migrated",
    "symbol": "GPU"
-  },
-  "solana:94exwLui2KfAzYnbATkX8iKh4tcjMDW6YwckkSJVpump": {
-   "count": 1,
-   "first_mcap": 141894,
-   "first_ts": 1793698949.1388102,
-   "last_mcap": 141894,
-   "last_ts": 1793698949.1388102,
-   "profile": "migrated",
-   "symbol": "ABDUL"
   },
   "solana:9A9vMe8m78yWJpKv7DqgTSSNHSKKeF64neivVkripump": {
    "count": 1,
@@ -1630,7 +1612,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 08:13:15 UTC",
+ "last_run": "2026-11-10 10:40:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -45087,5 +45069,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3175
+ "runs": 3178
 }
