@@ -405,6 +405,15 @@
    "profile": "migrated",
    "symbol": "SEXYANSEM"
   },
+  "solana:7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump": {
+   "count": 1,
+   "first_mcap": 652078,
+   "first_ts": 1794321347.7858236,
+   "last_mcap": 652078,
+   "last_ts": 1794321347.7858236,
+   "profile": "migrated",
+   "symbol": "LEONIDA"
+  },
   "solana:7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump": {
    "count": 1,
    "first_mcap": 444805,
@@ -665,15 +674,6 @@
    "last_ts": 1794151022.615358,
    "profile": "migrated",
    "symbol": "ELYSION"
-  },
-  "solana:AfxPrmPAM1iUZJYJWjwnQmpXFB1heZpD8BYdtrcEpump": {
-   "count": 1,
-   "first_mcap": 146897,
-   "first_ts": 1793716648.7494936,
-   "last_mcap": 146897,
-   "last_ts": 1793716648.7494936,
-   "profile": "migrated",
-   "symbol": "Biwa"
   },
   "solana:AhMWqC77W2YUx6rPXtoju3N3L1pA89p5JvZxYWN3dHUf": {
    "count": 1,
@@ -1449,15 +1449,6 @@
    "profile": "migrated",
    "symbol": "Groyper"
   },
-  "solana:JAFQtEgsG9ezrbA2LJVv6oYZeo1svoa2VaoaZsN2pump": {
-   "count": 1,
-   "first_mcap": 154970,
-   "first_ts": 1793716655.1485605,
-   "last_mcap": 154970,
-   "last_ts": 1793716655.1485605,
-   "profile": "migrated",
-   "symbol": "PIRATE"
-  },
   "solana:JBUe4NZu4rm4Ej5AsLZECZLHvnWpFRmhn9oPLXCVpump": {
    "count": 1,
    "first_mcap": 95224,
@@ -1585,10 +1576,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 14:30:58 UTC",
+ "last_run": "2026-11-10 14:40:58 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -6797,10 +6788,126 @@
     "trough_mcap": 24145,
     "units": 0.00013933978797368344,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794321514.3562796,
+    "created_ts": 1794321347.7858398,
+    "entry_mcap": 652078,
+    "entry_ts": 1794321347.7858398,
+    "features": {
+     "age_min": 15.84066982269287,
+     "boosts": 0,
+     "buys_h1": 5280,
+     "buys_h24": 5280,
+     "buys_m5": 1548,
+     "change_h1": 1068,
+     "change_h24": 1068,
+     "change_h6": 1068,
+     "change_m5": 40.95,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3578354941664357,
+     "insiders": 0,
+     "liquidity": 62128.55,
+     "lp_locked_pct": 100,
+     "mcap": 652078,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 75,
+     "sells_h1": 1515,
+     "sells_h24": 1515,
+     "sells_m5": 520,
+     "top1": 3.511901621394995,
+     "top10": 23.31498218263242,
+     "top5": 17.288468239496634,
+     "txns_h24": 6795,
+     "vol_h1": 650871.2,
+     "vol_h24": 650871.2,
+     "vol_m5": 219327.64
+    },
+    "id": "854eceae",
+    "last_mcap": 288060,
+    "missing": 0,
+    "peak_mcap": 652078,
+    "pnl": -5.843508690678109,
+    "pnl_pct": -58.435086906781095,
+    "profile": "migrated",
+    "realized": 4.156491309321891,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "LEONIDA",
+    "tf": "minute",
+    "token": "7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump",
+    "tp_done": [],
+    "trough_mcap": 288060,
+    "units": 1.4875521026625648e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-09",
-  "positions": {},
+  "positions": {
+   "61b7f5b5": {
+    "chain": "solana",
+    "created_ts": 1794321347.7858398,
+    "entry_mcap": 288060,
+    "entry_ts": 1794321514.3562796,
+    "expires_ts": 1794328547.7858398,
+    "features": {
+     "age_min": 15.84066982269287,
+     "boosts": 0,
+     "buys_h1": 5280,
+     "buys_h24": 5280,
+     "buys_m5": 1548,
+     "change_h1": 1068,
+     "change_h24": 1068,
+     "change_h6": 1068,
+     "change_m5": 40.95,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3578354941664357,
+     "insiders": 0,
+     "liquidity": 62128.55,
+     "lp_locked_pct": 100,
+     "mcap": 652078,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 75,
+     "sells_h1": 1515,
+     "sells_h24": 1515,
+     "sells_m5": 520,
+     "top1": 3.511901621394995,
+     "top10": 23.31498218263242,
+     "top5": 17.288468239496634,
+     "txns_h24": 6795,
+     "vol_h1": 650871.2,
+     "vol_h24": 650871.2,
+     "vol_m5": 219327.64
+    },
+    "id": "61b7f5b5",
+    "last_mcap": 191340,
+    "missing": 0,
+    "peak_mcap": 306003,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "ZONE",
+    "symbol": "LEONIDA",
+    "tf": "minute",
+    "token": "7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump",
+    "tp_done": [],
+    "trough_mcap": 191340,
+    "units": 3.367354023467333e-05,
+    "units_left": 3.367354023467333e-05,
+    "zone_bottom": 236540.06488581988,
+    "zone_top": 325357.33345984307
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -45098,5 +45205,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3224
+ "runs": 3226
 }
