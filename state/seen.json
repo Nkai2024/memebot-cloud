@@ -1648,7 +1648,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 00:33:16 UTC",
+ "last_run": "2026-11-10 00:43:16 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6369,9 +6369,9 @@
      "vol_m5": 16395.24
     },
     "id": "1417d638",
-    "last_mcap": 729984,
+    "last_mcap": 1053750,
     "missing": 0,
-    "peak_mcap": 910535,
+    "peak_mcap": 1053750,
     "profile": "migrated",
     "realized": 8.622422089899601,
     "size": 10,
@@ -6438,58 +6438,6 @@
     "tp_done": [],
     "zone_bottom": 185625.87877995014,
     "zone_top": 286604.08042180625
-   },
-   "befb8415": {
-    "chain": "solana",
-    "created_ts": 1794264185.7784584,
-    "expires_ts": 1794271385.7784584,
-    "features": {
-     "age_min": 12.97252450386683,
-     "boosts": 0,
-     "buys_h1": 2845,
-     "buys_h24": 2845,
-     "buys_m5": 984,
-     "change_h1": 624,
-     "change_h24": 624,
-     "change_h6": 624,
-     "change_m5": 50.01,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.5880207982789357,
-     "insiders": 0,
-     "liquidity": 41255.7,
-     "lp_locked_pct": 100,
-     "mcap": 291871,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.09623936709923825,
-     "score": 78,
-     "sells_h1": 1055,
-     "sells_h24": 1055,
-     "sells_m5": 422,
-     "top1": 2.4271072628763735,
-     "top10": 23.518434475198045,
-     "top5": 11.881647223228516,
-     "txns_h24": 3900,
-     "vol_h1": 238825.78,
-     "vol_h24": 238825.78,
-     "vol_m5": 63263.72
-    },
-    "id": "befb8415",
-    "last_mcap": 291871,
-    "missing": 0,
-    "peak_mcap": 291871,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "GPU",
-    "tf": "minute",
-    "token": "8ycoXyqqPnkuL78CasFB4nk9t66FXdkfMsRgH8z4pump",
-    "tp_done": [],
-    "zone_bottom": 99669.28141883174,
-    "zone_top": 146482.4615010907
    }
   },
   "started_ts": 1794009851.4477682,
@@ -44793,5 +44741,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3096
+ "runs": 3098
 }
