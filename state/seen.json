@@ -1467,15 +1467,6 @@
    "profile": "migrated",
    "symbol": "Groyper"
   },
-  "solana:Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump": {
-   "count": 1,
-   "first_mcap": 71100,
-   "first_ts": 1793707370.6930463,
-   "last_mcap": 71100,
-   "last_ts": 1793707370.6930463,
-   "profile": "migrated",
-   "symbol": "PUMP"
-  },
   "solana:JAFQtEgsG9ezrbA2LJVv6oYZeo1svoa2VaoaZsN2pump": {
    "count": 1,
    "first_mcap": 154970,
@@ -1612,10 +1603,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 11:55:58 UTC",
+ "last_run": "2026-11-10 12:05:58 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -45069,5 +45060,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3193
+ "runs": 3195
 }
