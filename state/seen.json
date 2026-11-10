@@ -432,15 +432,6 @@
    "profile": "migrated",
    "symbol": "StonksPair"
   },
-  "solana:7uHBhrdN1UNf1vggnvoZMHVA6Du4NQe2USP2oMnYpump": {
-   "count": 1,
-   "first_mcap": 63611,
-   "first_ts": 1793681168.1273165,
-   "last_mcap": 63611,
-   "last_ts": 1793681168.1273165,
-   "profile": "migrated",
-   "symbol": "j*b"
-  },
   "solana:7xWZSw8KfLbPRiLiyPPMNboCq81j3oc53DpAYiXfLoat": {
    "count": 1,
    "first_mcap": 202743,
@@ -1621,7 +1612,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 04:33:15 UTC",
+ "last_run": "2026-11-10 04:48:15 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -44840,5 +44831,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3131
+ "runs": 3134
 }
