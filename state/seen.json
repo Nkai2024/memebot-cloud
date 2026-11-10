@@ -216,15 +216,6 @@
    "profile": "migrated",
    "symbol": "Bank"
   },
-  "solana:592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump": {
-   "count": 1,
-   "first_mcap": 107473,
-   "first_ts": 1793743315.7623146,
-   "last_mcap": 107473,
-   "last_ts": 1793743315.7623146,
-   "profile": "migrated",
-   "symbol": "MEMECOIN"
-  },
   "solana:5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx": {
    "count": 1,
    "first_mcap": 152451,
@@ -1468,7 +1459,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 21:47:22 UTC",
+ "last_run": "2026-11-10 22:02:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7071,7 +7062,7 @@
      "vol_m5": 145270.41
     },
     "id": "edc34ac2",
-    "last_mcap": 1616338,
+    "last_mcap": 1778854,
     "missing": 0,
     "peak_mcap": 2166002,
     "profile": "migrated",
@@ -7127,7 +7118,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1743556,
+    "last_mcap": 1499823,
     "missing": 0,
     "peak_mcap": 1743556,
     "profile": "migrated",
@@ -45446,5 +45437,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3285
+ "runs": 3288
 }
