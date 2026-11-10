@@ -279,15 +279,6 @@
    "profile": "migrated",
    "symbol": "pain"
   },
-  "solana:61nPLZLFkGGGNSEHr4c7LmF82jESvagFsV3jfYLYpump": {
-   "count": 1,
-   "first_mcap": 46962,
-   "first_ts": 1793744215.7106583,
-   "last_mcap": 46962,
-   "last_ts": 1793744215.7106583,
-   "profile": "migrated",
-   "symbol": "AMC "
-  },
   "solana:6G6p82ieTBmdg6GAdUaWAQSMZLKDhorwC1M9Czntpump": {
    "count": 1,
    "first_mcap": 75253,
@@ -1459,7 +1450,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 22:12:22 UTC",
+ "last_run": "2026-11-10 22:22:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7011,9 +7002,9 @@
      "vol_m5": 42215.88
     },
     "id": "8747f631",
-    "last_mcap": 27087,
+    "last_mcap": 31785,
     "missing": 0,
-    "peak_mcap": 33789,
+    "peak_mcap": 37018,
     "profile": "migrated",
     "realized": 8.781006952781585,
     "size": 10,
@@ -7069,11 +7060,11 @@
      "vol_m5": 145270.41
     },
     "id": "edc34ac2",
-    "last_mcap": 2227693,
+    "last_mcap": 3164735,
     "missing": 0,
-    "peak_mcap": 2227693,
+    "peak_mcap": 3164735,
     "profile": "migrated",
-    "realized": 10.977155277201355,
+    "realized": 18.204854643252403,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
@@ -7081,11 +7072,12 @@
     "tf": "minute",
     "token": "2uQw2gvnhYYQ5T5jJf3MvLPyUquQ54VFHbMHBTtCpump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "trough_mcap": 578280,
     "units": 1.6773881164833645e-05,
-    "units_left": 5.032164349450094e-06
+    "units_left": 2.516082174725047e-06
    },
    "f1f7483b": {
     "chain": "solana",
@@ -7125,7 +7117,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1546880,
+    "last_mcap": 1435664,
     "missing": 0,
     "peak_mcap": 1743556,
     "profile": "migrated",
@@ -45444,5 +45436,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3290
+ "runs": 3292
 }
