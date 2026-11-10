@@ -1404,15 +1404,6 @@
    "profile": "migrated",
    "symbol": "AIB"
   },
-  "solana:HjkX6rLUAsiKYZ1hwkD4TV1bsEoXgkSjVTF4gHSmpump": {
-   "count": 1,
-   "first_mcap": 127639,
-   "first_ts": 1793716959.4329748,
-   "last_mcap": 127639,
-   "last_ts": 1793716959.4329748,
-   "profile": "migrated",
-   "symbol": "JIFFPOM"
-  },
   "solana:HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump": {
    "count": 1,
    "first_mcap": 504617,
@@ -1576,7 +1567,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 14:40:58 UTC",
+ "last_run": "2026-11-10 14:50:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -6846,12 +6837,10 @@
     "trough_mcap": 288060,
     "units": 1.4875521026625648e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-09",
-  "positions": {
-   "61b7f5b5": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794321874.357924,
     "created_ts": 1794321347.7858398,
     "entry_mcap": 288060,
     "entry_ts": 1794321514.3562796,
@@ -6889,25 +6878,30 @@
      "vol_m5": 219327.64
     },
     "id": "61b7f5b5",
-    "last_mcap": 191340,
+    "last_mcap": 104479,
     "missing": 0,
     "peak_mcap": 306003,
+    "pnl": -6.587367524126918,
+    "pnl_pct": -65.87367524126918,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 3.4126324758730817,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "LEONIDA",
     "tf": "minute",
     "token": "7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump",
     "tp_done": [],
-    "trough_mcap": 191340,
+    "trough_mcap": 104479,
     "units": 3.367354023467333e-05,
-    "units_left": 3.367354023467333e-05,
+    "units_left": 0.0,
     "zone_bottom": 236540.06488581988,
     "zone_top": 325357.33345984307
    }
-  },
+  ],
+  "last_summary_day": "2026-11-09",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -45205,5 +45199,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3226
+ "runs": 3228
 }
