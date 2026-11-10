@@ -1432,7 +1432,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 23:27:22 UTC",
+ "last_run": "2026-11-10 23:37:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7002,12 +7002,10 @@
     "trough_mcap": 273995,
     "units": 1.6773881164833645e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-10",
-  "positions": {
-   "8747f631": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794353518.7004426,
     "created_ts": 1794345131.9893909,
     "entry_mcap": 21157,
     "entry_ts": 1794348298.6672144,
@@ -7045,13 +7043,16 @@
      "vol_m5": 42215.88
     },
     "id": "8747f631",
-    "last_mcap": 22329,
+    "last_mcap": 20646,
     "missing": 0,
     "peak_mcap": 40466,
+    "pnl": 1.5355309495675193,
+    "pnl_pct": 15.355309495675185,
     "profile": "migrated",
-    "realized": 8.781006952781585,
+    "realized": 11.53553094956752,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "pain",
     "tf": "minute",
@@ -7059,12 +7060,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 21157,
+    "trough_mcap": 20646,
     "units": 0.0004584770997778513,
-    "units_left": 0.00013754312993335542,
+    "units_left": 0.0,
     "zone_bottom": 16224.718387832843,
     "zone_top": 23863.80503329502
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-10",
+  "positions": {
    "f1f7483b": {
     "chain": "solana",
     "created_ts": 1794338232.1841927,
@@ -7103,7 +7107,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1975784,
+    "last_mcap": 1835587,
     "missing": 0,
     "peak_mcap": 1975784,
     "profile": "migrated",
@@ -45422,5 +45426,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3305
+ "runs": 3307
 }
