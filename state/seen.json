@@ -1639,7 +1639,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 03:18:15 UTC",
+ "last_run": "2026-11-10 03:28:15 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6560,60 +6560,7 @@
    }
   ],
   "last_summary_day": "2026-11-09",
-  "positions": {
-   "010517c3": {
-    "chain": "solana",
-    "created_ts": 1794273786.0576224,
-    "expires_ts": 1794280986.0576224,
-    "features": {
-     "age_min": 37.591803379853566,
-     "boosts": 0,
-     "buys_h1": 5036,
-     "buys_h24": 5036,
-     "buys_m5": 653,
-     "change_h1": 156,
-     "change_h24": 156,
-     "change_h6": 156,
-     "change_m5": 15.3,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.8424160535812105,
-     "insiders": 0,
-     "liquidity": 24729.86,
-     "lp_locked_pct": 100,
-     "mcap": 108163,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.4034508821991738,
-     "score": 79,
-     "sells_h1": 529,
-     "sells_h24": 529,
-     "sells_m5": 96,
-     "top1": 0.3750185346530363,
-     "top10": 3.5399548108168717,
-     "top5": 1.8387742759020815,
-     "txns_h24": 5565,
-     "vol_h1": 188635.21,
-     "vol_h24": 188635.21,
-     "vol_m5": 29257.4
-    },
-    "id": "010517c3",
-    "last_mcap": 108163,
-    "missing": 0,
-    "peak_mcap": 108163,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "HABIBI",
-    "tf": "minute",
-    "token": "2ZLU8yV2mgG9M3PFNDskTeJRcfWYFQ86Byhmk3Jppump",
-    "tp_done": [],
-    "zone_bottom": 65705.6724874721,
-    "zone_top": 84351.20240820346
-   }
-  },
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -44912,5 +44859,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3116
+ "runs": 3118
 }
