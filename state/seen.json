@@ -486,15 +486,6 @@
    "profile": "migrated",
    "symbol": "COGE"
   },
-  "solana:8UdrZzuCPbZAY2tiSErRED2KUrggJaRxEsHrzgWLpump": {
-   "count": 1,
-   "first_mcap": 101529,
-   "first_ts": 1793676668.2044468,
-   "last_mcap": 101529,
-   "last_ts": 1793676668.2044468,
-   "profile": "migrated",
-   "symbol": "MEM"
-  },
   "solana:8csCzE6QWAjNRiVNNSSn7ifR2CZHFj3sWuTzGSDapump": {
    "count": 1,
    "first_mcap": 89295,
@@ -1639,7 +1630,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 03:28:15 UTC",
+ "last_run": "2026-11-10 03:38:15 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -44859,5 +44850,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3118
+ "runs": 3120
 }
