@@ -1630,7 +1630,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 06:58:15 UTC",
+ "last_run": "2026-11-10 07:08:15 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -6725,12 +6725,10 @@
     "trough_mcap": 47189,
     "units": 0.00010186507603125261,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-09",
-  "positions": {
-   "504fb270": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794294171.2220852,
     "created_ts": 1794289084.816868,
     "entry_mcap": 58142,
     "entry_ts": 1794292791.213935,
@@ -6768,25 +6766,30 @@
      "vol_m5": 8804.31
     },
     "id": "504fb270",
-    "last_mcap": 56116,
+    "last_mcap": 7520,
     "missing": 0,
     "peak_mcap": 71362,
+    "pnl": -8.783053902514533,
+    "pnl_pct": -87.83053902514534,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 1.2169460974854664,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "MUBBO",
     "tf": "minute",
     "token": "JBUe4NZu4rm4Ej5AsLZECZLHvnWpFRmhn9oPLXCVpump",
     "tp_done": [],
-    "trough_mcap": 47189,
+    "trough_mcap": 7520,
     "units": 0.00016683292628392554,
-    "units_left": 0.00016683292628392554,
+    "units_left": 0.0,
     "zone_bottom": 52043.48576058309,
     "zone_top": 62441.36834167731
    }
-  },
+  ],
+  "last_summary_day": "2026-11-09",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -45083,5 +45086,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3160
+ "runs": 3162
 }
