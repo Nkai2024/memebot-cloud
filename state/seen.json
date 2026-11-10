@@ -504,15 +504,6 @@
    "profile": "migrated",
    "symbol": "LUCIA"
   },
-  "solana:8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump": {
-   "count": 1,
-   "first_mcap": 696912,
-   "first_ts": 1793715148.9134734,
-   "last_mcap": 696912,
-   "last_ts": 1793715148.9134734,
-   "profile": "migrated",
-   "symbol": "ANONVOYAGE"
-  },
   "solana:8qC2e7YxK2A4d8VLdZTo8jcMFDMQNDB9xdFdRZYMpump": {
    "count": 1,
    "first_mcap": 52505,
@@ -1594,7 +1585,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-10 14:05:58 UTC",
+ "last_run": "2026-11-10 14:15:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -45107,5 +45098,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3219
+ "runs": 3221
 }
