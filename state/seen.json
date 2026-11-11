@@ -1378,7 +1378,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 11:05:21 UTC",
+ "last_run": "2026-11-11 11:15:21 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7412,7 +7412,7 @@
      "vol_m5": 26656.08
     },
     "id": "3d0fc4f6",
-    "last_mcap": 153935,
+    "last_mcap": 156842,
     "missing": 0,
     "peak_mcap": 424209,
     "profile": "migrated",
@@ -7469,7 +7469,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 523802,
+    "last_mcap": 494466,
     "missing": 0,
     "peak_mcap": 757506,
     "profile": "migrated",
@@ -7525,7 +7525,7 @@
      "vol_m5": 10132.95
     },
     "id": "dd0723a7",
-    "last_mcap": 133683,
+    "last_mcap": 138672,
     "missing": 0,
     "peak_mcap": 835848,
     "profile": "migrated",
@@ -7582,7 +7582,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2488908,
+    "last_mcap": 2517484,
     "missing": 0,
     "peak_mcap": 2900545,
     "profile": "migrated",
@@ -45892,7 +45892,6 @@
   "solana:F7CSEdSHM4jxhqN8fS6o1SUDagnZUhaC4ZTfbvBJpump": 1793881852.5351977,
   "solana:F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump": 1794082138.135526,
   "solana:FDZUnsTuyHKYSqriT8JJ1PKFRwbsYRNWhkV5DV9upump": 1794174007.9493494,
-  "solana:FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump": 1793790412.5365212,
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
   "solana:G3PzMuSp2A7oP2qiTwnEywEYsVgTPFKzR8V7QrS9pump": 1794068783.4147844,
   "solana:Gg36bR4gXvN1hqDu6eoFNynhpfxoYg8oe47a2teZpump": 1794296883.799612,
@@ -45900,5 +45899,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3444
+ "runs": 3446
 }
