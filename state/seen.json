@@ -351,15 +351,6 @@
    "profile": "migrated",
    "symbol": "chud"
   },
-  "solana:82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6": {
-   "count": 1,
-   "first_mcap": 76394,
-   "first_ts": 1793807480.2484257,
-   "last_mcap": 76394,
-   "last_ts": 1793807480.2484257,
-   "profile": "migrated",
-   "symbol": "tremp"
-  },
   "solana:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump": {
    "count": 1,
    "first_mcap": 209189,
@@ -539,15 +530,6 @@
    "last_ts": 1793913331.2333891,
    "profile": "migrated",
    "symbol": "GTA"
-  },
-  "solana:APj59xtb4dRp49bXwKSq5E1XWKLrFbtaYfoQZ9Arpump": {
-   "count": 1,
-   "first_mcap": 135822,
-   "first_ts": 1793807486.6451588,
-   "last_mcap": 135822,
-   "last_ts": 1793807486.6451588,
-   "profile": "migrated",
-   "symbol": "Donkey"
   },
   "solana:ARGGnM1zK12eYCzRYbULJECFsMh4DM7hKgxNk97Pearn": {
    "count": 1,
@@ -1378,7 +1360,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 15:50:21 UTC",
+ "last_run": "2026-11-11 16:00:21 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7772,7 +7754,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 447109,
+    "last_mcap": 536575,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -46087,5 +46069,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3501
+ "runs": 3503
 }
