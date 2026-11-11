@@ -1414,10 +1414,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 07:30:59 UTC",
+ "last_run": "2026-11-11 07:40:52 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -7388,21 +7388,23 @@
      "vol_m5": 26656.08
     },
     "id": "3d0fc4f6",
-    "last_mcap": 84497,
+    "last_mcap": 165232,
     "missing": 0,
-    "peak_mcap": 84497,
+    "peak_mcap": 172483,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.903558110475776,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "CASHTAG",
     "tf": "minute",
     "token": "BoRsyzgtFw56gHqWgqb7wL45bMr9vQMF564j1Gvtcash",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 60667,
     "units": 0.00013174514783978702,
-    "units_left": 0.00013174514783978702
+    "units_left": 3.952354435193611e-05
    },
    "72f96ce0": {
     "chain": "solana",
@@ -7494,9 +7496,9 @@
      "vol_m5": 11358.48
     },
     "id": "7596eb4d",
-    "last_mcap": 190872,
+    "last_mcap": 216167,
     "missing": 0,
-    "peak_mcap": 205862,
+    "peak_mcap": 220455,
     "profile": "migrated",
     "realized": 9.122769469337463,
     "size": 10,
@@ -7550,9 +7552,9 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 553076,
+    "last_mcap": 668179,
     "missing": 0,
-    "peak_mcap": 654365,
+    "peak_mcap": 675711,
     "profile": "migrated",
     "realized": 8.577494439801491,
     "size": 10,
@@ -7606,7 +7608,7 @@
      "vol_m5": 10132.95
     },
     "id": "dd0723a7",
-    "last_mcap": 271309,
+    "last_mcap": 273942,
     "missing": 0,
     "peak_mcap": 835848,
     "profile": "migrated",
@@ -7663,7 +7665,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2507806,
+    "last_mcap": 2431259,
     "missing": 0,
     "peak_mcap": 2900545,
     "profile": "migrated",
@@ -45982,5 +45984,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3402
+ "runs": 3404
 }
