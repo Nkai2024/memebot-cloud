@@ -333,6 +333,15 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
+  "solana:7FxGzQZjdxL87R9hTvtghmtn1vCUc79oVvKiV31azZrQ": {
+   "count": 1,
+   "first_mcap": 92509,
+   "first_ts": 1794426868.2930155,
+   "last_mcap": 92509,
+   "last_ts": 1794426868.2930155,
+   "profile": "migrated",
+   "symbol": "NEVERDOOM"
+  },
   "solana:7UooapEDmXmP5hRJPoYvXqYDWMVh15Gi59gYu7hopump": {
    "count": 1,
    "first_mcap": 46503,
@@ -566,15 +575,6 @@
    "last_ts": 1794222578.1447375,
    "profile": "migrated",
    "symbol": "CURVD"
-  },
-  "solana:AjZ8JFAvMAdrRFG4yfuozGBnpEM4DKPg1JV5nuNqpump": {
-   "count": 1,
-   "first_mcap": 211391,
-   "first_ts": 1793821597.151182,
-   "last_mcap": 211391,
-   "last_ts": 1793821597.151182,
-   "profile": "migrated",
-   "symbol": "AI"
   },
   "solana:An2r9uFsEeHDhxhbkzFWVNtKB7LwHuEkCRUqqNTJpump": {
    "count": 1,
@@ -1351,11 +1351,11 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 19:44:38 UTC",
+ "last_run": "2026-11-11 19:54:44 UTC",
  "last_summary": {
-  "alerts": 0,
+  "alerts": 1,
   "checked": 1,
-  "rejected_safety": 1
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -8002,6 +8002,60 @@
   ],
   "last_summary_day": "2026-11-11",
   "positions": {
+   "6e78f8b8": {
+    "chain": "solana",
+    "created_ts": 1794426868.2930317,
+    "entry_mcap": 92509,
+    "entry_ts": 1794426868.2930317,
+    "features": {
+     "age_min": 12.746206072966258,
+     "boosts": 0,
+     "buys_h1": 678,
+     "buys_h24": 678,
+     "buys_m5": 202,
+     "change_h1": 63.97,
+     "change_h24": 63.97,
+     "change_h6": 63.97,
+     "change_m5": 19.02,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.3751735138991696,
+     "insiders": 0,
+     "liquidity": 43698.48,
+     "lp_locked_pct": 100,
+     "mcap": 92509,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.14193598316394687,
+     "score": 71,
+     "sells_h1": 600,
+     "sells_h24": 600,
+     "sells_m5": 181,
+     "top1": 3.042478820367381,
+     "top10": 18.951200009385857,
+     "top5": 11.554519858844046,
+     "txns_h24": 1278,
+     "vol_h1": 82516.51,
+     "vol_h24": 82516.51,
+     "vol_m5": 19646.04
+    },
+    "id": "6e78f8b8",
+    "last_mcap": 113918,
+    "missing": 0,
+    "peak_mcap": 113918,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "NEVERDOOM",
+    "tf": "minute",
+    "token": "7FxGzQZjdxL87R9hTvtghmtn1vCUc79oVvKiV31azZrQ",
+    "tp_done": [],
+    "trough_mcap": 92509,
+    "units": 0.00010485466278956642,
+    "units_left": 0.00010485466278956642
+   },
    "97167474": {
     "chain": "solana",
     "created_ts": 1794359487.5780876,
@@ -8040,7 +8094,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 559831,
+    "last_mcap": 452478,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8057,6 +8111,58 @@
     "trough_mcap": 230364,
     "units": 4.178656971033722e-05,
     "units_left": 1.2535970913101166e-05
+   },
+   "ed7ee0ca": {
+    "chain": "solana",
+    "created_ts": 1794426868.2930317,
+    "expires_ts": 1794434068.2930317,
+    "features": {
+     "age_min": 12.746206072966258,
+     "boosts": 0,
+     "buys_h1": 678,
+     "buys_h24": 678,
+     "buys_m5": 202,
+     "change_h1": 63.97,
+     "change_h24": 63.97,
+     "change_h6": 63.97,
+     "change_m5": 19.02,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.3751735138991696,
+     "insiders": 0,
+     "liquidity": 43698.48,
+     "lp_locked_pct": 100,
+     "mcap": 92509,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.14193598316394687,
+     "score": 71,
+     "sells_h1": 600,
+     "sells_h24": 600,
+     "sells_m5": 181,
+     "top1": 3.042478820367381,
+     "top10": 18.951200009385857,
+     "top5": 11.554519858844046,
+     "txns_h24": 1278,
+     "vol_h1": 82516.51,
+     "vol_h24": 82516.51,
+     "vol_m5": 19646.04
+    },
+    "id": "ed7ee0ca",
+    "last_mcap": 92509,
+    "missing": 0,
+    "peak_mcap": 92509,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "NEVERDOOM",
+    "tf": "minute",
+    "token": "7FxGzQZjdxL87R9hTvtghmtn1vCUc79oVvKiV31azZrQ",
+    "tp_done": [],
+    "zone_bottom": 52344.41266053599,
+    "zone_top": 62821.08966257936
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46357,5 +46463,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3525
+ "runs": 3527
 }
