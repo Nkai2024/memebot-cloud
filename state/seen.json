@@ -864,15 +864,6 @@
    "profile": "swing_survivor",
    "symbol": "AMD"
   },
-  "solana:DMgry6A9C6U6jopS7bAawukAvAcgpUvWfJULcbnfpump": {
-   "count": 1,
-   "first_mcap": 51240,
-   "first_ts": 1793758469.7521217,
-   "last_mcap": 51240,
-   "last_ts": 1793758469.7521217,
-   "profile": "migrated",
-   "symbol": "POLY"
-  },
   "solana:DRVhtx9ktSecBXRVD35RkQQHo8ugcSz9gYmxjevnpump": {
    "count": 1,
    "first_mcap": 97580,
@@ -1450,7 +1441,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 02:11:37 UTC",
+ "last_run": "2026-11-11 02:21:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7303,7 +7294,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 374321,
+    "last_mcap": 481109,
     "missing": 0,
     "peak_mcap": 506696,
     "profile": "migrated",
@@ -7359,7 +7350,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2069431,
+    "last_mcap": 1997514,
     "missing": 0,
     "peak_mcap": 2402185,
     "profile": "migrated",
@@ -45724,11 +45715,10 @@
   "solana:FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump": 1793790412.5365212,
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
   "solana:G3PzMuSp2A7oP2qiTwnEywEYsVgTPFKzR8V7QrS9pump": 1794068783.4147844,
-  "solana:GRWVAfwa6PJtWZtfG6jdu5vAVe4AckQiKT8Jsga6pump": 1793758749.7123888,
   "solana:Gg36bR4gXvN1hqDu6eoFNynhpfxoYg8oe47a2teZpump": 1794296883.799612,
   "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793859439.726656,
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3338
+ "runs": 3340
 }
