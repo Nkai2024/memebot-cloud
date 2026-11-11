@@ -1350,15 +1350,6 @@
    "profile": "migrated",
    "symbol": "RED"
   },
-  "solana:HvRdss17AKoeYZbfLVtN5gt7SGDU1MRKHyTnHZikpump": {
-   "count": 1,
-   "first_mcap": 142098,
-   "first_ts": 1793764149.8051796,
-   "last_mcap": 142098,
-   "last_ts": 1793764149.8051796,
-   "profile": "migrated",
-   "symbol": "Groyper"
-  },
   "solana:JBUe4NZu4rm4Ej5AsLZECZLHvnWpFRmhn9oPLXCVpump": {
    "count": 1,
    "first_mcap": 95224,
@@ -1459,7 +1450,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 03:41:38 UTC",
+ "last_run": "2026-11-11 03:51:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7364,21 +7355,23 @@
      "vol_m5": 11358.48
     },
     "id": "7596eb4d",
-    "last_mcap": 115735,
+    "last_mcap": 166210,
     "missing": 0,
-    "peak_mcap": 125523,
+    "peak_mcap": 177566,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.122769469337463,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "HAOBIBI",
     "tf": "minute",
     "token": "8tbfkL8LZYUN3ygzWMKfffqVd7tLRpWkuh2fowsepump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 98434,
     "units": 9.336888409745016e-05,
-    "units_left": 9.336888409745016e-05
+    "units_left": 2.8010665229235058e-05
    },
    "8bd31f4c": {
     "chain": "solana",
@@ -7418,9 +7411,9 @@
      "vol_m5": 43159.03
     },
     "id": "8bd31f4c",
-    "last_mcap": 112055,
+    "last_mcap": 136364,
     "missing": 0,
-    "peak_mcap": 140083,
+    "peak_mcap": 160486,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -7472,7 +7465,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 385129,
+    "last_mcap": 377095,
     "missing": 0,
     "peak_mcap": 506696,
     "profile": "migrated",
@@ -7632,9 +7625,9 @@
      "vol_m5": 10132.95
     },
     "id": "dd0723a7",
-    "last_mcap": 166322,
+    "last_mcap": 188699,
     "missing": 0,
-    "peak_mcap": 181633,
+    "peak_mcap": 212135,
     "profile": "migrated",
     "realized": 9.39788354187481,
     "size": 10,
@@ -7688,7 +7681,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2163131,
+    "last_mcap": 2203462,
     "missing": 0,
     "peak_mcap": 2495014,
     "profile": "migrated",
@@ -46005,5 +45998,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3356
+ "runs": 3358
 }
