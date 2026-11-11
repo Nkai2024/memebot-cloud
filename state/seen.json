@@ -1360,9 +1360,9 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 21:14:45 UTC",
+ "last_run": "2026-11-11 21:24:38 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 1,
   "rejected_safety": 0
  },
@@ -8396,7 +8396,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 386196,
+    "last_mcap": 387703,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8504,21 +8504,23 @@
      "vol_m5": 25638.45
     },
     "id": "ff3f4597",
-    "last_mcap": 225595,
+    "last_mcap": 364717,
     "missing": 0,
-    "peak_mcap": 225595,
+    "peak_mcap": 364717,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.449827456725545,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "MANEKI",
     "tf": "minute",
     "token": "6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 225595,
     "units": 4.299740685742148e-05,
-    "units_left": 4.299740685742148e-05
+    "units_left": 1.2899222057226447e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46818,5 +46820,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3543
+ "runs": 3545
 }
