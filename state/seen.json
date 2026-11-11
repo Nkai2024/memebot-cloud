@@ -1342,10 +1342,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 22:49:37 UTC",
+ "last_run": "2026-11-11 23:04:38 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -8353,12 +8353,10 @@
     "units_left": 0.0,
     "zone_bottom": 78165.91270265455,
     "zone_top": 109677.47334636198
-   }
-  ],
-  "last_summary_day": "2026-11-11",
-  "positions": {
-   "1c5b7b2f": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794438193.5920038,
     "created_ts": 1794436467.917885,
     "entry_mcap": 173325,
     "entry_ts": 1794436467.917885,
@@ -8395,13 +8393,16 @@
      "vol_m5": 25405.04
     },
     "id": "1c5b7b2f",
-    "last_mcap": 237178,
+    "last_mcap": 172048,
     "missing": 0,
     "peak_mcap": 247806,
+    "pnl": 1.4431897002740506,
+    "pnl_pct": 14.431897002740502,
     "profile": "migrated",
-    "realized": 8.641286399538439,
+    "realized": 11.44318970027405,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "TILLY",
     "tf": "minute",
@@ -8411,8 +8412,11 @@
     ],
     "trough_mcap": 168364,
     "units": 5.596422904947353e-05,
-    "units_left": 1.6789268714842063e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-11",
+  "positions": {
    "601e463c": {
     "chain": "solana",
     "created_ts": 1794436467.917885,
@@ -8503,7 +8507,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 472626,
+    "last_mcap": 351057,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8560,7 +8564,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 74504,
+    "last_mcap": 73888,
     "missing": 0,
     "peak_mcap": 93015,
     "profile": "migrated",
@@ -46881,5 +46885,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3562
+ "runs": 3565
 }
