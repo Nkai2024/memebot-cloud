@@ -486,15 +486,6 @@
    "profile": "migrated",
    "symbol": "Catcity"
   },
-  "solana:9VHCDisE9pybDt5eCuKv1AyddCx8gksuxpoWi6vjpump": {
-   "count": 1,
-   "first_mcap": 269035,
-   "first_ts": 1793818596.5171523,
-   "last_mcap": 269035,
-   "last_ts": 1793818596.5171523,
-   "profile": "migrated",
-   "symbol": "AMD"
-  },
   "solana:9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump": {
    "count": 1,
    "first_mcap": 588345,
@@ -1351,10 +1342,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 18:49:46 UTC",
+ "last_run": "2026-11-11 18:59:37 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -7861,7 +7852,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 433411,
+    "last_mcap": 435125,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -7969,21 +7960,23 @@
      "vol_m5": 13723.11
     },
     "id": "f1ba35aa",
-    "last_mcap": 121329,
+    "last_mcap": 190688,
     "missing": 0,
-    "peak_mcap": 124883,
+    "peak_mcap": 196867,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 10.859976765478162,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "HAOGPT",
     "tf": "minute",
     "token": "823KzDWd5HTSkWWJe1yZbka79pGAU7ZR8FXB5fKhpump",
-    "tp_done": [],
-    "trough_mcap": 115776,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 98646,
     "units": 8.37824765063571e-05,
-    "units_left": 8.37824765063571e-05
+    "units_left": 2.5134742951907136e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46282,5 +46275,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3514
+ "runs": 3516
 }
