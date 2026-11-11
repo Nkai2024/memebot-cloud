@@ -1396,7 +1396,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 15:15:21 UTC",
+ "last_run": "2026-11-11 15:30:21 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7732,7 +7732,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 455376,
+    "last_mcap": 456727,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -7749,58 +7749,6 @@
     "trough_mcap": 230364,
     "units": 4.178656971033722e-05,
     "units_left": 1.2535970913101166e-05
-   },
-   "e5211cae": {
-    "chain": "solana",
-    "created_ts": 1794403510.5441985,
-    "expires_ts": 1794410710.5441985,
-    "features": {
-     "age_min": 14.602886732419332,
-     "boosts": 0,
-     "buys_h1": 1429,
-     "buys_h24": 1429,
-     "buys_m5": 389,
-     "change_h1": 102,
-     "change_h24": 102,
-     "change_h6": 102,
-     "change_m5": 44.85,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.13745504751943938,
-     "insiders": 0,
-     "liquidity": 19418.88,
-     "lp_locked_pct": 100,
-     "mcap": 70189,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.14504603869728888,
-     "score": 80,
-     "sells_h1": 1149,
-     "sells_h24": 1149,
-     "sells_m5": 344,
-     "top1": 3.1524249194147917,
-     "top10": 21.402026467703724,
-     "top5": 13.132432705855214,
-     "txns_h24": 2578,
-     "vol_h1": 97269.26,
-     "vol_h24": 97269.26,
-     "vol_m5": 24886.87
-    },
-    "id": "e5211cae",
-    "last_mcap": 70189,
-    "missing": 0,
-    "peak_mcap": 70189,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "bro",
-    "tf": "minute",
-    "token": "8wbxHYCKbGimALpDvNkxcvzGm1tAG4GN69Jzfejtpump",
-    "tp_done": [],
-    "zone_bottom": 39646.488202294444,
-    "zone_top": 47651.96486958223
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46099,5 +46047,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3494
+ "runs": 3497
 }
