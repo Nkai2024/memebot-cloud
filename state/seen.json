@@ -1432,7 +1432,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 00:46:37 UTC",
+ "last_run": "2026-11-11 00:56:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7107,7 +7107,7 @@
      "vol_m5": 44326.56
     },
     "id": "9331a21f",
-    "last_mcap": 242886,
+    "last_mcap": 236148,
     "missing": 0,
     "peak_mcap": 323983,
     "profile": "migrated",
@@ -7215,7 +7215,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 1769576,
+    "last_mcap": 1882187,
     "missing": 0,
     "peak_mcap": 2056082,
     "profile": "migrated",
@@ -45534,5 +45534,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3321
+ "runs": 3323
 }
