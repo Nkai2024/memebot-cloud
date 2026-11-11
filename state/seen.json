@@ -315,6 +315,15 @@
    "profile": "migrated",
    "symbol": "FLOATCAT"
   },
+  "solana:6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump": {
+   "count": 1,
+   "first_mcap": 225595,
+   "first_ts": 1794431667.871232,
+   "last_mcap": 225595,
+   "last_ts": 1794431667.871232,
+   "profile": "migrated",
+   "symbol": "MANEKI"
+  },
   "solana:7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump": {
    "count": 1,
    "first_mcap": 652078,
@@ -1351,9 +1360,9 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 20:59:38 UTC",
+ "last_run": "2026-11-11 21:14:45 UTC",
  "last_summary": {
-  "alerts": 0,
+  "alerts": 1,
   "checked": 1,
   "rejected_safety": 0
  },
@@ -8181,12 +8190,10 @@
     "units_left": 0.0,
     "zone_bottom": 70921.00675481379,
     "zone_top": 93865.11344416327
-   }
-  ],
-  "last_summary_day": "2026-11-11",
-  "positions": {
-   "2a3477f8": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794431593.551431,
     "created_ts": 1794430167.9248471,
     "entry_mcap": 289543,
     "entry_ts": 1794430167.9248471,
@@ -8223,22 +8230,30 @@
      "vol_m5": 75165.97
     },
     "id": "2a3477f8",
-    "last_mcap": 357640,
+    "last_mcap": 282425,
     "missing": 0,
-    "peak_mcap": 368409,
+    "peak_mcap": 393449,
+    "pnl": 1.7031812069364456,
+    "pnl_pct": 17.03181206936446,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 11.703181206936446,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "AIB",
     "tf": "minute",
     "token": "7fNYfFkDefatZugpcgaHqGxQuwm6JzcRYDQrdajqpump",
-    "tp_done": [],
-    "trough_mcap": 288138,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 282425,
     "units": 3.350106892585902e-05,
-    "units_left": 3.350106892585902e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-11",
+  "positions": {
    "5b4fcd00": {
     "chain": "solana",
     "created_ts": 1794430167.9248471,
@@ -8291,6 +8306,58 @@
     "zone_bottom": 103577.93677963127,
     "zone_top": 148510.47114886876
    },
+   "6b1bcc2e": {
+    "chain": "solana",
+    "created_ts": 1794431667.8712513,
+    "expires_ts": 1794438867.8712513,
+    "features": {
+     "age_min": 17.01392443180084,
+     "boosts": 0,
+     "buys_h1": 1711,
+     "buys_h24": 1711,
+     "buys_m5": 816,
+     "change_h1": 490,
+     "change_h24": 490,
+     "change_h6": 490,
+     "change_m5": 19.6,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6410063952445887,
+     "insiders": 0,
+     "liquidity": 35623.51,
+     "lp_locked_pct": 100,
+     "mcap": 225595,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 71,
+     "sells_h1": 478,
+     "sells_h24": 478,
+     "sells_m5": 206,
+     "top1": 2.678426176863118,
+     "top10": 25.838142200029328,
+     "top5": 13.233884902902629,
+     "txns_h24": 2189,
+     "vol_h1": 158655.05,
+     "vol_h24": 158655.05,
+     "vol_m5": 25638.45
+    },
+    "id": "6b1bcc2e",
+    "last_mcap": 225595,
+    "missing": 0,
+    "peak_mcap": 225595,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "MANEKI",
+    "tf": "minute",
+    "token": "6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump",
+    "tp_done": [],
+    "zone_bottom": 78165.91270265455,
+    "zone_top": 109677.47334636198
+   },
    "97167474": {
     "chain": "solana",
     "created_ts": 1794359487.5780876,
@@ -8329,7 +8396,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 381498,
+    "last_mcap": 386196,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8398,6 +8465,60 @@
     "tp_done": [],
     "zone_bottom": 52344.41266053599,
     "zone_top": 62821.08966257936
+   },
+   "ff3f4597": {
+    "chain": "solana",
+    "created_ts": 1794431667.8712513,
+    "entry_mcap": 225595,
+    "entry_ts": 1794431667.8712513,
+    "features": {
+     "age_min": 17.01392443180084,
+     "boosts": 0,
+     "buys_h1": 1711,
+     "buys_h24": 1711,
+     "buys_m5": 816,
+     "change_h1": 490,
+     "change_h24": 490,
+     "change_h6": 490,
+     "change_m5": 19.6,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6410063952445887,
+     "insiders": 0,
+     "liquidity": 35623.51,
+     "lp_locked_pct": 100,
+     "mcap": 225595,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 71,
+     "sells_h1": 478,
+     "sells_h24": 478,
+     "sells_m5": 206,
+     "top1": 2.678426176863118,
+     "top10": 25.838142200029328,
+     "top5": 13.233884902902629,
+     "txns_h24": 2189,
+     "vol_h1": 158655.05,
+     "vol_h24": 158655.05,
+     "vol_m5": 25638.45
+    },
+    "id": "ff3f4597",
+    "last_mcap": 225595,
+    "missing": 0,
+    "peak_mcap": 225595,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "MANEKI",
+    "tf": "minute",
+    "token": "6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump",
+    "tp_done": [],
+    "trough_mcap": 225595,
+    "units": 4.299740685742148e-05,
+    "units_left": 4.299740685742148e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46697,5 +46818,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3540
+ "runs": 3543
 }
