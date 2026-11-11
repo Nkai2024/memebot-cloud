@@ -1342,7 +1342,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 18:59:37 UTC",
+ "last_run": "2026-11-11 19:14:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7810,9 +7810,69 @@
     "trough_mcap": 3572,
     "units": 0.00011475894705708369,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794424333.5084212,
+    "created_ts": 1794422969.022479,
+    "entry_mcap": 115776,
+    "entry_ts": 1794422969.022479,
+    "features": {
+     "age_min": 46.08669366439184,
+     "boosts": 0,
+     "buys_h1": 6177,
+     "buys_h24": 6177,
+     "buys_m5": 344,
+     "change_h1": 186,
+     "change_h24": 186,
+     "change_h6": 186,
+     "change_m5": -0.96,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5910488692042456,
+     "insiders": 0,
+     "liquidity": 25358.75,
+     "lp_locked_pct": 100,
+     "mcap": 115776,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.4836891660943202,
+     "score": 70,
+     "sells_h1": 1842,
+     "sells_h24": 1842,
+     "sells_m5": 227,
+     "top1": 1.3573240748024353,
+     "top10": 12.888252186816544,
+     "top5": 6.661631985280737,
+     "txns_h24": 8019,
+     "vol_h1": 176955.14,
+     "vol_h24": 176955.14,
+     "vol_m5": 13723.11
+    },
+    "id": "f1ba35aa",
+    "last_mcap": 108592,
+    "missing": 0,
+    "peak_mcap": 196867,
+    "pnl": 3.5075258119126573,
+    "pnl_pct": 35.07525811912657,
+    "profile": "migrated",
+    "realized": 13.507525811912657,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "HAOGPT",
+    "tf": "minute",
+    "token": "823KzDWd5HTSkWWJe1yZbka79pGAU7ZR8FXB5fKhpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 98646,
+    "units": 8.37824765063571e-05,
+    "units_left": 0.0
    }
   ],
-  "last_summary_day": "2026-11-10",
+  "last_summary_day": "2026-11-11",
   "positions": {
    "97167474": {
     "chain": "solana",
@@ -7852,7 +7912,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 435125,
+    "last_mcap": 476318,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -7921,62 +7981,6 @@
     "tp_done": [],
     "zone_bottom": 71552.7851310002,
     "zone_top": 96128.48426161738
-   },
-   "f1ba35aa": {
-    "chain": "solana",
-    "created_ts": 1794422969.022479,
-    "entry_mcap": 115776,
-    "entry_ts": 1794422969.022479,
-    "features": {
-     "age_min": 46.08669366439184,
-     "boosts": 0,
-     "buys_h1": 6177,
-     "buys_h24": 6177,
-     "buys_m5": 344,
-     "change_h1": 186,
-     "change_h24": 186,
-     "change_h6": 186,
-     "change_m5": -0.96,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.5910488692042456,
-     "insiders": 0,
-     "liquidity": 25358.75,
-     "lp_locked_pct": 100,
-     "mcap": 115776,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.4836891660943202,
-     "score": 70,
-     "sells_h1": 1842,
-     "sells_h24": 1842,
-     "sells_m5": 227,
-     "top1": 1.3573240748024353,
-     "top10": 12.888252186816544,
-     "top5": 6.661631985280737,
-     "txns_h24": 8019,
-     "vol_h1": 176955.14,
-     "vol_h24": 176955.14,
-     "vol_m5": 13723.11
-    },
-    "id": "f1ba35aa",
-    "last_mcap": 190688,
-    "missing": 0,
-    "peak_mcap": 196867,
-    "profile": "migrated",
-    "realized": 10.859976765478162,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "HAOGPT",
-    "tf": "minute",
-    "token": "823KzDWd5HTSkWWJe1yZbka79pGAU7ZR8FXB5fKhpump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 98646,
-    "units": 8.37824765063571e-05,
-    "units_left": 2.5134742951907136e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -46275,5 +46279,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3516
+ "runs": 3519
 }
