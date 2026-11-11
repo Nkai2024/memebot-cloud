@@ -1360,7 +1360,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 20:19:37 UTC",
+ "last_run": "2026-11-11 20:29:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -8067,12 +8067,10 @@
     "trough_mcap": 90885,
     "units": 0.00010485466278956642,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-11",
-  "positions": {
-   "3a9aa8cd": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794428833.5353427,
     "created_ts": 1794427167.8258326,
     "entry_mcap": 136031,
     "entry_ts": 1794427167.8258326,
@@ -8109,13 +8107,16 @@
      "vol_m5": 15770.17
     },
     "id": "3a9aa8cd",
-    "last_mcap": 230637,
+    "last_mcap": 1849,
     "missing": 0,
     "peak_mcap": 230637,
+    "pnl": -1.1988143033573255,
+    "pnl_pct": -11.988143033573252,
     "profile": "migrated",
-    "realized": 8.76281817526887,
+    "realized": 8.801185696642674,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "BERNIAO",
     "tf": "minute",
@@ -8123,10 +8124,76 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 80020,
+    "trough_mcap": 1849,
     "units": 7.130727554748549e-05,
-    "units_left": 2.139218266424565e-05
+    "units_left": 0.0
    },
+   {
+    "chain": "solana",
+    "close_ts": 1794428833.5353427,
+    "created_ts": 1794427167.8258326,
+    "entry_mcap": 83326,
+    "entry_ts": 1794427453.526856,
+    "expires_ts": 1794434367.8258326,
+    "features": {
+     "age_min": 33.380576423803966,
+     "boosts": 0,
+     "buys_h1": 3617,
+     "buys_h24": 3617,
+     "buys_m5": 401,
+     "change_h1": 225,
+     "change_h24": 225,
+     "change_h6": 225,
+     "change_m5": 4.42,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7514339989648879,
+     "insiders": 0,
+     "liquidity": 27337.41,
+     "lp_locked_pct": 100,
+     "mcap": 136031,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.30925540439241156,
+     "score": 72,
+     "sells_h1": 657,
+     "sells_h24": 657,
+     "sells_m5": 78,
+     "top1": 1.6881256566806506,
+     "top10": 13.672869585285067,
+     "top5": 7.860237903960955,
+     "txns_h24": 4274,
+     "vol_h1": 150751.69,
+     "vol_h24": 150751.69,
+     "vol_m5": 15770.17
+    },
+    "id": "b03e9430",
+    "last_mcap": 1849,
+    "missing": 0,
+    "peak_mcap": 230637,
+    "pnl": -1.0666555168854863,
+    "pnl_pct": -10.666555168854863,
+    "profile": "migrated",
+    "realized": 8.933344483114514,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "ZONE",
+    "symbol": "BERNIAO",
+    "tf": "minute",
+    "token": "7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 1849,
+    "units": 0.00011641024410148092,
+    "units_left": 0.0,
+    "zone_bottom": 70921.00675481379,
+    "zone_top": 93865.11344416327
+   }
+  ],
+  "last_summary_day": "2026-11-11",
+  "positions": {
    "97167474": {
     "chain": "solana",
     "created_ts": 1794359487.5780876,
@@ -8165,7 +8232,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 395224,
+    "last_mcap": 367305,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8182,65 +8249,6 @@
     "trough_mcap": 230364,
     "units": 4.178656971033722e-05,
     "units_left": 1.2535970913101166e-05
-   },
-   "b03e9430": {
-    "chain": "solana",
-    "created_ts": 1794427167.8258326,
-    "entry_mcap": 83326,
-    "entry_ts": 1794427453.526856,
-    "expires_ts": 1794434367.8258326,
-    "features": {
-     "age_min": 33.380576423803966,
-     "boosts": 0,
-     "buys_h1": 3617,
-     "buys_h24": 3617,
-     "buys_m5": 401,
-     "change_h1": 225,
-     "change_h24": 225,
-     "change_h6": 225,
-     "change_m5": 4.42,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.7514339989648879,
-     "insiders": 0,
-     "liquidity": 27337.41,
-     "lp_locked_pct": 100,
-     "mcap": 136031,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.30925540439241156,
-     "score": 72,
-     "sells_h1": 657,
-     "sells_h24": 657,
-     "sells_m5": 78,
-     "top1": 1.6881256566806506,
-     "top10": 13.672869585285067,
-     "top5": 7.860237903960955,
-     "txns_h24": 4274,
-     "vol_h1": 150751.69,
-     "vol_h24": 150751.69,
-     "vol_m5": 15770.17
-    },
-    "id": "b03e9430",
-    "last_mcap": 230637,
-    "missing": 0,
-    "peak_mcap": 230637,
-    "profile": "migrated",
-    "realized": 8.870708903583514,
-    "size": 10,
-    "status": "open",
-    "strategy": "ZONE",
-    "symbol": "BERNIAO",
-    "tf": "minute",
-    "token": "7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 80020,
-    "units": 0.00011641024410148092,
-    "units_left": 3.492307323044428e-05,
-    "zone_bottom": 70921.00675481379,
-    "zone_top": 93865.11344416327
    },
    "ed7ee0ca": {
     "chain": "solana",
@@ -46593,5 +46601,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3532
+ "runs": 3534
 }
