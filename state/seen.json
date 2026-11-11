@@ -198,15 +198,6 @@
    "profile": "migrated",
    "symbol": "Whitehouse"
   },
-  "solana:5ZndeMaC36YapnG4UpXsFg2DXDquHw6xEpBXGfmfpump": {
-   "count": 1,
-   "first_mcap": 123340,
-   "first_ts": 1793778412.3673284,
-   "last_mcap": 123340,
-   "last_ts": 1793778412.3673284,
-   "profile": "migrated",
-   "symbol": "Transinu"
-  },
   "solana:5b8LGwj96DedD5HzzDskfsd2BqTQQ4pFdQganEW9pump": {
    "count": 1,
    "first_mcap": 70204,
@@ -1414,7 +1405,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 07:40:52 UTC",
+ "last_run": "2026-11-11 07:50:52 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7388,9 +7379,9 @@
      "vol_m5": 26656.08
     },
     "id": "3d0fc4f6",
-    "last_mcap": 165232,
+    "last_mcap": 219726,
     "missing": 0,
-    "peak_mcap": 172483,
+    "peak_mcap": 226876,
     "profile": "migrated",
     "realized": 9.903558110475776,
     "size": 10,
@@ -7496,7 +7487,7 @@
      "vol_m5": 11358.48
     },
     "id": "7596eb4d",
-    "last_mcap": 216167,
+    "last_mcap": 181671,
     "missing": 0,
     "peak_mcap": 220455,
     "profile": "migrated",
@@ -7552,7 +7543,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 668179,
+    "last_mcap": 610162,
     "missing": 0,
     "peak_mcap": 675711,
     "profile": "migrated",
@@ -7608,7 +7599,7 @@
      "vol_m5": 10132.95
     },
     "id": "dd0723a7",
-    "last_mcap": 273942,
+    "last_mcap": 235234,
     "missing": 0,
     "peak_mcap": 835848,
     "profile": "migrated",
@@ -7665,7 +7656,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2431259,
+    "last_mcap": 2344372,
     "missing": 0,
     "peak_mcap": 2900545,
     "profile": "migrated",
@@ -45984,5 +45975,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3404
+ "runs": 3406
 }
