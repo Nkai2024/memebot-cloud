@@ -1125,15 +1125,6 @@
    "profile": "migrated",
    "symbol": "Chicxu"
   },
-  "solana:GCEEdGYx17shhJyudBTAHYAgcTEpKzntyiiqysmUpump": {
-   "count": 1,
-   "first_mcap": 109731,
-   "first_ts": 1793757250.0790477,
-   "last_mcap": 109731,
-   "last_ts": 1793757250.0790477,
-   "profile": "migrated",
-   "symbol": "AMD"
-  },
   "solana:GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump": {
    "count": 1,
    "first_mcap": 120421,
@@ -1459,7 +1450,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 01:51:38 UTC",
+ "last_run": "2026-11-11 02:01:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7312,7 +7303,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 411697,
+    "last_mcap": 396836,
     "missing": 0,
     "peak_mcap": 506696,
     "profile": "migrated",
@@ -7329,58 +7320,6 @@
     "trough_mcap": 230364,
     "units": 4.178656971033722e-05,
     "units_left": 1.2535970913101166e-05
-   },
-   "ef7d5aa8": {
-    "chain": "solana",
-    "created_ts": 1794354986.7663074,
-    "expires_ts": 1794362186.7663074,
-    "features": {
-     "age_min": 12.170133570830027,
-     "boosts": 0,
-     "buys_h1": 1971,
-     "buys_h24": 1971,
-     "buys_m5": 635,
-     "change_h1": 498,
-     "change_h24": 498,
-     "change_h6": 498,
-     "change_m5": 24.34,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.7718083740362593,
-     "insiders": 0,
-     "liquidity": 35325.53,
-     "lp_locked_pct": 100,
-     "mcap": 223960,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.10566781499729101,
-     "score": 74,
-     "sells_h1": 888,
-     "sells_h24": 888,
-     "sells_m5": 251,
-     "top1": 2.525320091904347,
-     "top10": 23.87777563708906,
-     "top5": 12.306058502904872,
-     "txns_h24": 2859,
-     "vol_h1": 211673.51,
-     "vol_h24": 211673.51,
-     "vol_m5": 44326.56
-    },
-    "id": "ef7d5aa8",
-    "last_mcap": 223960,
-    "missing": 0,
-    "peak_mcap": 223960,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "KoriMu",
-    "tf": "minute",
-    "token": "CRhbTris4J34SXobaLFnrEv2RD3dD99ddGdiPPzgpump",
-    "tp_done": [],
-    "zone_bottom": 81944.1591141487,
-    "zone_top": 117013.2941554786
    },
    "f1f7483b": {
     "chain": "solana",
@@ -7420,7 +7359,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2217625,
+    "last_mcap": 2077682,
     "missing": 0,
     "peak_mcap": 2402185,
     "profile": "migrated",
@@ -45791,5 +45730,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3334
+ "runs": 3336
 }
