@@ -1396,7 +1396,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 13:50:21 UTC",
+ "last_run": "2026-11-11 14:00:21 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7569,12 +7569,10 @@
     "trough_mcap": 1621,
     "units": 9.182823386852469e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-10",
-  "positions": {
-   "3d0fc4f6": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794405416.930258,
     "created_ts": 1794382242.759574,
     "entry_mcap": 73627,
     "entry_ts": 1794382242.759574,
@@ -7611,13 +7609,16 @@
      "vol_m5": 26656.08
     },
     "id": "3d0fc4f6",
-    "last_mcap": 83749,
+    "last_mcap": 67213,
     "missing": 0,
     "peak_mcap": 424209,
+    "pnl": 8.611806327841688,
+    "pnl_pct": 86.11806327841687,
     "profile": "migrated",
-    "realized": 17.323405774376248,
+    "realized": 18.611806327841688,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "CASHTAG",
     "tf": "minute",
@@ -7628,8 +7629,11 @@
     ],
     "trough_mcap": 60667,
     "units": 0.00013174514783978702,
-    "units_left": 1.9761772175968053e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-10",
+  "positions": {
    "97167474": {
     "chain": "solana",
     "created_ts": 1794359487.5780876,
@@ -7668,7 +7672,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 647826,
+    "last_mcap": 660540,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -7724,21 +7728,23 @@
      "vol_m5": 24886.87
     },
     "id": "acf13d60",
-    "last_mcap": 61906,
+    "last_mcap": 102239,
     "missing": 0,
-    "peak_mcap": 90387,
+    "peak_mcap": 102239,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.59376434626508,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "bro",
     "tf": "minute",
     "token": "8wbxHYCKbGimALpDvNkxcvzGm1tAG4GN69Jzfejtpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 49653,
     "units": 0.00013819829317984297,
-    "units_left": 0.00013819829317984297
+    "units_left": 4.14594879539529e-05
    },
    "e5211cae": {
     "chain": "solana",
@@ -46089,5 +46095,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3477
+ "runs": 3479
 }
