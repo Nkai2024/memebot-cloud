@@ -522,15 +522,6 @@
    "profile": "migrated",
    "symbol": "Catcity"
   },
-  "solana:9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump": {
-   "count": 1,
-   "first_mcap": 588345,
-   "first_ts": 1793830688.9515722,
-   "last_mcap": 588345,
-   "last_ts": 1793830688.9515722,
-   "profile": "migrated",
-   "symbol": "Democat"
-  },
   "solana:9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump": {
    "count": 1,
    "first_mcap": 608452,
@@ -1044,15 +1035,6 @@
    "profile": "migrated",
    "symbol": "HALO"
   },
-  "solana:G4bjr2e9BwqkPxfjUfpsk3B8ySvNYq4rBu2RrQMJpump": {
-   "count": 1,
-   "first_mcap": 52337,
-   "first_ts": 1793830388.8993208,
-   "last_mcap": 52337,
-   "last_ts": 1793830388.8993208,
-   "profile": "migrated",
-   "symbol": "PI"
-  },
   "solana:GAMiPgBnyW9RJ3TBobpzUC8UAa8CidBJ348A7uHEpump": {
    "count": 1,
    "first_mcap": 205882,
@@ -1360,7 +1342,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 22:09:37 UTC",
+ "last_run": "2026-11-11 22:19:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -8413,7 +8395,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 458965,
+    "last_mcap": 479536,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -8470,7 +8452,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 86889,
+    "last_mcap": 86618,
     "missing": 0,
     "peak_mcap": 93015,
     "profile": "migrated",
@@ -46791,5 +46773,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3554
+ "runs": 3556
 }
