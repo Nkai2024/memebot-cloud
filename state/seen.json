@@ -999,15 +999,6 @@
    "profile": "migrated",
    "symbol": "GIGAHUG"
   },
-  "solana:FQE9h4fL65oDHMsR2MHcSe6d6DF4hFrFarsQQkVJpump": {
-   "count": 1,
-   "first_mcap": 135406,
-   "first_ts": 1793778712.2649753,
-   "last_mcap": 135406,
-   "last_ts": 1793778712.2649753,
-   "profile": "migrated",
-   "symbol": "X"
-  },
   "solana:FRAaAZeDEgiRytZ5Mq5ZXuExEeHcoidQ8qRRZPZJpump": {
    "count": 1,
    "first_mcap": 56730,
@@ -1405,7 +1396,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-11 07:50:52 UTC",
+ "last_run": "2026-11-11 08:05:52 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -7379,7 +7370,7 @@
      "vol_m5": 26656.08
     },
     "id": "3d0fc4f6",
-    "last_mcap": 219726,
+    "last_mcap": 202967,
     "missing": 0,
     "peak_mcap": 226876,
     "profile": "migrated",
@@ -7487,7 +7478,7 @@
      "vol_m5": 11358.48
     },
     "id": "7596eb4d",
-    "last_mcap": 181671,
+    "last_mcap": 174914,
     "missing": 0,
     "peak_mcap": 220455,
     "profile": "migrated",
@@ -7543,7 +7534,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 610162,
+    "last_mcap": 598236,
     "missing": 0,
     "peak_mcap": 675711,
     "profile": "migrated",
@@ -7599,7 +7590,7 @@
      "vol_m5": 10132.95
     },
     "id": "dd0723a7",
-    "last_mcap": 235234,
+    "last_mcap": 281711,
     "missing": 0,
     "peak_mcap": 835848,
     "profile": "migrated",
@@ -7656,7 +7647,7 @@
      "vol_m5": 86228.66
     },
     "id": "f1f7483b",
-    "last_mcap": 2344372,
+    "last_mcap": 2384139,
     "missing": 0,
     "peak_mcap": 2900545,
     "profile": "migrated",
@@ -45935,7 +45926,6 @@
   "solana:52N8mH4XGpnsQJbpexD3oxw1G2zZn7m2jX6VSpkd6btd": 1794287283.787435,
   "solana:5GCWGUcY35ew8FDGUswBwrdXNxpvTmWk8L3Yxegmpump": 1794221676.9981353,
   "solana:5PmU19opZfFbRTVHzhFdUDp5Z4RdaMxVh2uHxqbGpump": 1794143801.7747436,
-  "solana:5fgJwPNtsohc1FwjkjvmVWoXTbSzD8Z3zzbcuXdepump": 1793779311.1711135,
   "solana:5gzQya4V9iporEf4vafGMw2TjejxLWDAC44odWcxpump": 1794091439.88294,
   "solana:5nMbMFxkzCEUbStJQsjreiYco46bJWqzfer23Xwcpump": 1793987036.23156,
   "solana:75VDY6P9kJyAp7QGYRzq7o85oKBSXpR9XmaWVHcspump": 1794065483.4343572,
@@ -45975,5 +45965,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3406
+ "runs": 3409
 }
