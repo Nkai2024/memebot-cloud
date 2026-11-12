@@ -1179,15 +1179,6 @@
    "profile": "migrated",
    "symbol": "MUBBO"
   },
-  "solana:LKsRfGJjy25VZQJZL5tBZ6aMdtxHHA6PZ7Fp4mohype": {
-   "count": 1,
-   "first_mcap": 68948,
-   "first_ts": 1793883652.8711438,
-   "last_mcap": 68948,
-   "last_ts": 1793883652.8711438,
-   "profile": "migrated",
-   "symbol": "ELYSIUM"
-  },
   "solana:SuiKhqAXdSXmxtEyGMrysWs6Px9mLmFDi3fKcompump": {
    "count": 1,
    "first_mcap": 75592,
@@ -1270,7 +1261,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 12:56:36 UTC",
+ "last_run": "2026-11-12 13:06:36 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9527,7 +9518,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 109349,
+    "last_mcap": 101847,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47841,5 +47832,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3699
+ "runs": 3701
 }
