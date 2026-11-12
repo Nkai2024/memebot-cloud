@@ -1198,7 +1198,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 19:31:23 UTC",
+ "last_run": "2026-11-12 19:41:23 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9773,12 +9773,10 @@
     "units_left": 0.0,
     "zone_bottom": 75797.67060354353,
     "zone_top": 94795.90728951665
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "be74cf13": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794512159.5229735,
     "created_ts": 1794510072.8997695,
     "entry_mcap": 106235,
     "entry_ts": 1794510072.8997695,
@@ -9815,22 +9813,28 @@
      "vol_m5": 117697.6
     },
     "id": "be74cf13",
-    "last_mcap": 71124,
+    "last_mcap": 52083,
     "missing": 0,
     "peak_mcap": 128000,
+    "pnl": -5.387123386831083,
+    "pnl_pct": -53.87123386831083,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.612876613168917,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "IMG",
     "tf": "minute",
     "token": "Aw8LQXFq7kvQa5ePEk8QBsCEAmVUoJS9CyWbAUrHpump",
     "tp_done": [],
-    "trough_mcap": 71124,
+    "trough_mcap": 52083,
     "units": 9.130700804819503e-05,
-    "units_left": 9.130700804819503e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "ed7ee0ca": {
     "chain": "solana",
     "created_ts": 1794426868.2930317,
@@ -9870,7 +9874,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 120940,
+    "last_mcap": 117421,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48184,5 +48188,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3741
+ "runs": 3743
 }
