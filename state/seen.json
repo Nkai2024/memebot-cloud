@@ -1198,10 +1198,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 16:56:23 UTC",
+ "last_run": "2026-11-12 17:06:23 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -9412,12 +9412,10 @@
     "units_left": 0.0,
     "zone_bottom": 43248.59457023464,
     "zone_top": 57868.08525007755
-   }
-  ],
-  "last_summary_day": "2026-11-11",
-  "positions": {
-   "72cf5157": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794502799.4653556,
     "created_ts": 1794501372.8675416,
     "entry_mcap": 94912,
     "entry_ts": 1794502079.461181,
@@ -9455,26 +9453,30 @@
      "vol_m5": 16005.15
     },
     "id": "72cf5157",
-    "last_mcap": 87196,
+    "last_mcap": 1587,
     "missing": 0,
     "peak_mcap": 106674,
+    "pnl": -9.842674445802427,
+    "pnl_pct": -98.42674445802427,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.15732555419757246,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "JensnHung",
     "tf": "minute",
     "token": "AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump",
     "tp_done": [],
-    "trough_mcap": 85079,
+    "trough_mcap": 1587,
     "units": 0.00010219993256911664,
-    "units_left": 0.00010219993256911664,
+    "units_left": 0.0,
     "zone_bottom": 75257.7362657702,
     "zone_top": 102254.91387560751
    },
-   "bd670ed9": {
+   {
     "chain": "solana",
+    "close_ts": 1794502799.4653556,
     "created_ts": 1794501372.8675416,
     "entry_mcap": 149699,
     "entry_ts": 1794501372.8675416,
@@ -9511,22 +9513,28 @@
      "vol_m5": 16005.15
     },
     "id": "bd670ed9",
-    "last_mcap": 87196,
+    "last_mcap": 1587,
     "missing": 0,
     "peak_mcap": 182431,
+    "pnl": -9.900252620257984,
+    "pnl_pct": -99.00252620257984,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 0.09974737974201564,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "JensnHung",
     "tf": "minute",
     "token": "AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump",
     "tp_done": [],
-    "trough_mcap": 85079,
+    "trough_mcap": 1587,
     "units": 6.479669202867087e-05,
-    "units_left": 6.479669202867087e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-11",
+  "positions": {
    "ed7ee0ca": {
     "chain": "solana",
     "created_ts": 1794426868.2930317,
@@ -9566,7 +9574,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 68565,
+    "last_mcap": 69507,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47879,5 +47887,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3710
+ "runs": 3712
 }
