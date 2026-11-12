@@ -1288,7 +1288,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 12:21:37 UTC",
+ "last_run": "2026-11-12 12:31:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9484,7 +9484,7 @@
      "vol_m5": 45286.44
     },
     "id": "d1337232",
-    "last_mcap": 40721,
+    "last_mcap": 43118,
     "missing": 0,
     "peak_mcap": 54929,
     "profile": "migrated",
@@ -9541,7 +9541,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 97937,
+    "last_mcap": 111323,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47842,7 +47842,6 @@
   "solana:Cy6F9HUKj29dTS9hUWopk2RkRLXRhcRaysrsQiXQpump": 1793996335.4243126,
   "solana:DFq4aBnZkNd4PcKaSb37wRpaUGKAFUXenGbd78pTpump": 1794038807.5313668,
   "solana:Ey4YG29k4hQmTPfRr3aRrpzSx8THEeSWbgCo2yWypump": 1794016465.1736717,
-  "solana:F7CSEdSHM4jxhqN8fS6o1SUDagnZUhaC4ZTfbvBJpump": 1793881852.5351977,
   "solana:F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump": 1794082138.135526,
   "solana:FDZUnsTuyHKYSqriT8JJ1PKFRwbsYRNWhkV5DV9upump": 1794174007.9493494,
   "solana:FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump": 1794014065.1875215,
@@ -47855,5 +47854,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3692
+ "runs": 3694
 }
