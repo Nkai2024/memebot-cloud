@@ -1288,7 +1288,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 12:01:37 UTC",
+ "last_run": "2026-11-12 12:11:37 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9320,6 +9320,66 @@
     "trough_mcap": 47600,
     "units": 9.956172313629691e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794485172.863655,
+    "created_ts": 1794484286.2716677,
+    "entry_mcap": 49810,
+    "entry_ts": 1794484286.2716677,
+    "features": {
+     "age_min": 14.950468190511067,
+     "boosts": 0,
+     "buys_h1": 2758,
+     "buys_h24": 2758,
+     "buys_m5": 531,
+     "change_h1": 46.11,
+     "change_h24": 46.11,
+     "change_h6": 46.11,
+     "change_m5": 16.16,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.37684837667783916,
+     "insiders": 0,
+     "liquidity": 15852.97,
+     "lp_locked_pct": 100,
+     "mcap": 49810,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0692362004236265,
+     "score": 70,
+     "sells_h1": 2207,
+     "sells_h24": 2207,
+     "sells_m5": 479,
+     "top1": 3.4445078051564106,
+     "top10": 25.73710541294362,
+     "top5": 15.134615714396762,
+     "txns_h24": 4965,
+     "vol_h1": 156506.36,
+     "vol_h24": 156506.36,
+     "vol_m5": 28502.32
+    },
+    "id": "e0bebba9",
+    "last_mcap": 48443,
+    "missing": 0,
+    "peak_mcap": 70888,
+    "pnl": 2.1186446597068844,
+    "pnl_pct": 21.18644659706885,
+    "profile": "migrated",
+    "realized": 12.118644659706884,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "MING",
+    "tf": "minute",
+    "token": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 47343,
+    "units": 0.00019474001204577393,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-11",
@@ -9363,7 +9423,7 @@
      "vol_m5": 45286.44
     },
     "id": "d1337232",
-    "last_mcap": 39361,
+    "last_mcap": 42041,
     "missing": 0,
     "peak_mcap": 53654,
     "profile": "migrated",
@@ -9380,62 +9440,6 @@
     "units_left": 0.00018078801207738472,
     "zone_bottom": 43248.59457023464,
     "zone_top": 57868.08525007755
-   },
-   "e0bebba9": {
-    "chain": "solana",
-    "created_ts": 1794484286.2716677,
-    "entry_mcap": 49810,
-    "entry_ts": 1794484286.2716677,
-    "features": {
-     "age_min": 14.950468190511067,
-     "boosts": 0,
-     "buys_h1": 2758,
-     "buys_h24": 2758,
-     "buys_m5": 531,
-     "change_h1": 46.11,
-     "change_h24": 46.11,
-     "change_h6": 46.11,
-     "change_m5": 16.16,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.37684837667783916,
-     "insiders": 0,
-     "liquidity": 15852.97,
-     "lp_locked_pct": 100,
-     "mcap": 49810,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.0692362004236265,
-     "score": 70,
-     "sells_h1": 2207,
-     "sells_h24": 2207,
-     "sells_m5": 479,
-     "top1": 3.4445078051564106,
-     "top10": 25.73710541294362,
-     "top5": 15.134615714396762,
-     "txns_h24": 4965,
-     "vol_h1": 156506.36,
-     "vol_h24": 156506.36,
-     "vol_m5": 28502.32
-    },
-    "id": "e0bebba9",
-    "last_mcap": 63098,
-    "missing": 0,
-    "peak_mcap": 70888,
-    "profile": "migrated",
-    "realized": 9.373411652278657,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "MING",
-    "tf": "minute",
-    "token": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 47343,
-    "units": 0.00019474001204577393,
-    "units_left": 5.84220036137322e-05
    },
    "e2f732c6": {
     "chain": "solana",
@@ -9528,7 +9532,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 87690,
+    "last_mcap": 95599,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47787,7 +47791,6 @@
   }
  },
  "rejected": {
-  "bsc:0x079594Ae3F559D5d19B9ab32851aA4c8212d7777": 1793880663.635868,
   "bsc:0x0FFfDaF8664ef90BC4A979670Fc9BFb35C487777": 1793988248.2204537,
   "bsc:0x0Fa3924d5fB0dAd7924C696C77b2FA99b3627777": 1794370599.692253,
   "bsc:0x1d628E104a110E02BdD91eA34E124278874F7777": 1794055295.3789637,
@@ -47843,5 +47846,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3688
+ "runs": 3690
 }
