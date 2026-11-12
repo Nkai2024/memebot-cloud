@@ -1198,7 +1198,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 19:06:23 UTC",
+ "last_run": "2026-11-12 19:16:23 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9752,9 +9752,9 @@
      "vol_m5": 117697.6
     },
     "id": "be74cf13",
-    "last_mcap": 120711,
+    "last_mcap": 104567,
     "missing": 0,
-    "peak_mcap": 120711,
+    "peak_mcap": 128000,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -9764,7 +9764,7 @@
     "tf": "minute",
     "token": "Aw8LQXFq7kvQa5ePEk8QBsCEAmVUoJS9CyWbAUrHpump",
     "tp_done": [],
-    "trough_mcap": 102976,
+    "trough_mcap": 81448,
     "units": 9.130700804819503e-05,
     "units_left": 9.130700804819503e-05
    },
@@ -9807,7 +9807,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 118312,
+    "last_mcap": 101289,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -9830,6 +9830,8 @@
    "fd8e1a95": {
     "chain": "solana",
     "created_ts": 1794510072.8997695,
+    "entry_mcap": 81448,
+    "entry_ts": 1794510899.514738,
     "expires_ts": 1794517272.8997695,
     "features": {
      "age_min": 12.010388962427776,
@@ -9864,18 +9866,21 @@
      "vol_m5": 117697.6
     },
     "id": "fd8e1a95",
-    "last_mcap": 106235,
+    "last_mcap": 104567,
     "missing": 0,
-    "peak_mcap": 106235,
+    "peak_mcap": 104567,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "IMG",
     "tf": "minute",
     "token": "Aw8LQXFq7kvQa5ePEk8QBsCEAmVUoJS9CyWbAUrHpump",
     "tp_done": [],
+    "trough_mcap": 81448,
+    "units": 0.00011909439151360376,
+    "units_left": 0.00011909439151360376,
     "zone_bottom": 75797.67060354353,
     "zone_top": 94795.90728951665
    }
@@ -48173,5 +48178,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3736
+ "runs": 3738
 }
