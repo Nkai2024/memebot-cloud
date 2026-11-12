@@ -1333,7 +1333,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 01:52:00 UTC",
+ "last_run": "2026-11-12 02:07:07 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -8800,21 +8800,23 @@
      "vol_m5": 72319.39
     },
     "id": "4b3874c9",
-    "last_mcap": 617011,
+    "last_mcap": 960112,
     "missing": 0,
-    "peak_mcap": 767052,
+    "peak_mcap": 1102153,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.796980946758083,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Rex",
     "tf": "minute",
     "token": "H57bUBka6sBfPQph6f58TsQvUvxugJQmqMANFV1mpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 553296,
     "units": 1.3684329326787427e-05,
-    "units_left": 1.3684329326787427e-05
+    "units_left": 4.105298798036229e-06
    },
    "79649414": {
     "chain": "solana",
@@ -8906,9 +8908,9 @@
      "vol_m5": 5470.78
     },
     "id": "8f26c6f8",
-    "last_mcap": 85743,
+    "last_mcap": 74214,
     "missing": 0,
-    "peak_mcap": 85743,
+    "peak_mcap": 91441,
     "profile": "migrated",
     "realized": 8.891551665013461,
     "size": 10,
@@ -8962,7 +8964,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 265348,
+    "last_mcap": 274567,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -9070,21 +9072,23 @@
      "vol_m5": 103839.97
     },
     "id": "c3e01bd1",
-    "last_mcap": 523166,
+    "last_mcap": 677499,
     "missing": 0,
-    "peak_mcap": 625901,
+    "peak_mcap": 705852,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.610397748386536,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "AIB",
     "tf": "minute",
     "token": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 483742,
     "units": 2.0052011196050787e-05,
-    "units_left": 2.0052011196050787e-05
+    "units_left": 6.015603358815237e-06
    },
    "ed7ee0ca": {
     "chain": "solana",
@@ -9125,7 +9129,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 86338,
+    "last_mcap": 84504,
     "missing": 0,
     "peak_mcap": 93015,
     "profile": "migrated",
@@ -47444,5 +47448,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3584
+ "runs": 3587
 }
