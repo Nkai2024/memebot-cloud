@@ -648,15 +648,6 @@
    "profile": "migrated",
    "symbol": "Slingfolio"
   },
-  "solana:Bi59TGKZgLa7zVRz1BX3yPg6Cj8wWfZwfNc5FaCApump": {
-   "count": 1,
-   "first_mcap": 83168,
-   "first_ts": 1793915130.3500876,
-   "last_mcap": 83168,
-   "last_ts": 1793915130.3500876,
-   "profile": "migrated",
-   "symbol": "AAAAAAAAAAAAA"
-  },
   "solana:BkYGs8BJzoc7ZgptAiMqAed8KQ31rVTsegBHdPTbpump": {
    "count": 1,
    "first_mcap": 199577,
@@ -1189,10 +1180,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 21:41:30 UTC",
+ "last_run": "2026-11-12 21:51:24 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -10226,9 +10217,9 @@
      "vol_m5": 20088.32
     },
     "id": "6456f365",
-    "last_mcap": 138623,
+    "last_mcap": 120902,
     "missing": 0,
-    "peak_mcap": 138623,
+    "peak_mcap": 155471,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -10238,7 +10229,7 @@
     "tf": "minute",
     "token": "2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump",
     "tp_done": [],
-    "trough_mcap": 138623,
+    "trough_mcap": 120902,
     "units": 6.997395814547369e-05,
     "units_left": 6.997395814547369e-05
    },
@@ -10385,7 +10376,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 124145,
+    "last_mcap": 124440,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48700,5 +48691,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3767
+ "runs": 3769
 }
