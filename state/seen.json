@@ -10217,7 +10217,7 @@
      "vol_m5": 20088.32
     },
     "id": "6456f365",
-    "last_mcap": 120902,
+    "last_mcap": 113680,
     "missing": 0,
     "peak_mcap": 155471,
     "profile": "migrated",
@@ -10229,7 +10229,7 @@
     "tf": "minute",
     "token": "2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump",
     "tp_done": [],
-    "trough_mcap": 120902,
+    "trough_mcap": 113680,
     "units": 6.997395814547369e-05,
     "units_left": 6.997395814547369e-05
    },
@@ -10376,7 +10376,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 124440,
+    "last_mcap": 125616,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
