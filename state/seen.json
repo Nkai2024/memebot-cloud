@@ -846,15 +846,6 @@
    "profile": "migrated",
    "symbol": "Muskratht"
   },
-  "solana:FqJu1nmcNP8fCJfAW7Y4dGmp6fF9iF2RxrqMSFAcpump": {
-   "count": 1,
-   "first_mcap": 66697,
-   "first_ts": 1793920530.5525885,
-   "last_mcap": 66697,
-   "last_ts": 1793920530.5525885,
-   "profile": "migrated",
-   "symbol": "TOYS4KIDS"
-  },
   "solana:FugyvQb7hrg71eL8iWu6cpZvg9HyJBXN761dzxNFpump": {
    "count": 1,
    "first_mcap": 91228,
@@ -1180,10 +1171,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 23:06:31 UTC",
+ "last_run": "2026-11-12 23:16:24 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -10175,12 +10166,10 @@
     "trough_mcap": 90473,
     "units": 6.901458555674137e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "452b08ce": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794525359.882065,
     "created_ts": 1794524774.036961,
     "entry_mcap": 262494,
     "entry_ts": 1794524774.036961,
@@ -10217,22 +10206,30 @@
      "vol_m5": 79283.69
     },
     "id": "452b08ce",
-    "last_mcap": 161057,
+    "last_mcap": 227120,
     "missing": 0,
-    "peak_mcap": 262494,
+    "peak_mcap": 346717,
+    "pnl": 1.1418691516758486,
+    "pnl_pct": 11.418691516758495,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 11.141869151675849,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "CSI",
     "tf": "minute",
     "token": "2FbqgFEWTwTRqZCemnf4AaP9tmhHKha3oqMjCNmcpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 161057,
     "units": 3.695322559753747e-05,
-    "units_left": 3.695322559753747e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "6456f365": {
     "chain": "solana",
     "created_ts": 1794519673.3604198,
@@ -10271,7 +10268,7 @@
      "vol_m5": 20088.32
     },
     "id": "6456f365",
-    "last_mcap": 246417,
+    "last_mcap": 221201,
     "missing": 0,
     "peak_mcap": 246417,
     "profile": "migrated",
@@ -10292,6 +10289,8 @@
    "923cbb41": {
     "chain": "solana",
     "created_ts": 1794524774.036961,
+    "entry_mcap": 89642,
+    "entry_ts": 1794525599.8830702,
     "expires_ts": 1794531974.036961,
     "features": {
      "age_min": 12.601826894283295,
@@ -10328,16 +10327,19 @@
     "id": "923cbb41",
     "last_mcap": 262494,
     "missing": 0,
-    "peak_mcap": 262494,
+    "peak_mcap": 89642,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "CSI",
     "tf": "minute",
     "token": "2FbqgFEWTwTRqZCemnf4AaP9tmhHKha3oqMjCNmcpump",
     "tp_done": [],
+    "trough_mcap": 89642,
+    "units": 0.00010820820597487784,
+    "units_left": 0.00010820820597487784,
     "zone_bottom": 88151.62159329475,
     "zone_top": 125601.9732035481
    },
@@ -10432,7 +10434,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 137158,
+    "last_mcap": 143590,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48747,5 +48749,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3778
+ "runs": 3780
 }
