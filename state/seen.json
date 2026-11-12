@@ -1315,7 +1315,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 03:57:00 UTC",
+ "last_run": "2026-11-12 04:07:00 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9152,7 +9152,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 290463,
+    "last_mcap": 316039,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -9173,6 +9173,8 @@
    "bdb575de": {
     "chain": "solana",
     "created_ts": 1794455210.619545,
+    "entry_mcap": 56547,
+    "entry_ts": 1794455976.4324362,
     "expires_ts": 1794462410.619545,
     "features": {
      "age_min": 14.194520409901937,
@@ -9207,18 +9209,21 @@
      "vol_m5": 46082.09
     },
     "id": "bdb575de",
-    "last_mcap": 89421,
+    "last_mcap": 39017,
     "missing": 0,
-    "peak_mcap": 89421,
+    "peak_mcap": 60427,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "POPVAX",
     "tf": "minute",
     "token": "7TmeeJxBF3PFsbgzuy23XpWJzQsqVXjvgLTb8S2zpump",
     "tp_done": [],
+    "trough_mcap": 36616,
+    "units": 0.0001715387200028295,
+    "units_left": 0.0001715387200028295,
     "zone_bottom": 45931.12632106887,
     "zone_top": 58555.836544096535
    },
@@ -9261,7 +9266,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 89720,
+    "last_mcap": 93096,
     "missing": 0,
     "peak_mcap": 99212,
     "profile": "migrated",
@@ -47579,5 +47584,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3609
+ "runs": 3611
 }
