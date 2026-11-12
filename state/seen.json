@@ -72,15 +72,6 @@
    "profile": "migrated",
    "symbol": "BERNIE"
   },
-  "solana:38sFzqRSerGhztsgsqQ26ToeAz5UU5ggTS6f5946pump": {
-   "count": 1,
-   "first_mcap": 82740,
-   "first_ts": 1793909129.4608665,
-   "last_mcap": 82740,
-   "last_ts": 1793909129.4608665,
-   "profile": "migrated",
-   "symbol": "LUCIA"
-  },
   "solana:3S4y78b14PRp1e71JNu5rZ2dvP2rwixTc45UE4zWpump": {
    "count": 1,
    "first_mcap": 427310,
@@ -783,15 +774,6 @@
    "profile": "migrated",
    "symbol": "ELONMAX"
   },
-  "solana:E7cdaueM9tCakwmaRiZxs5h6QMTMMaC369dVAYfRpump": {
-   "count": 1,
-   "first_mcap": 89385,
-   "first_ts": 1793909122.9509676,
-   "last_mcap": 89385,
-   "last_ts": 1793909122.9509676,
-   "profile": "migrated",
-   "symbol": "Edmond"
-  },
   "solana:EFWotn2UtV2c5QXMMHbSzmyrkU7wnfj7VpkNQGr1wk1z": {
    "count": 1,
    "first_mcap": 66842,
@@ -1207,7 +1189,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 20:01:23 UTC",
+ "last_run": "2026-11-12 20:11:23 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9882,7 +9864,7 @@
      "vol_m5": 22603.26
     },
     "id": "93ef89eb",
-    "last_mcap": 293070,
+    "last_mcap": 219769,
     "missing": 0,
     "peak_mcap": 293070,
     "profile": "migrated",
@@ -9939,7 +9921,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 125648,
+    "last_mcap": 125946,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48306,5 +48288,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3747
+ "runs": 3749
 }
