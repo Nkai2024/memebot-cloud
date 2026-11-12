@@ -936,15 +936,6 @@
    "profile": "migrated",
    "symbol": "CHICAT"
   },
-  "solana:Ge9u2FUrrcDVZmEpQgyRqPhcxXABWDz4kJWQ2KQBpump": {
-   "count": 1,
-   "first_mcap": 480264,
-   "first_ts": 1793912431.217076,
-   "last_mcap": 480264,
-   "last_ts": 1793912431.217076,
-   "profile": "migrated",
-   "symbol": "penguin"
-  },
   "solana:GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump": {
    "count": 1,
    "first_mcap": 47162,
@@ -1198,10 +1189,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 20:56:23 UTC",
+ "last_run": "2026-11-12 21:06:23 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -10070,12 +10061,10 @@
     "trough_mcap": 151160,
     "units": 5.671121712795687e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "89590f13": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794517379.556108,
     "created_ts": 1794515773.4041953,
     "entry_mcap": 118086,
     "entry_ts": 1794516719.5520139,
@@ -10113,13 +10102,16 @@
      "vol_m5": 79464.87
     },
     "id": "89590f13",
-    "last_mcap": 168688,
+    "last_mcap": 83689,
     "missing": 0,
     "peak_mcap": 169463,
+    "pnl": 0.6832140998932967,
+    "pnl_pct": 6.832140998932967,
     "profile": "migrated",
-    "realized": 8.682731906407193,
+    "realized": 10.683214099893297,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "Hero",
     "tf": "minute",
@@ -10127,12 +10119,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 118086,
+    "trough_mcap": 83689,
     "units": 8.214352251748725e-05,
-    "units_left": 2.464305675524618e-05,
+    "units_left": 0.0,
     "zone_bottom": 105108.98437272954,
     "zone_top": 125143.44021852555
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "ed7ee0ca": {
     "chain": "solana",
     "created_ts": 1794426868.2930317,
@@ -10172,7 +10167,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 141423,
+    "last_mcap": 129457,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48487,5 +48482,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3758
+ "runs": 3760
 }
