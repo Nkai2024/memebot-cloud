@@ -1198,10 +1198,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 16:46:23 UTC",
+ "last_run": "2026-11-12 16:56:23 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -9419,6 +9419,8 @@
    "72cf5157": {
     "chain": "solana",
     "created_ts": 1794501372.8675416,
+    "entry_mcap": 94912,
+    "entry_ts": 1794502079.461181,
     "expires_ts": 1794508572.8675416,
     "features": {
      "age_min": 12.56017824014028,
@@ -9453,18 +9455,21 @@
      "vol_m5": 16005.15
     },
     "id": "72cf5157",
-    "last_mcap": 149699,
+    "last_mcap": 87196,
     "missing": 0,
-    "peak_mcap": 149699,
+    "peak_mcap": 106674,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "JensnHung",
     "tf": "minute",
     "token": "AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump",
     "tp_done": [],
+    "trough_mcap": 85079,
+    "units": 0.00010219993256911664,
+    "units_left": 0.00010219993256911664,
     "zone_bottom": 75257.7362657702,
     "zone_top": 102254.91387560751
    },
@@ -9506,7 +9511,7 @@
      "vol_m5": 16005.15
     },
     "id": "bd670ed9",
-    "last_mcap": 113004,
+    "last_mcap": 87196,
     "missing": 0,
     "peak_mcap": 182431,
     "profile": "migrated",
@@ -9518,7 +9523,7 @@
     "tf": "minute",
     "token": "AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump",
     "tp_done": [],
-    "trough_mcap": 104989,
+    "trough_mcap": 85079,
     "units": 6.479669202867087e-05,
     "units_left": 6.479669202867087e-05
    },
@@ -9561,7 +9566,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 75219,
+    "last_mcap": 68565,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47874,5 +47879,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3708
+ "runs": 3710
 }
