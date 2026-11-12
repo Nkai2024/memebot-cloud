@@ -747,15 +747,6 @@
    "profile": "migrated",
    "symbol": "Nvidiass"
   },
-  "solana:CxYe8z7qnUFXDoPKce2pZ9xo9yP3KDktTojH5ZiCmWY9": {
-   "count": 1,
-   "first_mcap": 86420,
-   "first_ts": 1793883052.931962,
-   "last_mcap": 86420,
-   "last_ts": 1793883052.931962,
-   "profile": "migrated",
-   "symbol": "TOPLESS"
-  },
   "solana:Cy2XH7dLwwovkzNAFtWVEDkJNCdZ4u5cpcMHnCNHpump": {
    "count": 1,
    "first_mcap": 105487,
@@ -1279,11 +1270,11 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 12:46:37 UTC",
+ "last_run": "2026-11-12 12:56:36 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -9536,7 +9527,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 109860,
+    "last_mcap": 109349,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47850,5 +47841,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3697
+ "runs": 3699
 }
