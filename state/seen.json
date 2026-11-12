@@ -1207,10 +1207,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 19:51:31 UTC",
+ "last_run": "2026-11-12 20:01:23 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -9882,21 +9882,23 @@
      "vol_m5": 22603.26
     },
     "id": "93ef89eb",
-    "last_mcap": 165966,
+    "last_mcap": 293070,
     "missing": 0,
-    "peak_mcap": 177886,
+    "peak_mcap": 293070,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.791495696682142,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "1JENSEN",
     "tf": "minute",
     "token": "5u6Bpbz5kJiYgR3dtRQsdKvUKNmJN2pxGojdsYMDpump",
-    "tp_done": [],
-    "trough_mcap": 165966,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 153254,
     "units": 5.45293052854075e-05,
-    "units_left": 5.45293052854075e-05
+    "units_left": 1.6358791585622254e-05
    },
    "ed7ee0ca": {
     "chain": "solana",
@@ -9937,7 +9939,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 121793,
+    "last_mcap": 125648,
     "missing": 0,
     "peak_mcap": 153523,
     "profile": "migrated",
@@ -48304,5 +48306,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3745
+ "runs": 3747
 }
