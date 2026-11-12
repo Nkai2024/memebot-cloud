@@ -225,15 +225,6 @@
    "profile": "migrated",
    "symbol": "Baibo"
   },
-  "solana:6Mt1oHb12F7JvJhFqcYERPJ3YqKgMGF9b8623uFYpump": {
-   "count": 1,
-   "first_mcap": 176678,
-   "first_ts": 1793846888.9104602,
-   "last_mcap": 176678,
-   "last_ts": 1793846888.9104602,
-   "profile": "migrated",
-   "symbol": "AMC"
-  },
   "solana:6RDff7NwDJFX9zLg53RJNPsWpdfRs1xxDxivhL3Ypump": {
    "count": 1,
    "first_mcap": 61253,
@@ -1333,10 +1324,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 02:47:00 UTC",
+ "last_run": "2026-11-12 03:02:01 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -8979,21 +8970,23 @@
      "vol_m5": 26745.67
     },
     "id": "3d47b6db",
-    "last_mcap": 136816,
+    "last_mcap": 183522,
     "missing": 0,
-    "peak_mcap": 141768,
+    "peak_mcap": 186132,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.647375935330963,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "MAX",
     "tf": "minute",
     "token": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 89186,
     "units": 6.842164663393714e-05,
-    "units_left": 6.842164663393714e-05,
+    "units_left": 2.0526493990181144e-05,
     "zone_bottom": 98216.03724391149,
     "zone_top": 144175.3622356721
    },
@@ -9087,7 +9080,7 @@
      "vol_m5": 5470.78
     },
     "id": "8f26c6f8",
-    "last_mcap": 72274,
+    "last_mcap": 82586,
     "missing": 0,
     "peak_mcap": 91441,
     "profile": "migrated",
@@ -9143,7 +9136,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 319604,
+    "last_mcap": 277389,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -9252,7 +9245,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 88640,
+    "last_mcap": 87340,
     "missing": 0,
     "peak_mcap": 93015,
     "profile": "migrated",
@@ -47514,7 +47507,6 @@
   "bsc:0x079594Ae3F559D5d19B9ab32851aA4c8212d7777": 1793880663.635868,
   "bsc:0x0FFfDaF8664ef90BC4A979670Fc9BFb35C487777": 1793988248.2204537,
   "bsc:0x0Fa3924d5fB0dAd7924C696C77b2FA99b3627777": 1794370599.692253,
-  "bsc:0x0c6302401aa5325C2E36F170f52C00B1d220B405": 1793847498.6236343,
   "bsc:0x1d628E104a110E02BdD91eA34E124278874F7777": 1794055295.3789637,
   "bsc:0x5Ac9886B8629d38094A6CAe7CF9879b40CEB7777": 1794174619.6888008,
   "bsc:0xE38F103e108cfB19EC25cBA610c8Ed58E3957777": 1793895363.360192,
@@ -47571,5 +47563,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3595
+ "runs": 3598
 }
