@@ -45,6 +45,15 @@
    "profile": "migrated",
    "symbol": "forg"
   },
+  "solana:2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump": {
+   "count": 1,
+   "first_mcap": 73602,
+   "first_ts": 1794474686.6284132,
+   "last_mcap": 73602,
+   "last_ts": 1794474686.6284132,
+   "profile": "migrated",
+   "symbol": "Shiqi"
+  },
   "solana:2ZLU8yV2mgG9M3PFNDskTeJRcfWYFQ86Byhmk3Jppump": {
    "count": 1,
    "first_mcap": 108163,
@@ -1279,7 +1288,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 09:06:36 UTC",
+ "last_run": "2026-11-12 09:16:36 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -9135,6 +9144,64 @@
     "units_left": 0.0,
     "zone_bottom": 45931.12632106887,
     "zone_top": 58555.836544096535
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794475092.806697,
+    "created_ts": 1794474686.6284294,
+    "entry_mcap": 73602,
+    "entry_ts": 1794474686.6284294,
+    "features": {
+     "age_min": 17.850647950172423,
+     "boosts": 0,
+     "buys_h1": 1556,
+     "buys_h24": 1556,
+     "buys_m5": 360,
+     "change_h1": 122,
+     "change_h24": 122,
+     "change_h6": 122,
+     "change_m5": 73.23,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.1062103809917764,
+     "insiders": 0,
+     "liquidity": 19769.69,
+     "lp_locked_pct": 100,
+     "mcap": 73602,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.04702543421717092,
+     "score": 74,
+     "sells_h1": 1104,
+     "sells_h24": 1104,
+     "sells_m5": 255,
+     "top1": 3.921622001485128,
+     "top10": 27.004692304621948,
+     "top5": 17.18266022153724,
+     "txns_h24": 2660,
+     "vol_h1": 86276.51,
+     "vol_h24": 86276.51,
+     "vol_m5": 22498.63
+    },
+    "id": "29fb0198",
+    "last_mcap": 22290,
+    "missing": 0,
+    "peak_mcap": 73602,
+    "pnl": -7.150531099698378,
+    "pnl_pct": -71.50531099698378,
+    "profile": "migrated",
+    "realized": 2.8494689003016216,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "Shiqi",
+    "tf": "minute",
+    "token": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump",
+    "tp_done": [],
+    "trough_mcap": 22290,
+    "units": 0.0001317898970136681,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-11",
@@ -9177,7 +9244,7 @@
      "vol_m5": 6864.53
     },
     "id": "97167474",
-    "last_mcap": 360264,
+    "last_mcap": 361682,
     "missing": 0,
     "peak_mcap": 957376,
     "profile": "migrated",
@@ -9234,7 +9301,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 124139,
+    "last_mcap": 113218,
     "missing": 0,
     "peak_mcap": 141949,
     "profile": "migrated",
@@ -47549,5 +47616,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3653
+ "runs": 3655
 }
