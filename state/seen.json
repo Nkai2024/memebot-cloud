@@ -1162,7 +1162,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 01:41:24 UTC",
+ "last_run": "2026-11-13 01:51:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10525,58 +10525,6 @@
   ],
   "last_summary_day": "2026-11-12",
   "positions": {
-   "6ab2e99b": {
-    "chain": "solana",
-    "created_ts": 1794527473.7996545,
-    "expires_ts": 1794534673.7996545,
-    "features": {
-     "age_min": 34.586741117636365,
-     "boosts": 0,
-     "buys_h1": 5435,
-     "buys_h24": 5435,
-     "buys_m5": 1127,
-     "change_h1": 657,
-     "change_h24": 657,
-     "change_h6": 657,
-     "change_m5": 70.33,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.059903493932099934,
-     "insiders": 0,
-     "liquidity": 41067,
-     "lp_locked_pct": 100,
-     "mcap": 285080,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.06145706100362724,
-     "score": 76,
-     "sells_h1": 4042,
-     "sells_h24": 4042,
-     "sells_m5": 790,
-     "top1": 3.2865429944842353,
-     "top10": 16.9444949949401,
-     "top5": 11.390615603075442,
-     "txns_h24": 9477,
-     "vol_h1": 460425.1,
-     "vol_h24": 460425.1,
-     "vol_m5": 120245.67
-    },
-    "id": "6ab2e99b",
-    "last_mcap": 285080,
-    "missing": 0,
-    "peak_mcap": 285080,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "FOOD",
-    "tf": "minute",
-    "token": "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
-    "tp_done": [],
-    "zone_bottom": 83547.58066241819,
-    "zone_top": 130276.96635709163
-   },
    "d50dba22": {
     "chain": "solana",
     "created_ts": 1794529574.02523,
@@ -10668,7 +10616,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 135911,
+    "last_mcap": 133084,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10726,7 +10674,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 360858,
+    "last_mcap": 414890,
     "missing": 0,
     "peak_mcap": 753257,
     "profile": "migrated",
@@ -49040,5 +48988,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3809
+ "runs": 3811
 }
