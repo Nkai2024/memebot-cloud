@@ -1135,10 +1135,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 21:58:15 UTC",
+ "last_run": "2026-11-13 22:13:08 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -12067,6 +12067,66 @@
     "trough_mcap": 47371,
     "units": 0.00012847341792270403,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794607783.765724,
+    "created_ts": 1794593890.0278742,
+    "entry_mcap": 102584,
+    "entry_ts": 1794593890.0278742,
+    "features": {
+     "age_min": 22.44497943719228,
+     "boosts": 500,
+     "buys_h1": 553,
+     "buys_h24": 553,
+     "buys_m5": 236,
+     "change_h1": 16.59,
+     "change_h24": 16.59,
+     "change_h6": 16.59,
+     "change_m5": -1.8,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.21701095108801916,
+     "insiders": 0,
+     "liquidity": 23007.78,
+     "lp_locked_pct": 100,
+     "mcap": 102584,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.4135911446200889,
+     "score": 76,
+     "sells_h1": 383,
+     "sells_h24": 383,
+     "sells_m5": 22,
+     "top1": 1.0347370242063205,
+     "top10": 10.293373177216509,
+     "top5": 5.169042317841801,
+     "txns_h24": 936,
+     "vol_h1": 176740.82,
+     "vol_h24": 176740.82,
+     "vol_m5": 1431.36
+    },
+    "id": "51981be7",
+    "last_mcap": 100585,
+    "missing": 0,
+    "peak_mcap": 136350,
+    "pnl": 1.3342385713171616,
+    "pnl_pct": 13.342385713171613,
+    "profile": "migrated",
+    "realized": 11.334238571317162,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "Nigghao",
+    "tf": "minute",
+    "token": "9J41toneswGA3hZJyfYiWkC9jMm8doMDP3QEBYM1pump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 98813,
+    "units": 9.45566560087343e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-13",
@@ -12123,62 +12183,6 @@
     "zone_bottom": 36538.71736639535,
     "zone_top": 54225.96529827453
    },
-   "51981be7": {
-    "chain": "solana",
-    "created_ts": 1794593890.0278742,
-    "entry_mcap": 102584,
-    "entry_ts": 1794593890.0278742,
-    "features": {
-     "age_min": 22.44497943719228,
-     "boosts": 500,
-     "buys_h1": 553,
-     "buys_h24": 553,
-     "buys_m5": 236,
-     "change_h1": 16.59,
-     "change_h24": 16.59,
-     "change_h6": 16.59,
-     "change_m5": -1.8,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.21701095108801916,
-     "insiders": 0,
-     "liquidity": 23007.78,
-     "lp_locked_pct": 100,
-     "mcap": 102584,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.4135911446200889,
-     "score": 76,
-     "sells_h1": 383,
-     "sells_h24": 383,
-     "sells_m5": 22,
-     "top1": 1.0347370242063205,
-     "top10": 10.293373177216509,
-     "top5": 5.169042317841801,
-     "txns_h24": 936,
-     "vol_h1": 176740.82,
-     "vol_h24": 176740.82,
-     "vol_m5": 1431.36
-    },
-    "id": "51981be7",
-    "last_mcap": 128278,
-    "missing": 0,
-    "peak_mcap": 136350,
-    "profile": "migrated",
-    "realized": 8.566543029127347,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "Nigghao",
-    "tf": "minute",
-    "token": "9J41toneswGA3hZJyfYiWkC9jMm8doMDP3QEBYM1pump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 98813,
-    "units": 9.45566560087343e-05,
-    "units_left": 2.8366996802620296e-05
-   },
    "5c661fce": {
     "chain": "solana",
     "created_ts": 1794558330.5264533,
@@ -12217,7 +12221,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 212996,
+    "last_mcap": 222154,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -12274,9 +12278,9 @@
      "vol_m5": 96119.37
     },
     "id": "66f4042a",
-    "last_mcap": 178987,
+    "last_mcap": 135615,
     "missing": 0,
-    "peak_mcap": 178987,
+    "peak_mcap": 220484,
     "profile": "migrated",
     "realized": 9.266908955316635,
     "size": 10,
@@ -12330,7 +12334,7 @@
      "vol_m5": 89449.03
     },
     "id": "7ea3a479",
-    "last_mcap": 292206,
+    "last_mcap": 283037,
     "missing": 0,
     "peak_mcap": 341633,
     "profile": "migrated",
@@ -12382,7 +12386,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 59596,
+    "last_mcap": 70107,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12440,7 +12444,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 83691,
+    "last_mcap": 82292,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -12498,7 +12502,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1052608,
+    "last_mcap": 1112580,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -50811,5 +50815,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4013
+ "runs": 4016
 }
