@@ -1090,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 18:53:27 UTC",
+ "last_run": "2026-11-13 19:03:08 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -11534,7 +11534,7 @@
     "zone_top": 77774.8384974059
    }
   ],
-  "last_summary_day": "2026-11-12",
+  "last_summary_day": "2026-11-13",
   "positions": {
    "51981be7": {
     "chain": "solana",
@@ -11574,9 +11574,9 @@
      "vol_m5": 1431.36
     },
     "id": "51981be7",
-    "last_mcap": 110290,
+    "last_mcap": 124869,
     "missing": 0,
-    "peak_mcap": 112397,
+    "peak_mcap": 125374,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -11628,7 +11628,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 294247,
+    "last_mcap": 239849,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -11685,7 +11685,7 @@
      "vol_m5": 89449.03
     },
     "id": "7ea3a479",
-    "last_mcap": 220102,
+    "last_mcap": 222258,
     "missing": 0,
     "peak_mcap": 338516,
     "profile": "migrated",
@@ -11737,7 +11737,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 300640,
+    "last_mcap": 225547,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -11847,7 +11847,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 79317,
+    "last_mcap": 80644,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -11905,7 +11905,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1200880,
+    "last_mcap": 1304673,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -50218,5 +50218,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 3976
+ "runs": 3978
 }
