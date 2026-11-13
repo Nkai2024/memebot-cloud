@@ -1144,10 +1144,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 02:26:24 UTC",
+ "last_run": "2026-11-13 02:36:26 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -10546,7 +10546,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 132266,
+    "last_mcap": 129631,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10604,7 +10604,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 390665,
+    "last_mcap": 320492,
     "missing": 0,
     "peak_mcap": 753257,
     "profile": "migrated",
@@ -48918,5 +48918,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3818
+ "runs": 3820
 }
