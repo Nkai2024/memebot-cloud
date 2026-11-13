@@ -1153,10 +1153,10 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-12 23:51:31 UTC",
+ "last_run": "2026-11-13 00:01:24 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -10313,7 +10313,7 @@
      "vol_m5": 20088.32
     },
     "id": "6456f365",
-    "last_mcap": 195708,
+    "last_mcap": 150934,
     "missing": 0,
     "peak_mcap": 246417,
     "profile": "migrated",
@@ -10422,7 +10422,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 163106,
+    "last_mcap": 156779,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10480,21 +10480,23 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 320730,
+    "last_mcap": 559576,
     "missing": 0,
-    "peak_mcap": 320730,
+    "peak_mcap": 559576,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.750135666128804,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "FOOD",
     "tf": "minute",
     "token": "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 285080,
     "units": 3.4025536691455024e-05,
-    "units_left": 3.4025536691455024e-05
+    "units_left": 1.020766100743651e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -48791,5 +48793,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3787
+ "runs": 3789
 }
