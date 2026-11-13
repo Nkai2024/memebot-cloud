@@ -1072,7 +1072,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 14:06:00 UTC",
+ "last_run": "2026-11-13 14:16:00 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10733,12 +10733,10 @@
     "units_left": 0.0,
     "zone_bottom": 46907.40439441529,
     "zone_top": 61055.715458091974
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "28689e9a": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794578975.885295,
     "created_ts": 1794578149.2679007,
     "entry_mcap": 286673,
     "entry_ts": 1794578149.2679007,
@@ -10775,13 +10773,16 @@
      "vol_m5": 86475.47
     },
     "id": "28689e9a",
-    "last_mcap": 416657,
+    "last_mcap": 273894,
     "missing": 0,
     "peak_mcap": 450915,
+    "pnl": 1.3318037349174858,
+    "pnl_pct": 13.31803734917485,
     "profile": "migrated",
-    "realized": 8.634931013035759,
+    "realized": 11.331803734917486,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "JENSEN",
     "tf": "minute",
@@ -10791,8 +10792,11 @@
     ],
     "trough_mcap": 197687,
     "units": 3.383646175258919e-05,
-    "units_left": 1.0150938525776758e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "5c661fce": {
     "chain": "solana",
     "created_ts": 1794558330.5264533,
@@ -10831,7 +10835,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 402764,
+    "last_mcap": 303797,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -10888,7 +10892,7 @@
      "vol_m5": 9494.94
     },
     "id": "9ed9feed",
-    "last_mcap": 306472,
+    "last_mcap": 267239,
     "missing": 0,
     "peak_mcap": 412155,
     "profile": "migrated",
@@ -10909,6 +10913,8 @@
    "a6c8d8b2": {
     "chain": "solana",
     "created_ts": 1794578149.2679007,
+    "entry_mcap": 143336,
+    "entry_ts": 1794579275.8878922,
     "expires_ts": 1794585349.2679007,
     "features": {
      "age_min": 16.86846398115158,
@@ -10943,18 +10949,21 @@
      "vol_m5": 86475.47
     },
     "id": "a6c8d8b2",
-    "last_mcap": 286673,
+    "last_mcap": 97964,
     "missing": 0,
-    "peak_mcap": 286673,
+    "peak_mcap": 143336,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "JENSEN",
     "tf": "minute",
     "token": "3HNUBmfF33AkuYXB7vM9sP9UABJn3bwgZokjVeYDpump",
     "tp_done": [],
+    "trough_mcap": 91390,
+    "units": 6.767315956912429e-05,
+    "units_left": 6.767315956912429e-05,
     "zone_bottom": 125912.78630143811,
     "zone_top": 163614.47384262105
    },
@@ -10997,7 +11006,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 91967,
+    "last_mcap": 91329,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -11055,7 +11064,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 932123,
+    "last_mcap": 996868,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -49368,5 +49377,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 3941
+ "runs": 3943
 }
