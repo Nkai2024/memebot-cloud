@@ -747,15 +747,6 @@
    "profile": "migrated",
    "symbol": "ELONMAX"
   },
-  "solana:EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump": {
-   "count": 1,
-   "first_mcap": 240436,
-   "first_ts": 1793951214.3981957,
-   "last_mcap": 240436,
-   "last_ts": 1793951214.3981957,
-   "profile": "migrated",
-   "symbol": "RM"
-  },
   "solana:F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump": {
    "count": 1,
    "first_mcap": 565453,
@@ -1026,15 +1017,6 @@
    "profile": "migrated",
    "symbol": "Elon Huang"
   },
-  "solana:HuqKMcaEojnp4qRReE1dr5ed5TQhhMcjEn6wskRppump": {
-   "count": 1,
-   "first_mcap": 57193,
-   "first_ts": 1793951514.2729015,
-   "last_mcap": 57193,
-   "last_ts": 1793951514.2729015,
-   "profile": "migrated",
-   "symbol": "RED"
-  },
   "solana:JBUe4NZu4rm4Ej5AsLZECZLHvnWpFRmhn9oPLXCVpump": {
    "count": 1,
    "first_mcap": 95224,
@@ -1108,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 07:45:40 UTC",
+ "last_run": "2026-11-13 07:55:40 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10633,7 +10615,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 118946,
+    "last_mcap": 118494,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10691,7 +10673,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 862543,
+    "last_mcap": 891852,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -49005,5 +48987,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3882
+ "runs": 3884
 }
