@@ -1099,10 +1099,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 08:25:47 UTC",
+ "last_run": "2026-11-13 08:40:40 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -10623,21 +10623,23 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 119087,
+    "last_mcap": 217968,
     "missing": 0,
-    "peak_mcap": 137657,
+    "peak_mcap": 217968,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.033944137966103,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Sakura",
     "tf": "minute",
     "token": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
-    "tp_done": [],
-    "trough_mcap": 119087,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 105308,
     "units": 7.046499633146153e-05,
-    "units_left": 7.046499633146153e-05
+    "units_left": 2.113949889943846e-05
    },
    "ecb61d26": {
     "chain": "solana",
@@ -10730,7 +10732,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 120001,
+    "last_mcap": 119775,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10788,7 +10790,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 818998,
+    "last_mcap": 766395,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -49102,5 +49104,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3890
+ "runs": 3893
 }
