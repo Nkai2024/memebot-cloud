@@ -684,15 +684,6 @@
    "profile": "migrated",
    "symbol": "ECAT"
   },
-  "solana:CAMJCW5oNwSKtVbaS3GSqjwZ75MXKmgYgs7Bemui4dVq": {
-   "count": 1,
-   "first_mcap": 123304,
-   "first_ts": 1793978334.9897242,
-   "last_mcap": 123304,
-   "last_ts": 1793978334.9897242,
-   "profile": "migrated",
-   "symbol": "ZCATS"
-  },
   "solana:CGqWKhZzH86dZJLbJTpS4AfqtzWy59rLNnBeFowhpump": {
    "count": 1,
    "first_mcap": 95583,
@@ -782,6 +773,15 @@
    "last_ts": 1794268686.115444,
    "profile": "migrated",
    "symbol": "BORLY"
+  },
+  "solana:F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump": {
+   "count": 1,
+   "first_mcap": 279724,
+   "first_ts": 1794582949.3149915,
+   "last_mcap": 279724,
+   "last_ts": 1794582949.3149915,
+   "profile": "migrated",
+   "symbol": "JENSEN"
   },
   "solana:F9DrbB5ATbAtLqt4PUbFGcVa5dAHqV3E9ucYvkEBLESS": {
    "count": 1,
@@ -1099,7 +1099,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 15:11:00 UTC",
+ "last_run": "2026-11-13 15:21:00 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -11057,12 +11057,10 @@
     "trough_mcap": 174577,
     "units": 2.7730448604329377e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "171479bc": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794583415.9146454,
     "created_ts": 1794582049.3755012,
     "entry_mcap": 158652,
     "entry_ts": 1794582395.9074762,
@@ -11100,23 +11098,81 @@
      "vol_m5": 33682.76
     },
     "id": "171479bc",
-    "last_mcap": 82025,
+    "last_mcap": 69678,
     "missing": 0,
     "peak_mcap": 165051,
+    "pnl": -5.8676833446789205,
+    "pnl_pct": -58.6768334467892,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.1323166553210795,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "PaperInu",
     "tf": "minute",
     "token": "Ej8JSHqEz3Z3eSLsZJjEv2Hd2c4iEMAENWbDcdQbpump",
     "tp_done": [],
-    "trough_mcap": 82025,
+    "trough_mcap": 69678,
     "units": 6.1140105387893e-05,
-    "units_left": 6.1140105387893e-05,
+    "units_left": 0.0,
     "zone_bottom": 108969.09910014951,
     "zone_top": 162641.5125256345
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
+   "1d83e3e2": {
+    "chain": "solana",
+    "created_ts": 1794582949.3150141,
+    "expires_ts": 1794590149.3150141,
+    "features": {
+     "age_min": 10.385314603646597,
+     "boosts": 0,
+     "buys_h1": 1442,
+     "buys_h24": 1442,
+     "buys_m5": 569,
+     "change_h1": 204,
+     "change_h24": 204,
+     "change_h6": 204,
+     "change_m5": 17.46,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6809130507741111,
+     "insiders": 0,
+     "liquidity": 39423.57,
+     "lp_locked_pct": 100,
+     "mcap": 279724,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.28532653883242537,
+     "score": 85,
+     "sells_h1": 717,
+     "sells_h24": 717,
+     "sells_m5": 350,
+     "top1": 1.9383245483582314,
+     "top10": 17.007633880504596,
+     "top5": 9.207784468181979,
+     "txns_h24": 2159,
+     "vol_h1": 483845.21,
+     "vol_h24": 483845.21,
+     "vol_m5": 166719.54
+    },
+    "id": "1d83e3e2",
+    "last_mcap": 279724,
+    "missing": 0,
+    "peak_mcap": 279724,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "JENSEN",
+    "tf": "minute",
+    "token": "F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+    "tp_done": [],
+    "zone_bottom": 147559.7264637777,
+    "zone_top": 191907.18978309643
    },
    "5c661fce": {
     "chain": "solana",
@@ -11156,7 +11212,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 337947,
+    "last_mcap": 375279,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -11265,7 +11321,7 @@
      "vol_m5": 89449.03
     },
     "id": "7ea3a479",
-    "last_mcap": 308956,
+    "last_mcap": 287154,
     "missing": 0,
     "peak_mcap": 338516,
     "profile": "migrated",
@@ -11280,6 +11336,62 @@
     "trough_mcap": 198554,
     "units": 3.628949288239585e-05,
     "units_left": 3.628949288239585e-05
+   },
+   "b03a0bc9": {
+    "chain": "solana",
+    "created_ts": 1794582949.3150141,
+    "entry_mcap": 279724,
+    "entry_ts": 1794582949.3150141,
+    "features": {
+     "age_min": 10.385314603646597,
+     "boosts": 0,
+     "buys_h1": 1442,
+     "buys_h24": 1442,
+     "buys_m5": 569,
+     "change_h1": 204,
+     "change_h24": 204,
+     "change_h6": 204,
+     "change_m5": 17.46,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6809130507741111,
+     "insiders": 0,
+     "liquidity": 39423.57,
+     "lp_locked_pct": 100,
+     "mcap": 279724,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.28532653883242537,
+     "score": 85,
+     "sells_h1": 717,
+     "sells_h24": 717,
+     "sells_m5": 350,
+     "top1": 1.9383245483582314,
+     "top10": 17.007633880504596,
+     "top5": 9.207784468181979,
+     "txns_h24": 2159,
+     "vol_h1": 483845.21,
+     "vol_h24": 483845.21,
+     "vol_m5": 166719.54
+    },
+    "id": "b03a0bc9",
+    "last_mcap": 458085,
+    "missing": 0,
+    "peak_mcap": 458085,
+    "profile": "migrated",
+    "realized": 8.953208885901816,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "JENSEN",
+    "tf": "minute",
+    "token": "F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 278869,
+    "units": 3.467703879538402e-05,
+    "units_left": 1.0403111638615207e-05
    },
    "ed7ee0ca": {
     "chain": "solana",
@@ -11320,7 +11432,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 89493,
+    "last_mcap": 88249,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -11378,7 +11490,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1065439,
+    "last_mcap": 1157947,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -49693,5 +49805,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 3954
+ "runs": 3956
 }
