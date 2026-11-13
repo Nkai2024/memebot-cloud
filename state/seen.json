@@ -1126,7 +1126,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 04:25:40 UTC",
+ "last_run": "2026-11-13 04:35:40 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10485,12 +10485,10 @@
     "units_left": 0.0,
     "zone_bottom": 102044.53693981853,
     "zone_top": 150282.48090886156
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "b870fdba": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794544516.048477,
     "created_ts": 1794538573.7374356,
     "entry_mcap": 407832,
     "entry_ts": 1794538573.7374356,
@@ -10527,13 +10525,16 @@
      "vol_m5": 118207.98
     },
     "id": "b870fdba",
-    "last_mcap": 809096,
+    "last_mcap": 289740,
     "missing": 0,
     "peak_mcap": 1047254,
+    "pnl": 0.7223638076462855,
+    "pnl_pct": 7.223638076462846,
     "profile": "migrated",
-    "realized": 8.717005969124541,
+    "realized": 10.722363807646285,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "AMD",
     "tf": "minute",
@@ -10541,10 +10542,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 407832,
+    "trough_mcap": 289740,
     "units": 2.3784303340591223e-05,
-    "units_left": 7.135291002177367e-06
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "cca2fcec": {
     "chain": "solana",
     "created_ts": 1794538573.7374356,
@@ -10636,7 +10640,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 118469,
+    "last_mcap": 119514,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10694,7 +10698,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1943072,
+    "last_mcap": 1985500,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -49008,5 +49012,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3842
+ "runs": 3844
 }
