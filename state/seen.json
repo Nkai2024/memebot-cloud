@@ -1116,15 +1116,6 @@
    "profile": "migrated",
    "symbol": "MOOHAN"
   },
-  "solana:fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump": {
-   "count": 1,
-   "first_mcap": 92099,
-   "first_ts": 1793935297.4180884,
-   "last_mcap": 92099,
-   "last_ts": 1793935297.4180884,
-   "profile": "migrated",
-   "symbol": "callinu"
-  },
   "solana:gFjeLxZAjVLMjXxkeMZWTZDBxY4nPodxeNiaaunpump": {
    "count": 1,
    "first_mcap": 106956,
@@ -1144,7 +1135,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 03:21:24 UTC",
+ "last_run": "2026-11-13 03:31:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10545,7 +10536,7 @@
      "vol_m5": 118207.98
     },
     "id": "b870fdba",
-    "last_mcap": 891574,
+    "last_mcap": 991936,
     "missing": 0,
     "peak_mcap": 1009225,
     "profile": "migrated",
@@ -10654,7 +10645,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 120834,
+    "last_mcap": 111712,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10712,7 +10703,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 715687,
+    "last_mcap": 678038,
     "missing": 0,
     "peak_mcap": 792429,
     "profile": "migrated",
@@ -48982,7 +48973,6 @@
   "solana:4QmzE5EiVqGmy6UYA6gv7cQFKqZvhT8rHkbqYt5vpump": 1794103092.8576853,
   "solana:4aqpn2d7wKGLrDCUuL1ucL6soQrPwNkrbtsduCo9pump": 1794232777.0551255,
   "solana:4f2KsphcoyUCWRh9UEFiALJ338E3ShfWXWRkqwSvpump": 1794370586.8710446,
-  "solana:519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump": 1793935297.8716044,
   "solana:52N8mH4XGpnsQJbpexD3oxw1G2zZn7m2jX6VSpkd6btd": 1794287283.787435,
   "solana:5GCWGUcY35ew8FDGUswBwrdXNxpvTmWk8L3Yxegmpump": 1794221676.9981353,
   "solana:5PmU19opZfFbRTVHzhFdUDp5Z4RdaMxVh2uHxqbGpump": 1794143801.7747436,
@@ -49026,5 +49016,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3829
+ "runs": 3831
 }
