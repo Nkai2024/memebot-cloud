@@ -1153,7 +1153,7 @@
    "symbol": "AMD"
   }
  },
- "last_run": "2026-11-13 00:01:24 UTC",
+ "last_run": "2026-11-13 00:11:24 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -10271,12 +10271,10 @@
     "units_left": 0.0,
     "zone_bottom": 88151.62159329475,
     "zone_top": 125601.9732035481
-   }
-  ],
-  "last_summary_day": "2026-11-12",
-  "positions": {
-   "6456f365": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794528299.899394,
     "created_ts": 1794519673.3604198,
     "entry_mcap": 138623,
     "entry_ts": 1794519673.3604198,
@@ -10313,13 +10311,16 @@
      "vol_m5": 20088.32
     },
     "id": "6456f365",
-    "last_mcap": 150934,
+    "last_mcap": 129835,
     "missing": 0,
     "peak_mcap": 246417,
+    "pnl": 1.2786436341732603,
+    "pnl_pct": 12.7864363417326,
     "profile": "migrated",
-    "realized": 8.634888597130345,
+    "realized": 11.27864363417326,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "AI",
     "tf": "minute",
@@ -10329,8 +10330,11 @@
     ],
     "trough_mcap": 112915,
     "units": 6.997395814547369e-05,
-    "units_left": 2.099218744364211e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-12",
+  "positions": {
    "6ab2e99b": {
     "chain": "solana",
     "created_ts": 1794527473.7996545,
@@ -10422,7 +10426,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 156779,
+    "last_mcap": 157524,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -10480,9 +10484,9 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 559576,
+    "last_mcap": 578169,
     "missing": 0,
-    "peak_mcap": 559576,
+    "peak_mcap": 753257,
     "profile": "migrated",
     "realized": 8.750135666128804,
     "size": 10,
@@ -48793,5 +48797,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:rAxD9RpFienq6zfq8yZSakZXjewZqTXD9jRd2UEpump": 1793964114.5787833
  },
- "runs": 3789
+ "runs": 3791
 }
