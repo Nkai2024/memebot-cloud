@@ -1135,10 +1135,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 22:43:08 UTC",
+ "last_run": "2026-11-13 22:53:08 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -12281,7 +12281,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 196573,
+    "last_mcap": 212627,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -12338,9 +12338,9 @@
      "vol_m5": 89449.03
     },
     "id": "7ea3a479",
-    "last_mcap": 292294,
+    "last_mcap": 363962,
     "missing": 0,
-    "peak_mcap": 347781,
+    "peak_mcap": 363962,
     "profile": "migrated",
     "realized": 8.569520568285975,
     "size": 10,
@@ -12392,7 +12392,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 79678,
+    "last_mcap": 72024,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12450,7 +12450,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 78561,
+    "last_mcap": 98646,
     "missing": 0,
     "peak_mcap": 163106,
     "profile": "migrated",
@@ -12508,7 +12508,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1101264,
+    "last_mcap": 1101454,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -50803,6 +50803,7 @@
   "solana:BB843oCDKgqZyQXiGfF5RAHF1ZYsEBQx8oxGq5dPZqHq": 1794069083.4444568,
   "solana:BYCNogKA4DjbhBa2LaVWLPyszFDzDsUNSYdLqdNnpump": 1794342431.1729078,
   "solana:C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u": 1794021265.1942308,
+  "solana:CRwB4GxVDM4Bnh8QMqh9Nk8UZNscced3xec824vxpump": 1794610077.6536136,
   "solana:CczMv6GBMyFgybUKgRrbUxPwYrju7vqJv5L9FR2Hpump": 1794584148.556166,
   "solana:CdmzERuZnYQwqwa2rxtRjsMjDU6y6qrM5ez6n2mxpump": 1794120447.6163104,
   "solana:Ch6cxwpSbEgUDW1hrhC1JDLVmCUZaTCxDfUoY3Sepump": 1794094094.9849336,
@@ -50821,5 +50822,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4022
+ "runs": 4024
 }
