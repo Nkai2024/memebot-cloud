@@ -1171,7 +1171,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 03:17:25 UTC",
+ "last_run": "2026-11-14 03:32:25 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12565,9 +12565,9 @@
      "vol_m5": 61213.25
     },
     "id": "059d8b6f",
-    "last_mcap": 113872,
+    "last_mcap": 159882,
     "missing": 0,
-    "peak_mcap": 113872,
+    "peak_mcap": 159882,
     "profile": "migrated",
     "realized": 9.098648868875097,
     "size": 10,
@@ -12623,73 +12623,23 @@
      "vol_m5": 61213.25
     },
     "id": "2d38a626",
-    "last_mcap": 113872,
+    "last_mcap": 159882,
     "missing": 0,
-    "peak_mcap": 113872,
+    "peak_mcap": 159882,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.666107291447084,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "HARAMBE",
     "tf": "minute",
     "token": "EjoWiu2PLuEs6roeM1H9YxApa3LQ3guo9E27Lcu5pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 51409,
     "units": 0.00010761874119356949,
-    "units_left": 0.00010761874119356949
-   },
-   "62637bc5": {
-    "chain": "solana",
-    "created_ts": 1794619335.1909637,
-    "expires_ts": 1794626535.1909637,
-    "features": {
-     "age_min": 28.523994425932568,
-     "boosts": 0,
-     "buys_h1": 4084,
-     "buys_h24": 4084,
-     "buys_m5": 464,
-     "change_h1": 528,
-     "change_h24": 528,
-     "change_h6": 528,
-     "change_m5": 541,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.33863788413194107,
-     "insiders": 0,
-     "liquidity": 55659.3,
-     "lp_locked_pct": 100,
-     "mcap": 558652,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.06210340679897663,
-     "score": 71,
-     "sells_h1": 1500,
-     "sells_h24": 1500,
-     "sells_m5": 175,
-     "top1": 1.898670813033988,
-     "top10": 18.528325565925513,
-     "top5": 9.376056988586827,
-     "txns_h24": 5584,
-     "vol_h1": 657907.18,
-     "vol_h24": 657907.18,
-     "vol_m5": 40739.56
-    },
-    "id": "62637bc5",
-    "last_mcap": 558652,
-    "missing": 0,
-    "peak_mcap": 558652,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "JENSEN",
-    "tf": "minute",
-    "token": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump",
-    "tp_done": [],
-    "zone_bottom": 194824.95857727094,
-    "zone_top": 279260.9726890888
+    "units_left": 3.228562235807085e-05
    },
    "ab93b7af": {
     "chain": "solana",
@@ -12727,7 +12677,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 163431,
+    "last_mcap": 177205,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12785,7 +12735,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 116581,
+    "last_mcap": 115436,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12843,7 +12793,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1316078,
+    "last_mcap": 1153278,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51156,5 +51106,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4077
+ "runs": 4080
 }
