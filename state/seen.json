@@ -1162,10 +1162,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 08:16:47 UTC",
+ "last_run": "2026-11-14 08:26:40 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -12637,12 +12637,10 @@
     "units_left": 0.0,
     "zone_bottom": 49640.37804962652,
     "zone_top": 58823.83002109789
-   }
-  ],
-  "last_summary_day": "2026-11-13",
-  "positions": {
-   "34985d2f": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794644775.960267,
     "created_ts": 1794644189.9742649,
     "entry_mcap": 131202,
     "entry_ts": 1794644189.9742649,
@@ -12679,22 +12677,30 @@
      "vol_m5": 11219.04
     },
     "id": "34985d2f",
-    "last_mcap": 131202,
+    "last_mcap": 127407,
     "missing": 0,
-    "peak_mcap": 131202,
+    "peak_mcap": 193522,
+    "pnl": 2.45579859682017,
+    "pnl_pct": 24.55798596820169,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 12.45579859682017,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "VICECITY",
     "tf": "minute",
     "token": "Ep13piLgesAxM32dB4hVAsmhfWcsTJqVKmQHkYCKpump",
-    "tp_done": [],
-    "trough_mcap": 131202,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 127407,
     "units": 7.393179982012469e-05,
-    "units_left": 7.393179982012469e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-13",
+  "positions": {
    "ab93b7af": {
     "chain": "solana",
     "created_ts": 1794593883.6986308,
@@ -12731,7 +12737,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 107431,
+    "last_mcap": 112287,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12841,7 +12847,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 115166,
+    "last_mcap": 115651,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12899,7 +12905,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 863361,
+    "last_mcap": 849643,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51211,5 +51217,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4137
+ "runs": 4139
 }
