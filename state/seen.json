@@ -1162,7 +1162,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 04:47:25 UTC",
+ "last_run": "2026-11-14 04:57:25 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12573,12 +12573,10 @@
     "trough_mcap": 51409,
     "units": 0.00010761874119356949,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-13",
-  "positions": {
-   "059d8b6f": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794631801.296511,
     "created_ts": 1794623835.2735136,
     "entry_mcap": 51409,
     "entry_ts": 1794624421.248899,
@@ -12616,13 +12614,16 @@
      "vol_m5": 61213.25
     },
     "id": "059d8b6f",
-    "last_mcap": 52829,
+    "last_mcap": 45987,
     "missing": 0,
     "peak_mcap": 323633,
+    "pnl": 7.974486233927909,
+    "pnl_pct": 79.74486233927908,
     "profile": "migrated",
-    "realized": 16.711988374603667,
+    "realized": 17.97448623392791,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "HARAMBE",
     "tf": "minute",
@@ -12631,12 +12632,15 @@
      0,
      1
     ],
-    "trough_mcap": 51409,
+    "trough_mcap": 45987,
     "units": 0.00018868291544282129,
-    "units_left": 2.83024373164232e-05,
+    "units_left": 0.0,
     "zone_bottom": 49640.37804962652,
     "zone_top": 58823.83002109789
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-13",
+  "positions": {
    "ab93b7af": {
     "chain": "solana",
     "created_ts": 1794593883.6986308,
@@ -12673,7 +12677,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 110351,
+    "last_mcap": 101823,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12731,7 +12735,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 108473,
+    "last_mcap": 110712,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12789,7 +12793,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 976086,
+    "last_mcap": 980358,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51102,5 +51106,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4095
+ "runs": 4097
 }
