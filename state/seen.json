@@ -1171,7 +1171,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 03:42:25 UTC",
+ "last_run": "2026-11-14 03:52:25 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12565,11 +12565,11 @@
      "vol_m5": 61213.25
     },
     "id": "059d8b6f",
-    "last_mcap": 232578,
+    "last_mcap": 274278,
     "missing": 0,
-    "peak_mcap": 232578,
+    "peak_mcap": 323633,
     "profile": "migrated",
-    "realized": 9.098648868875097,
+    "realized": 16.711988374603667,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
@@ -12577,11 +12577,12 @@
     "tf": "minute",
     "token": "EjoWiu2PLuEs6roeM1H9YxApa3LQ3guo9E27Lcu5pump",
     "tp_done": [
-     0
+     0,
+     1
     ],
     "trough_mcap": 51409,
     "units": 0.00018868291544282129,
-    "units_left": 5.66048746328464e-05,
+    "units_left": 2.83024373164232e-05,
     "zone_bottom": 49640.37804962652,
     "zone_top": 58823.83002109789
    },
@@ -12623,9 +12624,9 @@
      "vol_m5": 61213.25
     },
     "id": "2d38a626",
-    "last_mcap": 232578,
+    "last_mcap": 274278,
     "missing": 0,
-    "peak_mcap": 232578,
+    "peak_mcap": 323633,
     "profile": "migrated",
     "realized": 8.666107291447084,
     "size": 10,
@@ -12677,7 +12678,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 171026,
+    "last_mcap": 147852,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12735,7 +12736,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 115436,
+    "last_mcap": 114717,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12793,7 +12794,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1032437,
+    "last_mcap": 915798,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51106,5 +51107,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4082
+ "runs": 4084
 }
