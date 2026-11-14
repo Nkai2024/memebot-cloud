@@ -1153,7 +1153,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-13 23:52:25 UTC",
+ "last_run": "2026-11-14 00:02:25 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12387,58 +12387,6 @@
   ],
   "last_summary_day": "2026-11-13",
   "positions": {
-   "28883984": {
-    "chain": "solana",
-    "created_ts": 1794607078.262086,
-    "expires_ts": 1794614278.262086,
-    "features": {
-     "age_min": 14.5188352505366,
-     "boosts": 0,
-     "buys_h1": 4241,
-     "buys_h24": 4241,
-     "buys_m5": 1377,
-     "change_h1": 200,
-     "change_h24": 200,
-     "change_h6": 200,
-     "change_m5": 69.74,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.11794871188591438,
-     "insiders": 0,
-     "liquidity": 22366.48,
-     "lp_locked_pct": 100,
-     "mcap": 96546,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.21602871213924932,
-     "score": 84,
-     "sells_h1": 3116,
-     "sells_h24": 3116,
-     "sells_m5": 1041,
-     "top1": 2.6426735557393055,
-     "top10": 17.351588504609374,
-     "top5": 10.76227750792379,
-     "txns_h24": 7357,
-     "vol_h1": 267606.83,
-     "vol_h24": 267606.83,
-     "vol_m5": 96119.37
-    },
-    "id": "28883984",
-    "last_mcap": 96546,
-    "missing": 0,
-    "peak_mcap": 96546,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "WISHMAS",
-    "tf": "minute",
-    "token": "9cmXfuC26anZtH9AUWVzpUxU1UJ7PPogYxftYTepump",
-    "tp_done": [],
-    "zone_bottom": 36538.71736639535,
-    "zone_top": 54225.96529827453
-   },
    "5c661fce": {
     "chain": "solana",
     "created_ts": 1794558330.5264533,
@@ -12477,7 +12425,7 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 191799,
+    "last_mcap": 172214,
     "missing": 0,
     "peak_mcap": 889850,
     "profile": "migrated",
@@ -12532,7 +12480,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 58158,
+    "last_mcap": 54612,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12590,7 +12538,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 143387,
+    "last_mcap": 143547,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12648,7 +12596,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 1101122,
+    "last_mcap": 871884,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -50962,5 +50910,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4036
+ "runs": 4038
 }
