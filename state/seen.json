@@ -1153,7 +1153,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 00:12:25 UTC",
+ "last_run": "2026-11-14 00:22:25 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12383,12 +12383,10 @@
     "trough_mcap": 21088,
     "units": 0.00019153683628537013,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-13",
-  "positions": {
-   "5c661fce": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794615421.1926992,
     "created_ts": 1794558330.5264533,
     "entry_mcap": 137657,
     "entry_ts": 1794558330.5264533,
@@ -12425,13 +12423,16 @@
      "vol_m5": 115999.47
     },
     "id": "5c661fce",
-    "last_mcap": 146625,
+    "last_mcap": 136229,
     "missing": 0,
     "peak_mcap": 889850,
+    "pnl": 7.552620494780502,
+    "pnl_pct": 75.52620494780501,
     "profile": "migrated",
-    "realized": 16.155911288928277,
+    "realized": 17.552620494780502,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "Sakura",
     "tf": "minute",
@@ -12442,8 +12443,11 @@
     ],
     "trough_mcap": 105308,
     "units": 7.046499633146153e-05,
-    "units_left": 1.056974944971923e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-13",
+  "positions": {
    "ab93b7af": {
     "chain": "solana",
     "created_ts": 1794593883.6986308,
@@ -12480,7 +12484,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 57429,
+    "last_mcap": 69134,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12538,7 +12542,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 130212,
+    "last_mcap": 120028,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12596,7 +12600,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 879866,
+    "last_mcap": 906985,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -50906,9 +50910,10 @@
   "solana:GnQqJffn6mg5qSkdf6rHTmjxfaMhYcqxgMDYTCVfpump": 1794425067.2321177,
   "solana:GsycyHWVhuKJxoXr1YtuSQXGwFoPLGd2gNP8Ns11pump": 1794433167.3290188,
   "solana:H3gXgvf2kza3vz3WhP3KoKdprhiu7oW6Q1ARXLy5Erhf": 1794434068.4581828,
+  "solana:HEfH9FaC2q5uMmqVLWqcqxjTUdoSZohJx5uhKHPHpump": 1794615434.7675116,
   "solana:HzwVr7KjPhUriHK9MrJbFzbTDTPwUXGrL2Ah2wVhpump": 1794434067.2551699,
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4040
+ "runs": 4042
 }
