@@ -909,15 +909,6 @@
    "profile": "migrated",
    "symbol": "CHICAT"
   },
-  "solana:GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump": {
-   "count": 1,
-   "first_mcap": 100090,
-   "first_ts": 1794028165.9154916,
-   "last_mcap": 100090,
-   "last_ts": 1794028165.9154916,
-   "profile": "migrated",
-   "symbol": "SLINGFOLIO"
-  },
   "solana:H2SQUiRy8bvAv2yARwajptdLKi9BTYDoWLvu5cbpump": {
    "count": 1,
    "first_mcap": 407832,
@@ -1162,7 +1153,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-14 05:07:25 UTC",
+ "last_run": "2026-11-14 05:21:40 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -12677,7 +12668,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 125163,
+    "last_mcap": 121411,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -12735,7 +12726,7 @@
      "vol_m5": 19646.04
     },
     "id": "ed7ee0ca",
-    "last_mcap": 110350,
+    "last_mcap": 110417,
     "missing": 0,
     "peak_mcap": 198795,
     "profile": "migrated",
@@ -12793,7 +12784,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 943007,
+    "last_mcap": 900701,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51106,5 +51097,5 @@
   "solana:LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump": 1794045407.5522137,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567
  },
- "runs": 4099
+ "runs": 4102
 }
