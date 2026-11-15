@@ -927,15 +927,6 @@
    "profile": "migrated",
    "symbol": "SIRIUS"
   },
-  "solana:HGE5K8mQtD7zYGfTCimkPRQ7HLKuefS26Z58XNxzuWuf": {
-   "count": 1,
-   "first_mcap": 102510,
-   "first_ts": 1794101594.1116142,
-   "last_mcap": 102510,
-   "last_ts": 1794101594.1116142,
-   "profile": "migrated",
-   "symbol": "EVE"
-  },
   "solana:HJSJ7NUXYZ8es3UZ4w35XEsw7YRJLakKetBsz1WDpump": {
    "count": 1,
    "first_mcap": 77355,
@@ -1117,10 +1108,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-15 01:24:14 UTC",
+ "last_run": "2026-11-15 01:34:14 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -13168,7 +13159,7 @@
      "vol_m5": 25849.92
     },
     "id": "16b43ac9",
-    "last_mcap": 163171,
+    "last_mcap": 187494,
     "missing": 0,
     "peak_mcap": 256542,
     "profile": "migrated",
@@ -13274,7 +13265,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 64011,
+    "last_mcap": 67310,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -13331,9 +13322,9 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 567542,
+    "last_mcap": 614520,
     "missing": 0,
-    "peak_mcap": 609939,
+    "peak_mcap": 644951,
     "profile": "migrated",
     "realized": 18.550933722757,
     "size": 10,
@@ -13388,7 +13379,7 @@
      "vol_m5": 120245.67
     },
     "id": "f8520220",
-    "last_mcap": 355491,
+    "last_mcap": 428131,
     "missing": 0,
     "peak_mcap": 2390581,
     "profile": "migrated",
@@ -51694,5 +51685,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4333
+ "runs": 4335
 }
