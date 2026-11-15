@@ -126,15 +126,6 @@
    "profile": "migrated",
    "symbol": "Parrot"
   },
-  "solana:3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump": {
-   "count": 1,
-   "first_mcap": 103993,
-   "first_ts": 1794179108.8195379,
-   "last_mcap": 103993,
-   "last_ts": 1794179108.8195379,
-   "profile": "migrated",
-   "symbol": "S&P500"
-  },
   "solana:3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": {
    "count": 1,
    "first_mcap": 239620,
@@ -1108,7 +1099,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-15 22:51:03 UTC",
+ "last_run": "2026-11-15 23:06:03 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -14237,7 +14228,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 138889,
+    "last_mcap": 137932,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -14346,7 +14337,7 @@
      "vol_m5": 47854.92
     },
     "id": "2d9e529f",
-    "last_mcap": 215672,
+    "last_mcap": 237436,
     "missing": 0,
     "peak_mcap": 280168,
     "profile": "migrated",
@@ -14452,7 +14443,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 182444,
+    "last_mcap": 179101,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -14509,7 +14500,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 241012,
+    "last_mcap": 243696,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -52865,5 +52856,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4583
+ "runs": 4586
 }
