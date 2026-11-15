@@ -918,15 +918,6 @@
    "profile": "migrated",
    "symbol": "SIRIUS"
   },
-  "solana:HMKBqmMXLe4Nt2mmFZEWdWY2dbgrcTuopBmi6xVfpump": {
-   "count": 1,
-   "first_mcap": 82305,
-   "first_ts": 1794168654.6398692,
-   "last_mcap": 82305,
-   "last_ts": 1794168654.6398692,
-   "profile": "migrated",
-   "symbol": "GROKIA"
-  },
   "solana:HV18rA55qBXWmdy44AiEV58nkNb2qMLbRECfeB1fpump": {
    "count": 1,
    "first_mcap": 170431,
@@ -1081,7 +1072,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-15 20:06:45 UTC",
+ "last_run": "2026-11-15 20:21:45 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -13552,7 +13543,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 150749,
+    "last_mcap": 134507,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -13607,7 +13598,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 198615,
+    "last_mcap": 185931,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -13664,7 +13655,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 331276,
+    "last_mcap": 327063,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -13721,21 +13712,23 @@
      "vol_m5": 25492.28
     },
     "id": "d494d387",
-    "last_mcap": 53413,
+    "last_mcap": 78151,
     "missing": 0,
-    "peak_mcap": 55436,
+    "peak_mcap": 78151,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.765934420560747,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "NCAT",
     "tf": "minute",
     "token": "Cxrw8hPBcbboL18wLhHJCt1CfLe3JSdfofLrZ8ABpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 45563,
     "units": 0.00018130841121495326,
-    "units_left": 0.00018130841121495326
+    "units_left": 5.4392523364485976e-05
    },
    "f72e61f9": {
     "chain": "solana",
@@ -52074,5 +52067,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4550
+ "runs": 4553
 }
