@@ -1,14 +1,5 @@
 {
  "alerts": {
-  "solana:2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump": {
-   "count": 1,
-   "first_mcap": 141594,
-   "first_ts": 1794170754.951502,
-   "last_mcap": 141594,
-   "last_ts": 1794170754.951502,
-   "profile": "migrated",
-   "symbol": "GTA"
-  },
   "solana:2FbqgFEWTwTRqZCemnf4AaP9tmhHKha3oqMjCNmcpump": {
    "count": 1,
    "first_mcap": 262494,
@@ -864,6 +855,15 @@
    "profile": "migrated",
    "symbol": "HOGE"
   },
+  "solana:FfXDcTtDk5tzETc9QGRsy8ZSV2TGm4DXXpHXpjVVpump": {
+   "count": 1,
+   "first_mcap": 111780,
+   "first_ts": 1794775895.0151975,
+   "last_mcap": 111780,
+   "last_ts": 1794775895.0151975,
+   "profile": "migrated",
+   "symbol": "HENSEN"
+  },
   "solana:FgGY3F2H38NzqcFHfHdrWXabMPN8yHaWEQ67dGoWpump": {
    "count": 1,
    "first_mcap": 171081,
@@ -1081,11 +1081,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-15 20:41:45 UTC",
+ "last_run": "2026-11-15 20:51:52 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "alerts": 1,
+  "checked": 2,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -13612,7 +13612,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 129088,
+    "last_mcap": 137681,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -13630,6 +13630,58 @@
     "trough_mcap": 68293,
     "units": 0.00012333121424030515,
     "units_left": 1.8499682136045776e-05
+   },
+   "3c14aa54": {
+    "chain": "solana",
+    "created_ts": 1794775895.0152154,
+    "expires_ts": 1794783095.0152154,
+    "features": {
+     "age_min": 18.731008899211883,
+     "boosts": 0,
+     "buys_h1": 3597,
+     "buys_h24": 3597,
+     "buys_m5": 682,
+     "change_h1": 211,
+     "change_h24": 211,
+     "change_h6": 211,
+     "change_m5": 89.88,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5872096860385092,
+     "insiders": 0,
+     "liquidity": 22896.26,
+     "lp_locked_pct": 100,
+     "mcap": 111780,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.22045170560761115,
+     "score": 75,
+     "sells_h1": 621,
+     "sells_h24": 621,
+     "sells_m5": 85,
+     "top1": 0.3864248275218636,
+     "top10": 3.7770485553106434,
+     "top5": 1.921915887866559,
+     "txns_h24": 4218,
+     "vol_h1": 148108.37,
+     "vol_h24": 148108.37,
+     "vol_m5": 9622.25
+    },
+    "id": "3c14aa54",
+    "last_mcap": 111780,
+    "missing": 0,
+    "peak_mcap": 111780,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "HENSEN",
+    "tf": "minute",
+    "token": "FfXDcTtDk5tzETc9QGRsy8ZSV2TGm4DXXpHXpjVVpump",
+    "tp_done": [],
+    "zone_bottom": 46917.26747685233,
+    "zone_top": 66185.1870726425
    },
    "ab93b7af": {
     "chain": "solana",
@@ -13667,7 +13719,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 168994,
+    "last_mcap": 234481,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -13724,7 +13776,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 317711,
+    "last_mcap": 371953,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -13742,6 +13794,60 @@
     "trough_mcap": 57489,
     "units": 9.235720338579602e-05,
     "units_left": 1.3853580507869406e-05
+   },
+   "d214408e": {
+    "chain": "solana",
+    "created_ts": 1794775895.0152154,
+    "entry_mcap": 111780,
+    "entry_ts": 1794775895.0152154,
+    "features": {
+     "age_min": 18.731008899211883,
+     "boosts": 0,
+     "buys_h1": 3597,
+     "buys_h24": 3597,
+     "buys_m5": 682,
+     "change_h1": 211,
+     "change_h24": 211,
+     "change_h6": 211,
+     "change_m5": 89.88,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.5872096860385092,
+     "insiders": 0,
+     "liquidity": 22896.26,
+     "lp_locked_pct": 100,
+     "mcap": 111780,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.22045170560761115,
+     "score": 75,
+     "sells_h1": 621,
+     "sells_h24": 621,
+     "sells_m5": 85,
+     "top1": 0.3864248275218636,
+     "top10": 3.7770485553106434,
+     "top5": 1.921915887866559,
+     "txns_h24": 4218,
+     "vol_h1": 148108.37,
+     "vol_h24": 148108.37,
+     "vol_m5": 9622.25
+    },
+    "id": "d214408e",
+    "last_mcap": 105184,
+    "missing": 0,
+    "peak_mcap": 112471,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "HENSEN",
+    "tf": "minute",
+    "token": "FfXDcTtDk5tzETc9QGRsy8ZSV2TGm4DXXpHXpjVVpump",
+    "tp_done": [],
+    "trough_mcap": 98456,
+    "units": 8.677759885489353e-05,
+    "units_left": 8.677759885489353e-05
    },
    "d236ac7c": {
     "chain": "solana",
@@ -13781,9 +13887,9 @@
      "vol_m5": 22131.22
     },
     "id": "d236ac7c",
-    "last_mcap": 121305,
+    "last_mcap": 93680,
     "missing": 0,
-    "peak_mcap": 130705,
+    "peak_mcap": 131550,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -13793,7 +13899,7 @@
     "tf": "minute",
     "token": "EwVUPKyysUxz1Ej2s6AczqqXjK8EwTNokCtvk38Xpump",
     "tp_done": [],
-    "trough_mcap": 100604,
+    "trough_mcap": 89794,
     "units": 9.170322190288912e-05,
     "units_left": 9.170322190288912e-05
    },
@@ -52187,5 +52293,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4557
+ "runs": 4559
 }
