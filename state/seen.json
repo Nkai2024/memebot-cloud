@@ -1090,10 +1090,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 02:21:03 UTC",
+ "last_run": "2026-11-16 02:31:04 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -14704,7 +14704,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 137794,
+    "last_mcap": 147393,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -14762,7 +14762,7 @@
      "vol_m5": 11265.08
     },
     "id": "2188ddf7",
-    "last_mcap": 250226,
+    "last_mcap": 209019,
     "missing": 0,
     "peak_mcap": 281886,
     "profile": "migrated",
@@ -14871,7 +14871,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 93136,
+    "last_mcap": 77967,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -14928,7 +14928,7 @@
      "vol_m5": 36217.63
     },
     "id": "bff9a8ad",
-    "last_mcap": 383163,
+    "last_mcap": 308311,
     "missing": 0,
     "peak_mcap": 436829,
     "profile": "migrated",
@@ -14984,7 +14984,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 136196,
+    "last_mcap": 134280,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -15002,58 +15002,6 @@
     "trough_mcap": 57489,
     "units": 9.235720338579602e-05,
     "units_left": 1.3853580507869406e-05
-   },
-   "de03b300": {
-    "chain": "solana",
-    "created_ts": 1794789053.376266,
-    "expires_ts": 1794796253.376266,
-    "features": {
-     "age_min": 20.52527241309484,
-     "boosts": 0,
-     "buys_h1": 1981,
-     "buys_h24": 1981,
-     "buys_m5": 925,
-     "change_h1": 544,
-     "change_h24": 544,
-     "change_h6": 544,
-     "change_m5": 71.94,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.360946935248221,
-     "insiders": 0,
-     "liquidity": 54698.22,
-     "lp_locked_pct": 100,
-     "mcap": 579024,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.12348211683422543,
-     "score": 78,
-     "sells_h1": 1024,
-     "sells_h24": 1024,
-     "sells_m5": 560,
-     "top1": 2.2473879833061394,
-     "top10": 21.277884845082156,
-     "top5": 11.164259576210485,
-     "txns_h24": 3005,
-     "vol_h1": 623713.55,
-     "vol_h24": 623713.55,
-     "vol_m5": 116352.58
-    },
-    "id": "de03b300",
-    "last_mcap": 579024,
-    "missing": 0,
-    "peak_mcap": 579024,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "BAWSAQ",
-    "tf": "minute",
-    "token": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
-    "tp_done": [],
-    "zone_bottom": 208824.75750077574,
-    "zone_top": 302699.1634906706
    }
   },
   "started_ts": 1794009851.4477682,
@@ -53340,5 +53288,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4625
+ "runs": 4627
 }
