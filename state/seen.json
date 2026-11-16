@@ -1126,10 +1126,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 00:41:03 UTC",
+ "last_run": "2026-11-16 00:56:04 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -14494,7 +14494,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 137319,
+    "last_mcap": 148109,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -14552,9 +14552,9 @@
      "vol_m5": 11265.08
     },
     "id": "2188ddf7",
-    "last_mcap": 93979,
+    "last_mcap": 108037,
     "missing": 0,
-    "peak_mcap": 101040,
+    "peak_mcap": 108037,
     "profile": "migrated",
     "realized": 13.367870592959909,
     "size": 10,
@@ -14610,7 +14610,7 @@
      "vol_m5": 116352.58
     },
     "id": "25426ca5",
-    "last_mcap": 767329,
+    "last_mcap": 636436,
     "missing": 0,
     "peak_mcap": 832455,
     "profile": "migrated",
@@ -14719,7 +14719,7 @@
      "vol_m5": 22907.7
     },
     "id": "a8db1bc9",
-    "last_mcap": 172472,
+    "last_mcap": 128956,
     "missing": 0,
     "peak_mcap": 257698,
     "profile": "migrated",
@@ -14775,7 +14775,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 207584,
+    "last_mcap": 210229,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -14832,9 +14832,9 @@
      "vol_m5": 36217.63
     },
     "id": "bff9a8ad",
-    "last_mcap": 287245,
+    "last_mcap": 337877,
     "missing": 0,
-    "peak_mcap": 287245,
+    "peak_mcap": 388939,
     "profile": "migrated",
     "realized": 8.657165664114876,
     "size": 10,
@@ -14888,7 +14888,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 180197,
+    "last_mcap": 181383,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -53244,5 +53244,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4605
+ "runs": 4608
 }
