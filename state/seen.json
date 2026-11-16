@@ -9,15 +9,6 @@
    "profile": "migrated",
    "symbol": "CSI"
   },
-  "solana:2HbbwKyQqRE2mhhPXd48ehYpGQufY2xGe5vTQaZTpump": {
-   "count": 1,
-   "first_mcap": 146856,
-   "first_ts": 1794256692.0574315,
-   "last_mcap": 146856,
-   "last_ts": 1794256692.0574315,
-   "profile": "migrated",
-   "symbol": "CAT"
-  },
   "solana:2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump": {
    "count": 1,
    "first_mcap": 193203,
@@ -1008,15 +999,6 @@
    "profile": "migrated",
    "symbol": "SIRIUS"
   },
-  "solana:HV18rA55qBXWmdy44AiEV58nkNb2qMLbRECfeB1fpump": {
-   "count": 1,
-   "first_mcap": 170431,
-   "first_ts": 1794256385.717837,
-   "last_mcap": 170431,
-   "last_ts": 1794256385.717837,
-   "profile": "migrated",
-   "symbol": "ALICE"
-  },
   "solana:Ha9GjG2j1pMDEsxK3fE1jxyshYHELvnEvxUN3XA3pump": {
    "count": 1,
    "first_mcap": 149821,
@@ -1061,15 +1043,6 @@
    "last_ts": 1794359487.5780714,
    "profile": "migrated",
    "symbol": "\u54aa\u597d"
-  },
-  "solana:HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump": {
-   "count": 1,
-   "first_mcap": 504617,
-   "first_ts": 1794256685.589481,
-   "last_mcap": 504617,
-   "last_ts": 1794256685.589481,
-   "profile": "migrated",
-   "symbol": "MAYA"
   },
   "solana:HuQAr1SxFdA3YYBz5joyjvrR5Xsr9G6r2fDt4NN8pump": {
    "count": 1,
@@ -1144,10 +1117,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 20:32:07 UTC",
+ "last_run": "2026-11-16 20:42:06 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -15894,21 +15867,23 @@
      "vol_m5": 46407.56
     },
     "id": "c2cb4efd",
-    "last_mcap": 133919,
+    "last_mcap": 158150,
     "missing": 0,
-    "peak_mcap": 133919,
+    "peak_mcap": 184219,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.625917998641812,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "VI",
     "tf": "minute",
     "token": "3Ag5XsdWbPZrrcdfcsQqfHPv2syhZWpNx8CDaDcWpump",
-    "tp_done": [],
-    "trough_mcap": 111788,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 96902,
     "units": 8.667369587361724e-05,
-    "units_left": 8.667369587361724e-05
+    "units_left": 2.6002108762085173e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -54196,5 +54171,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4803
+ "runs": 4805
 }
