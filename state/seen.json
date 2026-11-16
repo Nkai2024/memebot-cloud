@@ -405,15 +405,6 @@
    "profile": "migrated",
    "symbol": "Food Cat"
   },
-  "solana:8qC2e7YxK2A4d8VLdZTo8jcMFDMQNDB9xdFdRZYMpump": {
-   "count": 1,
-   "first_mcap": 52505,
-   "first_ts": 1794259985.6639984,
-   "last_mcap": 52505,
-   "last_ts": 1794259985.6639984,
-   "profile": "migrated",
-   "symbol": "Unison"
-  },
   "solana:8tbfkL8LZYUN3ygzWMKfffqVd7tLRpWkuh2fowsepump": {
    "count": 1,
    "first_mcap": 103889,
@@ -1099,11 +1090,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 21:27:00 UTC",
+ "last_run": "2026-11-16 21:37:00 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -54069,6 +54060,7 @@
   "solana:4f2KsphcoyUCWRh9UEFiALJ338E3ShfWXWRkqwSvpump": 1794370586.8710446,
   "solana:52N8mH4XGpnsQJbpexD3oxw1G2zZn7m2jX6VSpkd6btd": 1794287283.787435,
   "solana:5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": 1794775294.1979954,
+  "solana:6UcvWd4hHYz6FUE8LqDrrXvz6uXbvNtsp9LudEmnpump": 1794865009.7161613,
   "solana:6edJUFSC85CyyLFB1QcCvYu7uzqaD4kV9o5YUPxrpump": 1794700442.7843313,
   "solana:73UpjVFTWj3ZpkiRxz8GKfYSX5xg8UXtWzxUSg9apump": 1794504671.887533,
   "solana:7H2sHeLHyHR8jxENGmsqn7RxTkYZa4KwXvKYcoxBpump": 1794771994.137157,
@@ -54105,5 +54097,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4814
+ "runs": 4816
 }
