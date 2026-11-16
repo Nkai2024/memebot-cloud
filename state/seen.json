@@ -1135,11 +1135,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 18:42:00 UTC",
+ "last_run": "2026-11-16 18:52:00 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -15713,21 +15713,23 @@
      "vol_m5": 106672.72
     },
     "id": "43de541a",
-    "last_mcap": 211494,
+    "last_mcap": 295590,
     "missing": 0,
-    "peak_mcap": 215123,
+    "peak_mcap": 316822,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 11.972280806458091,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "ETF",
     "tf": "minute",
     "token": "Gg5aWvfucyMwihDzyfCEaLgyeeNE2dkob2LTwWfHpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 141896,
     "units": 5.565341120985926e-05,
-    "units_left": 5.565341120985926e-05
+    "units_left": 1.669602336295778e-05
    },
    "b018ddba": {
     "chain": "solana",
@@ -54039,6 +54041,7 @@
   "solana:7csfMgiRcBy9Y4GbGVMz8qJWFUk718KG58xfCKpXpump": 1794605877.5974097,
   "solana:8655LtfvozXLSJWrzcmwVeK13s5Gvn49UXFHYcYzpump": 1794718705.46311,
   "solana:8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": 1794361286.8745058,
+  "solana:8AzrbaGjACy5VZ4gyjaAGAueCYpvpUWKwpyeGp4wpump": 1794855108.6863606,
   "solana:8QYvskUhq7VaZX2PwJaMKT2Lua1Kr9w4yva2fi1Bpump": 1794672285.6310692,
   "solana:8mkdKC4krnsGsDDSx7nGioWwZiBgeUrECcJg8Gd4pump": 1794426267.1430252,
   "solana:9RZH5NbSW27KewwfAcbhQXixMRUaMc7zNppCRnfUpump": 1794584748.5427465,
@@ -54063,5 +54066,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4781
+ "runs": 4783
 }
