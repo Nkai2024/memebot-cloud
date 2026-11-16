@@ -1099,10 +1099,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 00:01:03 UTC",
+ "last_run": "2026-11-16 00:11:04 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -14407,7 +14407,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 162493,
+    "last_mcap": 139701,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -14517,21 +14517,23 @@
      "vol_m5": 22907.7
     },
     "id": "a8db1bc9",
-    "last_mcap": 108142,
+    "last_mcap": 147155,
     "missing": 0,
-    "peak_mcap": 113950,
+    "peak_mcap": 156338,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.873794826114898,
     "size": 10,
     "status": "open",
     "strategy": "ZONE",
     "symbol": "AI",
     "tf": "minute",
     "token": "GgDHtSGcXn5YrADnpsQSVHFAa5xLwVEuD7FWeRgvpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 94919,
     "units": 0.00010219239562152993,
-    "units_left": 0.00010219239562152993,
+    "units_left": 3.065771868645898e-05,
     "zone_bottom": 75699.93887038527,
     "zone_top": 109581.78202571628
    },
@@ -14571,7 +14573,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 181121,
+    "last_mcap": 265199,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -14628,7 +14630,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 253956,
+    "last_mcap": 198186,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -52932,5 +52934,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4597
+ "runs": 4599
 }
