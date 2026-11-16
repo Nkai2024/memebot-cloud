@@ -1144,11 +1144,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 19:37:00 UTC",
+ "last_run": "2026-11-16 19:47:00 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -15680,6 +15680,66 @@
     "trough_mcap": 2040,
     "units": 7.092302292934019e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1794858455.9863002,
+    "created_ts": 1794857509.7807827,
+    "entry_mcap": 558203,
+    "entry_ts": 1794857509.7807827,
+    "features": {
+     "age_min": 14.40424718062083,
+     "boosts": 0,
+     "buys_h1": 5676,
+     "buys_h24": 5676,
+     "buys_m5": 1705,
+     "change_h1": 1328,
+     "change_h24": 1328,
+     "change_h6": 1328,
+     "change_m5": 161,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.4481316089693179,
+     "insiders": 0,
+     "liquidity": 52763.09,
+     "lp_locked_pct": 100,
+     "mcap": 558203,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 86,
+     "sells_h1": 1059,
+     "sells_h24": 1059,
+     "sells_m5": 488,
+     "top1": 0.9106652832317624,
+     "top10": 8.614670755942013,
+     "top5": 4.507987421231196,
+     "txns_h24": 6735,
+     "vol_h1": 291544.46,
+     "vol_h24": 291544.46,
+     "vol_m5": 86529.06
+    },
+    "id": "bbc49245",
+    "last_mcap": 492167,
+    "missing": 0,
+    "peak_mcap": 1051422,
+    "pnl": 1.3077350976257716,
+    "pnl_pct": 13.077350976257707,
+    "profile": "migrated",
+    "realized": 11.307735097625772,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "ROCCO",
+    "tf": "minute",
+    "token": "FJbyUWahiRMtLnExTDJ1HzhKHjJzMTbZJL27S2NVpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 492167,
+    "units": 1.737719073527014e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-16",
@@ -15722,7 +15782,7 @@
      "vol_m5": 106672.72
     },
     "id": "43de541a",
-    "last_mcap": 267238,
+    "last_mcap": 231640,
     "missing": 0,
     "peak_mcap": 316822,
     "profile": "migrated",
@@ -15791,62 +15851,6 @@
     "tp_done": [],
     "zone_bottom": 79348.40505534802,
     "zone_top": 117524.9762682794
-   },
-   "bbc49245": {
-    "chain": "solana",
-    "created_ts": 1794857509.7807827,
-    "entry_mcap": 558203,
-    "entry_ts": 1794857509.7807827,
-    "features": {
-     "age_min": 14.40424718062083,
-     "boosts": 0,
-     "buys_h1": 5676,
-     "buys_h24": 5676,
-     "buys_m5": 1705,
-     "change_h1": 1328,
-     "change_h24": 1328,
-     "change_h6": 1328,
-     "change_m5": 161,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.4481316089693179,
-     "insiders": 0,
-     "liquidity": 52763.09,
-     "lp_locked_pct": 100,
-     "mcap": 558203,
-     "n_socials": 3,
-     "n_warn": 0,
-     "retracement_now": 0.0,
-     "score": 86,
-     "sells_h1": 1059,
-     "sells_h24": 1059,
-     "sells_m5": 488,
-     "top1": 0.9106652832317624,
-     "top10": 8.614670755942013,
-     "top5": 4.507987421231196,
-     "txns_h24": 6735,
-     "vol_h1": 291544.46,
-     "vol_h24": 291544.46,
-     "vol_m5": 86529.06
-    },
-    "id": "bbc49245",
-    "last_mcap": 763968,
-    "missing": 0,
-    "peak_mcap": 1051422,
-    "profile": "migrated",
-    "realized": 8.818963466337513,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "ROCCO",
-    "tf": "minute",
-    "token": "FJbyUWahiRMtLnExTDJ1HzhKHjJzMTbZJL27S2NVpump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 542587,
-    "units": 1.737719073527014e-05,
-    "units_left": 5.213157220581042e-06
    },
    "cc01cd19": {
     "chain": "solana",
@@ -54186,5 +54190,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4792
+ "runs": 4794
 }
