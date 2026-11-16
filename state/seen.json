@@ -1108,10 +1108,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 21:52:07 UTC",
+ "last_run": "2026-11-16 22:02:00 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -15866,7 +15866,7 @@
      "vol_m5": 9329.46
     },
     "id": "11d93007",
-    "last_mcap": 188587,
+    "last_mcap": 158538,
     "missing": 0,
     "peak_mcap": 211250,
     "profile": "migrated",
@@ -15878,7 +15878,7 @@
     "tf": "minute",
     "token": "7XpsCaMBnWrYuKmdN4qRVYcJcnwRcNTErgMkFrtPpump",
     "tp_done": [],
-    "trough_mcap": 170659,
+    "trough_mcap": 158538,
     "units": 5.109727446084473e-05,
     "units_left": 5.109727446084473e-05
    },
@@ -15920,21 +15920,23 @@
      "vol_m5": 412387.46
     },
     "id": "4e7ed6dd",
-    "last_mcap": 319661,
+    "last_mcap": 334987,
     "missing": 0,
-    "peak_mcap": 319661,
+    "peak_mcap": 434748,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.566077977607527,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "BAWSAQ",
     "tf": "minute",
     "token": "4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 319661,
     "units": 3.0344646359737346e-05,
-    "units_left": 3.0344646359737346e-05
+    "units_left": 9.103393907921205e-06
    },
    "54cd9c55": {
     "chain": "solana",
@@ -54328,5 +54330,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4819
+ "runs": 4821
 }
