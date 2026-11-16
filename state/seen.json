@@ -1135,11 +1135,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 18:52:00 UTC",
+ "last_run": "2026-11-16 19:07:00 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -15673,7 +15673,7 @@
     "units_left": 0.0
    }
   ],
-  "last_summary_day": "2026-11-15",
+  "last_summary_day": "2026-11-16",
   "positions": {
    "43de541a": {
     "chain": "solana",
@@ -15713,7 +15713,7 @@
      "vol_m5": 106672.72
     },
     "id": "43de541a",
-    "last_mcap": 295590,
+    "last_mcap": 250783,
     "missing": 0,
     "peak_mcap": 316822,
     "profile": "migrated",
@@ -54066,5 +54066,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4783
+ "runs": 4786
 }
