@@ -657,15 +657,6 @@
    "profile": "migrated",
    "symbol": "KoriMu"
   },
-  "solana:Ca1tVaqW2MzXkqcseHB7P7b6q1xo1XeJLmiTGqkVpump": {
-   "count": 1,
-   "first_mcap": 185256,
-   "first_ts": 1794189910.0239737,
-   "last_mcap": 185256,
-   "last_ts": 1794189910.0239737,
-   "profile": "migrated",
-   "symbol": "Nvidiass"
-  },
   "solana:CnXTC8NutHZq2zaPqYz6bxuLYnq775EnvUBHjRqxpump": {
    "count": 1,
    "first_mcap": 119115,
@@ -1099,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-16 02:01:03 UTC",
+ "last_run": "2026-11-16 02:11:03 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -14713,7 +14704,7 @@
      "vol_m5": 23167.69
     },
     "id": "03c91b9f",
-    "last_mcap": 127456,
+    "last_mcap": 131758,
     "missing": 0,
     "peak_mcap": 477538,
     "profile": "migrated",
@@ -14771,7 +14762,7 @@
      "vol_m5": 11265.08
     },
     "id": "2188ddf7",
-    "last_mcap": 116556,
+    "last_mcap": 184194,
     "missing": 0,
     "peak_mcap": 200271,
     "profile": "migrated",
@@ -14880,7 +14871,7 @@
      "vol_m5": 32898.7
     },
     "id": "ab93b7af",
-    "last_mcap": 93784,
+    "last_mcap": 84768,
     "missing": 0,
     "peak_mcap": 393839,
     "profile": "migrated",
@@ -14937,7 +14928,7 @@
      "vol_m5": 36217.63
     },
     "id": "bff9a8ad",
-    "last_mcap": 400736,
+    "last_mcap": 410185,
     "missing": 0,
     "peak_mcap": 436829,
     "profile": "migrated",
@@ -14993,7 +14984,7 @@
      "vol_m5": 98500
     },
     "id": "cf648443",
-    "last_mcap": 146143,
+    "last_mcap": 156922,
     "missing": 0,
     "peak_mcap": 955518,
     "profile": "migrated",
@@ -53349,5 +53340,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4621
+ "runs": 4623
 }
