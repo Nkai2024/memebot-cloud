@@ -1108,7 +1108,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 23:07:12 UTC",
+ "last_run": "2026-11-17 23:17:12 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17023,12 +17023,10 @@
     "trough_mcap": 242204,
     "units": 3.4429028285043956e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-17",
-  "positions": {
-   "87b5efb2": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794957587.7422705,
     "created_ts": 1794949622.4154103,
     "entry_mcap": 345740,
     "entry_ts": 1794949622.4154103,
@@ -17065,22 +17063,28 @@
      "vol_m5": 19016.2
     },
     "id": "87b5efb2",
-    "last_mcap": 291928,
+    "last_mcap": 170390,
     "missing": 0,
     "peak_mcap": 443729,
+    "pnl": -5.362990946954359,
+    "pnl_pct": -53.62990946954359,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.637009053045641,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "LUNO",
     "tf": "minute",
     "token": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump",
     "tp_done": [],
-    "trough_mcap": 264012,
+    "trough_mcap": 170390,
     "units": 2.8055764447272514e-05,
-    "units_left": 2.8055764447272514e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-17",
+  "positions": {
    "a8e1fe83": {
     "chain": "solana",
     "created_ts": 1794943321.6845415,
@@ -17119,7 +17123,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 776888,
+    "last_mcap": 723082,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55431,5 +55435,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5021
+ "runs": 5023
 }
