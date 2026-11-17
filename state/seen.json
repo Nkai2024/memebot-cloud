@@ -1099,11 +1099,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 18:22:11 UTC",
+ "last_run": "2026-11-17 18:32:11 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -16655,12 +16655,10 @@
     "trough_mcap": 87425,
     "units": 2.523833312518213e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-16",
-  "positions": {
-   "426d6c28": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794940067.626009,
     "created_ts": 1794938521.0599067,
     "entry_mcap": 99997,
     "entry_ts": 1794938521.0599067,
@@ -16697,13 +16695,16 @@
      "vol_m5": 15908.43
     },
     "id": "426d6c28",
-    "last_mcap": 158091,
+    "last_mcap": 82965,
     "missing": 0,
     "peak_mcap": 158091,
+    "pnl": 2.6970172365170946,
+    "pnl_pct": 26.970172365170942,
     "profile": "migrated",
-    "realized": 10.355093923817714,
+    "realized": 12.697017236517095,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "ACRUX",
     "tf": "minute",
@@ -16711,10 +16712,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 83527,
+    "trough_mcap": 82965,
     "units": 9.700291008730262e-05,
-    "units_left": 2.9100873026190785e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-16",
+  "positions": {
    "639f859a": {
     "chain": "solana",
     "created_ts": 1794938521.0599067,
@@ -55055,5 +55059,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4964
+ "runs": 4966
 }
