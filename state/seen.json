@@ -1099,7 +1099,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 13:39:42 UTC",
+ "last_run": "2026-11-17 13:49:43 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -16639,7 +16639,7 @@
      "vol_m5": 11367.73
     },
     "id": "6707e4d8",
-    "last_mcap": 270786,
+    "last_mcap": 287442,
     "missing": 0,
     "peak_mcap": 441422,
     "profile": "migrated",
@@ -16651,61 +16651,9 @@
     "tf": "minute",
     "token": "A4zQMT7ZFC2mM8fZDDQEqCs5bLFifA9XhDAJtHc3Lzbm",
     "tp_done": [],
-    "trough_mcap": 270539,
+    "trough_mcap": 261200,
     "units": 2.523833312518213e-05,
     "units_left": 2.523833312518213e-05
-   },
-   "b85f07ce": {
-    "chain": "solana",
-    "created_ts": 1794915878.8347006,
-    "expires_ts": 1794923078.8347006,
-    "features": {
-     "age_min": 51.02041201988856,
-     "boosts": 100,
-     "buys_h1": 2565,
-     "buys_h24": 2565,
-     "buys_m5": 97,
-     "change_h1": 1062,
-     "change_h24": 1062,
-     "change_h6": 1062,
-     "change_m5": 12.18,
-     "creator_pct": null,
-     "dex": "raydium",
-     "first_candle_share": 0.30654938732828974,
-     "insiders": 0,
-     "liquidity": 45281.29,
-     "lp_locked_pct": 100,
-     "mcap": 384336,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.2291200624935315,
-     "score": 72,
-     "sells_h1": 1792,
-     "sells_h24": 1792,
-     "sells_m5": 68,
-     "top1": 2.1024103031065033,
-     "top10": 10.306825792284423,
-     "top5": 6.105619381989382,
-     "txns_h24": 4357,
-     "vol_h1": 3780646.31,
-     "vol_h24": 3780646.31,
-     "vol_m5": 11367.73
-    },
-    "id": "b85f07ce",
-    "last_mcap": 384336,
-    "missing": 0,
-    "peak_mcap": 384336,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "GROKIA",
-    "tf": "minute",
-    "token": "A4zQMT7ZFC2mM8fZDDQEqCs5bLFifA9XhDAJtHc3Lzbm",
-    "tp_done": [],
-    "zone_bottom": 129766.64845675236,
-    "zone_top": 206565.34091955787
    }
   },
   "started_ts": 1794009851.4477682,
@@ -54994,5 +54942,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4953
+ "runs": 4955
 }
