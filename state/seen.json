@@ -1108,11 +1108,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 22:57:12 UTC",
+ "last_run": "2026-11-17 23:07:12 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -17027,58 +17027,6 @@
   ],
   "last_summary_day": "2026-11-17",
   "positions": {
-   "17f8fc0d": {
-    "chain": "solana",
-    "created_ts": 1794949922.4275446,
-    "expires_ts": 1794957122.4275446,
-    "features": {
-     "age_min": 12.783709514141083,
-     "boosts": 0,
-     "buys_h1": 1328,
-     "buys_h24": 1328,
-     "buys_m5": 415,
-     "change_h1": 239,
-     "change_h24": 239,
-     "change_h6": 239,
-     "change_m5": 29.87,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.9231324844698477,
-     "insiders": 0,
-     "liquidity": 37785.89,
-     "lp_locked_pct": 100,
-     "mcap": 281739,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.09067479128266183,
-     "score": 70,
-     "sells_h1": 580,
-     "sells_h24": 580,
-     "sells_m5": 227,
-     "top1": 3.5380942577022125,
-     "top10": 24.22451495877353,
-     "top5": 14.584792169826937,
-     "txns_h24": 1908,
-     "vol_h1": 405889.94,
-     "vol_h24": 405889.94,
-     "vol_m5": 71002.3
-    },
-    "id": "17f8fc0d",
-    "last_mcap": 281739,
-    "missing": 0,
-    "peak_mcap": 281739,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "KATIA",
-    "tf": "minute",
-    "token": "6eNZ6FScBYPakFiWZdCPBcWWZXmSBBaf8oEUimsGpump",
-    "tp_done": [],
-    "zone_bottom": 129617.13677166104,
-    "zone_top": 166371.84191100847
-   },
    "87b5efb2": {
     "chain": "solana",
     "created_ts": 1794949622.4154103,
@@ -17117,7 +17065,7 @@
      "vol_m5": 19016.2
     },
     "id": "87b5efb2",
-    "last_mcap": 275083,
+    "last_mcap": 291928,
     "missing": 0,
     "peak_mcap": 443729,
     "profile": "migrated",
@@ -17132,58 +17080,6 @@
     "trough_mcap": 264012,
     "units": 2.8055764447272514e-05,
     "units_left": 2.8055764447272514e-05
-   },
-   "89564813": {
-    "chain": "solana",
-    "created_ts": 1794949622.4154103,
-    "expires_ts": 1794956822.4154103,
-    "features": {
-     "age_min": 19.10017056465149,
-     "boosts": 0,
-     "buys_h1": 1461,
-     "buys_h24": 1461,
-     "buys_m5": 102,
-     "change_h1": 412,
-     "change_h24": 412,
-     "change_h6": 412,
-     "change_m5": 4.71,
-     "creator_pct": 1.0142980783566884,
-     "dex": "pumpswap",
-     "first_candle_share": 0.39667702719320497,
-     "insiders": 0,
-     "liquidity": 42692.67,
-     "lp_locked_pct": 100,
-     "mcap": 345740,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.34986937819472724,
-     "score": 75,
-     "sells_h1": 1023,
-     "sells_h24": 1023,
-     "sells_m5": 68,
-     "top1": 1.0934210701339093,
-     "top10": 9.04119243692585,
-     "top5": 4.8882768606994915,
-     "txns_h24": 2484,
-     "vol_h1": 647864.04,
-     "vol_h24": 647864.04,
-     "vol_m5": 19016.2
-    },
-    "id": "89564813",
-    "last_mcap": 345740,
-    "missing": 0,
-    "peak_mcap": 345740,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "LUNO",
-    "tf": "minute",
-    "token": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump",
-    "tp_done": [],
-    "zone_bottom": 158696.05583386763,
-    "zone_top": 230746.44864930358
    },
    "a8e1fe83": {
     "chain": "solana",
@@ -17223,7 +17119,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 735951,
+    "last_mcap": 776888,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55535,5 +55431,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5019
+ "runs": 5021
 }
