@@ -288,14 +288,14 @@
    "profile": "migrated",
    "symbol": "MAX"
   },
-  "solana:7Di5QNrfLmjApzAvJaUDCynG9ZPBjzwb7dzEq3QXpump": {
+  "solana:7Evw4uxTxLGGEFEvXLUNYyc1J7PnFk9EYwTUFagARUX": {
    "count": 1,
-   "first_mcap": 652078,
-   "first_ts": 1794321347.7858236,
-   "last_mcap": 652078,
-   "last_ts": 1794321347.7858236,
+   "first_mcap": 99997,
+   "first_ts": 1794938521.0598893,
+   "last_mcap": 99997,
+   "last_ts": 1794938521.0598893,
    "profile": "migrated",
-   "symbol": "LEONIDA"
+   "symbol": "ACRUX"
   },
   "solana:7FxGzQZjdxL87R9hTvtghmtn1vCUc79oVvKiV31azZrQ": {
    "count": 1,
@@ -1099,10 +1099,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 13:59:42 UTC",
+ "last_run": "2026-11-17 18:02:18 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -16597,12 +16597,10 @@
     "units_left": 0.0,
     "zone_bottom": 38190.38739276147,
     "zone_top": 50269.19294442479
-   }
-  ],
-  "last_summary_day": "2026-11-16",
-  "positions": {
-   "6707e4d8": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794937907.613139,
     "created_ts": 1794915878.8347006,
     "entry_mcap": 384336,
     "entry_ts": 1794915878.8347006,
@@ -16639,21 +16637,133 @@
      "vol_m5": 11367.73
     },
     "id": "6707e4d8",
-    "last_mcap": 325110,
+    "last_mcap": 87425,
     "missing": 0,
     "peak_mcap": 441422,
+    "pnl": -7.859732564735024,
+    "pnl_pct": -78.59732564735023,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 2.140267435264976,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "GROKIA",
     "tf": "minute",
     "token": "A4zQMT7ZFC2mM8fZDDQEqCs5bLFifA9XhDAJtHc3Lzbm",
     "tp_done": [],
-    "trough_mcap": 261200,
+    "trough_mcap": 87425,
     "units": 2.523833312518213e-05,
-    "units_left": 2.523833312518213e-05
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-16",
+  "positions": {
+   "426d6c28": {
+    "chain": "solana",
+    "created_ts": 1794938521.0599067,
+    "entry_mcap": 99997,
+    "entry_ts": 1794938521.0599067,
+    "features": {
+     "age_min": 31.597878873348236,
+     "boosts": 0,
+     "buys_h1": 1006,
+     "buys_h24": 1006,
+     "buys_m5": 124,
+     "change_h1": 148,
+     "change_h24": 148,
+     "change_h6": 148,
+     "change_m5": 28.34,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.08414991390253922,
+     "insiders": 0,
+     "liquidity": 19663.67,
+     "lp_locked_pct": 100,
+     "mcap": 99997,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.20993153665848643,
+     "score": 71,
+     "sells_h1": 663,
+     "sells_h24": 663,
+     "sells_m5": 121,
+     "top1": 2.8998153033025202,
+     "top10": 17.61504027154353,
+     "top5": 11.02956623608031,
+     "txns_h24": 1669,
+     "vol_h1": 88090.42,
+     "vol_h24": 88090.42,
+     "vol_m5": 15908.43
+    },
+    "id": "426d6c28",
+    "last_mcap": 99997,
+    "missing": 0,
+    "peak_mcap": 99997,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "ACRUX",
+    "tf": "minute",
+    "token": "7Evw4uxTxLGGEFEvXLUNYyc1J7PnFk9EYwTUFagARUX",
+    "tp_done": [],
+    "trough_mcap": 99997,
+    "units": 9.700291008730262e-05,
+    "units_left": 9.700291008730262e-05
+   },
+   "639f859a": {
+    "chain": "solana",
+    "created_ts": 1794938521.0599067,
+    "expires_ts": 1794945721.0599067,
+    "features": {
+     "age_min": 31.597878873348236,
+     "boosts": 0,
+     "buys_h1": 1006,
+     "buys_h24": 1006,
+     "buys_m5": 124,
+     "change_h1": 148,
+     "change_h24": 148,
+     "change_h6": 148,
+     "change_m5": 28.34,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.08414991390253922,
+     "insiders": 0,
+     "liquidity": 19663.67,
+     "lp_locked_pct": 100,
+     "mcap": 99997,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.20993153665848643,
+     "score": 71,
+     "sells_h1": 663,
+     "sells_h24": 663,
+     "sells_m5": 121,
+     "top1": 2.8998153033025202,
+     "top10": 17.61504027154353,
+     "top5": 11.02956623608031,
+     "txns_h24": 1669,
+     "vol_h1": 88090.42,
+     "vol_h24": 88090.42,
+     "vol_m5": 15908.43
+    },
+    "id": "639f859a",
+    "last_mcap": 99997,
+    "missing": 0,
+    "peak_mcap": 99997,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "ACRUX",
+    "tf": "minute",
+    "token": "7Evw4uxTxLGGEFEvXLUNYyc1J7PnFk9EYwTUFagARUX",
+    "tp_done": [],
+    "zone_bottom": 38551.67408351416,
+    "zone_top": 56471.09757372159
    }
   },
   "started_ts": 1794009851.4477682,
@@ -54942,5 +55052,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4957
+ "runs": 4960
 }
