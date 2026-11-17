@@ -1108,7 +1108,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 21:17:11 UTC",
+ "last_run": "2026-11-17 21:27:11 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17019,58 +17019,6 @@
     "zone_bottom": 129617.13677166104,
     "zone_top": 166371.84191100847
    },
-   "309d0a73": {
-    "chain": "solana",
-    "created_ts": 1794943321.6845415,
-    "expires_ts": 1794950521.6845415,
-    "features": {
-     "age_min": 32.99867964188258,
-     "boosts": 0,
-     "buys_h1": 10256,
-     "buys_h24": 10256,
-     "buys_m5": 1144,
-     "change_h1": 705,
-     "change_h24": 705,
-     "change_h6": 705,
-     "change_m5": 5.43,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.5921260223809557,
-     "insiders": 0,
-     "liquidity": 43947.25,
-     "lp_locked_pct": 100,
-     "mcap": 377623,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.02759726493678738,
-     "score": 72,
-     "sells_h1": 2357,
-     "sells_h24": 2357,
-     "sells_m5": 295,
-     "top1": 1.412750190565937,
-     "top10": 9.328227171314635,
-     "top5": 6.025106732593289,
-     "txns_h24": 12613,
-     "vol_h1": 518215.7,
-     "vol_h24": 518215.7,
-     "vol_m5": 14171.2
-    },
-    "id": "309d0a73",
-    "last_mcap": 377623,
-    "missing": 0,
-    "peak_mcap": 377623,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "JALU",
-    "tf": "minute",
-    "token": "BSsmLA6UN8fzJ8qUkV4KwC5LxR7ab3TaUtcwvAyJpump",
-    "tp_done": [],
-    "zone_bottom": 119687.93653803288,
-    "zone_top": 176825.24453837745
-   },
    "63c0c3e4": {
     "chain": "solana",
     "created_ts": 1794949922.4275446,
@@ -17109,21 +17057,23 @@
      "vol_m5": 71002.3
     },
     "id": "63c0c3e4",
-    "last_mcap": 310519,
+    "last_mcap": 332032,
     "missing": 0,
-    "peak_mcap": 310519,
+    "peak_mcap": 417243,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.586883452770115,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "KATIA",
     "tf": "minute",
     "token": "6eNZ6FScBYPakFiWZdCPBcWWZXmSBBaf8oEUimsGpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 276454,
     "units": 3.4429028285043956e-05,
-    "units_left": 3.4429028285043956e-05
+    "units_left": 1.0328708485513187e-05
    },
    "87b5efb2": {
     "chain": "solana",
@@ -17163,7 +17113,7 @@
      "vol_m5": 19016.2
     },
     "id": "87b5efb2",
-    "last_mcap": 396631,
+    "last_mcap": 380910,
     "missing": 0,
     "peak_mcap": 443729,
     "profile": "migrated",
@@ -17269,7 +17219,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 787554,
+    "last_mcap": 833580,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55577,5 +55527,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4999
+ "runs": 5001
 }
