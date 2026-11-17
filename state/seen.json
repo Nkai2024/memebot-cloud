@@ -1099,11 +1099,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 18:12:11 UTC",
+ "last_run": "2026-11-17 18:22:11 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -16697,21 +16697,23 @@
      "vol_m5": 15908.43
     },
     "id": "426d6c28",
-    "last_mcap": 90144,
+    "last_mcap": 158091,
     "missing": 0,
-    "peak_mcap": 128385,
+    "peak_mcap": 158091,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 10.355093923817714,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "ACRUX",
     "tf": "minute",
     "token": "7Evw4uxTxLGGEFEvXLUNYyc1J7PnFk9EYwTUFagARUX",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 83527,
     "units": 9.700291008730262e-05,
-    "units_left": 9.700291008730262e-05
+    "units_left": 2.9100873026190785e-05
    },
    "639f859a": {
     "chain": "solana",
@@ -55016,6 +55018,7 @@
   "solana:4b3ypv8i8vKUfCfETpbbPSLtvvW39eQVt5M41PxCpump": 1794707343.887791,
   "solana:4f2KsphcoyUCWRh9UEFiALJ338E3ShfWXWRkqwSvpump": 1794370586.8710446,
   "solana:5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump": 1794775294.1979954,
+  "solana:6MjDb45kzriv6cpW6oaDjZGw1rujmpA185dHcvZzpump": 1794939720.3002932,
   "solana:6UcvWd4hHYz6FUE8LqDrrXvz6uXbvNtsp9LudEmnpump": 1794865009.7161613,
   "solana:6edJUFSC85CyyLFB1QcCvYu7uzqaD4kV9o5YUPxrpump": 1794700442.7843313,
   "solana:73UpjVFTWj3ZpkiRxz8GKfYSX5xg8UXtWzxUSg9apump": 1794504671.887533,
@@ -55052,5 +55055,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4962
+ "runs": 4964
 }
