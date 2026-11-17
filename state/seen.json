@@ -468,15 +468,6 @@
    "profile": "migrated",
    "symbol": "GROKIE"
   },
-  "solana:9Uz1XmRQGjD2NspWH1FYAtVromkt74s45FXEwXpmpump": {
-   "count": 1,
-   "first_mcap": 181806,
-   "first_ts": 1794338832.154028,
-   "last_mcap": 181806,
-   "last_ts": 1794338832.154028,
-   "profile": "migrated",
-   "symbol": "Catcity"
-  },
   "solana:9WGvvKDQSkzwmPoGmDCx42C8t1xyvrV3hFExCgkrpump": {
    "count": 1,
    "first_mcap": 240127,
@@ -1099,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 19:27:12 UTC",
+ "last_run": "2026-11-17 19:37:11 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -16984,9 +16975,9 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 487334,
+    "last_mcap": 626023,
     "missing": 0,
-    "peak_mcap": 507554,
+    "peak_mcap": 626023,
     "profile": "migrated",
     "realized": 8.852487560874204,
     "size": 10,
@@ -55291,5 +55282,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4977
+ "runs": 4979
 }
