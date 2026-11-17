@@ -1108,11 +1108,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 18:57:20 UTC",
+ "last_run": "2026-11-17 19:07:12 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 3,
-  "rejected_safety": 1
+  "alerts": 0,
+  "checked": 1,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -16726,7 +16726,7 @@
     "units_left": 0.0
    }
   ],
-  "last_summary_day": "2026-11-16",
+  "last_summary_day": "2026-11-17",
   "positions": {
    "639f859a": {
     "chain": "solana",
@@ -16783,6 +16783,8 @@
    "a3c0280b": {
     "chain": "solana",
     "created_ts": 1794941823.2080355,
+    "entry_mcap": 94603,
+    "entry_ts": 1794941987.63725,
     "expires_ts": 1794949023.2080355,
     "features": {
      "age_min": 35.85518506368001,
@@ -16817,18 +16819,23 @@
      "vol_m5": 17504.24
     },
     "id": "a3c0280b",
-    "last_mcap": 95542,
+    "last_mcap": 131406,
     "missing": 0,
-    "peak_mcap": 95542,
+    "peak_mcap": 131406,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.148540086466602,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "GTA",
     "tf": "minute",
     "token": "DUgwMUc5Wh2nU2S3dMPnqcMJYVSARgQwq26kmRSbpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 81962,
+    "units": 0.00010253374628711562,
+    "units_left": 3.076012388613469e-05,
     "zone_bottom": 69121.51083382936,
     "zone_top": 94633.25665216084
    },
@@ -16870,21 +16877,23 @@
      "vol_m5": 17504.24
     },
     "id": "d018e063",
-    "last_mcap": 95542,
+    "last_mcap": 131406,
     "missing": 0,
-    "peak_mcap": 95542,
+    "peak_mcap": 131406,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.058626968244331,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "GTA",
     "tf": "minute",
     "token": "DUgwMUc5Wh2nU2S3dMPnqcMJYVSARgQwq26kmRSbpump",
-    "tp_done": [],
-    "trough_mcap": 95542,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 81962,
     "units": 0.00010152603043687592,
-    "units_left": 0.00010152603043687592
+    "units_left": 3.045780913106278e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -55175,5 +55184,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4971
+ "runs": 4973
 }
