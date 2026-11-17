@@ -1090,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-17 03:06:11 UTC",
+ "last_run": "2026-11-17 03:16:11 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -16204,9 +16204,9 @@
      "vol_m5": 103498.95
     },
     "id": "c594c624",
-    "last_mcap": 59637,
+    "last_mcap": 79334,
     "missing": 0,
-    "peak_mcap": 94713,
+    "peak_mcap": 94903,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -16225,6 +16225,8 @@
    "fc19362e": {
     "chain": "solana",
     "created_ts": 1794884460.7209973,
+    "entry_mcap": 37569,
+    "entry_ts": 1794885286.8650427,
     "expires_ts": 1794891660.7209973,
     "features": {
      "age_min": 11.33358039855957,
@@ -16259,18 +16261,21 @@
      "vol_m5": 61945.71
     },
     "id": "fc19362e",
-    "last_mcap": 71624,
+    "last_mcap": 34225,
     "missing": 0,
-    "peak_mcap": 71624,
+    "peak_mcap": 37569,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "FLYWHEEL",
     "tf": "minute",
     "token": "EXscV4GJmRmAncFf13nKCuuuZkzT7V6JLyLdQJWHpump",
     "tp_done": [],
+    "trough_mcap": 31456,
+    "units": 0.0002581915941334611,
+    "units_left": 0.0002581915941334611,
     "zone_bottom": 35489.58801644068,
     "zone_top": 44713.61581311649
    }
@@ -54562,5 +54567,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 4854
+ "runs": 4856
 }
