@@ -1090,10 +1090,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 02:13:57 UTC",
+ "last_run": "2026-11-18 02:23:57 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -17244,12 +17244,10 @@
     "units_left": 0.0,
     "zone_bottom": 172173.20673653163,
     "zone_top": 278171.55976609467
-   }
-  ],
-  "last_summary_day": "2026-11-17",
-  "positions": {
-   "a635203a": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1794968672.8791792,
     "created_ts": 1794964427.0975242,
     "entry_mcap": 37081,
     "entry_ts": 1794965372.8579216,
@@ -17287,13 +17285,16 @@
      "vol_m5": 46785.91
     },
     "id": "a635203a",
-    "last_mcap": 49973,
+    "last_mcap": 18186,
     "missing": 0,
     "peak_mcap": 89638,
+    "pnl": 2.4187838353873925,
+    "pnl_pct": 24.187838353873925,
     "profile": "migrated",
-    "realized": 11.034419276718532,
+    "realized": 12.418783835387393,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "Spud",
     "tf": "minute",
@@ -17301,12 +17302,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 32445,
+    "trough_mcap": 18186,
     "units": 0.0002615894932714867,
-    "units_left": 7.847684798144603e-05,
+    "units_left": 0.0,
     "zone_bottom": 32889.86697531294,
     "zone_top": 38123.97174394834
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-17",
+  "positions": {
    "a8e1fe83": {
     "chain": "solana",
     "created_ts": 1794943321.6845415,
@@ -17345,7 +17349,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 795855,
+    "last_mcap": 722234,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55657,5 +55661,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5048
+ "runs": 5050
 }
