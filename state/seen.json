@@ -1072,7 +1072,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 17:59:46 UTC",
+ "last_run": "2026-11-18 18:09:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17644,12 +17644,10 @@
     "trough_mcap": 5244,
     "units": 8.167870796072685e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-17",
-  "positions": {
-   "0e0d0eb8": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795025002.7806137,
     "created_ts": 1795023876.337579,
     "entry_mcap": 165465,
     "entry_ts": 1795023876.337579,
@@ -17684,13 +17682,16 @@
      "vol_m5": 87853.23
     },
     "id": "0e0d0eb8",
-    "last_mcap": 251479,
+    "last_mcap": 163419,
     "missing": 0,
     "peak_mcap": 251479,
+    "pnl": 1.5370495059378104,
+    "pnl_pct": 15.370495059378108,
     "profile": "migrated",
-    "realized": 8.74925262260901,
+    "realized": 11.53704950593781,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "APCY",
     "tf": "minute",
@@ -17700,10 +17701,11 @@
     ],
     "trough_mcap": 88919,
     "units": 5.862266944671078e-05,
-    "units_left": 1.7586800834013237e-05
+    "units_left": 0.0
    },
-   "8accd551": {
+   {
     "chain": "solana",
+    "close_ts": 1795025002.7806137,
     "created_ts": 1795022376.4561524,
     "entry_mcap": 441660,
     "entry_ts": 1795023082.7671468,
@@ -17741,13 +17743,16 @@
      "vol_m5": 153998.06
     },
     "id": "8accd551",
-    "last_mcap": 702556,
+    "last_mcap": 387146,
     "missing": 0,
     "peak_mcap": 702556,
+    "pnl": 1.278874178780054,
+    "pnl_pct": 12.78874178780054,
     "profile": "migrated",
-    "realized": 8.804579440293436,
+    "realized": 11.278874178780054,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "Rocco",
     "tf": "minute",
@@ -17755,13 +17760,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 395627,
+    "trough_mcap": 387146,
     "units": 2.1962595661821308e-05,
-    "units_left": 6.588778698546395e-06,
+    "units_left": 0.0,
     "zone_bottom": 297255.3185852995,
     "zone_top": 451449.6903338237
    }
-  },
+  ],
+  "last_summary_day": "2026-11-17",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -56055,5 +56062,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5171
+ "runs": 5173
 }
