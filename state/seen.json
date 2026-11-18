@@ -1008,6 +1008,15 @@
    "profile": "migrated",
    "symbol": "papercat"
   },
+  "solana:HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK": {
+   "count": 1,
+   "first_mcap": 164325,
+   "first_ts": 1795003967.6372466,
+   "last_mcap": 164325,
+   "last_ts": 1795003967.6372466,
+   "profile": "migrated",
+   "symbol": "VI"
+  },
   "solana:HuQAr1SxFdA3YYBz5joyjvrR5Xsr9G6r2fDt4NN8pump": {
    "count": 1,
    "first_mcap": 184172,
@@ -1063,10 +1072,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 12:02:57 UTC",
+ "last_run": "2026-11-18 12:13:04 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -17399,7 +17408,62 @@
    }
   ],
   "last_summary_day": "2026-11-17",
-  "positions": {},
+  "positions": {
+   "f0e9faef": {
+    "chain": "solana",
+    "created_ts": 1795003967.637266,
+    "entry_mcap": 164325,
+    "entry_ts": 1795003967.637266,
+    "features": {
+     "age_min": 13.30035067796707,
+     "boosts": 100,
+     "buys_h1": 725,
+     "buys_h24": 725,
+     "buys_m5": 93,
+     "change_h1": 344,
+     "change_h24": 344,
+     "change_h6": 344,
+     "change_m5": 7.8,
+     "creator_pct": 1.0000026220829,
+     "dex": "raydium",
+     "first_candle_share": 0.005389059467338871,
+     "insiders": 0,
+     "liquidity": 29655.11,
+     "lp_locked_pct": 100,
+     "mcap": 164325,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 1.0,
+     "score": 76,
+     "sells_h1": 379,
+     "sells_h24": 379,
+     "sells_m5": 34,
+     "top1": 1.0000026220829,
+     "top10": 6.154961636410301,
+     "top5": 3.8912109502265997,
+     "txns_h24": 1104,
+     "vol_h1": 113336.31,
+     "vol_h24": 113336.31,
+     "vol_m5": 8363.94
+    },
+    "id": "f0e9faef",
+    "last_mcap": 181981,
+    "missing": 0,
+    "peak_mcap": 184265,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "VI",
+    "tf": "minute",
+    "token": "HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK",
+    "tp_done": [],
+    "trough_mcap": 154520,
+    "units": 5.9029362543739536e-05,
+    "units_left": 5.9029362543739536e-05
+   }
+  },
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -55692,5 +55756,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5142
+ "runs": 5144
 }
