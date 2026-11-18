@@ -261,6 +261,15 @@
    "profile": "migrated",
    "symbol": "SOYOUARE"
   },
+  "solana:6qNMHrswqq4tB9aSBCa66orADDH3vYRcoQiS2XnJpump": {
+   "count": 1,
+   "first_mcap": 922136,
+   "first_ts": 1795022376.456136,
+   "last_mcap": 922136,
+   "last_ts": 1795022376.456136,
+   "profile": "migrated",
+   "symbol": "Rocco"
+  },
   "solana:6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump": {
    "count": 1,
    "first_mcap": 225595,
@@ -1054,11 +1063,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 17:14:46 UTC",
+ "last_run": "2026-11-18 17:24:53 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -17501,6 +17510,58 @@
     "zone_bottom": 62717.38203591232,
     "zone_top": 83960.66916663379
    },
+   "8accd551": {
+    "chain": "solana",
+    "created_ts": 1795022376.4561524,
+    "expires_ts": 1795029576.4561524,
+    "features": {
+     "age_min": 11.350955204168956,
+     "boosts": 0,
+     "buys_h1": 2503,
+     "buys_h24": 2503,
+     "buys_m5": 1721,
+     "change_h1": 810,
+     "change_h24": 810,
+     "change_h6": 810,
+     "change_m5": 83.88,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.30564159322915324,
+     "insiders": 0,
+     "liquidity": 70152.88,
+     "lp_locked_pct": 100,
+     "mcap": 922136,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.10517129472869689,
+     "score": 73,
+     "sells_h1": 720,
+     "sells_h24": 720,
+     "sells_m5": 478,
+     "top1": 2.4274199591705172,
+     "top10": 23.554256209357902,
+     "top5": 12.105487577626905,
+     "txns_h24": 3223,
+     "vol_h1": 724807.32,
+     "vol_h24": 724807.32,
+     "vol_m5": 153998.06
+    },
+    "id": "8accd551",
+    "last_mcap": 922136,
+    "missing": 0,
+    "peak_mcap": 922136,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Rocco",
+    "tf": "minute",
+    "token": "6qNMHrswqq4tB9aSBCa66orADDH3vYRcoQiS2XnJpump",
+    "tp_done": [],
+    "zone_bottom": 297255.3185852995,
+    "zone_top": 451449.6903338237
+   },
    "e0929ece": {
     "chain": "solana",
     "created_ts": 1795021176.3176284,
@@ -17539,7 +17600,7 @@
      "vol_m5": 16964.53
     },
     "id": "e0929ece",
-    "last_mcap": 91752,
+    "last_mcap": 88634,
     "missing": 0,
     "peak_mcap": 138602,
     "profile": "migrated",
@@ -17551,9 +17612,65 @@
     "tf": "minute",
     "token": "6vofxAisDWYuD2o9jfRD4EkvpL8gs2qVbgAzDsLypump",
     "tp_done": [],
-    "trough_mcap": 87602,
+    "trough_mcap": 86341,
     "units": 8.167870796072685e-05,
     "units_left": 8.167870796072685e-05
+   },
+   "eb5fc0eb": {
+    "chain": "solana",
+    "created_ts": 1795022376.4561524,
+    "entry_mcap": 922136,
+    "entry_ts": 1795022376.4561524,
+    "features": {
+     "age_min": 11.350955204168956,
+     "boosts": 0,
+     "buys_h1": 2503,
+     "buys_h24": 2503,
+     "buys_m5": 1721,
+     "change_h1": 810,
+     "change_h24": 810,
+     "change_h6": 810,
+     "change_m5": 83.88,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.30564159322915324,
+     "insiders": 0,
+     "liquidity": 70152.88,
+     "lp_locked_pct": 100,
+     "mcap": 922136,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.10517129472869689,
+     "score": 73,
+     "sells_h1": 720,
+     "sells_h24": 720,
+     "sells_m5": 478,
+     "top1": 2.4274199591705172,
+     "top10": 23.554256209357902,
+     "top5": 12.105487577626905,
+     "txns_h24": 3223,
+     "vol_h1": 724807.32,
+     "vol_h24": 724807.32,
+     "vol_m5": 153998.06
+    },
+    "id": "eb5fc0eb",
+    "last_mcap": 1208367,
+    "missing": 0,
+    "peak_mcap": 1259164,
+    "profile": "migrated",
+    "realized": 8.993501883886974,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Rocco",
+    "tf": "minute",
+    "token": "6qNMHrswqq4tB9aSBCa66orADDH3vYRcoQiS2XnJpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 922136,
+    "units": 1.0519055757502147e-05,
+    "units_left": 3.155716727250644e-06
    }
   },
   "started_ts": 1794009851.4477682,
@@ -55849,5 +55966,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5162
+ "runs": 5164
 }
