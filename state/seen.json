@@ -1035,15 +1035,6 @@
    "profile": "migrated",
    "symbol": "Avatars"
   },
-  "solana:bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump": {
-   "count": 1,
-   "first_mcap": 84525,
-   "first_ts": 1794422067.4642494,
-   "last_mcap": 84525,
-   "last_ts": 1794422067.4642494,
-   "profile": "migrated",
-   "symbol": "GACHAZ"
-  },
   "solana:gFjeLxZAjVLMjXxkeMZWTZDBxY4nPodxeNiaaunpump": {
    "count": 1,
    "first_mcap": 106956,
@@ -1063,7 +1054,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 18:29:46 UTC",
+ "last_run": "2026-11-18 18:39:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -56054,5 +56045,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5177
+ "runs": 5179
 }
