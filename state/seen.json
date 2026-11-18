@@ -279,15 +279,6 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
-  "solana:75PAKuPLhPcQp8bKtd3p8rU8CDp6gxfomwXHqPnXpump": {
-   "count": 1,
-   "first_mcap": 216615,
-   "first_ts": 1794438868.0182166,
-   "last_mcap": 216615,
-   "last_ts": 1794438868.0182166,
-   "profile": "migrated",
-   "symbol": "MAX"
-  },
   "solana:79QjDainx3coswjB3qk8PijgDeBBN258n1qv272ipump": {
    "count": 1,
    "first_mcap": 161294,
@@ -422,15 +413,6 @@
    "last_ts": 1794517873.4447834,
    "profile": "migrated",
    "symbol": "JensenHao"
-  },
-  "solana:9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump": {
-   "count": 1,
-   "first_mcap": 173325,
-   "first_ts": 1794436467.9178696,
-   "last_mcap": 173325,
-   "last_ts": 1794436467.9178696,
-   "profile": "migrated",
-   "symbol": "TILLY"
   },
   "solana:9Sunhg3DWCxnjcN1UzBY3X8W46v9DXhesBhuJLDtgrok": {
    "count": 1,
@@ -1063,10 +1045,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 22:09:53 UTC",
+ "last_run": "2026-11-18 23:20:54 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -18086,9 +18068,9 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 364535,
+    "last_mcap": 411720,
     "missing": 0,
-    "peak_mcap": 364535,
+    "peak_mcap": 411720,
     "profile": "migrated",
     "realized": 8.56672133265423,
     "size": 10,
@@ -18103,58 +18085,6 @@
     "trough_mcap": 246594,
     "units": 3.920997954613438e-05,
     "units_left": 1.1762993863840317e-05
-   },
-   "932702fe": {
-    "chain": "solana",
-    "created_ts": 1795034076.4431493,
-    "expires_ts": 1795041276.4431493,
-    "features": {
-     "age_min": 10.699615295728048,
-     "boosts": 0,
-     "buys_h1": 1438,
-     "buys_h24": 1438,
-     "buys_m5": 594,
-     "change_h1": 367,
-     "change_h24": 367,
-     "change_h6": 367,
-     "change_m5": -3.01,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.6027421733760043,
-     "insiders": 0,
-     "liquidity": 26843.05,
-     "lp_locked_pct": 100,
-     "mcap": 150569,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.29045505695371715,
-     "score": 74,
-     "sells_h1": 429,
-     "sells_h24": 429,
-     "sells_m5": 197,
-     "top1": 3.213285880910656,
-     "top10": 29.645022542547366,
-     "top5": 15.82575216920688,
-     "txns_h24": 1867,
-     "vol_h1": 123041.07,
-     "vol_h24": 123041.07,
-     "vol_m5": 55212.36
-    },
-    "id": "932702fe",
-    "last_mcap": 150569,
-    "missing": 0,
-    "peak_mcap": 150569,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "DAKITTY",
-    "tf": "minute",
-    "token": "3YyNSd5dAe5hbKu83syLCjZKWYD9d94EGYCfEWNkpump",
-    "tp_done": [],
-    "zone_bottom": 67772.8145856922,
-    "zone_top": 95842.43641271703
    },
    "b4415174": {
     "chain": "solana",
@@ -18194,7 +18124,7 @@
      "vol_m5": 55212.36
     },
     "id": "b4415174",
-    "last_mcap": 215874,
+    "last_mcap": 310544,
     "missing": 0,
     "peak_mcap": 386995,
     "profile": "migrated",
@@ -56506,5 +56436,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5221
+ "runs": 5224
 }
