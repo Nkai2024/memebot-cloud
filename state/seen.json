@@ -351,15 +351,6 @@
    "profile": "migrated",
    "symbol": "AIB"
   },
-  "solana:7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump": {
-   "count": 1,
-   "first_mcap": 136031,
-   "first_ts": 1794427167.8258166,
-   "last_mcap": 136031,
-   "last_ts": 1794427167.8258166,
-   "profile": "migrated",
-   "symbol": "BERNIAO"
-  },
   "solana:85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": {
    "count": 1,
    "first_mcap": 105027,
@@ -1054,11 +1045,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 19:59:54 UTC",
+ "last_run": "2026-11-18 20:09:46 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
-  "rejected_safety": 1
+  "alerts": 0,
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -17905,9 +17896,9 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 247386,
+    "last_mcap": 260728,
     "missing": 0,
-    "peak_mcap": 247386,
+    "peak_mcap": 271860,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -56268,5 +56259,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5195
+ "runs": 5197
 }
