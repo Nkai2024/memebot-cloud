@@ -396,15 +396,6 @@
    "profile": "migrated",
    "symbol": "Food Cat"
   },
-  "solana:8tbfkL8LZYUN3ygzWMKfffqVd7tLRpWkuh2fowsepump": {
-   "count": 1,
-   "first_mcap": 103889,
-   "first_ts": 1794366987.2794356,
-   "last_mcap": 103889,
-   "last_ts": 1794366987.2794356,
-   "profile": "migrated",
-   "symbol": "HAOBIBI"
-  },
   "solana:8wbxHYCKbGimALpDvNkxcvzGm1tAG4GN69Jzfejtpump": {
    "count": 1,
    "first_mcap": 70189,
@@ -1090,7 +1081,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 03:08:57 UTC",
+ "last_run": "2026-11-18 03:18:57 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17349,7 +17340,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 711592,
+    "last_mcap": 715131,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55662,5 +55653,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5059
+ "runs": 5061
 }
