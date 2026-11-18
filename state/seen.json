@@ -882,15 +882,6 @@
    "profile": "migrated",
    "symbol": "cashduck"
   },
-  "solana:FvWiHK27haTqetaL5KjRY1UgRnN8sx1cxpDJKui8pump": {
-   "count": 1,
-   "first_mcap": 138092,
-   "first_ts": 1794367887.2604234,
-   "last_mcap": 138092,
-   "last_ts": 1794367887.2604234,
-   "profile": "migrated",
-   "symbol": "BUZZ"
-  },
   "solana:FwVsiYsWBDCs4QifGcDRGGxQ3xh6CYLnWWFLUDiupump": {
    "count": 1,
    "first_mcap": 111645,
@@ -1072,7 +1063,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 03:28:57 UTC",
+ "last_run": "2026-11-18 03:38:57 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17331,7 +17322,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 665634,
+    "last_mcap": 637291,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55644,5 +55635,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5063
+ "runs": 5065
 }
