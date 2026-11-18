@@ -1044,6 +1044,15 @@
    "profile": "migrated",
    "symbol": "CHRISTMAX"
   },
+  "solana:pp6SutEifuohJtxBDduiuKja1SbBChg9ohrT7Ukpump": {
+   "count": 1,
+   "first_mcap": 75738,
+   "first_ts": 1795039776.1141968,
+   "last_mcap": 75738,
+   "last_ts": 1795039776.1141968,
+   "profile": "migrated",
+   "symbol": "LGTA6"
+  },
   "solana:ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v": {
    "count": 1,
    "first_mcap": 338581,
@@ -1054,10 +1063,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 21:59:46 UTC",
+ "last_run": "2026-11-18 22:09:53 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -18021,9 +18030,9 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 335665,
+    "last_mcap": 354716,
     "missing": 0,
-    "peak_mcap": 335665,
+    "peak_mcap": 355592,
     "profile": "migrated",
     "realized": 8.56672133265423,
     "size": 10,
@@ -18038,6 +18047,58 @@
     "trough_mcap": 246594,
     "units": 3.920997954613438e-05,
     "units_left": 1.1762993863840317e-05
+   },
+   "83cd83ef": {
+    "chain": "solana",
+    "created_ts": 1795039776.114208,
+    "entry_mcap": 75738,
+    "entry_ts": 1795039776.114208,
+    "features": {
+     "age_min": 13.216878004868825,
+     "boosts": 0,
+     "buys_h1": 1767,
+     "buys_h24": 1767,
+     "buys_m5": 579,
+     "change_h1": 65.85,
+     "change_h24": 65.85,
+     "change_h6": 65.85,
+     "change_m5": 41.93,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 22889.42,
+     "lp_locked_pct": 100,
+     "mcap": 75738,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 80,
+     "sells_h1": 1352,
+     "sells_h24": 1352,
+     "sells_m5": 449,
+     "top1": 3.05686836528518,
+     "top10": 20.126286768814666,
+     "top5": 12.254924827467892,
+     "txns_h24": 3119,
+     "vol_h1": 126599.08,
+     "vol_h24": 126599.08,
+     "vol_m5": 54770.46
+    },
+    "id": "83cd83ef",
+    "last_mcap": 52737,
+    "missing": 0,
+    "peak_mcap": 75738,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "LGTA6",
+    "tf": "minute",
+    "token": "pp6SutEifuohJtxBDduiuKja1SbBChg9ohrT7Ukpump",
+    "tp_done": [],
+    "trough_mcap": 42163,
+    "units": 0.0001280730940875122,
+    "units_left": 0.0001280730940875122
    },
    "932702fe": {
     "chain": "solana",
@@ -18129,7 +18190,7 @@
      "vol_m5": 55212.36
     },
     "id": "b4415174",
-    "last_mcap": 348857,
+    "last_mcap": 206824,
     "missing": 0,
     "peak_mcap": 386995,
     "profile": "migrated",
@@ -56441,5 +56502,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5219
+ "runs": 5221
 }
