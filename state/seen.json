@@ -1072,10 +1072,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 12:13:04 UTC",
+ "last_run": "2026-11-18 12:27:58 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -17405,12 +17405,10 @@
     "trough_mcap": 46793,
     "units": 9.908980396563524e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-17",
-  "positions": {
-   "f0e9faef": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795004853.909501,
     "created_ts": 1795003967.637266,
     "entry_mcap": 164325,
     "entry_ts": 1795003967.637266,
@@ -17447,23 +17445,28 @@
      "vol_m5": 8363.94
     },
     "id": "f0e9faef",
-    "last_mcap": 181981,
+    "last_mcap": 234241,
     "missing": 0,
-    "peak_mcap": 184265,
+    "peak_mcap": 234241,
+    "pnl": -10.0,
+    "pnl_pct": -100.0,
     "profile": "migrated",
     "realized": 0.0,
+    "reason": "RUGGED (liquidity pulled)",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "VI",
     "tf": "minute",
     "token": "HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK",
     "tp_done": [],
-    "trough_mcap": 154520,
+    "trough_mcap": 110609,
     "units": 5.9029362543739536e-05,
-    "units_left": 5.9029362543739536e-05
+    "units_left": 0
    }
-  },
+  ],
+  "last_summary_day": "2026-11-17",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -55756,5 +55759,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5144
+ "runs": 5147
 }
