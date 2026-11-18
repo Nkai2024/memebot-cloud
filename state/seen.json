@@ -234,15 +234,6 @@
    "profile": "migrated",
    "symbol": "TITTYVERSE"
   },
-  "solana:6bFAqDnEQhwiZaoT4VFbwAGfFtg23DrB3bNKjPFji2QU": {
-   "count": 1,
-   "first_mcap": 204591,
-   "first_ts": 1794358886.5208247,
-   "last_mcap": 204591,
-   "last_ts": 1794358886.5208247,
-   "profile": "migrated",
-   "symbol": "BABYMINHAO"
-  },
   "solana:6eNZ6FScBYPakFiWZdCPBcWWZXmSBBaf8oEUimsGpump": {
    "count": 1,
    "first_mcap": 281739,
@@ -1099,7 +1090,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-18 00:53:57 UTC",
+ "last_run": "2026-11-18 01:04:03 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -17114,7 +17105,7 @@
      "vol_m5": 14171.2
     },
     "id": "a8e1fe83",
-    "last_mcap": 681140,
+    "last_mcap": 709879,
     "missing": 0,
     "peak_mcap": 1186061,
     "profile": "migrated",
@@ -55427,5 +55418,5 @@
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304
  },
- "runs": 5032
+ "runs": 5034
 }
