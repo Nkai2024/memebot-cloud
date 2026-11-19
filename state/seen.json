@@ -955,10 +955,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 21:57:02 UTC",
+ "last_run": "2026-11-19 22:07:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -18763,21 +18763,23 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 794388,
+    "last_mcap": 1177272,
     "missing": 0,
-    "peak_mcap": 885621,
+    "peak_mcap": 1190989,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.159706889814968,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "FIONA",
     "tf": "minute",
     "token": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 709574,
     "units": 1.2804384643714696e-05,
-    "units_left": 1.2804384643714696e-05
+    "units_left": 3.841315393114409e-06
    },
    "e5aa9900": {
     "chain": "solana",
@@ -18817,7 +18819,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 75347,
+    "last_mcap": 86578,
     "missing": 0,
     "peak_mcap": 95139,
     "profile": "migrated",
@@ -57188,5 +57190,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5422
+ "runs": 5424
 }
