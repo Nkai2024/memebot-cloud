@@ -964,7 +964,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 22:17:02 UTC",
+ "last_run": "2026-11-19 22:27:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18824,21 +18824,23 @@
      "vol_m5": 23294.37
     },
     "id": "ada5db2b",
-    "last_mcap": 60651,
+    "last_mcap": 74943,
     "missing": 0,
-    "peak_mcap": 72929,
+    "peak_mcap": 88398,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.719459465045226,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "VINTEL",
     "tf": "minute",
     "token": "H1jcPQwCX9VPiNGBUpQNJdGzZEHiisFSs1WS4fi6pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 60612,
     "units": 0.0001452704726532079,
-    "units_left": 0.0001452704726532079
+    "units_left": 4.3581141795962384e-05
    },
    "d0da7d0d": {
     "chain": "solana",
@@ -18878,7 +18880,7 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 1817425,
+    "last_mcap": 1414060,
     "missing": 0,
     "peak_mcap": 1817425,
     "profile": "migrated",
@@ -18934,7 +18936,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 92495,
+    "last_mcap": 92765,
     "missing": 0,
     "peak_mcap": 95139,
     "profile": "migrated",
@@ -57306,5 +57308,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5426
+ "runs": 5428
 }
