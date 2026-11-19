@@ -954,15 +954,6 @@
    "profile": "migrated",
    "symbol": "VI"
   },
-  "solana:HuQAr1SxFdA3YYBz5joyjvrR5Xsr9G6r2fDt4NN8pump": {
-   "count": 1,
-   "first_mcap": 184172,
-   "first_ts": 1794505273.0788817,
-   "last_mcap": 184172,
-   "last_ts": 1794505273.0788817,
-   "profile": "migrated",
-   "symbol": "Elon Huang"
-  },
   "solana:J4MsEuqfAnCFAE1E7zfN1MrK7X1msFHtGFTySXi2pump": {
    "count": 1,
    "first_mcap": 50643,
@@ -1000,7 +991,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 17:31:44 UTC",
+ "last_run": "2026-11-19 17:41:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -56967,6 +56958,7 @@
   "solana:6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump": 1794961733.076296,
   "solana:7H2sHeLHyHR8jxENGmsqn7RxTkYZa4KwXvKYcoxBpump": 1794771994.137157,
   "solana:7KBFymfGAe8MmKEuNersoM59TvpiHzZ76jP7rSLrpump": 1794970426.5695572,
+  "solana:7RZuBWCWMp63JYXLFUnSdvmYVWN8dGAKsSvzLbBfpump": 1795109792.9109077,
   "solana:7S2HhQnbWcbWJ2sUacjz384vSCLPCJiKa6F9eeb1pump": 1795107092.876034,
   "solana:7SEGAjVRdv6H3d4CPBNPBL6yXJiUM1pLoECsovPbpump": 1794952921.5090327,
   "solana:7Xkjbrr3s9u1JBaZyj66tTvwaHPSnFDAWon1qYNypump": 1794760297.9044697,
@@ -57010,5 +57002,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5402
+ "runs": 5404
 }
