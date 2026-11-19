@@ -486,15 +486,6 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
-  "solana:AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump": {
-   "count": 1,
-   "first_mcap": 149699,
-   "first_ts": 1794501372.8675215,
-   "last_mcap": 149699,
-   "last_ts": 1794501372.8675215,
-   "profile": "migrated",
-   "symbol": "JensnHung"
-  },
   "solana:AnvhfTgZXdQk3vLmoUxDtYnTb7tpjQkXpFTHDXYFpump": {
    "count": 1,
    "first_mcap": 341519,
@@ -1009,11 +1000,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 16:26:44 UTC",
+ "last_run": "2026-11-19 16:36:44 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -18652,13 +18643,13 @@
     "trough_mcap": 87156,
     "units": 5.1680963290532254e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-18",
-  "positions": {
-   "6922aa29": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795106180.26623,
     "created_ts": 1795104393.568804,
+    "entry_mcap": 235130,
+    "entry_ts": 1795106000.2649674,
     "expires_ts": 1795111593.568804,
     "features": {
      "age_min": 12.157177233695984,
@@ -18693,22 +18684,32 @@
      "vol_m5": 155989.91
     },
     "id": "6922aa29",
-    "last_mcap": 552155,
+    "last_mcap": 1810,
     "missing": 0,
-    "peak_mcap": 552155,
+    "peak_mcap": 306594,
+    "pnl": -1.3901707600051072,
+    "pnl_pct": -13.901707600051072,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.609829239994893,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "pending",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "LOOSY",
     "tf": "minute",
     "token": "FtSWWxVmKNXz8ksJxzJJ7BdDWXbQb3vC94J99oyypump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 1810,
+    "units": 4.125377450771913e-05,
+    "units_left": 0.0,
     "zone_bottom": 200143.04627678284,
     "zone_top": 283370.3212902339
    }
-  },
+  ],
+  "last_summary_day": "2026-11-18",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -57007,5 +57008,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5389
+ "runs": 5391
 }
