@@ -648,15 +648,6 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
-  "solana:DnhM9c4Gdaabirg3W8Ks2c6g5hmMruErapxFRV7apump": {
-   "count": 1,
-   "first_mcap": 251848,
-   "first_ts": 1794447110.5922546,
-   "last_mcap": 251848,
-   "last_ts": 1794447110.5922546,
-   "profile": "migrated",
-   "symbol": "ELONMAX"
-  },
   "solana:Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv": {
    "count": 1,
    "first_mcap": 176628,
@@ -1027,10 +1018,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 01:30:55 UTC",
+ "last_run": "2026-11-19 01:41:01 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 2,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -18050,9 +18041,9 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 543124,
+    "last_mcap": 572062,
     "missing": 0,
-    "peak_mcap": 549435,
+    "peak_mcap": 572062,
     "profile": "migrated",
     "realized": 8.56672133265423,
     "size": 10,
@@ -18158,7 +18149,7 @@
      "vol_m5": 228677.97
     },
     "id": "94cd53ce",
-    "last_mcap": 1336250,
+    "last_mcap": 1386268,
     "missing": 0,
     "peak_mcap": 2771909,
     "profile": "migrated",
@@ -18214,7 +18205,7 @@
      "vol_m5": 55212.36
     },
     "id": "b4415174",
-    "last_mcap": 317385,
+    "last_mcap": 321469,
     "missing": 0,
     "peak_mcap": 488181,
     "profile": "migrated",
@@ -56528,5 +56519,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5250
+ "runs": 5252
 }
