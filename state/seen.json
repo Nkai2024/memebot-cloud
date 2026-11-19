@@ -991,7 +991,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 14:21:44 UTC",
+ "last_run": "2026-11-19 14:36:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18390,12 +18390,10 @@
     "trough_mcap": 845374,
     "units": 1.040634078727723e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-18",
-  "positions": {
-   "84cc016b": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795098560.2170086,
     "created_ts": 1795053343.9657278,
     "entry_mcap": 132174,
     "entry_ts": 1795056030.627136,
@@ -18433,13 +18431,16 @@
      "vol_m5": 241488.68
     },
     "id": "84cc016b",
-    "last_mcap": 138693,
+    "last_mcap": 125028,
     "missing": 0,
     "peak_mcap": 393855,
+    "pnl": 1.6382397861909297,
+    "pnl_pct": 16.382397861909293,
     "profile": "migrated",
-    "realized": 8.968149332697807,
+    "realized": 11.63823978619093,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "FNDR",
     "tf": "minute",
@@ -18449,11 +18450,13 @@
     ],
     "trough_mcap": 72955,
     "units": 7.338810961308578e-05,
-    "units_left": 2.2016432883925734e-05,
+    "units_left": 0.0,
     "zone_bottom": 98017.53110373851,
     "zone_top": 160002.4649483377
    }
-  },
+  ],
+  "last_summary_day": "2026-11-18",
+  "positions": {},
   "started_ts": 1794009851.4477682,
   "version": "v3"
  },
@@ -56750,5 +56753,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5364
+ "runs": 5367
 }
