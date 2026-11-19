@@ -1009,11 +1009,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 16:11:44 UTC",
+ "last_run": "2026-11-19 16:26:44 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -18471,12 +18471,70 @@
     "units_left": 0.0,
     "zone_bottom": 98017.53110373851,
     "zone_top": 160002.4649483377
-   }
-  ],
-  "last_summary_day": "2026-11-18",
-  "positions": {
-   "101a2f10": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795105040.258202,
+    "created_ts": 1795104393.568804,
+    "entry_mcap": 552155,
+    "entry_ts": 1795104393.568804,
+    "features": {
+     "age_min": 12.157177233695984,
+     "boosts": 0,
+     "buys_h1": 974,
+     "buys_h24": 974,
+     "buys_m5": 670,
+     "change_h1": 483,
+     "change_h24": 483,
+     "change_h6": 483,
+     "change_m5": 55.61,
+     "creator_pct": 2.355024676661501,
+     "dex": "pumpswap",
+     "first_candle_share": 0.41870059389632824,
+     "insiders": 0,
+     "liquidity": 53687.35,
+     "lp_locked_pct": 100,
+     "mcap": 552155,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.07543957115089121,
+     "score": 76,
+     "sells_h1": 518,
+     "sells_h24": 518,
+     "sells_m5": 398,
+     "top1": 3.1799551376453654,
+     "top10": 25.752373246490357,
+     "top5": 14.258423523105904,
+     "txns_h24": 1492,
+     "vol_h1": 554725.08,
+     "vol_h24": 554725.08,
+     "vol_m5": 155989.91
+    },
+    "id": "439c6933",
+    "last_mcap": 537179,
+    "missing": 0,
+    "peak_mcap": 1045885,
+    "pnl": 2.523274967717395,
+    "pnl_pct": 25.23274967717395,
+    "profile": "migrated",
+    "realized": 12.523274967717395,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "LOOSY",
+    "tf": "minute",
+    "token": "FtSWWxVmKNXz8ksJxzJJ7BdDWXbQb3vC94J99oyypump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 537179,
+    "units": 1.756753085637185e-05,
+    "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1795105100.2597742,
     "created_ts": 1795104094.9376764,
     "entry_mcap": 95135,
     "entry_ts": 1795104440.2550504,
@@ -18514,13 +18572,16 @@
      "vol_m5": 55725.92
     },
     "id": "101a2f10",
-    "last_mcap": 115613,
+    "last_mcap": 87156,
     "missing": 0,
     "peak_mcap": 126753,
+    "pnl": 1.361208021232983,
+    "pnl_pct": 13.612080212329825,
     "profile": "migrated",
-    "realized": 8.775248687654384,
+    "realized": 11.361208021232983,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "MORALS",
     "tf": "minute",
@@ -18528,14 +18589,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 95135,
+    "trough_mcap": 87156,
     "units": 0.00010196037210280127,
-    "units_left": 3.058811163084038e-05,
+    "units_left": 0.0,
     "zone_bottom": 69867.273371832,
     "zone_top": 100619.18088737363
    },
-   "15d25cb2": {
+   {
     "chain": "solana",
+    "close_ts": 1795105100.2597742,
     "created_ts": 1795104094.9376764,
     "entry_mcap": 187690,
     "entry_ts": 1795104094.9376764,
@@ -18572,78 +18634,28 @@
      "vol_m5": 55725.92
     },
     "id": "15d25cb2",
-    "last_mcap": 115613,
+    "last_mcap": 87156,
     "missing": 0,
     "peak_mcap": 187690,
+    "pnl": -5.63082314454686,
+    "pnl_pct": -56.30823144546861,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.36917685545314,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "MORALS",
     "tf": "minute",
     "token": "BmGMo3SDXw1y2L4fFMY8bsxonWNZ5MitUzuAkV3jmor",
     "tp_done": [],
-    "trough_mcap": 95135,
+    "trough_mcap": 87156,
     "units": 5.1680963290532254e-05,
-    "units_left": 5.1680963290532254e-05
-   },
-   "439c6933": {
-    "chain": "solana",
-    "created_ts": 1795104393.568804,
-    "entry_mcap": 552155,
-    "entry_ts": 1795104393.568804,
-    "features": {
-     "age_min": 12.157177233695984,
-     "boosts": 0,
-     "buys_h1": 974,
-     "buys_h24": 974,
-     "buys_m5": 670,
-     "change_h1": 483,
-     "change_h24": 483,
-     "change_h6": 483,
-     "change_m5": 55.61,
-     "creator_pct": 2.355024676661501,
-     "dex": "pumpswap",
-     "first_candle_share": 0.41870059389632824,
-     "insiders": 0,
-     "liquidity": 53687.35,
-     "lp_locked_pct": 100,
-     "mcap": 552155,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.07543957115089121,
-     "score": 76,
-     "sells_h1": 518,
-     "sells_h24": 518,
-     "sells_m5": 398,
-     "top1": 3.1799551376453654,
-     "top10": 25.752373246490357,
-     "top5": 14.258423523105904,
-     "txns_h24": 1492,
-     "vol_h1": 554725.08,
-     "vol_h24": 554725.08,
-     "vol_m5": 155989.91
-    },
-    "id": "439c6933",
-    "last_mcap": 664473,
-    "missing": 0,
-    "peak_mcap": 1045885,
-    "profile": "migrated",
-    "realized": 9.777134548269958,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "LOOSY",
-    "tf": "minute",
-    "token": "FtSWWxVmKNXz8ksJxzJJ7BdDWXbQb3vC94J99oyypump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 552155,
-    "units": 1.756753085637185e-05,
-    "units_left": 5.270259256911556e-06
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-18",
+  "positions": {
    "6922aa29": {
     "chain": "solana",
     "created_ts": 1795104393.568804,
@@ -56992,7 +57004,8 @@
   "solana:Ugp1hEeDscu8RXkzd2teXLACYB4wrxVEht5mghDpump": 1794856608.6513124,
   "solana:a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump": 1794518773.0976567,
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
-  "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
+  "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
+  "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5386
+ "runs": 5389
 }
