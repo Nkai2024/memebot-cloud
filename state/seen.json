@@ -964,10 +964,10 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 22:52:02 UTC",
+ "last_run": "2026-11-19 23:02:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -18794,58 +18794,6 @@
   ],
   "last_summary_day": "2026-11-19",
   "positions": {
-   "7222d67f": {
-    "chain": "solana",
-    "created_ts": 1795126313.4219966,
-    "expires_ts": 1795133513.4219966,
-    "features": {
-     "age_min": 18.61354313294093,
-     "boosts": 0,
-     "buys_h1": 1112,
-     "buys_h24": 1112,
-     "buys_m5": 283,
-     "change_h1": 131,
-     "change_h24": 131,
-     "change_h6": 131,
-     "change_m5": 72.28,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.34709281396881225,
-     "insiders": 0,
-     "liquidity": 17639.51,
-     "lp_locked_pct": 100,
-     "mcap": 66772,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.272528702187243,
-     "score": 79,
-     "sells_h1": 875,
-     "sells_h24": 875,
-     "sells_m5": 192,
-     "top1": 3.8196367451533293,
-     "top10": 21.969579000932555,
-     "top5": 13.985609921974005,
-     "txns_h24": 1987,
-     "vol_h1": 85702.92,
-     "vol_h24": 85702.92,
-     "vol_m5": 23294.37
-    },
-    "id": "7222d67f",
-    "last_mcap": 66772,
-    "missing": 0,
-    "peak_mcap": 66772,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "VINTEL",
-    "tf": "minute",
-    "token": "H1jcPQwCX9VPiNGBUpQNJdGzZEHiisFSs1WS4fi6pump",
-    "tp_done": [],
-    "zone_bottom": 36354.96591239656,
-    "zone_top": 46306.9568970627
-   },
    "d0da7d0d": {
     "chain": "solana",
     "created_ts": 1795124813.718932,
@@ -18884,7 +18832,7 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 1403414,
+    "last_mcap": 1523745,
     "missing": 0,
     "peak_mcap": 1817425,
     "profile": "migrated",
@@ -18940,9 +18888,9 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 96744,
+    "last_mcap": 110374,
     "missing": 0,
-    "peak_mcap": 97779,
+    "peak_mcap": 110374,
     "profile": "migrated",
     "realized": 9.015330843356667,
     "size": 10,
@@ -57312,5 +57260,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5433
+ "runs": 5435
 }
