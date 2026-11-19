@@ -1027,7 +1027,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 02:35:54 UTC",
+ "last_run": "2026-11-19 02:45:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18347,7 +18347,7 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 563036,
+    "last_mcap": 609686,
     "missing": 0,
     "peak_mcap": 823374,
     "profile": "migrated",
@@ -18368,6 +18368,8 @@
    "84cc016b": {
     "chain": "solana",
     "created_ts": 1795053343.9657278,
+    "entry_mcap": 132174,
+    "entry_ts": 1795056030.627136,
     "expires_ts": 1795060543.9657278,
     "features": {
      "age_min": 51.97966655890147,
@@ -18402,18 +18404,21 @@
      "vol_m5": 241488.68
     },
     "id": "84cc016b",
-    "last_mcap": 297402,
+    "last_mcap": 146480,
     "missing": 0,
-    "peak_mcap": 297402,
+    "peak_mcap": 151420,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
-    "status": "pending",
+    "status": "open",
     "strategy": "ZONE",
     "symbol": "FNDR",
     "tf": "minute",
     "token": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump",
     "tp_done": [],
+    "trough_mcap": 123888,
+    "units": 7.338810961308578e-05,
+    "units_left": 7.338810961308578e-05,
     "zone_bottom": 98017.53110373851,
     "zone_top": 160002.4649483377
    },
@@ -18455,9 +18460,9 @@
      "vol_m5": 228677.97
     },
     "id": "94cd53ce",
-    "last_mcap": 2835078,
+    "last_mcap": 4285390,
     "missing": 0,
-    "peak_mcap": 2835078,
+    "peak_mcap": 4285390,
     "profile": "migrated",
     "realized": 9.708271375911359,
     "size": 10,
@@ -56769,5 +56774,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5263
+ "runs": 5265
 }
