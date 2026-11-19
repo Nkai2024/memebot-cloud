@@ -90,15 +90,6 @@
    "profile": "migrated",
    "symbol": "SHIT"
   },
-  "solana:3WcR58Ba1Z82bSK77DsTqXj3cG5sbR5WXemW6Bqppump": {
-   "count": 1,
-   "first_mcap": 174411,
-   "first_ts": 1794508572.9910846,
-   "last_mcap": 174411,
-   "last_ts": 1794508572.9910846,
-   "profile": "migrated",
-   "symbol": "AMD"
-  },
   "solana:3YyNSd5dAe5hbKu83syLCjZKWYD9d94EGYCfEWNkpump": {
    "count": 1,
    "first_mcap": 150569,
@@ -1009,7 +1000,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 18:26:44 UTC",
+ "last_run": "2026-11-19 18:36:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18861,7 +18852,7 @@
      "vol_m5": 46374.76
     },
     "id": "68c7f8a0",
-    "last_mcap": 307986,
+    "last_mcap": 289033,
     "missing": 0,
     "peak_mcap": 323204,
     "profile": "migrated",
@@ -18917,9 +18908,9 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 72691,
+    "last_mcap": 74639,
     "missing": 0,
-    "peak_mcap": 80743,
+    "peak_mcap": 85877,
     "profile": "migrated",
     "realized": 9.015330843356667,
     "size": 10,
@@ -57237,5 +57228,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5413
+ "runs": 5415
 }
