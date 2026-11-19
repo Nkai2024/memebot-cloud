@@ -486,15 +486,6 @@
    "profile": "migrated",
    "symbol": "GROKIA"
   },
-  "solana:AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump": {
-   "count": 1,
-   "first_mcap": 483742,
-   "first_ts": 1794448010.4899297,
-   "last_mcap": 483742,
-   "last_ts": 1794448010.4899297,
-   "profile": "migrated",
-   "symbol": "AIB"
-  },
   "solana:AQqYJ5XaVCQd2PESVZitmyotD5d3qPjmZoEscEPDpump": {
    "count": 1,
    "first_mcap": 287670,
@@ -846,6 +837,15 @@
    "profile": "migrated",
    "symbol": "cashduck"
   },
+  "solana:FrW3hfF9ViuMcsTMq4zZDiTKjuT7rZwX3v87qmqYpump": {
+   "count": 1,
+   "first_mcap": 95990,
+   "first_ts": 1795052744.1947536,
+   "last_mcap": 95990,
+   "last_ts": 1795052744.1947536,
+   "profile": "migrated",
+   "symbol": "Mandy"
+  },
   "solana:FwVsiYsWBDCs4QifGcDRGGxQ3xh6CYLnWWFLUDiupump": {
    "count": 1,
    "first_mcap": 111645,
@@ -1018,7 +1018,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 01:41:01 UTC",
+ "last_run": "2026-11-19 01:50:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 1,
@@ -17999,6 +17999,64 @@
     "trough_mcap": 34028,
     "units": 0.0001280730940875122,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1795052790.604469,
+    "created_ts": 1795052744.194772,
+    "entry_mcap": 95990,
+    "entry_ts": 1795052744.194772,
+    "features": {
+     "age_min": 18.229747180143992,
+     "boosts": 0,
+     "buys_h1": 6073,
+     "buys_h24": 6073,
+     "buys_m5": 1302,
+     "change_h1": 138,
+     "change_h24": 138,
+     "change_h6": 138,
+     "change_m5": 26.89,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.4613659112254715,
+     "insiders": 0,
+     "liquidity": 21486.02,
+     "lp_locked_pct": 100,
+     "mcap": 95990,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.9210608595558617,
+     "score": 75,
+     "sells_h1": 1611,
+     "sells_h24": 1611,
+     "sells_m5": 243,
+     "top1": 2.197450016847517,
+     "top10": 16.056921520109224,
+     "top5": 9.96938855112284,
+     "txns_h24": 7684,
+     "vol_h1": 338710.02,
+     "vol_h24": 338710.02,
+     "vol_m5": 26729.98
+    },
+    "id": "dfdb7811",
+    "last_mcap": 40495,
+    "missing": 0,
+    "peak_mcap": 95990,
+    "pnl": -6.03065470361496,
+    "pnl_pct": -60.3065470361496,
+    "profile": "migrated",
+    "realized": 3.9693452963850397,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "Mandy",
+    "tf": "minute",
+    "token": "FrW3hfF9ViuMcsTMq4zZDiTKjuT7rZwX3v87qmqYpump",
+    "tp_done": [],
+    "trough_mcap": 40495,
+    "units": 0.00010105219293676424,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-18",
@@ -18041,9 +18099,9 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 572062,
+    "last_mcap": 578311,
     "missing": 0,
-    "peak_mcap": 572062,
+    "peak_mcap": 600223,
     "profile": "migrated",
     "realized": 8.56672133265423,
     "size": 10,
@@ -18149,7 +18207,7 @@
      "vol_m5": 228677.97
     },
     "id": "94cd53ce",
-    "last_mcap": 1386268,
+    "last_mcap": 1534292,
     "missing": 0,
     "peak_mcap": 2771909,
     "profile": "migrated",
@@ -18205,7 +18263,7 @@
      "vol_m5": 55212.36
     },
     "id": "b4415174",
-    "last_mcap": 321469,
+    "last_mcap": 306292,
     "missing": 0,
     "peak_mcap": 488181,
     "profile": "migrated",
@@ -56519,5 +56577,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5252
+ "runs": 5254
 }
