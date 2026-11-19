@@ -1000,7 +1000,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 18:46:44 UTC",
+ "last_run": "2026-11-19 18:56:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18912,7 +18912,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 86470,
+    "last_mcap": 80961,
     "missing": 0,
     "peak_mcap": 95139,
     "profile": "migrated",
@@ -57177,6 +57177,7 @@
   "solana:31gZHFr8SYpTUdTieUuiWD4cEcNRd9NaGyRguP76pump": 1794582348.579706,
   "solana:3HPU5agEYMrecTnrunbDWAKkPy5Z4CMyt4GnTDe9pump": 1794956221.5305572,
   "solana:3ZhsX6y2aEYoiwRFCu7mtwuMWSFH654dhyR2aGRVpump": 1795051243.1226332,
+  "solana:3guXwT9btWrL4jDFgKevD2fTvEbXEBsR99ZARqg5pump": 1795114293.0525272,
   "solana:3iFGh7FJiXnNwpmZKnaXymWMHL6CsxSTc1dTNUudpump": 1794953221.523238,
   "solana:4HwfkLiQtJYGUCb6Na9KVy6c8ScHjaJmgRXYpbghpump": 1794623234.7918363,
   "solana:4b3ypv8i8vKUfCfETpbbPSLtvvW39eQVt5M41PxCpump": 1794707343.887791,
@@ -57232,5 +57233,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5417
+ "runs": 5419
 }
