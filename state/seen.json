@@ -1000,7 +1000,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 16:56:44 UTC",
+ "last_run": "2026-11-19 17:06:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -56949,6 +56949,7 @@
  },
  "rejected": {
   "bsc:0x3bdcBA24571c6aEF4FBc4921685BF1e6740d7777": 1794579660.2678065,
+  "solana:25KkRDFPuUSC9fyMMH9ScRyy2aVR1DVn6JRVtcnqpump": 1795107692.905706,
   "solana:27Ggmg2ZmaehHX7L5vZqCeTRoQmPaBtR5vqvaRLbpump": 1794876660.3068032,
   "solana:27sDLLwdhfd4bAn3Lq8KfEoaie2924vRbQsyjdjjpump": 1794690283.6357698,
   "solana:2uDBAsgxonpXXxCmfbLVZ6H5cJUhKrqnWxsf2Fk4pump": 1795029875.3813593,
@@ -57010,5 +57011,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5395
+ "runs": 5397
 }
