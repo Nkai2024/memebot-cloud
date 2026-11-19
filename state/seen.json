@@ -414,15 +414,6 @@
    "profile": "migrated",
    "symbol": "JensenHao"
   },
-  "solana:9Sunhg3DWCxnjcN1UzBY3X8W46v9DXhesBhuJLDtgrok": {
-   "count": 1,
-   "first_mcap": 63513,
-   "first_ts": 1794446816.968818,
-   "last_mcap": 63513,
-   "last_ts": 1794446816.968818,
-   "profile": "migrated",
-   "symbol": "GROKIE"
-  },
   "solana:9WGvvKDQSkzwmPoGmDCx42C8t1xyvrV3hFExCgkrpump": {
    "count": 1,
    "first_mcap": 240127,
@@ -936,15 +927,6 @@
    "profile": "migrated",
    "symbol": "APCY"
   },
-  "solana:H57bUBka6sBfPQph6f58TsQvUvxugJQmqMANFV1mpump": {
-   "count": 1,
-   "first_mcap": 708840,
-   "first_ts": 1794446810.213534,
-   "last_mcap": 708840,
-   "last_ts": 1794446810.213534,
-   "profile": "migrated",
-   "symbol": "Rex"
-  },
   "solana:HBFXQ147s9VN62DmUvfWAkRApTPzaR8saHcCVCgrpump": {
    "count": 1,
    "first_mcap": 135588,
@@ -1045,11 +1027,11 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 01:20:54 UTC",
+ "last_run": "2026-11-19 01:30:55 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 2,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -18068,7 +18050,7 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 511652,
+    "last_mcap": 543124,
     "missing": 0,
     "peak_mcap": 549435,
     "profile": "migrated",
@@ -18176,7 +18158,7 @@
      "vol_m5": 228677.97
     },
     "id": "94cd53ce",
-    "last_mcap": 1171474,
+    "last_mcap": 1336250,
     "missing": 0,
     "peak_mcap": 2771909,
     "profile": "migrated",
@@ -18232,7 +18214,7 @@
      "vol_m5": 55212.36
     },
     "id": "b4415174",
-    "last_mcap": 329294,
+    "last_mcap": 317385,
     "missing": 0,
     "peak_mcap": 488181,
     "profile": "migrated",
@@ -56546,5 +56528,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5248
+ "runs": 5250
 }
