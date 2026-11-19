@@ -720,15 +720,6 @@
    "profile": "migrated",
    "symbol": "Socks"
   },
-  "solana:FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump": {
-   "count": 1,
-   "first_mcap": 285080,
-   "first_ts": 1794527473.7996368,
-   "last_mcap": 285080,
-   "last_ts": 1794527473.7996368,
-   "profile": "migrated",
-   "symbol": "FOOD"
-  },
   "solana:FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
    "count": 1,
    "first_mcap": 138759,
@@ -955,7 +946,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 23:47:02 UTC",
+ "last_run": "2026-11-19 23:57:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18823,7 +18814,7 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 1206209,
+    "last_mcap": 1175224,
     "missing": 0,
     "peak_mcap": 1817425,
     "profile": "migrated",
@@ -18879,7 +18870,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 102296,
+    "last_mcap": 105955,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -18896,58 +18887,6 @@
     "trough_mcap": 55293,
     "units": 0.00016933470663198504,
     "units_left": 5.080041198959552e-05
-   },
-   "f9983cda": {
-    "chain": "solana",
-    "created_ts": 1795124813.718932,
-    "expires_ts": 1795132013.718932,
-    "features": {
-     "age_min": 53.38359010219574,
-     "boosts": 0,
-     "buys_h1": 17743,
-     "buys_h24": 17743,
-     "buys_m5": 2457,
-     "change_h1": 2328,
-     "change_h24": 2328,
-     "change_h6": 2328,
-     "change_m5": 26.71,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.023484870254099136,
-     "insiders": 0,
-     "liquidity": 68755.51,
-     "lp_locked_pct": 100,
-     "mcap": 757553,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.16422966070044037,
-     "score": 76,
-     "sells_h1": 15035,
-     "sells_h24": 15035,
-     "sells_m5": 1882,
-     "top1": 2.0323284347443975,
-     "top10": 13.465016563155501,
-     "top5": 7.636848488134298,
-     "txns_h24": 32778,
-     "vol_h1": 2017476.05,
-     "vol_h24": 2017476.05,
-     "vol_m5": 336955.11
-    },
-    "id": "f9983cda",
-    "last_mcap": 757553,
-    "missing": 0,
-    "peak_mcap": 757553,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "FIONA",
-    "tf": "minute",
-    "token": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump",
-    "tp_done": [],
-    "zone_bottom": 212703.36411920466,
-    "zone_top": 359919.68024501065
    }
   },
   "started_ts": 1794009851.4477682,
@@ -57251,5 +57190,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5444
+ "runs": 5446
 }
