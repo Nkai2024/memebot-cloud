@@ -513,15 +513,6 @@
    "profile": "migrated",
    "symbol": "GTA"
   },
-  "solana:AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump": {
-   "count": 1,
-   "first_mcap": 249515,
-   "first_ts": 1794450711.6724045,
-   "last_mcap": 249515,
-   "last_ts": 1794450711.6724045,
-   "profile": "migrated",
-   "symbol": "MAX"
-  },
   "solana:AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump": {
    "count": 1,
    "first_mcap": 149699,
@@ -1036,7 +1027,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 02:25:54 UTC",
+ "last_run": "2026-11-19 02:35:54 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18254,6 +18245,66 @@
     "trough_mcap": 261767,
     "units": 3.2615786040443576e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1795055430.6226342,
+    "created_ts": 1795034076.4431493,
+    "entry_mcap": 150569,
+    "entry_ts": 1795034076.4431493,
+    "features": {
+     "age_min": 10.699615295728048,
+     "boosts": 0,
+     "buys_h1": 1438,
+     "buys_h24": 1438,
+     "buys_m5": 594,
+     "change_h1": 367,
+     "change_h24": 367,
+     "change_h6": 367,
+     "change_m5": -3.01,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6027421733760043,
+     "insiders": 0,
+     "liquidity": 26843.05,
+     "lp_locked_pct": 100,
+     "mcap": 150569,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.29045505695371715,
+     "score": 74,
+     "sells_h1": 429,
+     "sells_h24": 429,
+     "sells_m5": 197,
+     "top1": 3.213285880910656,
+     "top10": 29.645022542547366,
+     "top5": 15.82575216920688,
+     "txns_h24": 1867,
+     "vol_h1": 123041.07,
+     "vol_h24": 123041.07,
+     "vol_m5": 55212.36
+    },
+    "id": "b4415174",
+    "last_mcap": 75234,
+    "missing": 0,
+    "peak_mcap": 488181,
+    "pnl": 0.5387248929062398,
+    "pnl_pct": 5.387248929062394,
+    "profile": "migrated",
+    "realized": 10.53872489290624,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "DAKITTY",
+    "tf": "minute",
+    "token": "3YyNSd5dAe5hbKu83syLCjZKWYD9d94EGYCfEWNkpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 75234,
+    "units": 6.44222914411333e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-18",
@@ -18296,7 +18347,7 @@
      "vol_m5": 6097.17
     },
     "id": "4ba8eabe",
-    "last_mcap": 564748,
+    "last_mcap": 563036,
     "missing": 0,
     "peak_mcap": 823374,
     "profile": "migrated",
@@ -18404,9 +18455,9 @@
      "vol_m5": 228677.97
     },
     "id": "94cd53ce",
-    "last_mcap": 1546389,
+    "last_mcap": 2835078,
     "missing": 0,
-    "peak_mcap": 2771909,
+    "peak_mcap": 2835078,
     "profile": "migrated",
     "realized": 9.708271375911359,
     "size": 10,
@@ -18421,62 +18472,6 @@
     "trough_mcap": 932124,
     "units": 1.040634078727723e-05,
     "units_left": 3.121902236183169e-06
-   },
-   "b4415174": {
-    "chain": "solana",
-    "created_ts": 1795034076.4431493,
-    "entry_mcap": 150569,
-    "entry_ts": 1795034076.4431493,
-    "features": {
-     "age_min": 10.699615295728048,
-     "boosts": 0,
-     "buys_h1": 1438,
-     "buys_h24": 1438,
-     "buys_m5": 594,
-     "change_h1": 367,
-     "change_h24": 367,
-     "change_h6": 367,
-     "change_m5": -3.01,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.6027421733760043,
-     "insiders": 0,
-     "liquidity": 26843.05,
-     "lp_locked_pct": 100,
-     "mcap": 150569,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.29045505695371715,
-     "score": 74,
-     "sells_h1": 429,
-     "sells_h24": 429,
-     "sells_m5": 197,
-     "top1": 3.213285880910656,
-     "top10": 29.645022542547366,
-     "top5": 15.82575216920688,
-     "txns_h24": 1867,
-     "vol_h1": 123041.07,
-     "vol_h24": 123041.07,
-     "vol_m5": 55212.36
-    },
-    "id": "b4415174",
-    "last_mcap": 273657,
-    "missing": 0,
-    "peak_mcap": 488181,
-    "profile": "migrated",
-    "realized": 9.128321610690113,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "DAKITTY",
-    "tf": "minute",
-    "token": "3YyNSd5dAe5hbKu83syLCjZKWYD9d94EGYCfEWNkpump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 140808,
-    "units": 6.44222914411333e-05,
-    "units_left": 1.9326687432339992e-05
    }
   },
   "started_ts": 1794009851.4477682,
@@ -56774,5 +56769,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5261
+ "runs": 5263
 }
