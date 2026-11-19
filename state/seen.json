@@ -991,7 +991,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 15:41:44 UTC",
+ "last_run": "2026-11-19 15:51:44 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -56740,6 +56740,7 @@
   "solana:D8q1rSs4ernxGWur9tb5YGiAGEh6tgzg2VQc6spkpump": 1794862908.6025927,
   "solana:DVehfNFvE3judvtWcFEJWpjSR8FbZUeYLZz3wmKypump": 1794954721.502884,
   "solana:DX1Kmb8QiQhwR6cncj15JRnzfGhpceWq3t2iur2epump": 1794946620.3300786,
+  "solana:EE6CRsqqpvHwkCYK8hF15RmNccdq32vdbcQdX4afLoat": 1795103192.8190072,
   "solana:EkTfN4Pb7K3NXzxsbzkn3AA4MGbsdTniFJ3G2RsVpump": 1795063808.9804778,
   "solana:F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump": 1794512771.9539692,
   "solana:F5sVohBg9zjTWVxxGpiWpzsuGxGGy3W3XjwVRzrDpump": 1794941821.3110461,
@@ -56753,5 +56754,5 @@
   "solana:fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794681883.4448304,
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874
  },
- "runs": 5380
+ "runs": 5382
 }
