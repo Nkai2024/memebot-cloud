@@ -1,14 +1,5 @@
 {
  "alerts": {
-  "solana:2FbqgFEWTwTRqZCemnf4AaP9tmhHKha3oqMjCNmcpump": {
-   "count": 1,
-   "first_mcap": 262494,
-   "first_ts": 1794524774.0369413,
-   "last_mcap": 262494,
-   "last_ts": 1794524774.0369413,
-   "profile": "migrated",
-   "symbol": "CSI"
-  },
   "solana:2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump": {
    "count": 1,
    "first_mcap": 193203,
@@ -964,7 +955,7 @@
    "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-19 23:02:02 UTC",
+ "last_run": "2026-11-19 23:12:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -18832,7 +18823,7 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 1523745,
+    "last_mcap": 1178536,
     "missing": 0,
     "peak_mcap": 1817425,
     "profile": "migrated",
@@ -18888,9 +18879,9 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 110374,
+    "last_mcap": 112457,
     "missing": 0,
-    "peak_mcap": 110374,
+    "peak_mcap": 112837,
     "profile": "migrated",
     "realized": 9.015330843356667,
     "size": 10,
@@ -57260,5 +57251,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5435
+ "runs": 5437
 }
