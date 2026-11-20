@@ -144,15 +144,6 @@
    "profile": "migrated",
    "symbol": "CSI"
   },
-  "solana:52jLwRnUxGrSGPu65aGMgKrWdpMDFmyR3Gyf3sivpump": {
-   "count": 1,
-   "first_mcap": 88611,
-   "first_ts": 1794577549.3329327,
-   "last_mcap": 88611,
-   "last_ts": 1794577549.3329327,
-   "profile": "migrated",
-   "symbol": "Buffape"
-  },
   "solana:52s4znkZ8Z6MSxMxNbssRedvEHUase3KSiLqKpzpump": {
    "count": 1,
    "first_mcap": 61997,
@@ -314,6 +305,15 @@
    "last_ts": 1794593883.698613,
    "profile": "migrated",
    "symbol": "BAWSAQ"
+  },
+  "solana:7ycjv7RnffKDdLifHuRUDRhBbe3oQk9qp7EvViGshcMr": {
+   "count": 1,
+   "first_mcap": 74340,
+   "first_ts": 1795182488.2914786,
+   "last_mcap": 74340,
+   "last_ts": 1795182488.2914786,
+   "profile": "migrated",
+   "symbol": "Raja"
   },
   "solana:85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": {
    "count": 1,
@@ -928,7 +928,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-20 13:42:59 UTC",
+ "last_run": "2026-11-20 13:52:59 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -19177,6 +19177,60 @@
   ],
   "last_summary_day": "2026-11-19",
   "positions": {
+   "b73f14f7": {
+    "chain": "solana",
+    "created_ts": 1795182488.2915134,
+    "entry_mcap": 74340,
+    "entry_ts": 1795182488.2915134,
+    "features": {
+     "age_min": 14.774131317933401,
+     "boosts": 0,
+     "buys_h1": 2513,
+     "buys_h24": 2513,
+     "buys_m5": 882,
+     "change_h1": 158,
+     "change_h24": 158,
+     "change_h6": 158,
+     "change_m5": 85.04,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.14590896021335562,
+     "insiders": 0,
+     "liquidity": 18366.24,
+     "lp_locked_pct": 100,
+     "mcap": 74340,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 80,
+     "sells_h1": 1882,
+     "sells_h24": 1882,
+     "sells_m5": 674,
+     "top1": 3.1288771849562207,
+     "top10": 17.58290641908546,
+     "top5": 11.085121827416131,
+     "txns_h24": 4395,
+     "vol_h1": 143995.04,
+     "vol_h24": 143995.04,
+     "vol_m5": 54931.48
+    },
+    "id": "b73f14f7",
+    "last_mcap": 87125,
+    "missing": 0,
+    "peak_mcap": 87125,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Raja",
+    "tf": "minute",
+    "token": "7ycjv7RnffKDdLifHuRUDRhBbe3oQk9qp7EvViGshcMr",
+    "tp_done": [],
+    "trough_mcap": 59679,
+    "units": 0.00013048157115953725,
+    "units_left": 0.00013048157115953725
+   },
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -19215,7 +19269,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 75329,
+    "last_mcap": 70441,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -19232,6 +19286,58 @@
     "trough_mcap": 55293,
     "units": 0.00016933470663198504,
     "units_left": 5.080041198959552e-05
+   },
+   "e7cc56e3": {
+    "chain": "solana",
+    "created_ts": 1795182488.2915134,
+    "expires_ts": 1795189688.2915134,
+    "features": {
+     "age_min": 14.774131317933401,
+     "boosts": 0,
+     "buys_h1": 2513,
+     "buys_h24": 2513,
+     "buys_m5": 882,
+     "change_h1": 158,
+     "change_h24": 158,
+     "change_h6": 158,
+     "change_m5": 85.04,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.14590896021335562,
+     "insiders": 0,
+     "liquidity": 18366.24,
+     "lp_locked_pct": 100,
+     "mcap": 74340,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 80,
+     "sells_h1": 1882,
+     "sells_h24": 1882,
+     "sells_m5": 674,
+     "top1": 3.1288771849562207,
+     "top10": 17.58290641908546,
+     "top5": 11.085121827416131,
+     "txns_h24": 4395,
+     "vol_h1": 143995.04,
+     "vol_h24": 143995.04,
+     "vol_m5": 54931.48
+    },
+    "id": "e7cc56e3",
+    "last_mcap": 74340,
+    "missing": 0,
+    "peak_mcap": 74340,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Raja",
+    "tf": "minute",
+    "token": "7ycjv7RnffKDdLifHuRUDRhBbe3oQk9qp7EvViGshcMr",
+    "tp_done": [],
+    "zone_bottom": 31706.706621957208,
+    "zone_top": 40819.166275279335
    }
   },
   "started_ts": 1794009851.4477682,
@@ -57540,5 +57646,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5589
+ "runs": 5591
 }
