@@ -820,11 +820,11 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-20 23:03:07 UTC",
+ "last_run": "2026-11-20 23:13:01 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 1,
-  "rejected_safety": 0
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -19403,21 +19403,23 @@
      "vol_m5": 28778.5
     },
     "id": "b408b3e6",
-    "last_mcap": 58560,
+    "last_mcap": 85827,
     "missing": 0,
-    "peak_mcap": 58560,
+    "peak_mcap": 97920,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 10.623670408128412,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Bust",
     "tf": "minute",
     "token": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 58560,
     "units": 0.00016564207650273223,
-    "units_left": 0.00016564207650273223
+    "units_left": 4.9692622950819684e-05
    },
    "d0529e51": {
     "chain": "solana",
@@ -19457,9 +19459,9 @@
      "vol_m5": 33404.41
     },
     "id": "d0529e51",
-    "last_mcap": 320833,
+    "last_mcap": 481699,
     "missing": 0,
-    "peak_mcap": 328107,
+    "peak_mcap": 481699,
     "profile": "migrated",
     "realized": 13.406198571868797,
     "size": 10,
@@ -19514,9 +19516,9 @@
      "vol_m5": 33404.41
     },
     "id": "e34bb506",
-    "last_mcap": 320833,
+    "last_mcap": 481699,
     "missing": 0,
-    "peak_mcap": 328107,
+    "peak_mcap": 481699,
     "profile": "migrated",
     "realized": 13.406198571868797,
     "size": 10,
@@ -19572,7 +19574,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 81919,
+    "last_mcap": 81610,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -57889,6 +57891,7 @@
   "solana:GUtHGr6xcn9e78ew6qY7Jg7foyuAhf67mNBNntn5pump": 1795209169.497737,
   "solana:HEfH9FaC2q5uMmqVLWqcqxjTUdoSZohJx5uhKHPHpump": 1794615434.7675116,
   "solana:HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump": 1795137413.1637137,
+  "solana:HMs3u6rx8DSruPMhXL7N2N5hciXTXa49e9LCoj1Apump": 1795216369.5492098,
   "solana:Hi6qQHwHBnx9uaxT3KyBxaHaUn4JTAG6ijygQbiopump": 1794698942.8014526,
   "solana:HsWkLse36Aog3pK8n6cNHRG6s1kc9KVgz5VNMBcRpump": 1794856308.5420384,
   "solana:Ugp1hEeDscu8RXkzd2teXLACYB4wrxVEht5mghDpump": 1794856608.6513124,
@@ -57897,5 +57900,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5668
+ "runs": 5670
 }
