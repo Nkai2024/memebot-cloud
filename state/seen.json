@@ -935,22 +935,13 @@
    "last_ts": 1795039776.1141968,
    "profile": "migrated",
    "symbol": "LGTA6"
-  },
-  "solana:ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v": {
-   "count": 1,
-   "first_mcap": 338581,
-   "first_ts": 1794529574.025212,
-   "last_mcap": 338581,
-   "last_ts": 1794529574.025212,
-   "profile": "migrated",
-   "symbol": "SHARKBUX"
   }
  },
- "last_run": "2026-11-20 00:17:02 UTC",
+ "last_run": "2026-11-20 00:27:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -18814,7 +18805,7 @@
      "vol_m5": 336955.11
     },
     "id": "d0da7d0d",
-    "last_mcap": 1184801,
+    "last_mcap": 806511,
     "missing": 0,
     "peak_mcap": 1817425,
     "profile": "migrated",
@@ -18870,7 +18861,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 137883,
+    "last_mcap": 130360,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -57191,5 +57182,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5450
+ "runs": 5452
 }
