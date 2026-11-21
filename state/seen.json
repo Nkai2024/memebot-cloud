@@ -775,7 +775,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 22:49:39 UTC",
+ "last_run": "2026-11-21 22:59:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -58459,7 +58459,6 @@
   "solana:FC8CkjiVJxKe5uUEx3SVLHLEcVARAMGCfnSoBaZgpump": 1795149369.0440743,
   "solana:FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump": 1795238462.9469233,
   "solana:G6H8DjYRPomfmG5KrEAMpxoUU2uRLxdeTrkxnSiXpump": 1795202269.4093735,
-  "solana:GQBMCgxisVmdxxpu8r8fXeYmavWBG9fnHhGGGELwpump": 1794696842.7412798,
   "solana:GUmgNeyZCLrjQW2TaLhqkTUas8isQc86YuzKQ6Fppump": 1795025975.3114314,
   "solana:GUtHGr6xcn9e78ew6qY7Jg7foyuAhf67mNBNntn5pump": 1795209169.497737,
   "solana:HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump": 1795137413.1637137,
@@ -58471,5 +58470,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5901
+ "runs": 5903
 }
