@@ -811,7 +811,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 06:11:14 UTC",
+ "last_run": "2026-11-21 07:57:04 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -19532,12 +19532,10 @@
     "trough_mcap": 71790,
     "units": 0.00010844774383972094,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-20",
-  "positions": {
-   "2b04200f": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795247200.685551,
     "created_ts": 1795237563.7680159,
     "entry_mcap": 37836,
     "entry_ts": 1795240729.9933717,
@@ -19575,13 +19573,16 @@
      "vol_m5": 23310.15
     },
     "id": "2b04200f",
-    "last_mcap": 134553,
+    "last_mcap": 7312,
     "missing": 0,
     "peak_mcap": 170675,
+    "pnl": 0.20596488000845525,
+    "pnl_pct": 2.059648800084557,
     "profile": "migrated",
-    "realized": 9.660463706522886,
+    "realized": 10.205964880008455,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "VAREXON",
     "tf": "minute",
@@ -19589,64 +19590,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 37836,
+    "trough_mcap": 7312,
     "units": 0.00025636959509461887,
-    "units_left": 7.691087852838567e-05,
+    "units_left": 0.0,
     "zone_bottom": 32190.04413675888,
     "zone_top": 44256.601184632476
-   },
-   "3eecae58": {
-    "chain": "solana",
-    "created_ts": 1795238164.3833644,
-    "expires_ts": 1795245364.3833644,
-    "features": {
-     "age_min": 25.381952420870462,
-     "boosts": 0,
-     "buys_h1": 2245,
-     "buys_h24": 2245,
-     "buys_m5": 1185,
-     "change_h1": 235,
-     "change_h24": 235,
-     "change_h6": 235,
-     "change_m5": 79.27,
-     "creator_pct": 0.0,
-     "dex": "pumpswap",
-     "first_candle_share": 0.05461023532822063,
-     "insiders": 0,
-     "liquidity": 19907.49,
-     "lp_locked_pct": 100,
-     "mcap": 89444,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.14632133803562433,
-     "score": 82,
-     "sells_h1": 1476,
-     "sells_h24": 1476,
-     "sells_m5": 739,
-     "top1": 2.9737406740116796,
-     "top10": 23.344178481563546,
-     "top5": 13.360109422621093,
-     "txns_h24": 3721,
-     "vol_h1": 157420.92,
-     "vol_h24": 157420.92,
-     "vol_m5": 93288.91
-    },
-    "id": "3eecae58",
-    "last_mcap": 89444,
-    "missing": 0,
-    "peak_mcap": 89444,
-    "profile": "migrated",
-    "realized": 0.0,
-    "size": 10,
-    "status": "pending",
-    "strategy": "ZONE",
-    "symbol": "MARS",
-    "tf": "minute",
-    "token": "DbMPw1vSRtE93EK5Sqw23xHuDtkD569RpqANLvdqpump",
-    "tp_done": [],
-    "zone_bottom": 31419.5331012955,
-    "zone_top": 46658.607059221635
-   },
+   }
+  ],
+  "last_summary_day": "2026-11-20",
+  "positions": {
    "d0529e51": {
     "chain": "solana",
     "created_ts": 1795208570.5828416,
@@ -19685,7 +19637,7 @@
      "vol_m5": 33404.41
     },
     "id": "d0529e51",
-    "last_mcap": 231938,
+    "last_mcap": 188658,
     "missing": 0,
     "peak_mcap": 481699,
     "profile": "migrated",
@@ -19742,7 +19694,7 @@
      "vol_m5": 33404.41
     },
     "id": "e34bb506",
-    "last_mcap": 231938,
+    "last_mcap": 188658,
     "missing": 0,
     "peak_mcap": 481699,
     "profile": "migrated",
@@ -19800,7 +19752,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 78753,
+    "last_mcap": 83444,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58132,5 +58084,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5749
+ "runs": 5752
 }
