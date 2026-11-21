@@ -757,7 +757,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 20:20:36 UTC",
+ "last_run": "2026-11-21 20:35:36 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -58211,5 +58211,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5872
+ "runs": 5875
 }
