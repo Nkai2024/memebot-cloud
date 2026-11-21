@@ -387,15 +387,6 @@
    "profile": "migrated",
    "symbol": "FUND"
   },
-  "solana:B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump": {
-   "count": 1,
-   "first_mcap": 558652,
-   "first_ts": 1794619335.190946,
-   "last_mcap": 558652,
-   "last_ts": 1794619335.190946,
-   "profile": "migrated",
-   "symbol": "JENSEN"
-  },
   "solana:B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": {
    "count": 1,
    "first_mcap": 757553,
@@ -811,7 +802,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 01:16:14 UTC",
+ "last_run": "2026-11-21 01:26:14 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -19454,7 +19445,7 @@
      "vol_m5": 33404.41
     },
     "id": "d0529e51",
-    "last_mcap": 200008,
+    "last_mcap": 190115,
     "missing": 0,
     "peak_mcap": 481699,
     "profile": "migrated",
@@ -19511,7 +19502,7 @@
      "vol_m5": 33404.41
     },
     "id": "e34bb506",
-    "last_mcap": 200008,
+    "last_mcap": 190115,
     "missing": 0,
     "peak_mcap": 481699,
     "profile": "migrated",
@@ -19569,7 +19560,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 83238,
+    "last_mcap": 85108,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -57895,5 +57886,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5690
+ "runs": 5692
 }
