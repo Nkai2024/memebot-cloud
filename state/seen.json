@@ -1,5 +1,14 @@
 {
  "alerts": {
+  "solana:27u3diWofnXGUkddjLGhcy1nRssFKHW3RtNbpWzUpump": {
+   "count": 1,
+   "first_mcap": 88550,
+   "first_ts": 1795297768.5391626,
+   "last_mcap": 88550,
+   "last_ts": 1795297768.5391626,
+   "profile": "migrated",
+   "symbol": "UrAnus"
+  },
   "solana:2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump": {
    "count": 1,
    "first_mcap": 187189,
@@ -766,7 +775,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 21:44:38 UTC",
+ "last_run": "2026-11-21 21:54:39 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -19971,6 +19980,121 @@
   ],
   "last_summary_day": "2026-11-21",
   "positions": {
+   "1ac7bf97": {
+    "chain": "solana",
+    "created_ts": 1795297768.5391858,
+    "entry_mcap": 88550,
+    "entry_ts": 1795297768.5391858,
+    "expires_ts": 1795304968.5391858,
+    "features": {
+     "age_min": 28.100911955038708,
+     "boosts": 0,
+     "buys_h1": 9991,
+     "buys_h24": 9991,
+     "buys_m5": 1775,
+     "change_h1": 128,
+     "change_h24": 128,
+     "change_h6": 128,
+     "change_m5": -3.52,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.41688830757074147,
+     "insiders": 0,
+     "liquidity": 20022.62,
+     "lp_locked_pct": 100,
+     "mcap": 88550,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.8610376981978833,
+     "score": 70,
+     "sells_h1": 1423,
+     "sells_h24": 1423,
+     "sells_m5": 95,
+     "top1": 1.9117577535591264,
+     "top10": 17.599563665389542,
+     "top5": 9.25381857709981,
+     "txns_h24": 11414,
+     "vol_h1": 226508.21,
+     "vol_h24": 226508.21,
+     "vol_m5": 12058.17
+    },
+    "id": "1ac7bf97",
+    "last_mcap": 305505,
+    "missing": 0,
+    "peak_mcap": 305505,
+    "profile": "migrated",
+    "realized": 11.281353810276679,
+    "size": 10,
+    "status": "open",
+    "strategy": "ZONE",
+    "symbol": "UrAnus",
+    "tf": "minute",
+    "token": "27u3diWofnXGUkddjLGhcy1nRssFKHW3RtNbpWzUpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 86328,
+    "units": 0.0001095426312817617,
+    "units_left": 3.286278938452851e-05,
+    "zone_bottom": 115523.37073359975,
+    "zone_top": 175913.36659001024
+   },
+   "a88b5fbd": {
+    "chain": "solana",
+    "created_ts": 1795297768.5391858,
+    "entry_mcap": 88550,
+    "entry_ts": 1795297768.5391858,
+    "features": {
+     "age_min": 28.100911955038708,
+     "boosts": 0,
+     "buys_h1": 9991,
+     "buys_h24": 9991,
+     "buys_m5": 1775,
+     "change_h1": 128,
+     "change_h24": 128,
+     "change_h6": 128,
+     "change_m5": -3.52,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.41688830757074147,
+     "insiders": 0,
+     "liquidity": 20022.62,
+     "lp_locked_pct": 100,
+     "mcap": 88550,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.8610376981978833,
+     "score": 70,
+     "sells_h1": 1423,
+     "sells_h24": 1423,
+     "sells_m5": 95,
+     "top1": 1.9117577535591264,
+     "top10": 17.599563665389542,
+     "top5": 9.25381857709981,
+     "txns_h24": 11414,
+     "vol_h1": 226508.21,
+     "vol_h24": 226508.21,
+     "vol_m5": 12058.17
+    },
+    "id": "a88b5fbd",
+    "last_mcap": 305505,
+    "missing": 0,
+    "peak_mcap": 305505,
+    "profile": "migrated",
+    "realized": 11.281353810276679,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "UrAnus",
+    "tf": "minute",
+    "token": "27u3diWofnXGUkddjLGhcy1nRssFKHW3RtNbpWzUpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 86328,
+    "units": 0.0001095426312817617,
+    "units_left": 3.286278938452851e-05
+   },
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -20009,7 +20133,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 83458,
+    "last_mcap": 81394,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58339,5 +58463,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5888
+ "runs": 5890
 }
