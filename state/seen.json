@@ -441,15 +441,6 @@
    "profile": "migrated",
    "symbol": "Retire"
   },
-  "solana:DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": {
-   "count": 1,
-   "first_mcap": 211964,
-   "first_ts": 1794676184.8659325,
-   "last_mcap": 211964,
-   "last_ts": 1794676184.8659325,
-   "profile": "migrated",
-   "symbol": "gtacoin"
-  },
   "solana:DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump": {
    "count": 1,
    "first_mcap": 579024,
@@ -775,7 +766,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 17:05:36 UTC",
+ "last_run": "2026-11-21 17:15:36 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -19899,7 +19890,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 84554,
+    "last_mcap": 84176,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58230,5 +58221,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5833
+ "runs": 5835
 }
