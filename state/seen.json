@@ -126,15 +126,6 @@
    "profile": "migrated",
    "symbol": "FRANK"
   },
-  "solana:5bzT7x5nYZx3grnRaL6cDRQuSKxEWDVwh2WUxd91pump": {
-   "count": 1,
-   "first_mcap": 163647,
-   "first_ts": 1794675585.333359,
-   "last_mcap": 163647,
-   "last_ts": 1794675585.333359,
-   "profile": "migrated",
-   "symbol": "Angel"
-  },
   "solana:5k8yMkEzcekeufWvTk5zvuZ8xnx2PqNdxs86E9P2bvQf": {
    "count": 1,
    "first_mcap": 242853,
@@ -784,10 +775,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 16:55:43 UTC",
+ "last_run": "2026-11-21 17:05:36 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -19810,12 +19801,10 @@
     "units_left": 0.0,
     "zone_bottom": 37765.201316198596,
     "zone_top": 49172.76625102996
-   }
-  ],
-  "last_summary_day": "2026-11-20",
-  "positions": {
-   "a97f2be5": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795280292.4333289,
     "created_ts": 1795280125.8272984,
     "entry_mcap": 54236,
     "entry_ts": 1795280125.8272984,
@@ -19850,22 +19839,28 @@
      "vol_m5": 45756.83
     },
     "id": "a97f2be5",
-    "last_mcap": 54236,
+    "last_mcap": 18323,
     "missing": 0,
     "peak_mcap": 54236,
+    "pnl": -6.821279095066008,
+    "pnl_pct": -68.21279095066008,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 3.178720904933992,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "Air",
     "tf": "minute",
     "token": "EAvEkfAnQtazgMsGeY2LD5u3SuZLGXZqiMhoKg29pump",
     "tp_done": [],
-    "trough_mcap": 54236,
+    "trough_mcap": 18323,
     "units": 0.00017884799763994393,
-    "units_left": 0.00017884799763994393
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-20",
+  "positions": {
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -19904,7 +19899,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 86183,
+    "last_mcap": 84554,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58235,5 +58230,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5831
+ "runs": 5833
 }
