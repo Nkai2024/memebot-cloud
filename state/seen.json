@@ -603,15 +603,6 @@
    "profile": "migrated",
    "symbol": "Socks"
   },
-  "solana:FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
-   "count": 1,
-   "first_mcap": 138759,
-   "first_ts": 1794726505.403999,
-   "last_mcap": 138759,
-   "last_ts": 1794726505.403999,
-   "profile": "migrated",
-   "symbol": "HOGE"
-  },
   "solana:FfXDcTtDk5tzETc9QGRsy8ZSV2TGm4DXXpHXpjVVpump": {
    "count": 1,
    "first_mcap": 111780,
@@ -766,7 +757,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 07:03:58 UTC",
+ "last_run": "2026-11-22 07:13:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -58637,5 +58628,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6000
+ "runs": 6002
 }
