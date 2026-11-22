@@ -766,10 +766,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 06:08:58 UTC",
+ "last_run": "2026-11-22 06:18:58 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -58637,5 +58637,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5989
+ "runs": 5991
 }
