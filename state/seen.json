@@ -153,15 +153,6 @@
    "profile": "migrated",
    "symbol": "CSI"
   },
-  "solana:52s4znkZ8Z6MSxMxNbssRedvEHUase3KSiLqKpzpump": {
-   "count": 1,
-   "first_mcap": 61997,
-   "first_ts": 1794776195.4614167,
-   "last_mcap": 61997,
-   "last_ts": 1794776195.4614167,
-   "profile": "migrated",
-   "symbol": "FRANK"
-  },
   "solana:5k8yMkEzcekeufWvTk5zvuZ8xnx2PqNdxs86E9P2bvQf": {
    "count": 1,
    "first_mcap": 242853,
@@ -440,15 +431,6 @@
    "last_ts": 1795368460.1664581,
    "profile": "migrated",
    "symbol": "MCAT"
-  },
-  "solana:CnXTC8NutHZq2zaPqYz6bxuLYnq775EnvUBHjRqxpump": {
-   "count": 1,
-   "first_mcap": 119115,
-   "first_ts": 1794776498.4900825,
-   "last_mcap": 119115,
-   "last_ts": 1794776498.4900825,
-   "profile": "migrated",
-   "symbol": "VICE"
   },
   "solana:Csoj9XHJfBAxsKswqKKBENnGeoRDHtACfyYi7HmJpump": {
    "count": 1,
@@ -766,7 +748,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 20:52:51 UTC",
+ "last_run": "2026-11-22 21:02:51 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20789,7 +20771,7 @@
      "vol_m5": 22785.16
     },
     "id": "950ff18d",
-    "last_mcap": 524305,
+    "last_mcap": 486432,
     "missing": 0,
     "peak_mcap": 687312,
     "profile": "migrated",
@@ -59113,5 +59095,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6130
+ "runs": 6132
 }
