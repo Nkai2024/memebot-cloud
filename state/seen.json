@@ -766,7 +766,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 07:28:58 UTC",
+ "last_run": "2026-11-22 07:38:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20309,21 +20309,23 @@
      "vol_m5": 25417.32
     },
     "id": "60b27fa8",
-    "last_mcap": 59677,
+    "last_mcap": 75645,
     "missing": 0,
-    "peak_mcap": 62597,
+    "peak_mcap": 81506,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.840961306462262,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "MWG",
     "tf": "minute",
     "token": "26iFWxkdpcf8qNzbzuuvJw9NrKnFPmu7tzLc6NWkpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 49967,
     "units": 0.00019412812456221103,
-    "units_left": 0.00019412812456221103
+    "units_left": 5.823843736866332e-05
    },
    "e5aa9900": {
     "chain": "solana",
@@ -58689,5 +58691,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6005
+ "runs": 6007
 }
