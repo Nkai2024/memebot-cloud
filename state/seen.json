@@ -775,11 +775,11 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 02:09:39 UTC",
+ "last_run": "2026-11-22 02:19:39 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -20218,6 +20218,66 @@
     "units_left": 0.0,
     "zone_bottom": 132466.5881415481,
     "zone_top": 206333.6069812257
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1795313595.0502074,
+    "created_ts": 1795310668.5898337,
+    "entry_mcap": 122315,
+    "entry_ts": 1795310668.5898337,
+    "features": {
+     "age_min": 36.31902763446172,
+     "boosts": 0,
+     "buys_h1": 2335,
+     "buys_h24": 2335,
+     "buys_m5": 180,
+     "change_h1": 291,
+     "change_h24": 291,
+     "change_h6": 291,
+     "change_m5": -5.62,
+     "creator_pct": 1.062264061921031,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7314681048221613,
+     "insiders": 0,
+     "liquidity": 23706.48,
+     "lp_locked_pct": 100,
+     "mcap": 122315,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.2500902587409264,
+     "score": 72,
+     "sells_h1": 1016,
+     "sells_h24": 1016,
+     "sells_m5": 74,
+     "top1": 1.0945540025973608,
+     "top10": 10.34747088694936,
+     "top5": 5.364320662928107,
+     "txns_h24": 3351,
+     "vol_h1": 149677.24,
+     "vol_h24": 149677.24,
+     "vol_m5": 6721
+    },
+    "id": "a059508d",
+    "last_mcap": 116752,
+    "missing": 0,
+    "peak_mcap": 176476,
+    "pnl": 1.282546018885661,
+    "pnl_pct": 12.825460188856619,
+    "profile": "migrated",
+    "realized": 11.282546018885661,
+    "reason": "moon bag stopped at entry",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "GRAUDIA",
+    "tf": "minute",
+    "token": "B1oGtkaVAVZkdtWV7SXrHnFkcWC1Kd45sYpy6RYTpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 94729,
+    "units": 7.930343784490863e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-21",
@@ -20274,62 +20334,6 @@
     "zone_bottom": 57100.03321390952,
     "zone_top": 77543.98781403073
    },
-   "a059508d": {
-    "chain": "solana",
-    "created_ts": 1795310668.5898337,
-    "entry_mcap": 122315,
-    "entry_ts": 1795310668.5898337,
-    "features": {
-     "age_min": 36.31902763446172,
-     "boosts": 0,
-     "buys_h1": 2335,
-     "buys_h24": 2335,
-     "buys_m5": 180,
-     "change_h1": 291,
-     "change_h24": 291,
-     "change_h6": 291,
-     "change_m5": -5.62,
-     "creator_pct": 1.062264061921031,
-     "dex": "pumpswap",
-     "first_candle_share": 0.7314681048221613,
-     "insiders": 0,
-     "liquidity": 23706.48,
-     "lp_locked_pct": 100,
-     "mcap": 122315,
-     "n_socials": 2,
-     "n_warn": 0,
-     "retracement_now": 0.2500902587409264,
-     "score": 72,
-     "sells_h1": 1016,
-     "sells_h24": 1016,
-     "sells_m5": 74,
-     "top1": 1.0945540025973608,
-     "top10": 10.34747088694936,
-     "top5": 5.364320662928107,
-     "txns_h24": 3351,
-     "vol_h1": 149677.24,
-     "vol_h24": 149677.24,
-     "vol_m5": 6721
-    },
-    "id": "a059508d",
-    "last_mcap": 145693,
-    "missing": 0,
-    "peak_mcap": 176476,
-    "profile": "migrated",
-    "realized": 8.588225041082449,
-    "size": 10,
-    "status": "open",
-    "strategy": "INSTANT",
-    "symbol": "GRAUDIA",
-    "tf": "minute",
-    "token": "B1oGtkaVAVZkdtWV7SXrHnFkcWC1Kd45sYpy6RYTpump",
-    "tp_done": [
-     0
-    ],
-    "trough_mcap": 94729,
-    "units": 7.930343784490863e-05,
-    "units_left": 2.379103135347259e-05
-   },
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -20368,7 +20372,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 73314,
+    "last_mcap": 73339,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58695,5 +58699,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5941
+ "runs": 5943
 }
