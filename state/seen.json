@@ -775,10 +775,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 09:25:40 UTC",
+ "last_run": "2026-11-22 09:35:33 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -20336,12 +20336,10 @@
     "trough_mcap": 47571,
     "units": 0.00019412812456221103,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-21",
-  "positions": {
-   "72a67fc0": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795339989.64911,
     "created_ts": 1795339523.639016,
     "entry_mcap": 34284,
     "entry_ts": 1795339569.64676,
@@ -20379,13 +20377,16 @@
      "vol_m5": 38223.35
     },
     "id": "72a67fc0",
-    "last_mcap": 41160,
+    "last_mcap": 30450,
     "missing": 0,
-    "peak_mcap": 46892,
+    "peak_mcap": 52020,
+    "pnl": 1.515458948780772,
+    "pnl_pct": 15.154589487807723,
     "profile": "migrated",
-    "realized": 9.008423159491306,
+    "realized": 11.515458948780772,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "ZONE",
     "symbol": "MooSom",
     "tf": "minute",
@@ -20393,14 +20394,15 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 34284,
+    "trough_mcap": 30450,
     "units": 0.00028293081320732703,
-    "units_left": 8.487924396219812e-05,
+    "units_left": 0.0,
     "zone_bottom": 22661.664500129642,
     "zone_top": 34492.57099035186
    },
-   "94cf978c": {
+   {
     "chain": "solana",
+    "close_ts": 1795339989.64911,
     "created_ts": 1795339523.639016,
     "entry_mcap": 65722,
     "entry_ts": 1795339523.639016,
@@ -20437,22 +20439,28 @@
      "vol_m5": 38223.35
     },
     "id": "94cf978c",
-    "last_mcap": 41160,
+    "last_mcap": 30450,
     "missing": 0,
     "peak_mcap": 65722,
+    "pnl": -5.640667508596817,
+    "pnl_pct": -56.406675085968175,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.359332491403183,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "MooSom",
     "tf": "minute",
     "token": "BKSP127UTT12VbipELqWMpLRw744Q36oyhirxC9Wpump",
     "tp_done": [],
-    "trough_mcap": 34284,
+    "trough_mcap": 30450,
     "units": 0.0001475913697087733,
-    "units_left": 0.0001475913697087733
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-21",
+  "positions": {
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -58817,5 +58825,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6022
+ "runs": 6024
 }
