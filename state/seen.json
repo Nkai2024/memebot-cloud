@@ -766,7 +766,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 07:38:58 UTC",
+ "last_run": "2026-11-22 07:48:58 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20269,12 +20269,10 @@
     "trough_mcap": 94729,
     "units": 7.930343784490863e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-21",
-  "positions": {
-   "60b27fa8": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795333234.2660606,
     "created_ts": 1795332228.0842204,
     "entry_mcap": 49967,
     "entry_ts": 1795332228.0842204,
@@ -20309,13 +20307,16 @@
      "vol_m5": 25417.32
     },
     "id": "60b27fa8",
-    "last_mcap": 75645,
+    "last_mcap": 47571,
     "missing": 0,
     "peak_mcap": 81506,
+    "pnl": 1.5283081894050046,
+    "pnl_pct": 15.283081894050055,
     "profile": "migrated",
-    "realized": 8.840961306462262,
+    "realized": 11.528308189405005,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "MWG",
     "tf": "minute",
@@ -20323,10 +20324,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 49967,
+    "trough_mcap": 47571,
     "units": 0.00019412812456221103,
-    "units_left": 5.823843736866332e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-21",
+  "positions": {
    "e5aa9900": {
     "chain": "solana",
     "created_ts": 1795111894.063164,
@@ -58691,5 +58695,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6007
+ "runs": 6009
 }
