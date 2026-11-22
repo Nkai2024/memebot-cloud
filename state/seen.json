@@ -766,11 +766,11 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-21 23:54:39 UTC",
+ "last_run": "2026-11-22 00:09:39 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 2,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -20132,7 +20132,7 @@
      "vol_m5": 29073.96
     },
     "id": "e5aa9900",
-    "last_mcap": 73765,
+    "last_mcap": 74094,
     "missing": 0,
     "peak_mcap": 143524,
     "profile": "migrated",
@@ -58421,6 +58421,7 @@
   "solana:8655LtfvozXLSJWrzcmwVeK13s5Gvn49UXFHYcYzpump": 1794718705.46311,
   "solana:8AzrbaGjACy5VZ4gyjaAGAueCYpvpUWKwpyeGp4wpump": 1794855108.6863606,
   "solana:8CnvwZJLRpQazvn6LszkzmXJxkmMY2bTQ4Q3NN4fpump": 1795067109.0097902,
+  "solana:8R7rompcCDEZKGjRRybZt1UrDrZTdmSXqFjDtvSCpump": 1795306167.48333,
   "solana:8m6YmC1dDW5iF3Kc7rEsay2ZbKcZ133KSoyj3ASFpump": 1794990466.4202378,
   "solana:8q74mAMERS7PrychaRch2p1MK3JKoy4Y7BjJ7ucppump": 1794857808.6256638,
   "solana:97t435T2vc7wwnR7F5GNQc14h3AE2CoeCRUYhSeEpump": 1795020875.2088785,
@@ -58459,5 +58460,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 5914
+ "runs": 5917
 }
