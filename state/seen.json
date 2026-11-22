@@ -784,7 +784,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-22 18:07:50 UTC",
+ "last_run": "2026-11-22 18:17:51 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -20741,9 +20741,9 @@
      "vol_m5": 22785.16
     },
     "id": "950ff18d",
-    "last_mcap": 284471,
+    "last_mcap": 429715,
     "missing": 0,
-    "peak_mcap": 363161,
+    "peak_mcap": 429715,
     "profile": "migrated",
     "realized": 10.720051058066598,
     "size": 10,
@@ -59067,5 +59067,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6097
+ "runs": 6099
 }
