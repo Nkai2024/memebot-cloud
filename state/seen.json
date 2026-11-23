@@ -730,7 +730,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-23 02:42:07 UTC",
+ "last_run": "2026-11-23 02:57:07 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -21238,9 +21238,9 @@
      "vol_m5": 30651.36
     },
     "id": "0094f8b9",
-    "last_mcap": 77065,
+    "last_mcap": 124367,
     "missing": 0,
-    "peak_mcap": 111205,
+    "peak_mcap": 124367,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -21293,7 +21293,7 @@
      "vol_m5": 30924.12
     },
     "id": "1932d374",
-    "last_mcap": 75493,
+    "last_mcap": 57085,
     "missing": 0,
     "peak_mcap": 81237,
     "profile": "migrated",
@@ -21305,7 +21305,7 @@
     "tf": "minute",
     "token": "7S8k5qQfP2M48ixDLxDh6AgtwDo92eKxZ7WNmZt7pump",
     "tp_done": [],
-    "trough_mcap": 68154,
+    "trough_mcap": 57085,
     "units": 0.00013457456402003357,
     "units_left": 0.00013457456402003357,
     "zone_bottom": 66393.5523188645,
@@ -21401,7 +21401,7 @@
      "vol_m5": 112658.61
     },
     "id": "55444c78",
-    "last_mcap": 2215253,
+    "last_mcap": 2336024,
     "missing": 0,
     "peak_mcap": 3247634,
     "profile": "migrated",
@@ -21458,7 +21458,7 @@
      "vol_m5": 22785.16
     },
     "id": "950ff18d",
-    "last_mcap": 433633,
+    "last_mcap": 429067,
     "missing": 0,
     "peak_mcap": 687312,
     "profile": "migrated",
@@ -21514,7 +21514,7 @@
      "vol_m5": 9127.56
     },
     "id": "d6127954",
-    "last_mcap": 390109,
+    "last_mcap": 498213,
     "missing": 0,
     "peak_mcap": 810047,
     "profile": "migrated",
@@ -59838,5 +59838,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6200
+ "runs": 6203
 }
