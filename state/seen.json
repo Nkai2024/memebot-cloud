@@ -18,15 +18,6 @@
    "profile": "migrated",
    "symbol": "UrAnus"
   },
-  "solana:2fj37tQcLEbLAcmAGWGzMAAUfteJaC9wdVnWdhWopump": {
-   "count": 1,
-   "first_mcap": 80581,
-   "first_ts": 1794818370.7235487,
-   "last_mcap": 80581,
-   "last_ts": 1794818370.7235487,
-   "profile": "migrated",
-   "symbol": "afk"
-  },
   "solana:2hg559PqkbnfaprUE3V5dSFAaDNjURnmvGs79kqepump": {
    "count": 1,
    "first_mcap": 136768,
@@ -730,7 +721,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-23 08:36:22 UTC",
+ "last_run": "2026-11-23 08:46:22 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -21599,7 +21590,7 @@
      "vol_m5": 112658.61
     },
     "id": "55444c78",
-    "last_mcap": 3127641,
+    "last_mcap": 3020983,
     "missing": 0,
     "peak_mcap": 3495348,
     "profile": "migrated",
@@ -21656,7 +21647,7 @@
      "vol_m5": 22785.16
     },
     "id": "950ff18d",
-    "last_mcap": 409093,
+    "last_mcap": 423715,
     "missing": 0,
     "peak_mcap": 687312,
     "profile": "migrated",
@@ -21712,7 +21703,7 @@
      "vol_m5": 9127.56
     },
     "id": "d6127954",
-    "last_mcap": 590308,
+    "last_mcap": 545788,
     "missing": 0,
     "peak_mcap": 810047,
     "profile": "migrated",
@@ -60038,5 +60029,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6271
+ "runs": 6273
 }
