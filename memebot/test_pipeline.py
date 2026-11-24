@@ -157,7 +157,8 @@ def test_paper_breakeven_and_zone_peak():
     try:
         prices = {"mcap": 100_000}
         cfg = _paper_setup(prices)
-        cfg["paper"] = dict(cfg["paper"], take_profits=[[100, 70], [400, 50], [900, 100]])  # v2 exits
+        cfg["paper"] = dict(cfg["paper"], take_profits=[[100, 70], [400, 50], [900, 100]],  # v2 exits
+                            zone_enabled=True)
         state = {}
         s = {"chain": "solana", "token": "T1", "symbol": "T1", "mcap": 100_000}
         prof = {"chart_timeframe": "minute"}
@@ -249,7 +250,6 @@ def test_v3_tp1_at_1_3x_trough_and_fresh_book():
     try:
         prices = {"mcap": 100_000}
         cfg = _paper_setup(prices)
-        assert cfg["paper"]["version"] == "v3"
         assert not cfg["profiles"]["swing_survivor"]["enabled"]
         assert cfg["profiles"]["migrated"]["require_socials"] == 2
         # an existing v2 book gets archived; the fresh v3 book is marked so recovery is skipped
@@ -259,7 +259,7 @@ def test_v3_tp1_at_1_3x_trough_and_fresh_book():
         paper.on_alert(state, {"chain": "solana", "token": "T3", "symbol": "T3", "mcap": 100_000},
                        None, "migrated", {"chart_timeframe": "minute"}, cfg)
         assert state["paper_archive"]["v2"]["stats"]["n"] == 1
-        assert state["recovery"]["v3"]["skipped"] == "fresh book"
+        assert state["recovery"][cfg["paper"]["version"]]["skipped"] == "fresh book"
         pos = next(iter(state["paper"]["positions"].values()))
         prices["mcap"] = 80_000
         paper.update(state, cfg)
@@ -284,7 +284,35 @@ def test_recovery_skipped_on_version_switch(tmp_path, monkeypatch):
     from memebot import recover
     monkeypatch.setattr(recover, "run_once", lambda *a, **k: walked.append(1))
     loop.recover_lost_trades()
-    assert not walked and st.load()["recovery"]["v3"]["skipped"] == "new version"
+    ver = M.load_config()["paper"]["version"]
+    assert not walked and st.load()["recovery"][ver]["skipped"] == "new version"
+
+
+def test_v4_zone_off_and_survivor_profile():
+    cfg = M.load_config()
+    assert cfg["paper"]["version"] == "v4" and cfg["paper"]["zone_enabled"] is False
+    surv = cfg["profiles"]["survivor"]
+    assert surv["enabled"] and surv["chart_timeframe"] == "hour"
+    # zone off: an alert opens only the INSTANT position, even when a zone exists
+    state = {}
+    zone = {"zone_top_mcap": 70_000, "zone_bottom_mcap": 55_000, "in_zone": True}
+    ev = paper.on_alert(state, {"chain": "solana", "token": "T4", "symbol": "T4", "mcap": 100_000},
+                        zone, "migrated", {"chart_timeframe": "minute"}, cfg)
+    assert [p["strategy"] for p in state["paper"]["positions"].values()] == ["INSTANT"], ev
+    # a 3-day-old coin that is still trading and not dumping passes the survivor gates
+    p = pair("solana", SOL_TOKEN, "OLDIE", 3 * 1440, 600_000, 90_000, 5_000, 40_000, 400_000, "raydium")
+    p["priceChange"] = {"m5": 1, "h1": 2, "h6": 10, "h24": 25}
+    p["txns"]["h24"] = {"buys": 900, "sells": 700}
+    s = sources.snapshot_from_pair("solana", p)
+    assert scorer.market_gate(s, surv, {"raydium"}) == []
+    # same coin, but it doubled in the last day -> skipped (already ran)
+    p["priceChange"]["h24"] = 200
+    s = sources.snapshot_from_pair("solana", p)
+    assert any("already ran" in f for f in scorer.market_gate(s, surv, {"raydium"}))
+    # a fresh 30-minute coin is not a survivor
+    s = sources.snapshot_from_pair("solana", pair("solana", SOL_TOKEN, "NEW", 30, 600_000, 90_000,
+                                                  5_000, 40_000, 400_000, "raydium"))
+    assert "age" in scorer.market_gate(s, surv, {"raydium"})
 
 
 if __name__ == "__main__":
