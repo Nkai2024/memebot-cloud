@@ -603,6 +603,15 @@
    "profile": "migrated",
    "symbol": "GTAI"
   },
+  "solana:Gy5BUDnpJMWRsNVKh9sRtsBGunFXKKrbroQRoydQpump": {
+   "count": 1,
+   "first_mcap": 187006,
+   "first_ts": 1795481669.318342,
+   "last_mcap": 187006,
+   "last_ts": 1795481669.318342,
+   "profile": "migrated",
+   "symbol": "Jesus"
+  },
   "solana:H1jcPQwCX9VPiNGBUpQNJdGzZEHiisFSs1WS4fi6pump": {
    "count": 1,
    "first_mcap": 66772,
@@ -658,10 +667,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-24 00:44:39 UTC",
+ "last_run": "2026-11-24 00:54:46 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -21846,6 +21855,60 @@
   ],
   "last_summary_day": "2026-11-22",
   "positions": {
+   "06b6c116": {
+    "chain": "solana",
+    "created_ts": 1795481669.318359,
+    "entry_mcap": 187006,
+    "entry_ts": 1795481669.318359,
+    "features": {
+     "age_min": 12.22743904987971,
+     "boosts": 0,
+     "buys_h1": 2229,
+     "buys_h24": 2229,
+     "buys_m5": 839,
+     "change_h1": 466,
+     "change_h24": 466,
+     "change_h6": 466,
+     "change_m5": 22.81,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6248120273065998,
+     "insiders": 0,
+     "liquidity": 29875.52,
+     "lp_locked_pct": 100,
+     "mcap": 187006,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.19725441275765448,
+     "score": 74,
+     "sells_h1": 355,
+     "sells_h24": 355,
+     "sells_m5": 127,
+     "top1": 3.1466208657480026,
+     "top10": 28.073024289680436,
+     "top5": 15.398073284035497,
+     "txns_h24": 2584,
+     "vol_h1": 150870.39,
+     "vol_h24": 150870.39,
+     "vol_m5": 50976.44
+    },
+    "id": "06b6c116",
+    "last_mcap": 229548,
+    "missing": 0,
+    "peak_mcap": 229548,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Jesus",
+    "tf": "minute",
+    "token": "Gy5BUDnpJMWRsNVKh9sRtsBGunFXKKrbroQRoydQpump",
+    "tp_done": [],
+    "trough_mcap": 187006,
+    "units": 5.186999347614515e-05,
+    "units_left": 5.186999347614515e-05
+   },
    "950ff18d": {
     "chain": "solana",
     "created_ts": 1795368460.1664777,
@@ -21884,7 +21947,7 @@
      "vol_m5": 22785.16
     },
     "id": "950ff18d",
-    "last_mcap": 243707,
+    "last_mcap": 245912,
     "missing": 0,
     "peak_mcap": 687312,
     "profile": "migrated",
@@ -21940,7 +22003,7 @@
      "vol_m5": 9127.56
     },
     "id": "d6127954",
-    "last_mcap": 859493,
+    "last_mcap": 769278,
     "missing": 0,
     "peak_mcap": 1052404,
     "profile": "migrated",
@@ -21957,6 +22020,58 @@
     "trough_mcap": 212278,
     "units": 4.569479644616964e-05,
     "units_left": 1.3708438933850893e-05
+   },
+   "da4f8b09": {
+    "chain": "solana",
+    "created_ts": 1795481669.318359,
+    "expires_ts": 1795488869.318359,
+    "features": {
+     "age_min": 12.22743904987971,
+     "boosts": 0,
+     "buys_h1": 2229,
+     "buys_h24": 2229,
+     "buys_m5": 839,
+     "change_h1": 466,
+     "change_h24": 466,
+     "change_h6": 466,
+     "change_m5": 22.81,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.6248120273065998,
+     "insiders": 0,
+     "liquidity": 29875.52,
+     "lp_locked_pct": 100,
+     "mcap": 187006,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.19725441275765448,
+     "score": 74,
+     "sells_h1": 355,
+     "sells_h24": 355,
+     "sells_m5": 127,
+     "top1": 3.1466208657480026,
+     "top10": 28.073024289680436,
+     "top5": 15.398073284035497,
+     "txns_h24": 2584,
+     "vol_h1": 150870.39,
+     "vol_h24": 150870.39,
+     "vol_m5": 50976.44
+    },
+    "id": "da4f8b09",
+    "last_mcap": 187006,
+    "missing": 0,
+    "peak_mcap": 187006,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "pending",
+    "strategy": "ZONE",
+    "symbol": "Jesus",
+    "tf": "minute",
+    "token": "Gy5BUDnpJMWRsNVKh9sRtsBGunFXKKrbroQRoydQpump",
+    "tp_done": [],
+    "zone_bottom": 73925.52010383416,
+    "zone_top": 106193.31290639137
    }
   },
   "started_ts": 1794009851.4477682,
@@ -60199,7 +60314,6 @@
  "rejected": {
   "bsc:0x63D4986C50d441ec2e55a5D6f761dAFBE6eB7777": 1795180679.5123127,
   "solana:25KkRDFPuUSC9fyMMH9ScRyy2aVR1DVn6JRVtcnqpump": 1795107692.905706,
-  "solana:27Ggmg2ZmaehHX7L5vZqCeTRoQmPaBtR5vqvaRLbpump": 1794876660.3068032,
   "solana:2GiS8L6jzveE7cQ61bjGN6wVn5MS9FcBjarSAMFppump": 1795239962.931726,
   "solana:2S4e8Lv5kMqzXumeWrXMMwANUVtFLazeezUorfG9pump": 1795235762.721688,
   "solana:2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump": 1795236062.647668,
@@ -60265,5 +60379,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6352
+ "runs": 6354
 }
