@@ -676,7 +676,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-24 16:03:46 UTC",
+ "last_run": "2026-11-24 16:13:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -801,12 +801,10 @@
     "trough_mcap": 92304,
     "units": 4.276650809256965e-05,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "7ecebbda": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795536981.9276967,
     "created_ts": 1795521853.196128,
     "entry_mcap": 48979,
     "entry_ts": 1795521853.196128,
@@ -843,13 +841,16 @@
      "vol_m5": 13227.05
     },
     "id": "7ecebbda",
-    "last_mcap": 54324,
+    "last_mcap": 47570,
     "missing": 0,
     "peak_mcap": 199234,
+    "pnl": 1.3329089201494497,
+    "pnl_pct": 13.329089201494494,
     "profile": "migrated",
-    "realized": 8.591410747463197,
+    "realized": 11.33290892014945,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "SHHFT",
     "tf": "minute",
@@ -859,8 +860,11 @@
     ],
     "trough_mcap": 42624,
     "units": 0.00019804405969905468,
-    "units_left": 5.9413217909716417e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "a7e126ee": {
     "chain": "solana",
     "created_ts": 1795525415.9988208,
@@ -899,7 +903,7 @@
      "vol_m5": 29216.59
     },
     "id": "a7e126ee",
-    "last_mcap": 960750,
+    "last_mcap": 932729,
     "missing": 0,
     "peak_mcap": 1320906,
     "profile": "survivor",
@@ -953,7 +957,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3488681,
+    "last_mcap": 3496881,
     "missing": 0,
     "peak_mcap": 3857289,
     "profile": "survivor",
@@ -60829,5 +60833,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6515
+ "runs": 6517
 }
