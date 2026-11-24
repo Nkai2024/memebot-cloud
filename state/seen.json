@@ -676,10 +676,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-24 18:03:53 UTC",
+ "last_run": "2026-11-24 18:13:46 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -919,12 +919,10 @@
     "trough_mcap": 738161,
     "units": 9.096919707960742e-06,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "1d4649f8": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795543881.9729888,
     "created_ts": 1795543416.6647353,
     "entry_mcap": 132242,
     "entry_ts": 1795543416.6647353,
@@ -961,22 +959,28 @@
      "vol_m5": 53924.8
     },
     "id": "1d4649f8",
-    "last_mcap": 139200,
+    "last_mcap": 59233,
     "missing": 0,
     "peak_mcap": 145031,
+    "pnl": -5.785580246820224,
+    "pnl_pct": -57.85580246820224,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 4.214419753179776,
+    "reason": "stop loss -50%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "Holders",
     "tf": "minute",
     "token": "55RwtHpoNB81SgfiNvogeZTMfik2SfMGa5FaxKcXpump",
     "tp_done": [],
-    "trough_mcap": 132242,
+    "trough_mcap": 59233,
     "units": 7.335037280137928e-05,
-    "units_left": 7.335037280137928e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "d2aee3c7": {
     "chain": "solana",
     "created_ts": 1795507453.0394046,
@@ -1015,7 +1019,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3400035,
+    "last_mcap": 3554033,
     "missing": 0,
     "peak_mcap": 3857289,
     "profile": "survivor",
@@ -60892,5 +60896,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6539
+ "runs": 6541
 }
