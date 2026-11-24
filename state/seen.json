@@ -676,7 +676,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-24 17:18:46 UTC",
+ "last_run": "2026-11-24 17:33:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -861,12 +861,10 @@
     "trough_mcap": 42624,
     "units": 0.00019804405969905468,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "",
-  "positions": {
-   "a7e126ee": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795541121.954326,
     "created_ts": 1795525415.9988208,
     "entry_mcap": 1066295,
     "entry_ts": 1795525415.9988208,
@@ -903,22 +901,28 @@
      "vol_m5": 29216.59
     },
     "id": "a7e126ee",
-    "last_mcap": 817470,
+    "last_mcap": 738161,
     "missing": 0,
     "peak_mcap": 1320906,
+    "pnl": -3.486458391908431,
+    "pnl_pct": -34.86458391908431,
     "profile": "survivor",
-    "realized": 0.0,
+    "realized": 6.513541608091569,
+    "reason": "stop loss -30%",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "cateball",
     "tf": "hour",
     "token": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",
     "tp_done": [],
-    "trough_mcap": 760633,
+    "trough_mcap": 738161,
     "units": 9.096919707960742e-06,
-    "units_left": 9.096919707960742e-06
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "",
+  "positions": {
    "d2aee3c7": {
     "chain": "solana",
     "created_ts": 1795507453.0394046,
@@ -957,7 +961,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3516303,
+    "last_mcap": 3447965,
     "missing": 0,
     "peak_mcap": 3857289,
     "profile": "survivor",
@@ -60834,5 +60838,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6530
+ "runs": 6533
 }
