@@ -46,6 +46,34 @@
         "min_buy_sell_ratio_h1": 1.1
       }
     },
+    "survivor": {
+      "_note": "v4 (2026-11-24): coins 1-7 days old that are still trading and have not rugged",
+      "enabled": true,
+      "label": "SURVIVOR",
+      "age_minutes": [
+        1440,
+        10080
+      ],
+      "market_cap": [
+        100000,
+        5000000
+      ],
+      "liquidity_min": 30000,
+      "volume_h24_min": 100000,
+      "volume_m5_min": 0,
+      "vol_ratio_h1_m5_max": null,
+      "txns_h24_min": 500,
+      "require_dex_paid": true,
+      "require_socials": 2,
+      "chart_timeframe": "hour",
+      "momentum": {
+        "_note": "still active, not dumping, has not already run",
+        "min_change_h24": 0,
+        "max_change_h24": 150,
+        "min_change_h1": -5,
+        "min_buy_sell_ratio_h1": 1.0
+      }
+    },
     "swing_survivor": {
       "enabled": false,
       "label": "SWING",
@@ -112,7 +140,7 @@
     "fail_on_rugcheck_danger": true
   },
   "paper": {
-    "version": "v3",
+    "version": "v4",
     "stop_loss_pct": {
       "minute": 50,
       "hour": 30
@@ -132,6 +160,7 @@
         100
       ]
     ],
-    "_note": "v3: TP1 at 1.3x sells 70%, rest rides with stop at entry; 5x and 10x for the rest"
+    "_note": "v4: INSTANT only (ZONE off); TP1 at 1.3x sells 70%, rest rides with stop at entry",
+    "zone_enabled": false
   }
 }
