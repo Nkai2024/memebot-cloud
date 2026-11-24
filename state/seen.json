@@ -99,6 +99,15 @@
    "profile": "migrated",
    "symbol": "Spud"
   },
+  "solana:4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump": {
+   "count": 1,
+   "first_mcap": 1066295,
+   "first_ts": 1795525415.9988012,
+   "last_mcap": 1066295,
+   "last_ts": 1795525415.9988012,
+   "profile": "survivor",
+   "symbol": "cateball"
+  },
   "solana:4z7LXmQewWk5LLDTbTZEeGpeUhTFR1dHGvg7ckhbpump": {
    "count": 1,
    "first_mcap": 133491,
@@ -667,7 +676,7 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-24 12:58:45 UTC",
+ "last_run": "2026-11-24 13:08:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -834,7 +843,7 @@
      "vol_m5": 13227.05
     },
     "id": "7ecebbda",
-    "last_mcap": 101384,
+    "last_mcap": 97607,
     "missing": 0,
     "peak_mcap": 125641,
     "profile": "migrated",
@@ -851,6 +860,60 @@
     "trough_mcap": 42624,
     "units": 0.00019804405969905468,
     "units_left": 5.9413217909716417e-05
+   },
+   "a7e126ee": {
+    "chain": "solana",
+    "created_ts": 1795525415.9988208,
+    "entry_mcap": 1066295,
+    "entry_ts": 1795525415.9988208,
+    "features": {
+     "age_min": 3116.7525459249814,
+     "boosts": 30,
+     "buys_h1": 1013,
+     "buys_h24": 5351,
+     "buys_m5": 644,
+     "change_h1": 260,
+     "change_h24": 3.31,
+     "change_h6": 141,
+     "change_m5": 84.71,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.16519889660269033,
+     "insiders": 0,
+     "liquidity": 77643.78,
+     "lp_locked_pct": 100,
+     "mcap": 1066295,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.5938806316302416,
+     "score": 86,
+     "sells_h1": 340,
+     "sells_h24": 3305,
+     "sells_m5": 161,
+     "top1": 0.3257488054915431,
+     "top10": 3.212188184950309,
+     "top5": 1.6169387028464608,
+     "txns_h24": 8656,
+     "vol_h1": 87795.26,
+     "vol_h24": 536048.7,
+     "vol_m5": 29216.59
+    },
+    "id": "a7e126ee",
+    "last_mcap": 996954,
+    "missing": 0,
+    "peak_mcap": 1066295,
+    "profile": "survivor",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "cateball",
+    "tf": "hour",
+    "token": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump",
+    "tp_done": [],
+    "trough_mcap": 978030,
+    "units": 9.096919707960742e-06,
+    "units_left": 9.096919707960742e-06
    },
    "d2aee3c7": {
     "chain": "solana",
@@ -890,7 +953,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3565573,
+    "last_mcap": 3568380,
     "missing": 0,
     "peak_mcap": 3857289,
     "profile": "survivor",
@@ -60764,5 +60827,5 @@
   "solana:pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump": 1795031975.3249874,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6478
+ "runs": 6480
 }
