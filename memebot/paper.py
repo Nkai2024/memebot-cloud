@@ -25,6 +25,7 @@ DEFAULTS = {
     # [gain %, % of REMAINING position to sell]. 100 = 2x, 400 = 5x, 900 = 10x
     "take_profits": [[100, 70], [400, 50], [900, 100]],
     "moonbag_stop_at_entry": True,  # after TP1, sell the rest if price falls back to entry
+    "zone_enabled": True,           # v4 turns ZONE off: -32% in v3 vs INSTANT -14%
     "zone_order_expiry_hours": {"minute": 2, "hour": 48},
     "zone_cancel_below_pct": 30,    # cancel zone order if price falls 30% under the zone bottom
     "max_hold_hours": {"minute": 72, "hour": 336},
@@ -94,7 +95,8 @@ def on_alert(state, s, zone, profile_name, prof, cfg, now=None, features=None):
         book["positions"][pid] = _fill(dict(base, id=pid, strategy="INSTANT", tp_done=[]), s["mcap"], now, pc)
         events.append(f"📝 INSTANT buy {D}{s['symbol']} {_money(pc['size_usd'])} @ MC {_mc(s['mcap'])}")
 
-    if zone and zone.get("zone_top_mcap") and (s["token"], "ZONE") not in active:
+    if (pc.get("zone_enabled", True) and zone and zone.get("zone_top_mcap")
+            and (s["token"], "ZONE") not in active):
         pid = uuid.uuid4().hex[:8]
         hours = pc["zone_order_expiry_hours"].get(tf, 2)
         book["positions"][pid] = dict(base, id=pid, strategy="ZONE", status="pending", tp_done=[],
@@ -259,7 +261,8 @@ def summary(state, cfg, now=None, force=False):
 
     lines = [f"📊 <b>Paper trading report</b> ({pc['version']}) — {day}", f"Pretend size {_money(pc['size_usd'])} per trade, "
              f"fees+slippage {pc['buy_cost_pct']}%+{pc['sell_cost_pct']}%"]
-    for strat in ("INSTANT", "ZONE"):
+    strats = ("INSTANT", "ZONE") if pc.get("zone_enabled", True) else ("INSTANT",)
+    for strat in strats:
         closed = [c for c in book["closed"] if c["strategy"] == strat]
         today = [c for c in closed if time.strftime("%Y-%m-%d", time.gmtime(c["close_ts"])) == day]
         st_all, st_day = stats(closed), stats(today)
@@ -291,6 +294,7 @@ def summary(state, cfg, now=None, force=False):
         for p in open_pos[:10]:
             mult = (p["last_mcap"] / p["entry_mcap"]) if p.get("entry_mcap") else 0
             lines.append(f"  {D}{p['symbol']} ({p['strategy']}) {(mult - 1) * 100:+.0f}% now")
-    lines.append(f"\nPending zone orders: {len(pending)}")
+    if pc.get("zone_enabled", True) or pending:
+        lines.append(f"\nPending zone orders: {len(pending)}")
     lines.append("<i>Pretend money only. Prices checked about every minute, so results are approximate.</i>")
     return "\n".join(lines)
