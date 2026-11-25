@@ -2,9 +2,9 @@ name: MemeBot   # schedule refresh
 
 on:
   schedule:
-    # Each job runs ~5.5 hours by itself (memebot/loop.py). The cron only has to start the next
-    # one. Hourly left 1-4h gaps at handovers (Nov 2026), so ask every 15 min; the concurrency
-    # queue below keeps at most one job running and one waiting.
+    # Each job runs ~5.5 hours by itself (memebot/loop.py) and queues its own successor as soon
+    # as it starts (step "Queue the next run"), so the next job begins the moment this one ends.
+    # The cron is only a backup in case that chain ever breaks (it alone left 2-4.6h gaps, Nov 2026).
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:            # lets you press "Run workflow" by hand
     inputs:
@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write               # needed to save state/seen.json between runs
+  actions: write                # needed to queue the next run
 
 concurrency:
   group: memebot
@@ -39,6 +40,15 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - name: Queue the next run (so there is no gap when this one ends)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # The concurrency group below lets one run wait while this one works, so this queued run
+          # starts as soon as this job finishes. If it fails, the cron above is the backup.
+          gh workflow run memebot.yml --repo "${{ github.repository }}" --ref main -f test=false \
+            || echo "Could not queue the next run; the schedule will start one instead"
 
       - name: Scan Solana + BSC and send alerts
         env:
