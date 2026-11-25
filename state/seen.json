@@ -1473,7 +1473,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 710665,
+    "last_mcap": 710630,
     "missing": 0,
     "peak_mcap": 731698,
     "profile": "survivor",
@@ -1583,7 +1583,7 @@
      "vol_m5": 8441.15
     },
     "id": "e70cfab7",
-    "last_mcap": 1192796,
+    "last_mcap": 1195521,
     "missing": 0,
     "peak_mcap": 1895066,
     "profile": "survivor",
@@ -1639,7 +1639,7 @@
      "vol_m5": 24125.86
     },
     "id": "ecdbc11f",
-    "last_mcap": 125362,
+    "last_mcap": 124368,
     "missing": 0,
     "peak_mcap": 308587,
     "profile": "migrated",
