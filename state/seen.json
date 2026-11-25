@@ -342,15 +342,6 @@
    "profile": "migrated",
    "symbol": "Trader"
   },
-  "solana:Bg6ffPvgi5wKVVNnEs6D9ANYBnF6q8S15SruLyN3pump": {
-   "count": 1,
-   "first_mcap": 228464,
-   "first_ts": 1795038276.453506,
-   "last_mcap": 228464,
-   "last_ts": 1795038276.453506,
-   "profile": "migrated",
-   "symbol": "MANDY"
-  },
   "solana:BjvD62CeknCCn94ciFN5aHPoNvSmcXvVHr8XonBpump": {
    "count": 1,
    "first_mcap": 174470,
@@ -576,6 +567,15 @@
    "profile": "migrated",
    "symbol": "LOOSY"
   },
+  "solana:GFmaQAffLD1B4BxJuuQHmqxHqWavaSJGrYFCXQAypump": {
+   "count": 1,
+   "first_mcap": 149219,
+   "first_ts": 1795643349.194977,
+   "last_mcap": 149219,
+   "last_ts": 1795643349.194977,
+   "profile": "migrated",
+   "symbol": "4chanpump"
+  },
   "solana:GqMg4TRt5U5HRK6oeZYwCF1Jz7Ym9MSzWSoFCtFsbzf6": {
    "count": 1,
    "first_mcap": 48979,
@@ -649,10 +649,10 @@
    "symbol": "LGTA6"
   }
  },
- "last_run": "2026-11-25 21:44:19 UTC",
+ "last_run": "2026-11-25 21:54:19 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -1762,7 +1762,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 768345,
+    "last_mcap": 768672,
     "missing": 0,
     "peak_mcap": 773812,
     "profile": "survivor",
@@ -1777,6 +1777,62 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "6e0497e4": {
+    "chain": "solana",
+    "created_ts": 1795643349.1949937,
+    "entry_mcap": 149219,
+    "entry_ts": 1795643349.1949937,
+    "features": {
+     "age_min": 16.444478638966878,
+     "boosts": 0,
+     "buys_h1": 6020,
+     "buys_h24": 6020,
+     "buys_m5": 1487,
+     "change_h1": 416,
+     "change_h24": 416,
+     "change_h6": 416,
+     "change_m5": 21.16,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.0415824107267577,
+     "insiders": 0,
+     "liquidity": 28594.22,
+     "lp_locked_pct": 100,
+     "mcap": 149219,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.2910131642355098,
+     "score": 84,
+     "sells_h1": 5444,
+     "sells_h24": 5444,
+     "sells_m5": 1258,
+     "top1": 2.746648574418498,
+     "top10": 14.129530866543108,
+     "top5": 9.041117986217682,
+     "txns_h24": 11464,
+     "vol_h1": 426141.44,
+     "vol_h24": 426141.44,
+     "vol_m5": 99256.08
+    },
+    "id": "6e0497e4",
+    "last_mcap": 223164,
+    "missing": 0,
+    "peak_mcap": 251829,
+    "profile": "migrated",
+    "realized": 10.391787418492282,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "4chanpump",
+    "tf": "minute",
+    "token": "GFmaQAffLD1B4BxJuuQHmqxHqWavaSJGrYFCXQAypump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 149219,
+    "units": 6.500512669298146e-05,
+    "units_left": 1.9501538007894442e-05
    },
    "d2aee3c7": {
     "chain": "solana",
@@ -1816,7 +1872,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3057131,
+    "last_mcap": 3012001,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -1872,7 +1928,7 @@
      "vol_m5": 24125.86
     },
     "id": "ecdbc11f",
-    "last_mcap": 73931,
+    "last_mcap": 66937,
     "missing": 0,
     "peak_mcap": 308587,
     "profile": "migrated",
@@ -61729,7 +61785,6 @@
   "solana:CkwFr1G8EPLLJSnp84PmwjEDRG4yA7bGJvRxRTx5pump": 1795556645.9155152,
   "solana:Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump": 1795560009.422587,
   "solana:CrJBEGkuaYqtx2W5QHnagg4RL6A2f7bZhiFcssQ5pump": 1795136813.2477472,
-  "solana:CyfdugHk3PT44hEUxpnU25CXAJsVQ9EdipKWCHEBKSdS": 1795038276.657253,
   "solana:DMFzUvtfEmE697ZfEDqAXErd9MrBDEs66V5WiRvApump": 1795570823.02183,
   "solana:DNZpNGgc25ka2CLJq7dn46urgPCJDsAvH7XHNxFQpump": 1795107094.0716352,
   "solana:EE6CRsqqpvHwkCYK8hF15RmNccdq32vdbcQdX4afLoat": 1795103192.8190072,
@@ -61751,5 +61806,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6759
+ "runs": 6761
 }
