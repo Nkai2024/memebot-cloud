@@ -207,6 +207,15 @@
    "profile": "migrated",
    "symbol": "LEONIDA"
   },
+  "solana:73R7L2jLfnweJTXxTiccHMZV6mECaVELPUy3PkHopump": {
+   "count": 1,
+   "first_mcap": 207427,
+   "first_ts": 1795654149.5197775,
+   "last_mcap": 207427,
+   "last_ts": 1795654149.5197775,
+   "profile": "migrated",
+   "symbol": "PUMPDOG"
+  },
   "solana:7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
    "count": 1,
    "first_mcap": 90166,
@@ -640,10 +649,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 00:39:19 UTC",
+ "last_run": "2026-11-26 00:49:26 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -1930,7 +1939,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 831505,
+    "last_mcap": 815255,
     "missing": 0,
     "peak_mcap": 840731,
     "profile": "survivor",
@@ -1945,6 +1954,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "58e1ddb5": {
+    "chain": "solana",
+    "created_ts": 1795654149.519794,
+    "entry_mcap": 207427,
+    "entry_ts": 1795654149.519794,
+    "features": {
+     "age_min": 27.113302906354267,
+     "boosts": 0,
+     "buys_h1": 5206,
+     "buys_h24": 5206,
+     "buys_m5": 423,
+     "change_h1": 454,
+     "change_h24": 454,
+     "change_h6": 454,
+     "change_m5": -2.3,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.2543769421695654,
+     "insiders": 0,
+     "liquidity": 31524.73,
+     "lp_locked_pct": 100,
+     "mcap": 207427,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.6104807928752681,
+     "score": 72,
+     "sells_h1": 2459,
+     "sells_h24": 2459,
+     "sells_m5": 274,
+     "top1": 0.559923365133661,
+     "top10": 4.897366169568481,
+     "top5": 2.550041673849252,
+     "txns_h24": 7665,
+     "vol_h1": 289741.92,
+     "vol_h24": 289741.92,
+     "vol_m5": 1350.19
+    },
+    "id": "58e1ddb5",
+    "last_mcap": 244165,
+    "missing": 0,
+    "peak_mcap": 244165,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "PUMPDOG",
+    "tf": "minute",
+    "token": "73R7L2jLfnweJTXxTiccHMZV6mECaVELPUy3PkHopump",
+    "tp_done": [],
+    "trough_mcap": 206425,
+    "units": 4.676343966793137e-05,
+    "units_left": 4.676343966793137e-05
    },
    "d2aee3c7": {
     "chain": "solana",
@@ -1984,7 +2047,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3149868,
+    "last_mcap": 3100253,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61864,5 +61927,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6794
+ "runs": 6796
 }
