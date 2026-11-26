@@ -360,6 +360,15 @@
    "profile": "migrated",
    "symbol": "MooSom"
   },
+  "solana:BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump": {
+   "count": 1,
+   "first_mcap": 52746,
+   "first_ts": 1795703592.5289032,
+   "last_mcap": 52746,
+   "last_ts": 1795703592.5289032,
+   "profile": "migrated",
+   "symbol": "Irochan"
+  },
   "solana:BYKQkHKMWHidNBLQXgt7NX4PLUtJZRYGLWQYkJzPGenX": {
    "count": 1,
    "first_mcap": 103842,
@@ -703,7 +712,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 14:23:23 UTC",
+ "last_run": "2026-11-26 14:38:23 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2639,7 +2648,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 764689,
+    "last_mcap": 786758,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2654,6 +2663,62 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "c15e74a8": {
+    "chain": "solana",
+    "created_ts": 1795703592.5289207,
+    "entry_mcap": 52746,
+    "entry_ts": 1795703592.5289207,
+    "features": {
+     "age_min": 19.85448665221532,
+     "boosts": 0,
+     "buys_h1": 1583,
+     "buys_h24": 1583,
+     "buys_m5": 310,
+     "change_h1": 83.09,
+     "change_h24": 83.09,
+     "change_h6": 83.09,
+     "change_m5": 9.17,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.10081487254854006,
+     "insiders": 0,
+     "liquidity": 15642.35,
+     "lp_locked_pct": 100,
+     "mcap": 52746,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.29945735471379303,
+     "score": 76,
+     "sells_h1": 1030,
+     "sells_h24": 1030,
+     "sells_m5": 221,
+     "top1": 3.6983680804760666,
+     "top10": 9.65746046419584,
+     "top5": 6.559687283290641,
+     "txns_h24": 2613,
+     "vol_h1": 100630.62,
+     "vol_h24": 100630.62,
+     "vol_m5": 19949.28
+    },
+    "id": "c15e74a8",
+    "last_mcap": 71664,
+    "missing": 0,
+    "peak_mcap": 71664,
+    "profile": "migrated",
+    "realized": 8.948557297235809,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Irochan",
+    "tf": "minute",
+    "token": "BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 50640,
+    "units": 0.0001839002009631062,
+    "units_left": 5.517006028893186e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62519,5 +62584,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6959
+ "runs": 6962
 }
