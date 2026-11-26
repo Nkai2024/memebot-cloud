@@ -414,6 +414,15 @@
    "profile": "migrated",
    "symbol": "CLAWDIA"
   },
+  "solana:BuNeErf9FjL6dgzE74S21Qm9EeBaYMJXSW4A8ihxpump": {
+   "count": 1,
+   "first_mcap": 83532,
+   "first_ts": 1795730555.897482,
+   "last_mcap": 83532,
+   "last_ts": 1795730555.897482,
+   "profile": "migrated",
+   "symbol": "HOLD"
+  },
   "solana:BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi": {
    "count": 1,
    "first_mcap": 167239,
@@ -739,7 +748,7 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 21:52:46 UTC",
+ "last_run": "2026-11-26 22:07:46 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3203,7 +3212,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 848905,
+    "last_mcap": 848041,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3218,6 +3227,62 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "a34f600a": {
+    "chain": "solana",
+    "created_ts": 1795730555.8974998,
+    "entry_mcap": 83532,
+    "entry_ts": 1795730555.8974998,
+    "features": {
+     "age_min": 14.143708797295888,
+     "boosts": 0,
+     "buys_h1": 3819,
+     "buys_h24": 3819,
+     "buys_m5": 768,
+     "change_h1": 189,
+     "change_h24": 189,
+     "change_h6": 189,
+     "change_m5": 20.27,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.30905077679925913,
+     "insiders": 0,
+     "liquidity": 20118.98,
+     "lp_locked_pct": 100,
+     "mcap": 83532,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.195774433443335,
+     "score": 79,
+     "sells_h1": 2881,
+     "sells_h24": 2881,
+     "sells_m5": 549,
+     "top1": 2.3112854750658416,
+     "top10": 15.626641083597828,
+     "top5": 9.521200296180604,
+     "txns_h24": 6700,
+     "vol_h1": 218908.23,
+     "vol_h24": 218908.23,
+     "vol_m5": 42331.53
+    },
+    "id": "a34f600a",
+    "last_mcap": 166473,
+    "missing": 0,
+    "peak_mcap": 166473,
+    "profile": "migrated",
+    "realized": 9.808802525978068,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "HOLD",
+    "tf": "minute",
+    "token": "BuNeErf9FjL6dgzE74S21Qm9EeBaYMJXSW4A8ihxpump",
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 83532,
+    "units": 0.00011612316238088397,
+    "units_left": 3.483694871426519e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63082,5 +63147,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7049
+ "runs": 7052
 }
