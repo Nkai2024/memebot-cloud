@@ -649,7 +649,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 01:14:19 UTC",
+ "last_run": "2026-11-26 01:24:19 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -1939,7 +1939,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 851163,
+    "last_mcap": 849345,
     "missing": 0,
     "peak_mcap": 853168,
     "profile": "survivor",
@@ -1993,7 +1993,7 @@
      "vol_m5": 1350.19
     },
     "id": "58e1ddb5",
-    "last_mcap": 551709,
+    "last_mcap": 344299,
     "missing": 0,
     "peak_mcap": 588648,
     "profile": "migrated",
@@ -2049,7 +2049,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3153533,
+    "last_mcap": 3171136,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61866,7 +61866,6 @@
   "solana:2ndz2hhsxDFgU1sQHi8Qjro7KRrTPgen1NJdUtNDpump": 1795649349.0117238,
   "solana:37corVSMFFrqP3WK7AtMV6yFTGSvjFEB5fWnH1Bcpump": 1795453341.5620263,
   "solana:3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump": 1795313367.5883746,
-  "solana:3ZhsX6y2aEYoiwRFCu7mtwuMWSFH654dhyR2aGRVpump": 1795051243.1226332,
   "solana:3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump": 1795487369.0341556,
   "solana:3fWhdo8bQCamw5ed6yNGdvaru1qS5UVwB6dYp9znpump": 1795205569.4243426,
   "solana:3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump": 1795642148.988534,
@@ -61929,5 +61928,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6801
+ "runs": 6803
 }
