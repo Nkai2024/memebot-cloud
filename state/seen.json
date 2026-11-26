@@ -180,6 +180,15 @@
    "profile": "migrated",
    "symbol": "Wojak"
   },
+  "solana:5qYyTjP1Y2xfSUUayyEfXP5mxxBg1CEKcdPvmYEApump": {
+   "count": 1,
+   "first_mcap": 53992,
+   "first_ts": 1795718856.1007817,
+   "last_mcap": 53992,
+   "last_ts": 1795718856.1007817,
+   "profile": "migrated",
+   "symbol": "Criminul"
+  },
   "solana:67eH4F62kKZ45wfgWMRuu8GNCFP9kN6uFcNvJWBgpump": {
    "count": 1,
    "first_mcap": 96832,
@@ -694,10 +703,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 18:37:46 UTC",
+ "last_run": "2026-11-26 18:47:53 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2808,7 +2817,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 808458,
+    "last_mcap": 789364,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2823,6 +2832,58 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "f59777a4": {
+    "chain": "solana",
+    "created_ts": 1795718856.1008,
+    "entry_mcap": 53992,
+    "entry_ts": 1795718856.1008,
+    "features": {
+     "age_min": 17.877477924029034,
+     "boosts": 0,
+     "buys_h1": 3836,
+     "buys_h24": 3836,
+     "buys_m5": 628,
+     "change_h1": 25.9,
+     "change_h24": 25.9,
+     "change_h6": 25.9,
+     "change_m5": 25.22,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 19594.88,
+     "lp_locked_pct": 100,
+     "mcap": 53992,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 73,
+     "sells_h1": 3206,
+     "sells_h24": 3206,
+     "sells_m5": 524,
+     "top1": 2.9599234260023874,
+     "top10": 22.848762926295425,
+     "top5": 12.862228444784195,
+     "txns_h24": 7042,
+     "vol_h1": 263914.49,
+     "vol_h24": 263914.49,
+     "vol_m5": 36247.87
+    },
+    "id": "f59777a4",
+    "last_mcap": 55712,
+    "missing": 0,
+    "peak_mcap": 63287,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Criminul",
+    "tf": "minute",
+    "token": "5qYyTjP1Y2xfSUUayyEfXP5mxxBg1CEKcdPvmYEApump",
+    "tp_done": [],
+    "trough_mcap": 53992,
+    "units": 0.00017965624536968438,
+    "units_left": 0.00017965624536968438
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62684,5 +62745,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7010
+ "runs": 7012
 }
