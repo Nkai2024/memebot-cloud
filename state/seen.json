@@ -685,7 +685,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 10:14:01 UTC",
+ "last_run": "2026-11-26 10:24:01 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2447,7 +2447,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 780743,
+    "last_mcap": 779240,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2501,7 +2501,7 @@
      "vol_m5": 13204.26
     },
     "id": "6950d505",
-    "last_mcap": 67418,
+    "last_mcap": 47670,
     "missing": 0,
     "peak_mcap": 85126,
     "profile": "migrated",
@@ -2513,7 +2513,7 @@
     "tf": "minute",
     "token": "BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump",
     "tp_done": [],
-    "trough_mcap": 67418,
+    "trough_mcap": 47670,
     "units": 0.0001277088764252047,
     "units_left": 0.0001277088764252047
    }
@@ -62379,5 +62379,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6909
+ "runs": 6911
 }
