@@ -270,15 +270,6 @@
    "profile": "migrated",
    "symbol": "Spidercow"
   },
-  "solana:A4jXnWk1rDRDth6HmDASi45c89n1AguTHivAQPTVpump": {
-   "count": 1,
-   "first_mcap": 932124,
-   "first_ts": 1795046144.108395,
-   "last_mcap": 932124,
-   "last_ts": 1795046144.108395,
-   "profile": "migrated",
-   "symbol": "GTASZN"
-  },
   "solana:ADs7gnpeYvkBLthYhqRcrVTeGSFQuqfYnv3PbS6Bpump": {
    "count": 1,
    "first_mcap": 107666,
@@ -649,10 +640,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-25 23:54:19 UTC",
+ "last_run": "2026-11-26 00:09:20 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -1883,7 +1874,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 822645,
+    "last_mcap": 802038,
     "missing": 0,
     "peak_mcap": 840731,
     "profile": "survivor",
@@ -1935,7 +1926,7 @@
      "vol_m5": 32289.82
     },
     "id": "cecd06ea",
-    "last_mcap": 44581,
+    "last_mcap": 48694,
     "missing": 0,
     "peak_mcap": 68037,
     "profile": "migrated",
@@ -1989,7 +1980,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3163940,
+    "last_mcap": 3116735,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61869,5 +61860,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6785
+ "runs": 6788
 }
