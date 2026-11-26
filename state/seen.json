@@ -721,10 +721,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 19:42:52 UTC",
+ "last_run": "2026-11-26 19:52:46 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -2951,9 +2951,9 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 827746,
+    "last_mcap": 835345,
     "missing": 0,
-    "peak_mcap": 858107,
+    "peak_mcap": 862535,
     "profile": "survivor",
     "realized": 0.0,
     "size": 10,
@@ -3005,7 +3005,7 @@
      "vol_m5": 67716.2
     },
     "id": "4497a79c",
-    "last_mcap": 210935,
+    "last_mcap": 131687,
     "missing": 0,
     "peak_mcap": 210935,
     "profile": "migrated",
@@ -3017,7 +3017,7 @@
     "tf": "minute",
     "token": "HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump",
     "tp_done": [],
-    "trough_mcap": 204221,
+    "trough_mcap": 131687,
     "units": 4.74975639136034e-05,
     "units_left": 4.74975639136034e-05
    }
@@ -62867,6 +62867,7 @@
   "solana:FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump": 1795238462.9469233,
   "solana:FaWEANo8Kz9B415xv3cocE8q5JgghN7CY8FYG4C5pump": 1795616583.4212894,
   "solana:Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": 1795657409.8188086,
+  "solana:FvitVJ528ZCyuy695DoqEGy816rFVafbZ2MSgMw3pump": 1795722455.1626103,
   "solana:G6H8DjYRPomfmG5KrEAMpxoUU2uRLxdeTrkxnSiXpump": 1795202269.4093735,
   "solana:GUtHGr6xcn9e78ew6qY7Jg7foyuAhf67mNBNntn5pump": 1795209169.497737,
   "solana:GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump": 1795479568.9804237,
@@ -62880,5 +62881,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7023
+ "runs": 7025
 }
