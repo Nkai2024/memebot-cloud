@@ -432,6 +432,15 @@
    "profile": "migrated",
    "symbol": "Pnut"
   },
+  "solana:ChYn9ZpCUzrwd8rcpUtr7K7iKgDWUfJijM4xwxBCpump": {
+   "count": 1,
+   "first_mcap": 194614,
+   "first_ts": 1795725755.9466352,
+   "last_mcap": 194614,
+   "last_ts": 1795725755.9466352,
+   "profile": "migrated",
+   "symbol": "Elonmas"
+  },
   "solana:CkwFsrupdFHzo5kYk8b5W47CVx1v5ymzeu6BBoDjpump": {
    "count": 1,
    "first_mcap": 95888,
@@ -721,11 +730,11 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 20:37:46 UTC",
+ "last_run": "2026-11-26 20:47:46 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -3009,7 +3018,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 861740,
+    "last_mcap": 832488,
     "missing": 0,
     "peak_mcap": 863075,
     "profile": "survivor",
@@ -3024,6 +3033,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "2b60ec52": {
+    "chain": "solana",
+    "created_ts": 1795725755.946653,
+    "entry_mcap": 194614,
+    "entry_ts": 1795725755.946653,
+    "features": {
+     "age_min": 26.908811136086783,
+     "boosts": 0,
+     "buys_h1": 1813,
+     "buys_h24": 1813,
+     "buys_m5": 338,
+     "change_h1": 445,
+     "change_h24": 445,
+     "change_h6": 445,
+     "change_m5": 61.36,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.9351897176124532,
+     "insiders": 0,
+     "liquidity": 30440.29,
+     "lp_locked_pct": 100,
+     "mcap": 194614,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.31813403653274336,
+     "score": 80,
+     "sells_h1": 390,
+     "sells_h24": 390,
+     "sells_m5": 79,
+     "top1": 1.1605994167610458,
+     "top10": 10.89603938842198,
+     "top5": 5.599415129848157,
+     "txns_h24": 2203,
+     "vol_h1": 157485.74,
+     "vol_h24": 157485.74,
+     "vol_m5": 25522.83
+    },
+    "id": "2b60ec52",
+    "last_mcap": 201908,
+    "missing": 0,
+    "peak_mcap": 208028,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Elonmas",
+    "tf": "minute",
+    "token": "ChYn9ZpCUzrwd8rcpUtr7K7iKgDWUfJijM4xwxBCpump",
+    "tp_done": [],
+    "trough_mcap": 140961,
+    "units": 4.984225184210797e-05,
+    "units_left": 4.984225184210797e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62887,5 +62950,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7034
+ "runs": 7036
 }
