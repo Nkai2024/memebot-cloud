@@ -748,9 +748,9 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 23:47:09 UTC",
+ "last_run": "2026-11-26 23:57:02 UTC",
  "last_summary": {
-  "alerts": 1,
+  "alerts": 0,
   "checked": 1,
   "rejected_safety": 0
  },
@@ -3272,7 +3272,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 824110,
+    "last_mcap": 828384,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3326,21 +3326,23 @@
      "vol_m5": 48372.24
     },
     "id": "b3996e09",
-    "last_mcap": 149527,
+    "last_mcap": 207244,
     "missing": 0,
-    "peak_mcap": 149527,
+    "peak_mcap": 254716,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.191316942090726,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Vetocat",
     "tf": "minute",
     "token": "9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 149527,
     "units": 6.487122726999137e-05,
-    "units_left": 6.487122726999137e-05
+    "units_left": 1.946136818099741e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63176,6 +63178,7 @@
   "solana:BykEjfKeLzSAen7p41nCHFwenuQ5s4fosPRzJudLpump": 1795528714.5973084,
   "solana:C2As2w55q3V3snKVCyA3nZvmQJSx2NApM5SLK5krpump": 1795200769.4955752,
   "solana:C8S48SdQPgTrxh7Ghf67mfb74y8msUjTtotpTT4Mpump": 1795231862.706479,
+  "solana:CKiuTwHFMXKBaQ4V1WgsYctsdbLeit3wytXRkphzpump": 1795737111.4902968,
   "solana:CUfphqswgDK3VP3FX7CiShVCTdGQneFusYRFViABpump": 1795208269.4709432,
   "solana:CZt7wX37NiJQnDvwdd6JsrDLeX1XDDe7JBZEX296pump": 1795708991.616728,
   "solana:CkwFr1G8EPLLJSnp84PmwjEDRG4yA7bGJvRxRTx5pump": 1795556645.9155152,
@@ -63205,5 +63208,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7072
+ "runs": 7074
 }
