@@ -36,6 +36,15 @@
    "profile": "migrated",
    "symbol": "poorcat"
   },
+  "solana:34J9VrBeJ2dWActyAMpoNBKvoxZCqQz3SivmnnmSTUds": {
+   "count": 1,
+   "first_mcap": 65881,
+   "first_ts": 1795661909.3867798,
+   "last_mcap": 65881,
+   "last_ts": 1795661909.3867798,
+   "profile": "migrated",
+   "symbol": "STUDS"
+  },
   "solana:38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": {
    "count": 1,
    "first_mcap": 1085750,
@@ -631,7 +640,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 02:53:40 UTC",
+ "last_run": "2026-11-26 03:03:40 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2039,7 +2048,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 815633,
+    "last_mcap": 817798,
     "missing": 0,
     "peak_mcap": 853168,
     "profile": "survivor",
@@ -2054,6 +2063,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "66a3a1e6": {
+    "chain": "solana",
+    "created_ts": 1795661909.386798,
+    "entry_mcap": 65881,
+    "entry_ts": 1795661909.386798,
+    "features": {
+     "age_min": 13.236227508385976,
+     "boosts": 0,
+     "buys_h1": 2601,
+     "buys_h24": 2601,
+     "buys_m5": 1129,
+     "change_h1": 127,
+     "change_h24": 127,
+     "change_h6": 127,
+     "change_m5": 39.3,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.16961189568243112,
+     "insiders": 0,
+     "liquidity": 17741.02,
+     "lp_locked_pct": 100,
+     "mcap": 65881,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.3916555945932722,
+     "score": 80,
+     "sells_h1": 1968,
+     "sells_h24": 1968,
+     "sells_m5": 825,
+     "top1": 4.060466304688743,
+     "top10": 17.574649585082913,
+     "top5": 11.568510694521523,
+     "txns_h24": 4569,
+     "vol_h1": 155232.66,
+     "vol_h24": 155232.66,
+     "vol_m5": 70801.73
+    },
+    "id": "66a3a1e6",
+    "last_mcap": 35306,
+    "missing": 0,
+    "peak_mcap": 72254,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "STUDS",
+    "tf": "minute",
+    "token": "34J9VrBeJ2dWActyAMpoNBKvoxZCqQz3SivmnnmSTUds",
+    "tp_done": [],
+    "trough_mcap": 35306,
+    "units": 0.0001472351664364536,
+    "units_left": 0.0001472351664364536
    },
    "d2aee3c7": {
     "chain": "solana",
@@ -2093,7 +2156,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3097409,
+    "last_mcap": 3033921,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61974,5 +62037,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6821
+ "runs": 6823
 }
