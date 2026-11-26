@@ -603,15 +603,6 @@
    "profile": "migrated",
    "symbol": "FIENA"
   },
-  "solana:FtSWWxVmKNXz8ksJxzJJ7BdDWXbQb3vC94J99oyypump": {
-   "count": 1,
-   "first_mcap": 552155,
-   "first_ts": 1795104393.568785,
-   "last_mcap": 552155,
-   "last_ts": 1795104393.568785,
-   "profile": "migrated",
-   "symbol": "LOOSY"
-  },
   "solana:GFmaQAffLD1B4BxJuuQHmqxHqWavaSJGrYFCXQAypump": {
    "count": 1,
    "first_mcap": 149219,
@@ -703,11 +694,11 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 16:03:23 UTC",
+ "last_run": "2026-11-26 16:13:23 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -2699,7 +2690,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 793724,
+    "last_mcap": 773816,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -62580,5 +62571,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6979
+ "runs": 6981
 }
