@@ -658,10 +658,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 04:53:40 UTC",
+ "last_run": "2026-11-26 05:03:41 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2184,7 +2184,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 829612,
+    "last_mcap": 826465,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2238,7 +2238,7 @@
      "vol_m5": 7741.78
     },
     "id": "c06a21f5",
-    "last_mcap": 104015,
+    "last_mcap": 72930,
     "missing": 0,
     "peak_mcap": 116570,
     "profile": "migrated",
@@ -2250,7 +2250,7 @@
     "tf": "minute",
     "token": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump",
     "tp_done": [],
-    "trough_mcap": 83160,
+    "trough_mcap": 67483,
     "units": 9.405969396660395e-05,
     "units_left": 9.405969396660395e-05
    },
@@ -2292,7 +2292,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3051918,
+    "last_mcap": 3083253,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -62117,6 +62117,7 @@
   "solana:3uiodaXi8dg7CBaNHeRTUqhX46k2BCFuYq9iabD4pump": 1795478669.0676444,
   "solana:3wrZTXRbMk3pCXmmNDWqkaowSsxGzhTnmhPTSXYApump": 1795615089.9981072,
   "solana:437T35ficBfJK9N8GH4gWbiHb86AsRJRkQjARd7Ppump": 1795630983.6741436,
+  "solana:4VMwK3shXxsaMbiJ4qtBMMEgi63riezBSWFHfA6Vpump": 1795669109.8676786,
   "solana:4dXAFK3eL6MSmNtxoSni1u9493bJ9wweJDqSRkijpump": 1795216670.6512694,
   "solana:4fT6JSPkK5SxfNwqEkvsVbidLTSGBXsNk3wpAeU1pump": 1795133811.9100442,
   "solana:5CPiu3nmhYWWnj6BfebvMzqqwPUBm8UzBtNGW4cEpump": 1795652049.0504708,
@@ -62172,5 +62173,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6845
+ "runs": 6847
 }
