@@ -342,6 +342,15 @@
    "profile": "migrated",
    "symbol": "Trader"
   },
+  "solana:BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump": {
+   "count": 1,
+   "first_mcap": 103126,
+   "first_ts": 1795667617.1343856,
+   "last_mcap": 103126,
+   "last_ts": 1795667617.1343856,
+   "profile": "migrated",
+   "symbol": "TEEETHY"
+  },
   "solana:BjvD62CeknCCn94ciFN5aHPoNvSmcXvVHr8XonBpump": {
    "count": 1,
    "first_mcap": 174470,
@@ -649,10 +658,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 04:18:40 UTC",
+ "last_run": "2026-11-26 04:33:48 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2175,7 +2184,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 796239,
+    "last_mcap": 816556,
     "missing": 0,
     "peak_mcap": 853168,
     "profile": "survivor",
@@ -2190,6 +2199,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "c06a21f5": {
+    "chain": "solana",
+    "created_ts": 1795667617.1344028,
+    "entry_mcap": 103126,
+    "entry_ts": 1795667617.1344028,
+    "features": {
+     "age_min": 36.889836204051974,
+     "boosts": 0,
+     "buys_h1": 5025,
+     "buys_h24": 5025,
+     "buys_m5": 103,
+     "change_h1": 250,
+     "change_h24": 250,
+     "change_h6": 250,
+     "change_m5": 25.55,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.08506139221482276,
+     "insiders": 0,
+     "liquidity": 21715.84,
+     "lp_locked_pct": 100,
+     "mcap": 103126,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.044991112634575774,
+     "score": 70,
+     "sells_h1": 4478,
+     "sells_h24": 4478,
+     "sells_m5": 79,
+     "top1": 2.4349955417681928,
+     "top10": 14.628704301473348,
+     "top5": 9.954519016083706,
+     "txns_h24": 9503,
+     "vol_h1": 87434.76,
+     "vol_h24": 87434.76,
+     "vol_m5": 7741.78
+    },
+    "id": "c06a21f5",
+    "last_mcap": 103126,
+    "missing": 0,
+    "peak_mcap": 103126,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "TEEETHY",
+    "tf": "minute",
+    "token": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump",
+    "tp_done": [],
+    "trough_mcap": 103126,
+    "units": 9.405969396660395e-05,
+    "units_left": 9.405969396660395e-05
    },
    "d2aee3c7": {
     "chain": "solana",
@@ -2229,7 +2292,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3206908,
+    "last_mcap": 3221677,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -62110,5 +62173,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6838
+ "runs": 6841
 }
