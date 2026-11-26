@@ -748,11 +748,11 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 21:32:46 UTC",
+ "last_run": "2026-11-26 21:42:46 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -3212,7 +3212,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 840461,
+    "last_mcap": 847858,
     "missing": 0,
     "peak_mcap": 863075,
     "profile": "survivor",
@@ -63057,6 +63057,7 @@
   "solana:B4C3Jbueio385X9zH3ezXRLZpuAKJcVcjH2ZaDhapump": 1795201369.4346378,
   "solana:B9RrESDxun2JeBZYZgJUm2cYdFJGEoxkF2RGLB48pump": 1795455741.5791807,
   "solana:BSF5xg7CuxkQWsbJWyHYw2HnuNbQtKybGaNhz9cCpump": 1795296867.4744017,
+  "solana:Bb38n8AVLMh9amo8qtjLvqE8nPtfs8GEsyzg1pC6pump": 1795729354.9888573,
   "solana:BvnzzK6CBRkUz1EwhxVU1nSNYyNRmVovcz2jRg9Rpump": 1795629183.4431384,
   "solana:BykEjfKeLzSAen7p41nCHFwenuQ5s4fosPRzJudLpump": 1795528714.5973084,
   "solana:C2As2w55q3V3snKVCyA3nZvmQJSx2NApM5SLK5krpump": 1795200769.4955752,
@@ -63090,5 +63091,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7045
+ "runs": 7047
 }
