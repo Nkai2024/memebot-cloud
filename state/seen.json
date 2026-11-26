@@ -522,6 +522,15 @@
    "profile": "migrated",
    "symbol": "BONER"
   },
+  "solana:DrBCGJscM3ziBRd2CDt5dV9W1rCVAimVZ78BxrN8pump": {
+   "count": 1,
+   "first_mcap": 91144,
+   "first_ts": 1795720956.2233548,
+   "last_mcap": 91144,
+   "last_ts": 1795720956.2233548,
+   "profile": "migrated",
+   "symbol": "ZBRA"
+  },
   "solana:E2MJUFBMaTH7j21P2HncB96erJ4dM3FPL2W6i8Dpump": {
    "count": 1,
    "first_mcap": 96452,
@@ -703,10 +712,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 19:12:46 UTC",
+ "last_run": "2026-11-26 19:22:53 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2875,7 +2884,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 821483,
+    "last_mcap": 830076,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2890,6 +2899,58 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "691cf0d2": {
+    "chain": "solana",
+    "created_ts": 1795720956.2233725,
+    "entry_mcap": 91144,
+    "entry_ts": 1795720956.2233725,
+    "features": {
+     "age_min": 13.676375714937846,
+     "boosts": 0,
+     "buys_h1": 2049,
+     "buys_h24": 2049,
+     "buys_m5": 537,
+     "change_h1": 103,
+     "change_h24": 103,
+     "change_h6": 103,
+     "change_m5": 54.13,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "insiders": 0,
+     "liquidity": 26125.72,
+     "lp_locked_pct": 100,
+     "mcap": 91144,
+     "n_socials": 2,
+     "n_warn": 0,
+     "score": 80,
+     "sells_h1": 1658,
+     "sells_h24": 1658,
+     "sells_m5": 474,
+     "top1": 3.4349816551145684,
+     "top10": 19.481826209774745,
+     "top5": 12.762241414553618,
+     "txns_h24": 3707,
+     "vol_h1": 112525.93,
+     "vol_h24": 112525.93,
+     "vol_m5": 35634.05
+    },
+    "id": "691cf0d2",
+    "last_mcap": 91144,
+    "missing": 0,
+    "peak_mcap": 91144,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "ZBRA",
+    "tf": "minute",
+    "token": "DrBCGJscM3ziBRd2CDt5dV9W1rCVAimVZ78BxrN8pump",
+    "tp_done": [],
+    "trough_mcap": 91144,
+    "units": 0.00010642499780567014,
+    "units_left": 0.00010642499780567014
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62750,5 +62811,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7017
+ "runs": 7019
 }
