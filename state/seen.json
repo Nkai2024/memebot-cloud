@@ -333,6 +333,15 @@
    "profile": "migrated",
    "symbol": "CI"
   },
+  "solana:BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump": {
+   "count": 1,
+   "first_mcap": 75954,
+   "first_ts": 1795687730.8945436,
+   "last_mcap": 75954,
+   "last_ts": 1795687730.8945436,
+   "profile": "migrated",
+   "symbol": "YEE"
+  },
   "solana:BKSP127UTT12VbipELqWMpLRw744Q36oyhirxC9Wpump": {
    "count": 1,
    "first_mcap": 65722,
@@ -676,7 +685,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 10:04:01 UTC",
+ "last_run": "2026-11-26 10:14:01 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -2438,7 +2447,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 761048,
+    "last_mcap": 780743,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2453,6 +2462,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "6950d505": {
+    "chain": "solana",
+    "created_ts": 1795687730.894593,
+    "entry_mcap": 75954,
+    "entry_ts": 1795687730.894593,
+    "features": {
+     "age_min": 15.727084962526957,
+     "boosts": 0,
+     "buys_h1": 3060,
+     "buys_h24": 3060,
+     "buys_m5": 401,
+     "change_h1": 157,
+     "change_h24": 157,
+     "change_h6": 157,
+     "change_m5": 49.85,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.056452617896571626,
+     "insiders": 0,
+     "liquidity": 19214.75,
+     "lp_locked_pct": 100,
+     "mcap": 75954,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0015028895206385582,
+     "score": 81,
+     "sells_h1": 1433,
+     "sells_h24": 1433,
+     "sells_m5": 246,
+     "top1": 1.0007282453645643,
+     "top10": 7.22410909909844,
+     "top5": 4.122163143628328,
+     "txns_h24": 4493,
+     "vol_h1": 81231.73,
+     "vol_h24": 81231.73,
+     "vol_m5": 13204.26
+    },
+    "id": "6950d505",
+    "last_mcap": 67418,
+    "missing": 0,
+    "peak_mcap": 85126,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "YEE",
+    "tf": "minute",
+    "token": "BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump",
+    "tp_done": [],
+    "trough_mcap": 67418,
+    "units": 0.0001277088764252047,
+    "units_left": 0.0001277088764252047
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62316,5 +62379,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6907
+ "runs": 6909
 }
