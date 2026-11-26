@@ -279,6 +279,15 @@
    "profile": "migrated",
    "symbol": "HELIORA"
   },
+  "solana:9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump": {
+   "count": 1,
+   "first_mcap": 149527,
+   "first_ts": 1795736812.1968668,
+   "last_mcap": 149527,
+   "last_ts": 1795736812.1968668,
+   "profile": "migrated",
+   "symbol": "Vetocat"
+  },
   "solana:9SVj5ZTAL41tqswVNwT1TT9yv3oSHYMYv8zqoHtPpump": {
    "count": 1,
    "first_mcap": 278868,
@@ -739,10 +748,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 23:32:46 UTC",
+ "last_run": "2026-11-26 23:47:09 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3263,7 +3272,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 824980,
+    "last_mcap": 824110,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3278,6 +3287,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "b3996e09": {
+    "chain": "solana",
+    "created_ts": 1795736812.1968827,
+    "entry_mcap": 149527,
+    "entry_ts": 1795736812.1968827,
+    "features": {
+     "age_min": 13.543757470448812,
+     "boosts": 0,
+     "buys_h1": 2736,
+     "buys_h24": 2736,
+     "buys_m5": 870,
+     "change_h1": 360,
+     "change_h24": 360,
+     "change_h6": 360,
+     "change_m5": 4.36,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.7016993089306249,
+     "insiders": 0,
+     "liquidity": 26469.58,
+     "lp_locked_pct": 100,
+     "mcap": 149527,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.3229913422046855,
+     "score": 79,
+     "sells_h1": 423,
+     "sells_h24": 423,
+     "sells_m5": 155,
+     "top1": 2.629143233205308,
+     "top10": 25.359603376967623,
+     "top5": 12.95268688855439,
+     "txns_h24": 3159,
+     "vol_h1": 159179.91,
+     "vol_h24": 159179.91,
+     "vol_m5": 48372.24
+    },
+    "id": "b3996e09",
+    "last_mcap": 149527,
+    "missing": 0,
+    "peak_mcap": 149527,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Vetocat",
+    "tf": "minute",
+    "token": "9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump",
+    "tp_done": [],
+    "trough_mcap": 149527,
+    "units": 6.487122726999137e-05,
+    "units_left": 6.487122726999137e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63142,5 +63205,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7069
+ "runs": 7072
 }
