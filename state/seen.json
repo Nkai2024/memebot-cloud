@@ -180,15 +180,6 @@
    "profile": "migrated",
    "symbol": "GRAUDIA"
   },
-  "solana:6YBCUHCDAQH8JofVU3hbGXg52YxewTs89u2AcjuEpump": {
-   "count": 1,
-   "first_mcap": 78893,
-   "first_ts": 1795053943.8586493,
-   "last_mcap": 78893,
-   "last_ts": 1795053943.8586493,
-   "profile": "migrated",
-   "symbol": "Mabel"
-  },
   "solana:6vdU6tGGSrQy2oDpwfikbs9T2nsP7k2wZVvB7i2npump": {
    "count": 1,
    "first_mcap": 111205,
@@ -631,7 +622,7 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 01:58:40 UTC",
+ "last_run": "2026-11-26 02:08:40 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -1981,7 +1972,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 830977,
+    "last_mcap": 829659,
     "missing": 0,
     "peak_mcap": 853168,
     "profile": "survivor",
@@ -2035,7 +2026,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3145603,
+    "last_mcap": 3194950,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61916,5 +61907,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6810
+ "runs": 6812
 }
