@@ -558,6 +558,15 @@
    "profile": "migrated",
    "symbol": "Copyinu"
   },
+  "solana:GkL4cJLAL3354wLgS6mZJKKUBVzvUY1FUN47zZNgGWEq": {
+   "count": 1,
+   "first_mcap": 125691,
+   "first_ts": 1795661310.675064,
+   "last_mcap": 125691,
+   "last_ts": 1795661310.675064,
+   "profile": "migrated",
+   "symbol": "NETHER"
+  },
   "solana:GqMg4TRt5U5HRK6oeZYwCF1Jz7Ym9MSzWSoFCtFsbzf6": {
    "count": 1,
    "first_mcap": 48979,
@@ -622,10 +631,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 02:43:40 UTC",
+ "last_run": "2026-11-26 02:53:40 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -1932,6 +1941,64 @@
     "trough_mcap": 1415,
     "units": 4.676343966793137e-05,
     "units_left": 0.0
+   },
+   {
+    "chain": "solana",
+    "close_ts": 1795661476.0120604,
+    "created_ts": 1795661310.6750815,
+    "entry_mcap": 125691,
+    "entry_ts": 1795661310.6750815,
+    "features": {
+     "age_min": 28.523524395624797,
+     "boosts": 0,
+     "buys_h1": 2010,
+     "buys_h24": 2010,
+     "buys_m5": 463,
+     "change_h1": 329,
+     "change_h24": 329,
+     "change_h6": 329,
+     "change_m5": 37.61,
+     "creator_pct": 0.0,
+     "dex": "raydium",
+     "first_candle_share": 0.013707773720187243,
+     "insiders": 0,
+     "liquidity": 25768.03,
+     "lp_locked_pct": 99.9900000000014,
+     "mcap": 125691,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.23346768729404233,
+     "score": 77,
+     "sells_h1": 1585,
+     "sells_h24": 1585,
+     "sells_m5": 375,
+     "top1": 3.6322453481530244,
+     "top10": 20.720799243090543,
+     "top5": 14.498454398557264,
+     "txns_h24": 3595,
+     "vol_h1": 148108.21,
+     "vol_h24": 148108.21,
+     "vol_m5": 44731.89
+    },
+    "id": "dbb73196",
+    "last_mcap": 30501,
+    "missing": 0,
+    "peak_mcap": 158445,
+    "pnl": -7.716750531064276,
+    "pnl_pct": -77.16750531064277,
+    "profile": "migrated",
+    "realized": 2.2832494689357232,
+    "reason": "stop loss -50%",
+    "size": 10,
+    "status": "closed",
+    "strategy": "INSTANT",
+    "symbol": "NETHER",
+    "tf": "minute",
+    "token": "GkL4cJLAL3354wLgS6mZJKKUBVzvUY1FUN47zZNgGWEq",
+    "tp_done": [],
+    "trough_mcap": 30501,
+    "units": 7.717338552481879e-05,
+    "units_left": 0.0
    }
   ],
   "last_summary_day": "2026-11-25",
@@ -1972,7 +2039,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 800279,
+    "last_mcap": 815633,
     "missing": 0,
     "peak_mcap": 853168,
     "profile": "survivor",
@@ -2026,7 +2093,7 @@
      "vol_m5": 86659.65
     },
     "id": "d2aee3c7",
-    "last_mcap": 3200554,
+    "last_mcap": 3097409,
     "missing": 0,
     "peak_mcap": 3962616,
     "profile": "survivor",
@@ -61907,5 +61974,5 @@
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047,
   "solana:pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795105592.9681735
  },
- "runs": 6819
+ "runs": 6821
 }
