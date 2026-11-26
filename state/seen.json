@@ -342,15 +342,6 @@
    "profile": "migrated",
    "symbol": "GRAUDIA"
   },
-  "solana:B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": {
-   "count": 1,
-   "first_mcap": 757553,
-   "first_ts": 1795124813.7189147,
-   "last_mcap": 757553,
-   "last_ts": 1795124813.7189147,
-   "profile": "migrated",
-   "symbol": "FIONA"
-  },
   "solana:BAKsQrynzwadyACDMsg3J5R8a4CTvj1u7kEYyjq7pump": {
    "count": 1,
    "first_mcap": 212278,
@@ -748,11 +739,11 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 21:42:46 UTC",
+ "last_run": "2026-11-26 21:52:46 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
-  "rejected_safety": 1
+  "checked": 0,
+  "rejected_safety": 0
  },
  "paper": {
   "closed": [
@@ -3212,9 +3203,9 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 847858,
+    "last_mcap": 848905,
     "missing": 0,
-    "peak_mcap": 863075,
+    "peak_mcap": 896723,
     "profile": "survivor",
     "realized": 0.0,
     "size": 10,
@@ -63091,5 +63082,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7047
+ "runs": 7049
 }
