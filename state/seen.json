@@ -423,6 +423,15 @@
    "profile": "migrated",
    "symbol": "MCAT"
   },
+  "solana:CFX1gH7CKYwqYXrfDkS2MUxJcEhs8PT63DyRA1chpump": {
+   "count": 1,
+   "first_mcap": 277447,
+   "first_ts": 1795726655.9040108,
+   "last_mcap": 277447,
+   "last_ts": 1795726655.9040108,
+   "profile": "migrated",
+   "symbol": "Hoppy"
+  },
   "solana:CKWk8T9stykpugEPkgQMvdfYaH76WFwjL4mZWasfpump": {
    "count": 1,
    "first_mcap": 63199,
@@ -730,10 +739,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 20:47:46 UTC",
+ "last_run": "2026-11-26 20:57:53 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3018,7 +3027,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 832488,
+    "last_mcap": 847471,
     "missing": 0,
     "peak_mcap": 863075,
     "profile": "survivor",
@@ -3072,9 +3081,9 @@
      "vol_m5": 25522.83
     },
     "id": "2b60ec52",
-    "last_mcap": 201908,
+    "last_mcap": 247047,
     "missing": 0,
-    "peak_mcap": 208028,
+    "peak_mcap": 247047,
     "profile": "migrated",
     "realized": 0.0,
     "size": 10,
@@ -3087,6 +3096,60 @@
     "trough_mcap": 140961,
     "units": 4.984225184210797e-05,
     "units_left": 4.984225184210797e-05
+   },
+   "bd812a74": {
+    "chain": "solana",
+    "created_ts": 1795726655.9040291,
+    "entry_mcap": 277447,
+    "entry_ts": 1795726655.9040291,
+    "features": {
+     "age_min": 24.463499593734742,
+     "boosts": 0,
+     "buys_h1": 7975,
+     "buys_h24": 7975,
+     "buys_m5": 1359,
+     "change_h1": 606,
+     "change_h24": 606,
+     "change_h6": 606,
+     "change_m5": 50.94,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.43427887604529064,
+     "insiders": 0,
+     "liquidity": 36872.44,
+     "lp_locked_pct": 100,
+     "mcap": 277447,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.5761955569708234,
+     "score": 77,
+     "sells_h1": 2025,
+     "sells_h24": 2025,
+     "sells_m5": 284,
+     "top1": 1.462762164248579,
+     "top10": 13.815656905046577,
+     "top5": 7.161983078010547,
+     "txns_h24": 10000,
+     "vol_h1": 434717.9,
+     "vol_h24": 434717.9,
+     "vol_m5": 27985.55
+    },
+    "id": "bd812a74",
+    "last_mcap": 174547,
+    "missing": 0,
+    "peak_mcap": 277447,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Hoppy",
+    "tf": "minute",
+    "token": "CFX1gH7CKYwqYXrfDkS2MUxJcEhs8PT63DyRA1chpump",
+    "tp_done": [],
+    "trough_mcap": 174547,
+    "units": 3.496163231175684e-05,
+    "units_left": 3.496163231175684e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62950,5 +63013,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7036
+ "runs": 7038
 }
