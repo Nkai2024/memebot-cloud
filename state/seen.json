@@ -315,6 +315,15 @@
    "profile": "migrated",
    "symbol": "MCAP"
   },
+  "solana:AuVQxjSZt937unfV6ScNca1ZwwqZtjNSq3LfQtv4pump": {
+   "count": 1,
+   "first_mcap": 87811,
+   "first_ts": 1795713512.3418698,
+   "last_mcap": 87811,
+   "last_ts": 1795713512.3418698,
+   "profile": "migrated",
+   "symbol": "Kuro"
+  },
   "solana:B1oGtkaVAVZkdtWV7SXrHnFkcWC1Kd45sYpy6RYTpump": {
    "count": 1,
    "first_mcap": 122315,
@@ -703,10 +712,10 @@
    "symbol": "SIM"
   }
  },
- "last_run": "2026-11-26 17:08:23 UTC",
+ "last_run": "2026-11-26 17:18:43 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -2759,7 +2768,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 788127,
+    "last_mcap": 788990,
     "missing": 0,
     "peak_mcap": 858107,
     "profile": "survivor",
@@ -2774,6 +2783,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "646d60cf": {
+    "chain": "solana",
+    "created_ts": 1795713512.341895,
+    "entry_mcap": 87811,
+    "entry_ts": 1795713512.341895,
+    "features": {
+     "age_min": 19.856034779548644,
+     "boosts": 0,
+     "buys_h1": 3712,
+     "buys_h24": 3712,
+     "buys_m5": 966,
+     "change_h1": 194,
+     "change_h24": 194,
+     "change_h6": 194,
+     "change_m5": 70.12,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.11778500624805649,
+     "insiders": 0,
+     "liquidity": 20316.89,
+     "lp_locked_pct": 100,
+     "mcap": 87811,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.0,
+     "score": 88,
+     "sells_h1": 1837,
+     "sells_h24": 1837,
+     "sells_m5": 508,
+     "top1": 0.835242847476554,
+     "top10": 6.200954049388938,
+     "top5": 3.2766289667874164,
+     "txns_h24": 5549,
+     "vol_h1": 101336.43,
+     "vol_h24": 101336.43,
+     "vol_m5": 28952.28
+    },
+    "id": "646d60cf",
+    "last_mcap": 73313,
+    "missing": 0,
+    "peak_mcap": 87811,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Kuro",
+    "tf": "minute",
+    "token": "AuVQxjSZt937unfV6ScNca1ZwwqZtjNSq3LfQtv4pump",
+    "tp_done": [],
+    "trough_mcap": 69979,
+    "units": 0.00011046452039038388,
+    "units_left": 0.00011046452039038388
    }
   },
   "started_ts": 1795504739.2823005,
@@ -62636,5 +62699,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 6992
+ "runs": 6994
 }
