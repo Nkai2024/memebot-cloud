@@ -802,7 +802,7 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 20:35:03 UTC",
+ "last_run": "2026-11-27 20:45:03 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -4048,7 +4048,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 813611,
+    "last_mcap": 809334,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4102,9 +4102,9 @@
      "vol_m5": 44565.63
     },
     "id": "2c1a53aa",
-    "last_mcap": 101942,
+    "last_mcap": 106490,
     "missing": 0,
-    "peak_mcap": 114700,
+    "peak_mcap": 134024,
     "profile": "migrated",
     "realized": 8.835242912612275,
     "size": 10,
@@ -4158,7 +4158,7 @@
      "vol_m5": 5796.93
     },
     "id": "73a4ef03",
-    "last_mcap": 641727,
+    "last_mcap": 622326,
     "missing": 0,
     "peak_mcap": 680704,
     "profile": "survivor",
@@ -4170,7 +4170,7 @@
     "tf": "hour",
     "token": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
     "tp_done": [],
-    "trough_mcap": 632540,
+    "trough_mcap": 612497,
     "units": 1.478009654298113e-05,
     "units_left": 1.478009654298113e-05
    }
@@ -64040,5 +64040,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7322
+ "runs": 7324
 }
