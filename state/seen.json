@@ -793,11 +793,11 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 18:15:03 UTC",
+ "last_run": "2026-11-27 18:25:03 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
-  "rejected_safety": 0
+  "checked": 1,
+  "rejected_safety": 1
  },
  "paper": {
   "closed": [
@@ -3979,7 +3979,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 813683,
+    "last_mcap": 812779,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -63802,6 +63802,7 @@
   "solana:3wrZTXRbMk3pCXmmNDWqkaowSsxGzhTnmhPTSXYApump": 1795615089.9981072,
   "solana:437T35ficBfJK9N8GH4gWbiHb86AsRJRkQjARd7Ppump": 1795630983.6741436,
   "solana:4VMwK3shXxsaMbiJ4qtBMMEgi63riezBSWFHfA6Vpump": 1795669109.8676786,
+  "solana:4WZLGbAp6oEPxFbDcsfADCo1AgYZkfiteQhtM5iwpump": 1795803591.9227178,
   "solana:4dXAFK3eL6MSmNtxoSni1u9493bJ9wweJDqSRkijpump": 1795216670.6512694,
   "solana:4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump": 1795744911.051869,
   "solana:5CPiu3nmhYWWnj6BfebvMzqqwPUBm8UzBtNGW4cEpump": 1795652049.0504708,
@@ -63814,6 +63815,7 @@
   "solana:7M7yAQmtvo9jJ6TgrMPEj5eXbxFiJCJjqWfQyMQrpump": 1795238162.9169474,
   "solana:7WCR1tjR5XHYn5xX7d6rXPh1B8RrBkLnJnPwN7bxpump": 1795228562.7237017,
   "solana:7j1a6959WYMBwUNVV64NtzwAKfKU8hXC5auJdFHbpump": 1795796991.6904328,
+  "solana:8LX2fFyENqu1R6bmzk461BH3ZPVbmpCpppe1K7Zcpump": 1795803891.8684473,
   "solana:8R7rompcCDEZKGjRRybZt1UrDrZTdmSXqFjDtvSCpump": 1795306167.48333,
   "solana:8n7mSQ8KUqP17AQii1bmWR1wdRhtKe5fDW7yiuLqpump": 1795735055.1135137,
   "solana:92tFJ6CvgCuoS1c34Qy5g3RPVRDmLyHtknMnuoYqpump": 1795796091.6627607,
@@ -63862,5 +63864,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7294
+ "runs": 7296
 }
