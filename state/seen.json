@@ -748,10 +748,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-26 23:57:02 UTC",
+ "last_run": "2026-11-27 00:07:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3272,7 +3272,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 828384,
+    "last_mcap": 826854,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3326,9 +3326,9 @@
      "vol_m5": 48372.24
     },
     "id": "b3996e09",
-    "last_mcap": 207244,
+    "last_mcap": 312386,
     "missing": 0,
-    "peak_mcap": 254716,
+    "peak_mcap": 378047,
     "profile": "migrated",
     "realized": 9.191316942090726,
     "size": 10,
@@ -63208,5 +63208,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7074
+ "runs": 7076
 }
