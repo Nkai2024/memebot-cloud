@@ -766,7 +766,7 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 15:40:42 UTC",
+ "last_run": "2026-11-27 15:50:42 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3772,7 +3772,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 786407,
+    "last_mcap": 807389,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -63651,5 +63651,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7263
+ "runs": 7265
 }
