@@ -252,6 +252,15 @@
    "profile": "migrated",
    "symbol": "Hedge"
   },
+  "solana:7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump": {
+   "count": 1,
+   "first_mcap": 152414,
+   "first_ts": 1795786232.0209658,
+   "last_mcap": 152414,
+   "last_ts": 1795786232.0209658,
+   "profile": "migrated",
+   "symbol": "WINSTON"
+  },
   "solana:7ycjv7RnffKDdLifHuRUDRhBbe3oQk9qp7EvViGshcMr": {
    "count": 1,
    "first_mcap": 74340,
@@ -766,10 +775,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 13:15:42 UTC",
+ "last_run": "2026-11-27 13:30:49 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -3712,7 +3721,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 810190,
+    "last_mcap": 830373,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3727,6 +3736,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "500b5775": {
+    "chain": "solana",
+    "created_ts": 1795786232.0209854,
+    "entry_mcap": 152414,
+    "entry_ts": 1795786232.0209854,
+    "features": {
+     "age_min": 15.574247868855794,
+     "boosts": 0,
+     "buys_h1": 4326,
+     "buys_h24": 4326,
+     "buys_m5": 1085,
+     "change_h1": 405,
+     "change_h24": 405,
+     "change_h6": 405,
+     "change_m5": 11.38,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.049936304869549336,
+     "insiders": 0,
+     "liquidity": 28703.22,
+     "lp_locked_pct": 100,
+     "mcap": 152414,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.012252264351328212,
+     "score": 70,
+     "sells_h1": 3858,
+     "sells_h24": 3858,
+     "sells_m5": 940,
+     "top1": 3.309004946763249,
+     "top10": 22.54138795898869,
+     "top5": 13.996981932762754,
+     "txns_h24": 8184,
+     "vol_h1": 332840.03,
+     "vol_h24": 332840.03,
+     "vol_m5": 79133.6
+    },
+    "id": "500b5775",
+    "last_mcap": 152414,
+    "missing": 0,
+    "peak_mcap": 152414,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "WINSTON",
+    "tf": "minute",
+    "token": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump",
+    "tp_done": [],
+    "trough_mcap": 152414,
+    "units": 6.364244754418885e-05,
+    "units_left": 6.364244754418885e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63518,7 +63581,6 @@
  "rejected": {
   "bsc:0x2D7E500eC0EEFe2cB8688B62CD9f52E427A27777": 1795524526.5781126,
   "bsc:0x2D81A59dF5bEe318d74F47F25c04313443B4f183": 1795637359.8829713,
-  "bsc:0x63D4986C50d441ec2e55a5D6f761dAFBE6eB7777": 1795180679.5123127,
   "bsc:0x64cDF67D3D6A1b096ADCaDC9EF620F4D84147777": 1795767083.194878,
   "bsc:0xCb478EEB24c01697756917ae97e732353175A8A9": 1795706903.6633432,
   "solana:2GiS8L6jzveE7cQ61bjGN6wVn5MS9FcBjarSAMFppump": 1795239962.931726,
@@ -63591,5 +63653,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7234
+ "runs": 7237
 }
