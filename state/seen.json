@@ -243,15 +243,6 @@
    "profile": "migrated",
    "symbol": "PUMPDOG"
   },
-  "solana:7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-   "count": 1,
-   "first_mcap": 90166,
-   "first_ts": 1795206770.7797406,
-   "last_mcap": 90166,
-   "last_ts": 1795206770.7797406,
-   "profile": "migrated",
-   "symbol": "Singularity"
-  },
   "solana:7S8k5qQfP2M48ixDLxDh6AgtwDo92eKxZ7WNmZt7pump": {
    "count": 1,
    "first_mcap": 100107,
@@ -811,7 +802,7 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 20:25:03 UTC",
+ "last_run": "2026-11-27 20:35:03 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -4057,7 +4048,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 798477,
+    "last_mcap": 813611,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4111,21 +4102,23 @@
      "vol_m5": 44565.63
     },
     "id": "2c1a53aa",
-    "last_mcap": 71848,
+    "last_mcap": 101942,
     "missing": 0,
-    "peak_mcap": 85504,
+    "peak_mcap": 114700,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 8.835242912612275,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Fullball",
     "tf": "minute",
     "token": "GdDpHWwrRLDHR2soP75sEtqzDzY1rkATuVszAHv5pump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 49636,
     "units": 0.00011344498502994011,
-    "units_left": 0.00011344498502994011
+    "units_left": 3.4033495508982035e-05
    },
    "73a4ef03": {
     "chain": "solana",
@@ -4165,7 +4158,7 @@
      "vol_m5": 5796.93
     },
     "id": "73a4ef03",
-    "last_mcap": 654104,
+    "last_mcap": 641727,
     "missing": 0,
     "peak_mcap": 680704,
     "profile": "survivor",
@@ -64047,5 +64040,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7320
+ "runs": 7322
 }
