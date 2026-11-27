@@ -748,7 +748,7 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-27 00:07:02 UTC",
+ "last_run": "2026-11-27 00:17:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3272,7 +3272,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 826854,
+    "last_mcap": 827570,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3326,7 +3326,7 @@
      "vol_m5": 48372.24
     },
     "id": "b3996e09",
-    "last_mcap": 312386,
+    "last_mcap": 260277,
     "missing": 0,
     "peak_mcap": 378047,
     "profile": "migrated",
@@ -63208,5 +63208,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7076
+ "runs": 7078
 }
