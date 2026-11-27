@@ -811,10 +811,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-27 22:04:28 UTC",
+ "last_run": "2026-11-27 22:14:28 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -4175,7 +4175,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 789784,
+    "last_mcap": 793857,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4229,7 +4229,7 @@
      "vol_m5": 5796.93
     },
     "id": "73a4ef03",
-    "last_mcap": 493908,
+    "last_mcap": 492145,
     "missing": 0,
     "peak_mcap": 680704,
     "profile": "survivor",
@@ -4241,7 +4241,7 @@
     "tf": "hour",
     "token": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
     "tp_done": [],
-    "trough_mcap": 493908,
+    "trough_mcap": 481703,
     "units": 1.478009654298113e-05,
     "units_left": 1.478009654298113e-05
    },
@@ -4283,7 +4283,7 @@
      "vol_m5": 314974.03
     },
     "id": "971c1cde",
-    "last_mcap": 469499,
+    "last_mcap": 414722,
     "missing": 0,
     "peak_mcap": 867059,
     "profile": "migrated",
@@ -4295,7 +4295,7 @@
     "tf": "minute",
     "token": "GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump",
     "tp_done": [],
-    "trough_mcap": 469499,
+    "trough_mcap": 379274,
     "units": 1.2889217837082943e-05,
     "units_left": 1.2889217837082943e-05
    }
@@ -64165,5 +64165,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7340
+ "runs": 7342
 }
