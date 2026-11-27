@@ -766,10 +766,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-27 01:02:09 UTC",
+ "last_run": "2026-11-27 01:12:03 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3352,9 +3352,9 @@
      "vol_m5": 133506.2
     },
     "id": "1e6ba769",
-    "last_mcap": 1135086,
+    "last_mcap": 2594108,
     "missing": 0,
-    "peak_mcap": 1135086,
+    "peak_mcap": 2630956,
     "profile": "migrated",
     "realized": 8.98831968552975,
     "size": 10,
@@ -3406,7 +3406,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 826547,
+    "last_mcap": 807145,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3460,21 +3460,23 @@
      "vol_m5": 28722.67
     },
     "id": "b448879a",
-    "last_mcap": 44607,
+    "last_mcap": 55943,
     "missing": 0,
-    "peak_mcap": 49988,
+    "peak_mcap": 69299,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.021049093782507,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "CUMASS",
     "tf": "minute",
     "token": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
-    "tp_done": [],
-    "trough_mcap": 44607,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 42453,
     "units": 0.00019404657117708248,
-    "units_left": 0.00019404657117708248
+    "units_left": 5.8213971353124745e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63314,7 +63316,6 @@
   "solana:CZt7wX37NiJQnDvwdd6JsrDLeX1XDDe7JBZEX296pump": 1795708991.616728,
   "solana:CkwFr1G8EPLLJSnp84PmwjEDRG4yA7bGJvRxRTx5pump": 1795556645.9155152,
   "solana:Cp6i5Ka8Gwzzn537KoqLyjQCFX6QBfoAC9WuxEbQpump": 1795560009.422587,
-  "solana:CrJBEGkuaYqtx2W5QHnagg4RL6A2f7bZhiFcssQ5pump": 1795136813.2477472,
   "solana:DMFzUvtfEmE697ZfEDqAXErd9MrBDEs66V5WiRvApump": 1795570823.02183,
   "solana:DTSkmo3sCCKLCh91dJLiWCpwcKtK3yDBZMqZGSV1pump": 1795738910.9948246,
   "solana:EMd4HYWqkQvnmSAor4H44VM4D8ARzcTxsXsYTKazpump": 1795701791.5579357,
@@ -63340,5 +63341,5 @@
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
   "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
  },
- "runs": 7087
+ "runs": 7089
 }
