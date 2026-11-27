@@ -90,15 +90,6 @@
    "profile": "migrated",
    "symbol": "BASKET"
   },
-  "solana:3emn4AZwHpsH8K6rqjsMTeFHJTg4XqdPe9PBHpV3JANJ": {
-   "count": 1,
-   "first_mcap": 55470,
-   "first_ts": 1795137712.373328,
-   "last_mcap": 55470,
-   "last_ts": 1795137712.373328,
-   "profile": "migrated",
-   "symbol": "I"
-  },
   "solana:3reEjCbDFht7LnNdKncQ3vohYDbAMJWXkbzWLSNhpump": {
    "count": 1,
    "first_mcap": 54833,
@@ -757,7 +748,7 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-27 01:22:02 UTC",
+ "last_run": "2026-11-27 01:37:02 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -3403,9 +3394,9 @@
      "vol_m5": 133506.2
     },
     "id": "1e6ba769",
-    "last_mcap": 3886517,
+    "last_mcap": 3923965,
     "missing": 0,
-    "peak_mcap": 3886517,
+    "peak_mcap": 4035867,
     "profile": "migrated",
     "realized": 8.98831968552975,
     "size": 10,
@@ -3457,7 +3448,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 829826,
+    "last_mcap": 829663,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -63332,8 +63323,7 @@
   "solana:H2iscCQ4RiZ5ufu3UTBS2VDrVqbNY8gN7eVSSASBpump": 1795638550.5480163,
   "solana:HMs3u6rx8DSruPMhXL7N2N5hciXTXa49e9LCoj1Apump": 1795216369.5492098,
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
-  "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823,
-  "solana:i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795137710.8233047
+  "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7091
+ "runs": 7094
 }
