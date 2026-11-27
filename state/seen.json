@@ -757,10 +757,10 @@
    "symbol": "NOHR"
   }
  },
- "last_run": "2026-11-27 02:42:02 UTC",
+ "last_run": "2026-11-27 02:52:02 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 1,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -3403,7 +3403,7 @@
      "vol_m5": 133506.2
     },
     "id": "1e6ba769",
-    "last_mcap": 2851354,
+    "last_mcap": 3007741,
     "missing": 0,
     "peak_mcap": 4820654,
     "profile": "migrated",
@@ -3458,7 +3458,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 812341,
+    "last_mcap": 814780,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -3512,21 +3512,23 @@
      "vol_m5": 46068.71
     },
     "id": "d6645e37",
-    "last_mcap": 169179,
+    "last_mcap": 275923,
     "missing": 0,
-    "peak_mcap": 193352,
+    "peak_mcap": 322273,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.191241259593202,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "SpaceXCoin",
     "tf": "minute",
     "token": "G2XqmSc8vJpLLwaLVXUeNkxsrhVT8vQ3Pje8MqeDpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 161703,
     "units": 5.998651849378181e-05,
-    "units_left": 5.998651849378181e-05
+    "units_left": 1.7995955548134548e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -63390,5 +63392,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7107
+ "runs": 7109
 }
