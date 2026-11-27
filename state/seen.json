@@ -4175,7 +4175,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 792678,
+    "last_mcap": 813014,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4229,7 +4229,7 @@
      "vol_m5": 5796.93
     },
     "id": "73a4ef03",
-    "last_mcap": 589502,
+    "last_mcap": 609323,
     "missing": 0,
     "peak_mcap": 680704,
     "profile": "survivor",
@@ -4241,7 +4241,7 @@
     "tf": "hour",
     "token": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump",
     "tp_done": [],
-    "trough_mcap": 578117,
+    "trough_mcap": 578009,
     "units": 1.478009654298113e-05,
     "units_left": 1.478009654298113e-05
    },
@@ -4283,7 +4283,7 @@
      "vol_m5": 314974.03
     },
     "id": "971c1cde",
-    "last_mcap": 543959,
+    "last_mcap": 516023,
     "missing": 0,
     "peak_mcap": 867059,
     "profile": "migrated",
