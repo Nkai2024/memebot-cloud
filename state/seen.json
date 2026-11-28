@@ -829,10 +829,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 00:39:35 UTC",
+ "last_run": "2026-11-28 00:49:28 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 1,
+  "alerts": 0,
+  "checked": 0,
   "rejected_safety": 0
  },
  "paper": {
@@ -4329,12 +4329,10 @@
     "trough_mcap": 51093,
     "units": 0.000129295406680707,
     "units_left": 0.0
-   }
-  ],
-  "last_summary_day": "2026-11-27",
-  "positions": {
-   "094ae37e": {
+   },
+   {
     "chain": "solana",
+    "close_ts": 1795826463.8297515,
     "created_ts": 1795825159.3125412,
     "entry_mcap": 197755,
     "entry_ts": 1795825159.3125412,
@@ -4371,13 +4369,16 @@
      "vol_m5": 91648.24
     },
     "id": "094ae37e",
-    "last_mcap": 226337,
+    "last_mcap": 195002,
     "missing": 0,
     "peak_mcap": 286491,
+    "pnl": 1.4009978958812663,
+    "pnl_pct": 14.009978958812663,
     "profile": "migrated",
-    "realized": 8.617593454021389,
+    "realized": 11.400997895881266,
+    "reason": "moon bag stopped at entry",
     "size": 10,
-    "status": "open",
+    "status": "closed",
     "strategy": "INSTANT",
     "symbol": "STEADY",
     "tf": "minute",
@@ -4385,10 +4386,13 @@
     "tp_done": [
      0
     ],
-    "trough_mcap": 197650,
+    "trough_mcap": 195002,
     "units": 4.905059290536269e-05,
-    "units_left": 1.471517787160881e-05
-   },
+    "units_left": 0.0
+   }
+  ],
+  "last_summary_day": "2026-11-27",
+  "positions": {
    "201428a1": {
     "chain": "solana",
     "created_ts": 1795622884.8669605,
@@ -4425,7 +4429,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 722137,
+    "last_mcap": 721588,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4479,21 +4483,23 @@
      "vol_m5": 88482.45
     },
     "id": "514076e0",
-    "last_mcap": 331894,
+    "last_mcap": 528910,
     "missing": 0,
-    "peak_mcap": 331894,
+    "peak_mcap": 528910,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 10.496001533622179,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "Memeball",
     "tf": "minute",
     "token": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
-    "tp_done": [],
-    "trough_mcap": 331894,
+    "tp_done": [
+     0
+    ],
+    "trough_mcap": 314950,
     "units": 2.9226198726099295e-05,
-    "units_left": 2.9226198726099295e-05
+    "units_left": 8.767859617829788e-06
    }
   },
   "started_ts": 1795504739.2823005,
@@ -64359,5 +64365,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7371
+ "runs": 7373
 }
