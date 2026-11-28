@@ -297,6 +297,15 @@
    "profile": "migrated",
    "symbol": "HELIORA"
   },
+  "solana:9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump": {
+   "count": 1,
+   "first_mcap": 331894,
+   "first_ts": 1795826358.3436916,
+   "last_mcap": 331894,
+   "last_ts": 1795826358.3436916,
+   "profile": "migrated",
+   "symbol": "Memeball"
+  },
   "solana:9J2cy3AfDquDDKqjteYaFSrYEvUAGnb1Qxw8pZQApump": {
    "count": 1,
    "first_mcap": 149527,
@@ -820,9 +829,9 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 00:29:28 UTC",
+ "last_run": "2026-11-28 00:39:35 UTC",
  "last_summary": {
-  "alerts": 0,
+  "alerts": 1,
   "checked": 1,
   "rejected_safety": 0
  },
@@ -4362,7 +4371,7 @@
      "vol_m5": 91648.24
     },
     "id": "094ae37e",
-    "last_mcap": 230943,
+    "last_mcap": 226337,
     "missing": 0,
     "peak_mcap": 286491,
     "profile": "migrated",
@@ -4416,7 +4425,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 731989,
+    "last_mcap": 722137,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4431,6 +4440,60 @@
     "trough_mcap": 674024,
     "units": 1.3437434198131504e-05,
     "units_left": 1.3437434198131504e-05
+   },
+   "514076e0": {
+    "chain": "solana",
+    "created_ts": 1795826358.3437119,
+    "entry_mcap": 331894,
+    "entry_ts": 1795826358.3437119,
+    "features": {
+     "age_min": 12.386205716927845,
+     "boosts": 0,
+     "buys_h1": 4445,
+     "buys_h24": 4445,
+     "buys_m5": 1795,
+     "change_h1": 913,
+     "change_h24": 913,
+     "change_h6": 913,
+     "change_m5": 33.88,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.3352180633363935,
+     "insiders": 0,
+     "liquidity": 40390.9,
+     "lp_locked_pct": 100,
+     "mcap": 331894,
+     "n_socials": 3,
+     "n_warn": 0,
+     "retracement_now": 0.07164163995631746,
+     "score": 79,
+     "sells_h1": 810,
+     "sells_h24": 810,
+     "sells_m5": 364,
+     "top1": 2.478852793353411,
+     "top10": 23.480537841976563,
+     "top5": 12.015236214495712,
+     "txns_h24": 5255,
+     "vol_h1": 244399,
+     "vol_h24": 244399,
+     "vol_m5": 88482.45
+    },
+    "id": "514076e0",
+    "last_mcap": 331894,
+    "missing": 0,
+    "peak_mcap": 331894,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "Memeball",
+    "tf": "minute",
+    "token": "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump",
+    "tp_done": [],
+    "trough_mcap": 331894,
+    "units": 2.9226198726099295e-05,
+    "units_left": 2.9226198726099295e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -64296,5 +64359,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7369
+ "runs": 7371
 }
