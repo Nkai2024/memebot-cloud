@@ -279,6 +279,15 @@
    "profile": "migrated",
    "symbol": "Fly"
   },
+  "solana:8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump": {
+   "count": 1,
+   "first_mcap": 95060,
+   "first_ts": 1795838020.7342339,
+   "last_mcap": 95060,
+   "last_ts": 1795838020.7342339,
+   "profile": "migrated",
+   "symbol": "PRISMEICE"
+  },
   "solana:8ob6WB1VTJasK2r6EjzbMyJ5Zv8bd6jDsTtahvxunyLV": {
    "count": 1,
    "first_mcap": 105186,
@@ -829,10 +838,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 03:43:50 UTC",
+ "last_run": "2026-11-28 03:53:58 UTC",
  "last_summary": {
-  "alerts": 0,
-  "checked": 0,
+  "alerts": 1,
+  "checked": 2,
   "rejected_safety": 0
  },
  "paper": {
@@ -4429,7 +4438,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 736451,
+    "last_mcap": 719585,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4483,7 +4492,7 @@
      "vol_m5": 88482.45
     },
     "id": "514076e0",
-    "last_mcap": 769105,
+    "last_mcap": 654392,
     "missing": 0,
     "peak_mcap": 860173,
     "profile": "migrated",
@@ -4500,6 +4509,60 @@
     "trough_mcap": 314950,
     "units": 2.9226198726099295e-05,
     "units_left": 8.767859617829788e-06
+   },
+   "d13198a9": {
+    "chain": "solana",
+    "created_ts": 1795838020.7342591,
+    "entry_mcap": 95060,
+    "entry_ts": 1795838020.7342591,
+    "features": {
+     "age_min": 31.61870597600937,
+     "boosts": 0,
+     "buys_h1": 5679,
+     "buys_h24": 5679,
+     "buys_m5": 192,
+     "change_h1": 219,
+     "change_h24": 219,
+     "change_h6": 219,
+     "change_m5": -7.03,
+     "creator_pct": 0.0,
+     "dex": "pumpswap",
+     "first_candle_share": 0.0510046182585172,
+     "insiders": 0,
+     "liquidity": 20913.7,
+     "lp_locked_pct": 100,
+     "mcap": 95060,
+     "n_socials": 2,
+     "n_warn": 0,
+     "retracement_now": 0.2473499615870006,
+     "score": 78,
+     "sells_h1": 5106,
+     "sells_h24": 5106,
+     "sells_m5": 162,
+     "top1": 0.6022828137466552,
+     "top10": 5.843711172075501,
+     "top5": 2.958221310168238,
+     "txns_h24": 10785,
+     "vol_h1": 106859.84,
+     "vol_h24": 106859.84,
+     "vol_m5": 16074.98
+    },
+    "id": "d13198a9",
+    "last_mcap": 84930,
+    "missing": 0,
+    "peak_mcap": 106697,
+    "profile": "migrated",
+    "realized": 0.0,
+    "size": 10,
+    "status": "open",
+    "strategy": "INSTANT",
+    "symbol": "PRISMEICE",
+    "tf": "minute",
+    "token": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump",
+    "tp_done": [],
+    "trough_mcap": 84930,
+    "units": 0.0001020408163265306,
+    "units_left": 0.0001020408163265306
    }
   },
   "started_ts": 1795504739.2823005,
@@ -64364,5 +64427,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7408
+ "runs": 7410
 }
