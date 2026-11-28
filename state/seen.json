@@ -666,15 +666,6 @@
    "profile": "migrated",
    "symbol": "Air"
   },
-  "solana:EU9RwR3SHT9tvszyzWPPpxFcgDMgULvz5S8NEz6Mpump": {
-   "count": 1,
-   "first_mcap": 56137,
-   "first_ts": 1795275925.63269,
-   "last_mcap": 56137,
-   "last_ts": 1795275925.63269,
-   "profile": "migrated",
-   "symbol": "FIH"
-  },
   "solana:EWCfhnj8YjPEbvQXEtwkxMT54WhBpZBLQDFncRoypump": {
    "count": 1,
    "first_mcap": 87827,
@@ -847,10 +838,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 15:37:39 UTC",
+ "last_run": "2026-11-28 15:47:39 UTC",
  "last_summary": {
   "alerts": 0,
-  "checked": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -4683,7 +4674,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 732206,
+    "last_mcap": 734828,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4737,7 +4728,7 @@
      "vol_m5": 88482.45
     },
     "id": "514076e0",
-    "last_mcap": 1013368,
+    "last_mcap": 1045768,
     "missing": 0,
     "peak_mcap": 1282726,
     "profile": "migrated",
@@ -64617,5 +64608,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7551
+ "runs": 7553
 }
