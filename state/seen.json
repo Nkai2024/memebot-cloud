@@ -838,10 +838,10 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 03:53:58 UTC",
+ "last_run": "2026-11-28 04:08:50 UTC",
  "last_summary": {
-  "alerts": 1,
-  "checked": 2,
+  "alerts": 0,
+  "checked": 1,
   "rejected_safety": 0
  },
  "paper": {
@@ -4438,7 +4438,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 719585,
+    "last_mcap": 718532,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4492,7 +4492,7 @@
      "vol_m5": 88482.45
     },
     "id": "514076e0",
-    "last_mcap": 654392,
+    "last_mcap": 564405,
     "missing": 0,
     "peak_mcap": 860173,
     "profile": "migrated",
@@ -4548,21 +4548,23 @@
      "vol_m5": 16074.98
     },
     "id": "d13198a9",
-    "last_mcap": 84930,
+    "last_mcap": 215412,
     "missing": 0,
-    "peak_mcap": 106697,
+    "peak_mcap": 215412,
     "profile": "migrated",
-    "realized": 0.0,
+    "realized": 9.206547142857142,
     "size": 10,
     "status": "open",
     "strategy": "INSTANT",
     "symbol": "PRISMEICE",
     "tf": "minute",
     "token": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump",
-    "tp_done": [],
+    "tp_done": [
+     0
+    ],
     "trough_mcap": 84930,
     "units": 0.0001020408163265306,
-    "units_left": 0.0001020408163265306
+    "units_left": 3.061224489795918e-05
    }
   },
   "started_ts": 1795504739.2823005,
@@ -64427,5 +64429,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7410
+ "runs": 7413
 }
