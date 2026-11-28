@@ -829,7 +829,7 @@
    "symbol": "Dragon"
   }
  },
- "last_run": "2026-11-28 03:33:50 UTC",
+ "last_run": "2026-11-28 03:43:50 UTC",
  "last_summary": {
   "alerts": 0,
   "checked": 0,
@@ -4429,7 +4429,7 @@
      "vol_m5": 1825.86
     },
     "id": "201428a1",
-    "last_mcap": 720321,
+    "last_mcap": 736451,
     "missing": 0,
     "peak_mcap": 896723,
     "profile": "survivor",
@@ -4483,9 +4483,9 @@
      "vol_m5": 88482.45
     },
     "id": "514076e0",
-    "last_mcap": 726412,
+    "last_mcap": 769105,
     "missing": 0,
-    "peak_mcap": 793605,
+    "peak_mcap": 860173,
     "profile": "migrated",
     "realized": 10.496001533622179,
     "size": 10,
@@ -64331,6 +64331,7 @@
   "solana:9guNcpbsmqcKJikLNBcn8g5AoG3v9k98zK51KcoXpump": 1795562377.2621741,
   "solana:AGazYig7A8Co6ZapAPterBRLitdiP6AAaWiPH8jWLend": 1795628283.5594406,
   "solana:AGyQW6inE99G3Js63ooQWzAeEeBRu8718zjiSKPBpump": 1795639449.0037467,
+  "solana:APmirEVL5wkbYVZ88TDdr9cwJ6WfRCWuzm4wQWyzpump": 1795837119.172922,
   "solana:AWg6LmGPfqjEqAU8N8wR8mYTbwmkwqMUqzrmggbgpump": 1795478670.3686454,
   "solana:ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump": 1795534715.0201604,
   "solana:B9RrESDxun2JeBZYZgJUm2cYdFJGEoxkF2RGLB48pump": 1795455741.5791807,
@@ -64363,5 +64364,5 @@
   "solana:Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump": 1795615983.3996973,
   "solana:fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump": 1795385816.852823
  },
- "runs": 7406
+ "runs": 7408
 }
